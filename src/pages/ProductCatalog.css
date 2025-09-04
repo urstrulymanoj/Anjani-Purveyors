@@ -94,7 +94,7 @@
 
   /* Ensure there's no excessive gap between cards */
   .cards-container {
-    justify-content: space-between;
+    justify-content: center;
   }
 }
 
