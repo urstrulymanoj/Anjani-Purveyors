@@ -8,7 +8,7 @@ import vegetablesImage from '../assets/veges1.jpg';
 import dryFruitsImage from '../assets/dryFruits2.jpg';
 import spicesImage from '../assets/spices2.png';
 import oilsImage from '../assets/oils2.jpeg';
-import toothPasteImage from '../assets/toothPaste1.png'
+import toothPasteImage from '../assets/toothpaste1.png'
 import soapsImage from '../assets/soaps2.png'
 import handwashImage from '../assets/handwash2.png'
 import bodyLotionImage from '../assets/bodylotions1.png'
