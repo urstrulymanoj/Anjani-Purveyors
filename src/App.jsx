@@ -3,6 +3,7 @@ import Home from './pages/Home'
 import AboutUs from './pages/AboutUs'
 import ContactUs from './pages/ContactUs'
 import ProductCatalog from './pages/ProductCatalog'
+import ProductsPage from './pages/ProductsPage'
 import {Route, createBrowserRouter, createRoutesFromElements, RouterProvider } from 'react-router-dom'
 import RootLayout from './layout/RootLayout'
 
@@ -14,6 +15,7 @@ const App = () => {
     <Route path='/' element={<RootLayout/>}>
         <Route index element={<Home/>}/>
         <Route path='ProductCatalog' element={<ProductCatalog/>}/>
+        <Route path='ProductsPage' element={<ProductsPage/>}/>
         <Route path='AboutUs' element={<AboutUs/>}/>
         <Route path='ContactUs' element={<ContactUs/>}/>
     </Route>

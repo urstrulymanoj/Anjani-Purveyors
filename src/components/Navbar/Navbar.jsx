@@ -27,7 +27,8 @@ const Navbar = () => {
 
       <ul className={mobileMenu?'':'hide-mobile-menu'}>
         <li><NavLink to='/'>Home</NavLink></li>
-        <li><NavLink to='/ProductCatalog'>Products</NavLink></li>
+        <li><NavLink to='/ProductCatalog'>Product Catalog</NavLink></li>
+        <li><NavLink to='/ProductsPage'>Products</NavLink></li>
         <li><NavLink to='/AboutUs'>About Us</NavLink></li>
         <li><NavLink to='/ContactUs'>Contact Us</NavLink></li>
       </ul>

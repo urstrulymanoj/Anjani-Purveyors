@@ -1,7 +1,7 @@
 import React from 'react'
 import './Products.css'
 import product_1 from '../../assets/fruits1.jpg'
-import product_2 from '../../assets/veges1.jpg'
+import product_2 from '../../assets/GrainsCategory.png'
 import product_3 from '../../assets/spices1.png'
 import product_icon_1 from '../../assets/program-icon-1.png'
 import product_icon_2 from '../../assets/program-icon-2.png'

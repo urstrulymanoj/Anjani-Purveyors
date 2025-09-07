@@ -3,11 +3,11 @@ import ProductsHero from '../components/ProductsHero/ProductsHero';
 import './ProductCatalog.css';
 
 // Importing images from the assets folder
-import fruitsImage from '../assets/fruits1.jpg';
-import vegetablesImage from '../assets/veges1.jpg';
-import dryFruitsImage from '../assets/dryFruits2.jpg';
+import fruitsImage from '../assets/FruitCategory.png';
+import snacksImage from '../assets/SnacksCategory.png';
 import spicesImage from '../assets/spices2.png';
 import oilsImage from '../assets/oils2.jpeg';
+import grainsIamge from '../assets/GrainsCategory.png'
 import toothPasteImage from '../assets/toothpaste1.png'
 import soapsImage from '../assets/soaps2.png'
 import handwashImage from '../assets/handwash2.png'
@@ -40,22 +40,17 @@ const ProductCatalog = () => {
           <h2>Food and Grocery</h2>
           <div className="cards-container">
             <Card 
-              title="Fruits" 
-              description="Fresh, juicy fruits" 
+              title="Fruits and Vegetables" 
+              description="Fresh fruits, dry fruits and vegetables" 
               backgroundImage={fruitsImage} 
             />
             <Card 
-              title="Vegetables" 
-              description="Organic and healthy veggies" 
-              backgroundImage={vegetablesImage} 
+              title="Grains and Pulses" 
+              description="Whole Grains, pulses and flours" 
+              backgroundImage={grainsIamge} 
             />
             <Card 
-              title="Dry Fruits" 
-              description="Nutrient-rich dry fruits" 
-              backgroundImage={dryFruitsImage} 
-            />
-            <Card 
-              title="Spices" 
+              title="Tea, Coffee and Spices" 
               description="Premium quality spices" 
               backgroundImage={spicesImage} 
             />
@@ -63,6 +58,11 @@ const ProductCatalog = () => {
               title="Oils" 
               description="Healthy cooking oils" 
               backgroundImage={oilsImage} 
+            />
+            <Card 
+              title="Snacks and Beverages" 
+              description="Munchkins, crisps and cold drinks" 
+              backgroundImage={snacksImage} 
             />
           </div>
         </section>
@@ -110,22 +110,22 @@ const ProductCatalog = () => {
             />
             <Card 
               title="Dishwashing Gels and Bars" 
-              description="Organic and premium soaps" 
+              description="Dishwashing Solutions" 
               backgroundImage={dishwasherImage} 
             />
             <Card 
               title="Toilet and Bathroom Supplies" 
-              description="Germ protection and gentle handwash" 
+              description="Toiletries for clean and fresh washrooms" 
               backgroundImage={toiletCleanerImage} 
             />
             <Card 
               title="Floor and Surface Cleaners" 
-              description="Premium quality body lotions" 
+              description="Cleaning solutions for clean and fresh homes" 
               backgroundImage={surfaceCleanerImage} 
             />
             <Card 
               title="Repelents and Disinfectants" 
-              description="Premium hair care products" 
+              description="Safety solutions against bugs, insects and germs" 
               backgroundImage={repelentsImage} 
             />
           </div>
