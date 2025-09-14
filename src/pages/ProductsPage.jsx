@@ -56,7 +56,7 @@ const ProductsPage = () => {
     handwash: ["All"],
     lotions: ["All", "Moisturizers", "Sunscreens"],
     haircare: ["All", "Shampoos", "Conditioners", "Hair Oils"],
-    laundry: ["All", "Detegrent Soaps", "Detergent Powders", "Detergent Liquids", "Fabric Softners"],
+    laundry: ["All", "Detegrent Soaps", "Detergent Powders", "Detergent Liquids", "Fabric Softeners"],
     dishwash: ["All", "Dishwash Bars", "Dishwash Powders", "Dishwash Gels"],
     bathroom: ["All", "Toilet Cleaners", "Bathroom Cleaners"],
     floorcleaners: ["All", "Floor Cleaners", "Surface Cleaners", "Room Freshners"],

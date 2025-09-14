@@ -1918,5 +1918,1005 @@
     "subCategory": "Shower Gels",
     "description": "Known for its unique gel-based formula, Fiama's shower gels offer a light, bubbly lather. They are popular for their vibrant colors, fresh fragrances, and a refreshing feel on the skin.",
     "imageUrl": "https://placehold.co/400x300/c74e2d/ffffff?text=Fiama+Shower+Gel"
+  },
+  {
+    "id": "handwash_01",
+    "name": "Dettol Original Handwash",
+    "category": "handwash",
+    "subCategory": "Liquid Handwash",
+    "description": "A market leader in India, Dettol is a household name for its trusted germ protection formula. It is widely used and is known for its effectiveness in killing a broad range of germs.",
+    "imageUrl": "https://placehold.co/400x300/a7a7a7/ffffff?text=Dettol+Handwash"
+  },
+  {
+    "id": "handwash_02",
+    "name": "Lifebuoy Total 10 Handwash",
+    "category": "handwash",
+    "subCategory": "Liquid Handwash",
+    "description": "Known for its 'Activ Silver Formula,' Lifebuoy is a popular and affordable option for germ protection. It is especially common in households with children due to its strong anti-bacterial properties.",
+    "imageUrl": "https://placehold.co/400x300/a7211e/ffffff?text=Lifebuoy+Handwash"
+  },
+  {
+    "id": "handwash_03",
+    "name": "Savlon Moisture Shield Handwash",
+    "category": "handwash",
+    "subCategory": "Liquid Handwash",
+    "description": "A well-known antiseptic brand, Savlon's handwash is a strong competitor in the hygiene segment. It's often chosen for its germ-killing efficacy and gentle, moisturizing formula.",
+    "imageUrl": "https://placehold.co/400x300/e6c76e/ffffff?text=Savlon+Handwash"
+  },
+  {
+    "id": "handwash_04",
+    "name": "Godrej Protekt Germ Fighter Handwash",
+    "category": "handwash",
+    "subCategory": "Liquid Handwash",
+    "description": "This handwash is known for being a natural, eco-friendly option that is free of harmful chemicals. It is a popular choice for families looking for a handwash that is gentle on the skin but tough on germs.",
+    "imageUrl": "https://placehold.co/400x300/3e721a/ffffff?text=Godrej+Protekt"
+  },
+  {
+    "id": "handwash_05",
+    "name": "Santoor Handwash",
+    "category": "handwash",
+    "subCategory": "Liquid Handwash",
+    "description": "Santoor is a popular brand, particularly known for its sandalwood and turmeric variants. Its handwashes are valued for their pleasant fragrances and moisturizing properties, making handwashing a more pleasant experience.",
+    "imageUrl": "https://placehold.co/400x300/ffbb00/000000?text=Santoor+Handwash"
+  },
+  {
+    "id": "handwash_06",
+    "name": "Himalaya Pure Hands",
+    "category": "handwash",
+    "subCategory": "Herbal Handwash",
+    "description": "This handwash from Himalaya is based on herbal ingredients like Neem and Tulsi. It is a preferred choice for consumers seeking natural and Ayurvedic options for daily hygiene.",
+    "imageUrl": "https://placehold.co/400x300/6fa04b/ffffff?text=Himalaya+Pure+Hands"
+  },
+  {
+    "id": "handwash_07",
+    "name": "Palmolive Naturals Handwash",
+    "category": "handwash",
+    "subCategory": "Liquid Handwash",
+    "description": "Palmolive offers a range of handwashes with pleasant fragrances and a focus on moisturization. The 'Naturals' line, with ingredients like milk and floral extracts, is popular for its gentle formula.",
+    "imageUrl": "https://placehold.co/400x300/a35f29/ffffff?text=Palmolive"
+  },
+  {
+    "id": "handwash_08",
+    "name": "Dabur Vatika Handwash",
+    "category": "handwash",
+    "subCategory": "Herbal Handwash",
+    "description": "Part of the Dabur family, this handwash is often made with traditional ingredients, appealing to those who trust in the benefits of Ayurveda for health and hygiene.",
+    "imageUrl": "https://placehold.co/400x300/e0e0e0/000000?text=Dabur+Vatika"
+  },
+  {
+    "id": "handwash_09",
+    "name": "Fiama Di Wills Handwash",
+    "category": "handwash",
+    "subCategory": "Liquid Handwash",
+    "description": "Known for its unique gel-based formula and attractive packaging, Fiama handwash is a popular choice among the youth. It focuses on providing a refreshing and scented handwashing experience.",
+    "imageUrl": "https://placehold.co/400x300/c74e2d/ffffff?text=Fiama+Handwash"
+  },
+  {
+    "id": "handwash_10",
+    "name": "Pears Pure & Gentle Handwash",
+    "category": "handwash",
+    "subCategory": "Liquid Handwash",
+    "description": "Extending its popular soap formula, Pears handwash is a gentle, pH-balanced option. It is a go-to for sensitive skin, offering a simple and effective cleansing experience.",
+    "imageUrl": "https://placehold.co/400x300/b8e0e0/000000?text=Pears+Handwash"
+  },
+  {
+    "id": "sanitizer_01",
+    "name": "Dettol Instant Hand Sanitizer",
+    "category": "handwash",
+    "subCategory": "Hand Sanitizer",
+    "description": "One of the most trusted and widely available sanitizers in India. It is known for its high alcohol content and fast-acting germ-killing formula, often used for on-the-go protection.",
+    "imageUrl": "https://placehold.co/400x300/a7a7a7/ffffff?text=Dettol+Sanitizer"
+  },
+  {
+    "id": "sanitizer_02",
+    "name": "Lifebuoy Hand Sanitizer",
+    "category": "handwash",
+    "subCategory": "Hand Sanitizer",
+    "description": "Lifebuoy's sanitizer is a popular, affordable option that provides quick germ protection. It is a staple in many Indian households and a common sight in public places.",
+    "imageUrl": "https://placehold.co/400x300/a7211e/ffffff?text=Lifebuoy+Sanitizer"
+  },
+  {
+    "id": "sanitizer_03",
+    "name": "Savlon Hand Sanitizer",
+    "category": "handwash",
+    "subCategory": "Hand Sanitizer",
+    "description": "Savlon's sanitizer is a go-to for its dual-action of germ protection and gentle care. It is a well-established brand in the antiseptic market and a trusted choice for many families.",
+    "imageUrl": "https://placehold.co/400x300/e6c76e/ffffff?text=Savlon+Sanitizer"
+  },
+  {
+    "id": "sanitizer_04",
+    "name": "Himalaya PureHands",
+    "category": "handwash",
+    "subCategory": "Herbal Hand Sanitizer",
+    "description": "This is a popular herbal and alcohol-based sanitizer. It is known for its natural ingredients like Neem and Coriander, and it is widely chosen by consumers who prefer a product with an herbal touch.",
+    "imageUrl": "https://placehold.co/400x300/6fa04b/ffffff?text=Himalaya+PureHands"
+  },
+  {
+    "id": "sanitizer_05",
+    "name": "Dabur Hand Sanitizer",
+    "category": "handwash",
+    "subCategory": "Herbal Hand Sanitizer",
+    "description": "Dabur offers sanitizers with Ayurvedic formulations, appealing to those who trust in natural and traditional remedies. They are often infused with ingredients like lemon and neem.",
+    "imageUrl": "https://placehold.co/400x300/d44f38/ffffff?text=Dabur+Sanitizer"
+  },
+  {
+    "id": "sanitizer_06",
+    "name": "Boroplus Advanced Anti-Germ Sanitizer",
+    "category": "handwash",
+    "subCategory": "Hand Sanitizer",
+    "description": "Known for its 'Ayurvedic Antiseptic Cream,' Boroplus also offers a sanitizer with a focus on germ protection and skin care. It is formulated with ingredients like Neem and Tulsi.",
+    "imageUrl": "https://placehold.co/400x300/a3927d/ffffff?text=Boroplus+Sanitizer"
+  },
+  {
+    "id": "sanitizer_07",
+    "name": "Godrej Protekt Hand Sanitizer",
+    "category": "handwash",
+    "subCategory": "Hand Sanitizer",
+    "description": "Godrej's sanitizer is an eco-friendly option with a focus on a quick and effective germ-killing formula. It is a reliable choice for daily use, offering hygiene and protection.",
+    "imageUrl": "https://placehold.co/400x300/004a99/ffffff?text=Godrej+Protekt+Sanitizer"
+  },
+  {
+    "id": "sanitizer_08",
+    "name": "Patanjali Hand Sanitizer",
+    "category": "handwash",
+    "subCategory": "Herbal Hand Sanitizer",
+    "description": "As part of the Patanjali brand, this sanitizer is popular for its herbal and Ayurvedic ingredients. It is a cost-effective choice for those who prefer natural products.",
+    "imageUrl": "https://placehold.co/400x300/ffbb00/000000?text=Patanjali+Sanitizer"
+  },
+  {
+    "id": "sanitizer_09",
+    "name": "Purell Advanced Hand Sanitizer",
+    "category": "handwash",
+    "subCategory": "Hand Sanitizer",
+    "description": "A well-known global brand, Purell is popular in India for its professional-grade germ-killing effectiveness. It is a favorite in many homes and offices for its reliability.",
+    "imageUrl": "https://placehold.co/400x300/e0e0e0/000000?text=Purell+Sanitizer"
+  },
+  {
+    "id": "sanitizer_10",
+    "name": "Wipro Softouch Hand Sanitizer",
+    "category": "handwash",
+    "subCategory": "Hand Sanitizer",
+    "description": "Wipro's sanitizer is often chosen for its soft and non-sticky formula. It offers a gentle yet effective way to kill germs and keep hands feeling fresh.",
+    "imageUrl": "https://placehold.co/400x300/f0e6d6/000000?text=Wipro+Softouch"
+  },
+  {
+    "id": "moisturizer_01",
+    "name": "Nivea Soft Light Moisturizer",
+    "category": "lotions",
+    "subCategory": "Moisturizers",
+    "description": "A very popular and trusted moisturizer known for its non-greasy formula. It is infused with Vitamin E and Jojoba Oil, making it a go-to choice for all skin types and for daily use, especially during the summer.",
+    "imageUrl": "https://placehold.co/400x300/a3927d/ffffff?text=Nivea+Soft"
+  },
+  {
+    "id": "moisturizer_02",
+    "name": "Lakmé Peach Milk Moisturizer",
+    "category": "lotions",
+    "subCategory": "Moisturizers",
+    "description": "A classic face moisturizer that is a staple in many Indian households. It is known for its blend of peaches and milk, providing a light, smooth texture and a pleasant fragrance, ideal for daily application.",
+    "imageUrl": "https://placehold.co/400x300/e6c76e/ffffff?text=Lakme+Peach+Milk"
+  },
+  {
+    "id": "moisturizer_03",
+    "name": "Pond's Light Moisturizer",
+    "category": "lotions",
+    "subCategory": "Moisturizers",
+    "description": "A well-known lightweight, non-oily moisturizer with Vitamin E and Glycerin. It is widely used and provides hydration without a sticky feel, making it suitable for all seasons.",
+    "imageUrl": "https://placehold.co/400x300/b8e0e0/000000?text=Pond's+Moisturizer"
+  },
+  {
+    "id": "moisturizer_04",
+    "name": "Himalaya Herbals Nourishing Skin Cream",
+    "category": "lotions",
+    "subCategory": "Moisturizers",
+    "description": "This cream is known for its herbal and natural ingredients like Aloe Vera and Winter Cherry. It's a popular choice for those seeking a product that provides deep hydration and is free from harsh chemicals.",
+    "imageUrl": "https://placehold.co/400x300/6fa04b/ffffff?text=Himalaya+Skin+Cream"
+  },
+  {
+    "id": "moisturizer_05",
+    "name": "Vaseline Intensive Care",
+    "category": "lotions",
+    "subCategory": "Moisturizers",
+    "description": "A go-to body lotion for a very long time. It is a highly trusted brand for its deep moisturizing properties, often used to combat dry skin, especially during the winter months.",
+    "imageUrl": "https://placehold.co/400x300/4a2924/ffffff?text=Vaseline+Lotion"
+  },
+  {
+    "id": "sunscreen_01",
+    "name": "Lotus Herbals Safe Sun 3-in-1 Matte Look Daily Sunscreen",
+    "category": "lotions",
+    "subCategory": "Sunscreens",
+    "description": "A very popular Indian brand known for its herbal products. This sunscreen is a favorite for its matte finish, which makes it suitable for oily and combination skin types in India's humid climate.",
+    "imageUrl": "https://placehold.co/400x300/e6c76e/ffffff?text=Lotus+Sunscreen"
+  },
+  {
+    "id": "sunscreen_02",
+    "name": "Neutrogena Ultra Sheer Dry-Touch Sunblock",
+    "category": "lotions",
+    "subCategory": "Sunscreens",
+    "description": "A globally recognized sunscreen that is highly popular in India for its dry-touch and non-greasy formula. It provides broad-spectrum protection and is a go-to for daily sun protection.",
+    "imageUrl": "https://placehold.co/400x300/a3927d/ffffff?text=Neutrogena+Sunscreen"
+  },
+  {
+    "id": "sunscreen_03",
+    "name": "Mamaearth Ultra Light Indian Sunscreen",
+    "category": "lotions",
+    "subCategory": "Sunscreens",
+    "description": "A brand that has gained rapid popularity with new-age consumers, known for its natural, toxin-free products. This sunscreen is formulated specifically for Indian skin and weather conditions, offering a lightweight feel.",
+    "imageUrl": "https://placehold.co/400x300/d44f38/ffffff?text=Mamaearth+Sunscreen"
+  },
+  {
+    "id": "sunscreen_04",
+    "name": "Biotique Bio Sandalwood Sunscreen",
+    "category": "lotions",
+    "subCategory": "Sunscreens",
+    "description": "A well-known Ayurvedic sunscreen from Biotique, infused with sandalwood and other natural ingredients. It is a popular choice for those who prefer herbal and traditional skincare remedies for sun protection.",
+    "imageUrl": "https://placehold.co/400x300/a35f29/ffffff?text=Biotique+Sunscreen"
+  },
+  {
+    "id": "sunscreen_05",
+    "name": "Lakmé Sun Expert",
+    "category": "lotions",
+    "subCategory": "Sunscreens",
+    "description": "A widely available and affordable sunscreen brand. It is a popular choice for daily use, offering protection against UVA and UVB rays while also providing a base for makeup.",
+    "imageUrl": "https://placehold.co/400x300/f0e6d6/000000?text=Lakme+Sunscreen"
+  },
+  {
+    "id": "shampoo_01",
+    "name": "Head & Shoulders",
+    "category": "haircare",
+    "subCategory": "Shampoos",
+    "description": "A global leader in anti-dandruff shampoos, it is a go-to brand in India for people dealing with dandruff and scalp issues. It is known for its effectiveness and a range of variants.",
+    "imageUrl": "https://placehold.co/400x300/a7a7a7/ffffff?text=Head+%26+Shoulders"
+  },
+  {
+    "id": "shampoo_02",
+    "name": "Dove Hair Therapy",
+    "category": "haircare",
+    "subCategory": "Shampoos",
+    "description": "Known for its moisturizing properties, Dove shampoos are popular for their ability to combat dryness and frizz. They are a staple for those seeking soft, smooth hair.",
+    "imageUrl": "https://placehold.co/400x300/f0e6d6/000000?text=Dove+Shampoo"
+  },
+  {
+    "id": "shampoo_03",
+    "name": "Clinic Plus",
+    "category": "haircare",
+    "subCategory": "Shampoos",
+    "description": "An iconic and very affordable shampoo brand in India, often sold in sachets. It is a family favorite for its basic cleansing properties and is widely used across the country.",
+    "imageUrl": "https://placehold.co/400x300/e6c76e/ffffff?text=Clinic+Plus"
+  },
+  {
+    "id": "shampoo_04",
+    "name": "Himalaya Anti-Hair Fall",
+    "category": "haircare",
+    "subCategory": "Shampoos",
+    "description": "Himalaya's shampoos are a popular choice for consumers who prefer herbal products. The anti-hair fall variant is widely used for its natural ingredients like Bhringaraja and Palasha.",
+    "imageUrl": "https://placehold.co/400x300/6fa04b/ffffff?text=Himalaya+Shampoo"
+  },
+  {
+    "id": "shampoo_05",
+    "name": "Sunslik Thick & Long",
+    "category": "haircare",
+    "subCategory": "Shampoos",
+    "description": "Sunsilk is a brand that focuses on specific hair concerns. The 'Thick & Long' variant, co-created with a hair expert, is a popular choice for those looking to add volume and strength to their hair.",
+    "imageUrl": "https://placehold.co/400x300/ff7f00/ffffff?text=Sunsilk+Shampoo"
+  },
+  {
+    "id": "conditioner_01",
+    "name": "Dove Hair Therapy Conditioner",
+    "category": "haircare",
+    "subCategory": "Conditioners",
+    "description": "A top-selling conditioner that provides deep nourishment and detangling. It is widely used to achieve smooth, soft, and manageable hair, often paired with Dove shampoos.",
+    "imageUrl": "https://placehold.co/400x300/f0e6d6/000000?text=Dove+Conditioner"
+  },
+  {
+    "id": "conditioner_02",
+    "name": "L'Oréal Paris Dream Lengths Conditioner",
+    "category": "haircare",
+    "subCategory": "Conditioners",
+    "description": "A very popular conditioner for people with long hair. It is known for its ability to detangle hair and protect it from damage, helping maintain hair length.",
+    "imageUrl": "https://placehold.co/400x300/a7a7a7/ffffff?text=L'Oreal+Conditioner"
+  },
+  {
+    "id": "conditioner_03",
+    "name": "TRESemmé Keratin Smooth Conditioner",
+    "category": "haircare",
+    "subCategory": "Conditioners",
+    "description": "This salon-quality conditioner is a popular choice for people looking for a keratin treatment at home. It is known for its ability to control frizz and straighten hair.",
+    "imageUrl": "https://placehold.co/400x300/8d8c91/ffffff?text=TRESemme+Conditioner"
+  },
+  {
+    "id": "conditioner_04",
+    "name": "Sunsilk Perfect Straight Conditioner",
+    "category": "haircare",
+    "subCategory": "Conditioners",
+    "description": "Sunsilk's conditioner for straight hair is a go-to for many. It is known for its ability to keep hair straight and smooth, even after washing, and is a staple in many households.",
+    "imageUrl": "https://placehold.co/400x300/ff7f00/ffffff?text=Sunsilk+Conditioner"
+  },
+  {
+    "id": "conditioner_05",
+    "name": "Pantene Advanced Hair Fall Solution Conditioner",
+    "category": "haircare",
+    "subCategory": "Conditioners",
+    "description": "Pantene is a well-known name in hair care. This conditioner is often chosen for its ability to strengthen hair and reduce hair fall, providing nourishment from root to tip.",
+    "imageUrl": "https://placehold.co/400x300/004a99/ffffff?text=Pantene+Conditioner"
+  },
+  {
+    "id": "hairoil_01",
+    "name": "Parachute Coconut Hair Oil",
+    "category": "haircare",
+    "subCategory": "Hair Oils",
+    "description": "An undisputed leader and an iconic brand in the Indian hair oil market. It is a staple in every Indian household, known for its pure coconut oil content and a symbol of traditional hair care.",
+    "imageUrl": "https://placehold.co/400x300/a35f29/ffffff?text=Parachute+Coconut+Oil"
+  },
+  {
+    "id": "hairoil_02",
+    "name": "Dabur Amla Hair Oil",
+    "category": "haircare",
+    "subCategory": "Hair Oils",
+    "description": "Dabur Amla is a classic hair oil known for its nourishing properties due to the inclusion of Amla (Indian gooseberry). It is a trusted brand for strengthening hair and preventing graying.",
+    "imageUrl": "https://placehold.co/400x300/6fa04b/ffffff?text=Dabur+Amla+Hair+Oil"
+  },
+  {
+    "id": "hairoil_03",
+    "name": "Bajaj Almond Drops Hair Oil",
+    "category": "haircare",
+    "subCategory": "Hair Oils",
+    "description": "Known for its light, non-sticky formula and the goodness of almonds, this hair oil is a popular choice for those who prefer a less greasy feel while still getting nourishment.",
+    "imageUrl": "https://placehold.co/400x300/8c4e1f/ffffff?text=Bajaj+Almond+Drops"
+  },
+  {
+    "id": "hairoil_04",
+    "name": "Navratna Oil",
+    "category": "haircare",
+    "subCategory": "Hair Oils",
+    "description": "A cooling hair oil with a blend of nine Ayurvedic herbs. It is famous for providing a cooling sensation and is often used to relieve stress and headaches, making it a popular choice for head massages.",
+    "imageUrl": "https://placehold.co/400x300/b8e0e0/000000?text=Navratna+Oil"
+  },
+  {
+    "id": "hairoil_05",
+    "name": "Indulekha Bringha Oil",
+    "category": "haircare",
+    "subCategory": "Hair Oils",
+    "description": "A well-known Ayurvedic hair oil that has gained popularity for its focus on hair fall and hair growth. It comes with a unique comb-like cap for easy and direct application to the scalp.",
+    "imageUrl": "https://placehold.co/400x300/4a2924/ffffff?text=Indulekha+Oil"
+  },
+  {
+    "id": "detergent_soap_01",
+    "name": "Rin Advanced Bar",
+    "category": "laundry",
+    "subCategory": "Detergent Soaps",
+    "description": "Rin is a very popular detergent bar known for its 'Whiteness' claim. It is widely used for pre-treating clothes and for handwashing, offering effective stain removal at an affordable price.",
+    "imageUrl": "https://placehold.co/400x300/a7211e/ffffff?text=Rin+Bar"
+  },
+  {
+    "id": "detergent_soap_02",
+    "name": "Surf Excel Bar",
+    "category": "laundry",
+    "subCategory": "Detergent Soaps",
+    "description": "A well-known brand for its powerful stain removal. The Surf Excel bar is often used for tough stains on collars and cuffs before washing, a staple in many Indian homes.",
+    "imageUrl": "https://placehold.co/400x300/e6c76e/ffffff?text=Surf+Excel+Bar"
+  },
+  {
+    "id": "detergent_soap_03",
+    "name": "Ghari Detergent Bar",
+    "category": "laundry",
+    "subCategory": "Detergent Soaps",
+    "description": "A popular homegrown brand, Ghari is known for its strong cleaning power and value for money. It is widely used, particularly in semi-urban and rural areas.",
+    "imageUrl": "https://placehold.co/400x300/ffbb00/000000?text=Ghari+Bar"
+  },
+  {
+    "id": "detergent_soap_04",
+    "name": "Wheel Detergent Bar",
+    "category": "laundry",
+    "subCategory": "Detergent Soaps",
+    "description": "Wheel is a highly affordable detergent bar that is a household name in India. It is a common choice for daily washing and is known for its ability to provide a clean wash at a low cost.",
+    "imageUrl": "https://placehold.co/400x300/b8e0e0/000000?text=Wheel+Bar"
+  },
+  {
+    "id": "detergent_soap_05",
+    "name": "Nirma Super",
+    "category": "laundry",
+    "subCategory": "Detergent Soaps",
+    "description": "Nirma's detergent bar is a classic and very well-known product, particularly remembered for its catchy jingle. It has been a trusted brand for generations for its effective cleaning.",
+    "imageUrl": "https://placehold.co/400x300/a7a7a7/ffffff?text=Nirma+Bar"
+  },
+  {
+    "id": "detergent_powder_01",
+    "name": "Surf Excel Matic",
+    "category": "laundry",
+    "subCategory": "Detergent Powders",
+    "description": "A leading detergent powder brand in India, known for its superior stain removal and a popular choice for machine washing. It is widely used in both top-load and front-load washing machines.",
+    "imageUrl": "https://placehold.co/400x300/e6c76e/ffffff?text=Surf+Excel+Matic"
+  },
+  {
+    "id": "detergent_powder_02",
+    "name": "Ariel Matic",
+    "category": "laundry",
+    "subCategory": "Detergent Powders",
+    "description": "Ariel is a major competitor to Surf Excel, known for its excellent cleaning performance and for being tough on stains. It is a go-to for those who want a premium wash for their clothes.",
+    "imageUrl": "https://placehold.co/400x300/a7a7a7/ffffff?text=Ariel+Matic"
+  },
+  {
+    "id": "detergent_powder_03",
+    "name": "Tide Plus",
+    "category": "laundry",
+    "subCategory": "Detergent Powders",
+    "description": "Tide is a globally recognized detergent brand that has a strong presence in India. It is a popular choice for its good cleaning power and pleasant fragrance.",
+    "imageUrl": "https://placehold.co/400x300/004a99/ffffff?text=Tide+Plus"
+  },
+  {
+    "id": "detergent_powder_04",
+    "name": "Ghadi Detergent Powder",
+    "category": "laundry",
+    "subCategory": "Detergent Powders",
+    "description": "The powder version of the popular Ghari bar, this detergent is a top-selling brand in India, especially for its affordability and strong cleaning performance.",
+    "imageUrl": "https://placehold.co/400x300/ffbb00/000000?text=Ghadi+Powder"
+  },
+  {
+    "id": "detergent_powder_05",
+    "name": "Rin Power White",
+    "category": "laundry",
+    "subCategory": "Detergent Powders",
+    "description": "Rin is a trusted brand for its ability to whiten clothes. This detergent powder is a common choice for washing white garments and for its good lathering ability.",
+    "imageUrl": "https://placehold.co/400x300/a7211e/ffffff?text=Rin+Powder"
+  },
+  {
+    "id": "detergent_liquid_01",
+    "name": "Surf Excel Matic Liquid",
+    "category": "laundry",
+    "subCategory": "Detergent Liquids",
+    "description": "The liquid version of the popular powder, this is a go-to for machine washing. It is known for dissolving quickly, leaving no residue, and being gentle on clothes.",
+    "imageUrl": "https://placehold.co/400x300/e6c76e/ffffff?text=Surf+Excel+Liquid"
+  },
+  {
+    "id": "detergent_liquid_02",
+    "name": "Ariel Matic Liquid",
+    "category": "laundry",
+    "subCategory": "Detergent Liquids",
+    "description": "Ariel's liquid detergent is a top choice for its superior cleaning performance and its ability to remove tough stains in a single wash, especially in washing machines.",
+    "imageUrl": "https://placehold.co/400x300/a7a7a7/ffffff?text=Ariel+Liquid"
+  },
+  {
+    "id": "detergent_liquid_03",
+    "name": "Godrej Ezee",
+    "category": "laundry",
+    "subCategory": "Detergent Liquids",
+    "description": "A well-known brand specifically for washing delicate and woolen clothes. It is a staple in Indian households for its gentle formula that prevents shrinking and fading.",
+    "imageUrl": "https://placehold.co/400x300/004a99/ffffff?text=Godrej+Ezee"
+  },
+  {
+    "id": "detergent_liquid_04",
+    "name": "Genteel",
+    "category": "laundry",
+    "subCategory": "Detergent Liquids",
+    "description": "A popular liquid detergent known for its soft and gentle formula. It is widely used for washing delicate fabrics like silk and wool, and for its pleasant fragrance.",
+    "imageUrl": "https://placehold.co/400x300/b8e0e0/000000?text=Genteel"
+  },
+  {
+    "id": "detergent_liquid_05",
+    "name": "Vanish",
+    "category": "laundry",
+    "subCategory": "Detergent Liquids",
+    "description": "While primarily a stain remover, Vanish liquid is a very popular addition to regular laundry for a powerful boost. It is used to get rid of tough stains and restore the brightness of clothes.",
+    "imageUrl": "https://placehold.co/400x300/ff7f00/ffffff?text=Vanish"
+  },
+  {
+    "id": "fabric_softener_01",
+    "name": "Comfort Fabric Conditioner",
+    "category": "laundry",
+    "subCategory": "Fabric Softeners",
+    "description": "Comfort is the most widely used fabric conditioner in India. It is known for its ability to make clothes soft, fragrant, and easy to iron, and is an essential for machine washing.",
+    "imageUrl": "https://placehold.co/400x300/8d8c91/ffffff?text=Comfort"
+  },
+  {
+    "id": "fabric_softener_02",
+    "name": "Godrej Ezee Fabric Softener",
+    "category": "laundry",
+    "subCategory": "Fabric Softeners",
+    "description": "From the makers of the gentle liquid detergent, Godrej Ezee also offers a fabric softener that is a popular choice for adding a soft touch and a pleasant fragrance to delicate clothes.",
+    "imageUrl": "https://placehold.co/400x300/3e721a/ffffff?text=Ezee+Softener"
+  },
+  {
+    "id": "fabric_softener_03",
+    "name": "Downy Fabric Softener",
+    "category": "laundry",
+    "subCategory": "Fabric Softeners",
+    "description": "A globally recognized brand, Downy has a growing presence in the Indian market. It is known for its long-lasting fragrance and its ability to reduce wrinkles in clothes.",
+    "imageUrl": "https://placehold.co/400x300/a35f29/ffffff?text=Downy"
+  },
+  {
+    "id": "fabric_softener_04",
+    "name": "Safewash Fabric Softener",
+    "category": "laundry",
+    "subCategory": "Fabric Softeners",
+    "description": "Safewash offers a fabric softener that is popular for its gentle, no-chemical formula. It's often used by those who prefer a more natural and mild product for their clothes.",
+    "imageUrl": "https://placehold.co/400x300/4a2924/ffffff?text=Safewash"
+  },
+  {
+    "id": "fabric_softener_05",
+    "name": "Vanish Liquid Fabric Softener",
+    "category": "laundry",
+    "subCategory": "Fabric Softeners",
+    "description": "Vanish offers a fabric softener as a complementary product to its stain removers. It is used to give a final touch of softness and fragrance to clothes after a deep clean.",
+    "imageUrl": "https://placehold.co/400x300/ffbb00/000000?text=Vanish+Softener"
+  },
+  {
+    "id": "dishwash_bar_01",
+    "name": "Vim Bar",
+    "category": "dishwash",
+    "subCategory": "Dishwash Bars",
+    "description": "An iconic and a very popular dishwashing bar, Vim is a market leader in India. It is known for its quick and effective grease-cutting power, with a long-lasting formula that's a staple in most homes.",
+    "imageUrl": "https://placehold.co/400x300/e6c76e/ffffff?text=Vim+Bar"
+  },
+  {
+    "id": "dishwash_bar_02",
+    "name": "Exo Bar",
+    "category": "dishwash",
+    "subCategory": "Dishwash Bars",
+    "description": "Exo is a strong competitor to Vim, known for its pleasant lemon fragrance and tough stain-removing properties. It is a well-established brand and a common sight in Indian kitchens.",
+    "imageUrl": "https://placehold.co/400x300/ffbb00/000000?text=Exo+Bar"
+  },
+  {
+    "id": "dishwash_bar_03",
+    "name": "Pril Bar",
+    "category": "dishwash",
+    "subCategory": "Dishwash Bars",
+    "description": "Pril is a popular dishwash bar that focuses on gentle cleaning. It is known for being effective on grease while being soft on hands, making it a preferred choice for many.",
+    "imageUrl": "https://placehold.co/400x300/a7a7a7/ffffff?text=Pril+Bar"
+  },
+  {
+    "id": "dishwash_bar_04",
+    "name": "Nirma Bar",
+    "category": "dishwash",
+    "subCategory": "Dishwash Bars",
+    "description": "A well-known and very affordable dishwash bar from the Nirma brand. It is a go-to option for many due to its low cost and reliable performance in daily dishwashing.",
+    "imageUrl": "https://placehold.co/400x300/a7211e/ffffff?text=Nirma+Bar"
+  },
+  {
+    "id": "dishwash_bar_05",
+    "name": "Odopic Bar",
+    "category": "dishwash",
+    "subCategory": "Dishwash Bars",
+    "description": "Odopic is a traditional dishwash bar that is trusted for its powerful cleaning action. It is often used for scrubbing tough stains on utensils and is a legacy brand in the market.",
+    "imageUrl": "https://placehold.co/400x300/4a2924/ffffff?text=Odopic+Bar"
+  },
+  {
+    "id": "dishwash_powder_01",
+    "name": "Vim Powder",
+    "category": "dishwash",
+    "subCategory": "Dishwash Powders",
+    "description": "The powder version of the popular Vim bar, it is widely used for its powerful scouring action. It is a common choice for scrubbing metal utensils and for tackling stubborn food residue.",
+    "imageUrl": "https://placehold.co/400x300/e6c76e/ffffff?text=Vim+Powder"
+  },
+  {
+    "id": "dishwash_powder_02",
+    "name": "Nirma Powder",
+    "category": "dishwash",
+    "subCategory": "Dishwash Powders",
+    "description": "Nirma's dishwash powder is a very popular and affordable choice. It is a staple in many households, especially for its reliable cleaning power and effective removal of grime from utensils.",
+    "imageUrl": "https://placehold.co/400x300/a7211e/ffffff?text=Nirma+Powder"
+  },
+  {
+    "id": "dishwash_powder_03",
+    "name": "Pitambari Shining Powder",
+    "category": "dishwash",
+    "subCategory": "Dishwash Powders",
+    "description": "This is a specialized powder primarily used for polishing and cleaning brass, copper, and other metal utensils. It's a must-have in many homes for maintaining the shine of traditional kitchenware.",
+    "imageUrl": "https://placehold.co/400x300/ffbb00/000000?text=Pitambari+Powder"
+  },
+  {
+    "id": "dishwash_powder_04",
+    "name": "Odopic Powder",
+    "category": "dishwash",
+    "subCategory": "Dishwash Powders",
+    "description": "A well-known and trusted brand, Odopic's powder is valued for its effective scrubbing power. It is a classic choice for deep cleaning utensils and removing tough, baked-on stains.",
+    "imageUrl": "https://placehold.co/400x300/4a2924/ffffff?text=Odopic+Powder"
+  },
+  {
+    "id": "dishwash_powder_05",
+    "name": "Ghanshyam Super Scouring Powder",
+    "category": "dishwash",
+    "subCategory": "Dishwash Powders",
+    "description": "A regional but widely used scouring powder, known for its strong scrubbing action. It is popular for its ability to clean tough, greasy pots and pans with minimal effort.",
+    "imageUrl": "https://placehold.co/400x300/a35f29/ffffff?text=Ghanshyam+Powder"
+  },
+  {
+    "id": "dishwash_gel_01",
+    "name": "Vim Dishwash Gel",
+    "category": "dishwash",
+    "subCategory": "Dishwash Gels",
+    "description": "The liquid/gel version of the market-leading Vim bar. It is extremely popular for its fast-acting, concentrated formula that cuts through grease easily and leaves no residue, perfect for modern kitchenware.",
+    "imageUrl": "https://placehold.co/400x300/e6c76e/ffffff?text=Vim+Gel"
+  },
+  {
+    "id": "dishwash_gel_02",
+    "name": "Pril Dishwash Liquid",
+    "category": "dishwash",
+    "subCategory": "Dishwash Gels",
+    "description": "A well-known brand for its gentle formula that is tough on stains but soft on hands. Pril is a popular choice for those who do a lot of handwashing, as it prevents skin from drying out.",
+    "imageUrl": "https://placehold.co/400x300/a7a7a7/ffffff?text=Pril+Liquid"
+  },
+  {
+    "id": "dishwash_gel_03",
+    "name": "Exo Dishwash Gel",
+    "category": "dishwash",
+    "subCategory": "Dishwash Gels",
+    "description": "Exo's liquid dishwash is known for its pleasant citrus fragrance and strong cleaning power. It is a common choice for daily use and is effective on oily and greasy utensils.",
+    "imageUrl": "https://placehold.co/400x300/ffbb00/000000?text=Exo+Gel"
+  },
+  {
+    "id": "dishwash_gel_04",
+    "name": "Godrej Mr. Magic",
+    "category": "dishwash",
+    "subCategory": "Dishwash Gels",
+    "description": "A unique product that comes in a powder form and turns into a liquid gel upon mixing with water. It is a popular and cost-effective solution for those who want the convenience of a gel.",
+    "imageUrl": "https://placehold.co/400x300/004a99/ffffff?text=Mr.+Magic+Gel"
+  },
+  {
+    "id": "dishwash_gel_05",
+    "name": "Dabur Odonil Dishwash Gel",
+    "category": "dishwash",
+    "subCategory": "Dishwash Gels",
+    "description": "Odonil, a well-known brand for air fresheners, also has a dishwash gel that has gained traction. It is often chosen for its long-lasting, fresh fragrance and effective cleaning.",
+    "imageUrl": "https://placehold.co/400x300/e6c76e/ffffff?text=Odonil+Dishwash+Gel"
+  },
+  {
+    "id": "toilet_cleaner_01",
+    "name": "Harpic",
+    "category": "bathroom",
+    "subCategory": "Toilet Cleaners",
+    "description": "An iconic brand and the undisputed market leader in toilet cleaners. Harpic is a staple in most Indian households and is known for its powerful germ-killing formula and effective stain removal.",
+    "imageUrl": "https://placehold.co/400x300/a7211e/ffffff?text=Harpic"
+  },
+  {
+    "id": "toilet_cleaner_02",
+    "name": "Lizol Power Toilet Cleaner",
+    "category": "bathroom",
+    "subCategory": "Toilet Cleaners",
+    "description": "Lizol, a well-known brand for disinfectants, also offers a powerful toilet cleaner. It is a popular alternative to Harpic and is trusted for its ability to kill germs and remove tough stains.",
+    "imageUrl": "https://placehold.co/400x300/e6c76e/ffffff?text=Lizol+Toilet+Cleaner"
+  },
+  {
+    "id": "toilet_cleaner_03",
+    "name": "Domex Freshguard Disinfectant Toilet Cleaner",
+    "category": "bathroom",
+    "subCategory": "Toilet Cleaners",
+    "description": "Domex is a popular choice for its strong cleaning and germ protection properties. This toilet cleaner is known for its thick formula that clings to the toilet surface for a deep clean.",
+    "imageUrl": "https://placehold.co/400x300/004a99/ffffff?text=Domex+Toilet+Cleaner"
+  },
+  {
+    "id": "toilet_cleaner_04",
+    "name": "Sanifresh Shine",
+    "category": "bathroom",
+    "subCategory": "Toilet Cleaners",
+    "description": "From the makers of household cleaners, Sanifresh is a well-known brand for toilet cleaning. It is a popular and affordable option that provides a clean and fresh-smelling toilet.",
+    "imageUrl": "https://placehold.co/400x300/a7a7a7/ffffff?text=Sanifresh+Shine"
+  },
+  {
+    "id": "toilet_cleaner_05",
+    "name": "Cif Perfect Finish",
+    "category": "bathroom",
+    "subCategory": "Toilet Cleaners",
+    "description": "Cif, known for its powerful surface cleaners, also offers a toilet cleaner that is gaining popularity. It is often chosen for its ability to leave a sparkling clean finish.",
+    "imageUrl": "https://placehold.co/400x300/b8e0e0/000000?text=Cif+Toilet+Cleaner"
+  },
+  {
+    "id": "bathroom_cleaner_01",
+    "name": "Lizol Disinfectant Floor Cleaner",
+    "category": "bathroom",
+    "subCategory": "Bathroom Cleaners",
+    "description": "Lizol is the most widely used disinfectant cleaner for bathrooms and floors. It is trusted for its ability to kill 99.9% of germs and is available in various fragrances like lavender, lemon, and pine.",
+    "imageUrl": "https://placehold.co/400x300/e6c76e/ffffff?text=Lizol"
+  },
+  {
+    "id": "bathroom_cleaner_02",
+    "name": "Domex Floor Cleaner",
+    "category": "bathroom",
+    "subCategory": "Bathroom Cleaners",
+    "description": "A popular alternative to Lizol, Domex is also a well-known name for germ protection. Its floor cleaner is widely used for its effective cleaning and fresh fragrance.",
+    "imageUrl": "https://placehold.co/400x300/004a99/ffffff?text=Domex"
+  },
+  {
+    "id": "bathroom_cleaner_03",
+    "name": "Harpic Bathroom Cleaner",
+    "category": "bathroom",
+    "subCategory": "Bathroom Cleaners",
+    "description": "Harpic, a leader in toilet cleaners, has also entered the bathroom cleaning market. This product is formulated to clean tough bathroom stains like soap scum and hard water marks.",
+    "imageUrl": "https://placehold.co/400x300/a7211e/ffffff?text=Harpic+Bathroom+Cleaner"
+  },
+  {
+    "id": "bathroom_cleaner_04",
+    "name": "Cif Power & Shine Bathroom Cleaner",
+    "category": "bathroom",
+    "subCategory": "Bathroom Cleaners",
+    "description": "Cif is gaining popularity for its powerful formula that removes soap scum, limescale, and watermarks. It is a go-to for those who want a sparkling and streak-free finish on bathroom surfaces.",
+    "imageUrl": "https://placehold.co/400x300/b8e0e0/000000?text=Cif+Bathroom+Cleaner"
+  },
+  {
+    "id": "bathroom_cleaner_05",
+    "name": "Nimyle Herbal Floor Cleaner",
+    "category": "bathroom",
+    "subCategory": "Bathroom Cleaners",
+    "description": "A popular herbal and eco-friendly floor cleaner. It is made from natural ingredients like neem and is a preferred choice for households that want to avoid chemical-based cleaners.",
+    "imageUrl": "https://placehold.co/400x300/6fa04b/ffffff?text=Nimyle"
+  },
+  {
+    "id": "floor_cleaner_01",
+    "name": "Lizol Disinfectant Floor Cleaner",
+    "category": "floorcleaners",
+    "subCategory": "Floor Cleaners",
+    "description": "The most widely used disinfectant floor cleaner in India. Lizol is a household name trusted for killing 99.9% of germs and leaving a fresh fragrance. It's a go-to for daily cleaning and disinfecting floors.",
+    "imageUrl": "https://placehold.co/400x300/e6c76e/ffffff?text=Lizol"
+  },
+  {
+    "id": "floor_cleaner_02",
+    "name": "Domex Disinfectant Floor Cleaner",
+    "category": "floorcleaners",
+    "subCategory": "Floor Cleaners",
+    "description": "A strong competitor to Lizol, Domex is also known for its powerful germ-killing action. It is a popular choice for its ability to clean and disinfect floors, often used in both homes and commercial spaces.",
+    "imageUrl": "https://placehold.co/400x300/004a99/ffffff?text=Domex+Floor+Cleaner"
+  },
+  {
+    "id": "floor_cleaner_03",
+    "name": "Nimyle Herbal Floor Cleaner",
+    "category": "floorcleaners",
+    "subCategory": "Floor Cleaners",
+    "description": "A very popular herbal and eco-friendly floor cleaner. Made from natural ingredients like neem, it is a preferred choice for households that want to avoid chemical-based cleaners, especially with kids and pets.",
+    "imageUrl": "https://placehold.co/400x300/6fa04b/ffffff?text=Nimyle+Herbal"
+  },
+  {
+    "id": "floor_cleaner_04",
+    "name": "Patanjali Herbal Floor Cleaner",
+    "category": "floorcleaners",
+    "subCategory": "Floor Cleaners",
+    "description": "Patanjali's floor cleaner has gained popularity for its Ayurvedic and natural composition. It is a cost-effective alternative that appeals to consumers who prefer products with a traditional herbal approach.",
+    "imageUrl": "https://placehold.co/400x300/ffbb00/000000?text=Patanjali+Floor+Cleaner"
+  },
+  {
+    "id": "floor_cleaner_05",
+    "name": "Santoor Disinfectant Floor Cleaner",
+    "category": "floorcleaners",
+    "subCategory": "Floor Cleaners",
+    "description": "From the well-known soap brand, Santoor's floor cleaner is a newer entrant that has a strong presence. It is valued for its effective cleaning power and a pleasant sandalwood fragrance.",
+    "imageUrl": "https://placehold.co/400x300/a35f29/ffffff?text=Santoor+Floor+Cleaner"
+  },
+  {
+    "id": "surface_cleaner_01",
+    "name": "Colin Glass and Surface Cleaner",
+    "category": "floorcleaners",
+    "subCategory": "Surface Cleaners",
+    "description": "An iconic brand for glass and all-purpose surface cleaning. Colin is a must-have in every household for cleaning windows, mirrors, tabletops, and other glass surfaces, leaving them streak-free.",
+    "imageUrl": "https://placehold.co/400x300/004a99/ffffff?text=Colin+Glass+Cleaner"
+  },
+  {
+    "id": "surface_cleaner_02",
+    "name": "Cif Cream Cleaner",
+    "category": "floorcleaners",
+    "subCategory": "Surface Cleaners",
+    "description": "A popular cream-based cleaner known for its powerful action on tough, greasy grime and burnt-on food. It is a go-to for cleaning kitchen sinks, stovetops, and bathroom surfaces.",
+    "imageUrl": "https://placehold.co/400x300/b8e0e0/000000?text=Cif+Cream+Cleaner"
+  },
+  {
+    "id": "surface_cleaner_03",
+    "name": "Mr. Muscle All Purpose Cleaner",
+    "category": "floorcleaners",
+    "subCategory": "Surface Cleaners",
+    "description": "A well-known all-purpose cleaner that is a popular choice for cleaning various surfaces in the kitchen and bathroom. It's known for its strong formula that removes tough stains.",
+    "imageUrl": "https://placehold.co/400x300/ff7f00/ffffff?text=Mr.+Muscle"
+  },
+  {
+    "id": "surface_cleaner_04",
+    "name": "Dettol Multi-Surface Cleaner",
+    "category": "floorcleaners",
+    "subCategory": "Surface Cleaners",
+    "description": "Dettol extended its germ protection expertise to surface cleaning. This product is a trusted choice for disinfecting kitchen counters, tables, and other frequently touched surfaces.",
+    "imageUrl": "https://placehold.co/400x300/a7211e/ffffff?text=Dettol+Surface+Cleaner"
+  },
+  {
+    "id": "surface_cleaner_05",
+    "name": "Good knight Surface & Floor Cleaner",
+    "category": "floorcleaners",
+    "subCategory": "Surface Cleaners",
+    "description": "While primarily known for repellents, Good knight's floor cleaner is a popular choice that provides a dual benefit of cleaning and keeping mosquitoes away, especially during the monsoon season.",
+    "imageUrl": "https://placehold.co/400x300/4a2924/ffffff?text=Good+knight+Cleaner"
+  },
+  {
+    "id": "room_freshener_01",
+    "name": "Godrej Aer",
+    "category": "floorcleaners",
+    "subCategory": "Room Freshners",
+    "description": "A very popular and modern room freshener brand. It comes in a wide range of formats like aer spray, aer matic, and aer twist, offering a variety of long-lasting fragrances.",
+    "imageUrl": "https://placehold.co/400x300/a3927d/ffffff?text=Godrej+Aer"
+  },
+  {
+    "id": "room_freshener_02",
+    "name": "Odonil",
+    "category": "floorcleaners",
+    "subCategory": "Room Freshners",
+    "description": "A legacy brand for air fresheners in India. Odonil is a trusted name that offers a variety of products, including blocks and sprays, known for their strong and effective fragrances.",
+    "imageUrl": "https://placehold.co/400x300/b8e0e0/000000?text=Odonil"
+  },
+  {
+    "id": "room_freshener_03",
+    "name": "Ambi Pur",
+    "category": "floorcleaners",
+    "subCategory": "Room Freshners",
+    "description": "A well-known global brand that has a strong presence in India. Ambi Pur is popular for its car air fresheners and home sprays, known for eliminating tough odors and providing a fresh scent.",
+    "imageUrl": "https://placehold.co/400x300/f0e6d6/000000?text=Ambi+Pur"
+  },
+  {
+    "id": "room_freshener_04",
+    "name": "Airwick",
+    "category": "floorcleaners",
+    "subCategory": "Room Freshners",
+    "description": "Airwick is a well-established brand for air fresheners, offering a range of products from sprays to automatic diffusers. It is known for its high-quality fragrances and long-lasting effects.",
+    "imageUrl": "https://placehold.co/400x300/e6c76e/ffffff?text=Airwick"
+  },
+  {
+    "id": "room_freshener_05",
+    "name": "Odonil Zipper",
+    "category": "floorcleaners",
+    "subCategory": "Room Freshners",
+    "description": "A popular variant of the Odonil brand, the 'Zipper' is a small, easy-to-use air freshener that can be hung in bathrooms or cupboards. It is a common choice for smaller spaces that need a quick fragrance boost.",
+    "imageUrl": "https://placehold.co/400x300/ffbb00/000000?text=Odonil+Zipper"
+  },
+  {
+    "id": "repellent_machine_01",
+    "name": "Good knight Activ+",
+    "category": "repelents",
+    "subCategory": "Machines & Refills",
+    "description": "The most widely used mosquito repellent machine and refill brand in India. It is a staple in almost every household and is known for its dual-mode feature and effectiveness in repelling mosquitoes.",
+    "imageUrl": "https://placehold.co/400x300/a7211e/ffffff?text=Good+knight+Activ%2B"
+  },
+  {
+    "id": "repellent_machine_02",
+    "name": "All Out All Night",
+    "category": "repelents",
+    "subCategory": "Machines & Refills",
+    "description": "A strong competitor to Good knight, All Out is a popular brand known for its consistent performance throughout the night. It is a trusted name for providing uninterrupted protection from mosquitoes.",
+    "imageUrl": "https://placehold.co/400x300/a7a7a7/ffffff?text=All+Out+All+Night"
+  },
+  {
+    "id": "repellent_machine_03",
+    "name": "Mortein Powergard",
+    "category": "repelents",
+    "subCategory": "Machines & Refills",
+    "description": "Mortein is a well-known brand for pest control. Its liquid vaporizer is a popular choice for its powerful formula that is designed to repel mosquitoes quickly and effectively.",
+    "imageUrl": "https://placehold.co/400x300/ffbb00/000000?text=Mortein"
+  },
+  {
+    "id": "repellent_machine_04",
+    "name": "Maxo",
+    "category": "repelents",
+    "subCategory": "Machines & Refills",
+    "description": "Maxo is an affordable and widely available brand in the repellent segment. Its machine and refills are a common choice for daily mosquito protection.",
+    "imageUrl": "https://placehold.co/400x300/b8e0e0/000000?text=Maxo"
+  },
+  {
+    "id": "repellent_machine_05",
+    "name": "Mosquito Repellent Coil",
+    "category": "repelents",
+    "subCategory": "Machines & Refills",
+    "description": "While not a machine, the repellent coil is a traditional and highly popular form of mosquito repellent in India. Brands like Good knight and Maxo offer these coils, which are a very affordable option for continuous protection.",
+    "imageUrl": "https://placehold.co/400x300/a35f29/ffffff?text=Mosquito+Coil"
+  },
+  {
+    "id": "repellent_spray_01",
+    "name": "Mortein Instamosquito",
+    "category": "repelents",
+    "subCategory": "Sprays",
+    "description": "Mortein's spray is a very popular choice for its quick action. It is a go-to for killing mosquitoes and other flying insects instantly, making it ideal for immediate relief.",
+    "imageUrl": "https://placehold.co/400x300/ffbb00/000000?text=Mortein+Spray"
+  },
+  {
+    "id": "repellent_spray_02",
+    "name": "All Out Mosquito Spray",
+    "category": "repelents",
+    "subCategory": "Sprays",
+    "description": "All Out's spray provides quick and effective protection against mosquitoes. It is a common household product used to clear rooms of insects before sleeping.",
+    "imageUrl": "https://placehold.co/400x300/a7a7a7/ffffff?text=All+Out+Spray"
+  },
+  {
+    "id": "repellent_spray_03",
+    "name": "Good knight Xpress",
+    "category": "repelents",
+    "subCategory": "Sprays",
+    "description": "Known for its 'Xpress' fast-action formula, this spray is designed to quickly knock down and kill mosquitoes. It is a popular and reliable choice for instant pest control.",
+    "imageUrl": "https://placehold.co/400x300/a7211e/ffffff?text=Good+knight+Xpress"
+  },
+  {
+    "id": "repellent_spray_04",
+    "name": "Odomos Herbal",
+    "category": "repelents",
+    "subCategory": "Sprays",
+    "description": "Odomos is primarily known for its repellent creams, but its spray variant is also popular for on-the-go protection. It's often chosen for its long-lasting and safe-on-skin formula.",
+    "imageUrl": "https://placehold.co/400x300/6fa04b/ffffff?text=Odomos+Herbal"
+  },
+  {
+    "id": "repellent_spray_05",
+    "name": "Aer Mosquito Repellent",
+    "category": "repelents",
+    "subCategory": "Sprays",
+    "description": "From the well-known brand Godrej, Aer offers a mosquito repellent spray that combines a pleasant fragrance with effective pest control, making it a good choice for modern homes.",
+    "imageUrl": "https://placehold.co/400x300/a3927d/ffffff?text=Aer+Repellent"
+  },
+  {
+    "id": "repellent_gel_01",
+    "name": "Odomos Mosquito Repellent",
+    "category": "repelents",
+    "subCategory": "Gels",
+    "description": "The most widely used personal mosquito repellent in India. Odomos is trusted for its non-sticky gel and cream formula that provides long-lasting protection from mosquito bites without being harsh on the skin.",
+    "imageUrl": "https://placehold.co/400x300/e6c76e/ffffff?text=Odomos+Gel"
+  },
+  {
+    "id": "repellent_gel_02",
+    "name": "Good knight Fabric Roll-On",
+    "category": "repelents",
+    "subCategory": "Gels",
+    "description": "A very popular and innovative product that is applied to clothes and not the skin. It is a go-to for parents to protect their children from mosquito bites, known for its long-lasting effect.",
+    "imageUrl": "https://placehold.co/400x300/b8e0e0/000000?text=Good+knight+Roll-On"
+  },
+  {
+    "id": "repellent_gel_03",
+    "name": "Mortein Mosquito Repellent Roll-On",
+    "category": "repelents",
+    "subCategory": "Gels",
+    "description": "Mortein's roll-on repellent is a common choice for its convenient application and effective protection against mosquitoes, especially during outdoor activities.",
+    "imageUrl": "https://placehold.co/400x300/ffbb00/000000?text=Mortein+Roll-On"
+  },
+  {
+    "id": "repellent_gel_04",
+    "name": "Mosquito Repellent Patch",
+    "category": "repelents",
+    "subCategory": "Gels",
+    "description": "A popular choice for kids, these patches are infused with natural oils like citronella. They are a convenient and safe way to keep mosquitoes away without applying anything directly to the skin.",
+    "imageUrl": "https://placehold.co/400x300/a35f29/ffffff?text=Mosquito+Patch"
+  },
+  {
+    "id": "repellent_gel_05",
+    "name": "Jungle Formula",
+    "category": "repelents",
+    "subCategory": "Gels",
+    "description": "While not as common as Odomos, Jungle Formula is a very popular international brand. Its gel and lotion are chosen for their strong and long-lasting protection, especially in high-risk areas.",
+    "imageUrl": "https://placehold.co/400x300/a7a7a7/ffffff?text=Jungle+Formula"
+  },
+  {
+    "id": "disinfectant_01",
+    "name": "Lizol Disinfectant Liquid",
+    "category": "repelents",
+    "subCategory": "Disinfectants",
+    "description": "The most trusted and widely used disinfectant for floors and surfaces in India. It is known for its ability to kill 99.9% of germs and is available in a variety of fragrances.",
+    "imageUrl": "https://placehold.co/400x300/e6c76e/ffffff?text=Lizol+Disinfectant"
+  },
+  {
+    "id": "disinfectant_02",
+    "name": "Dettol Antiseptic Liquid",
+    "category": "repelents",
+    "subCategory": "Disinfectants",
+    "description": "A classic and iconic antiseptic liquid used for personal hygiene and surface disinfection. It's a staple in every Indian medicine cabinet and is also used for cleaning floors and surfaces to kill germs.",
+    "imageUrl": "https://placehold.co/400x300/a7211e/ffffff?text=Dettol+Antiseptic"
+  },
+  {
+    "id": "disinfectant_03",
+    "name": "Domex Disinfectant Floor Cleaner",
+    "category": "repelents",
+    "subCategory": "Disinfectants",
+    "description": "Domex is a popular choice for disinfecting floors and bathrooms. Its formula is designed to provide powerful germ-killing action and is a strong competitor in the hygiene market.",
+    "imageUrl": "https://placehold.co/400x300/004a99/ffffff?text=Domex+Disinfectant"
+  },
+  {
+    "id": "disinfectant_04",
+    "name": "Savlon Disinfectant Liquid",
+    "category": "repelents",
+    "subCategory": "Disinfectants",
+    "description": "Savlon is a well-known antiseptic brand, and its disinfectant liquid is a common choice for its gentle yet effective formula. It is used for first aid and for disinfecting surfaces.",
+    "imageUrl": "https://placehold.co/400x300/b8e0e0/000000?text=Savlon+Disinfectant"
+  },
+  {
+    "id": "disinfectant_05",
+    "name": "Phenyl",
+    "category": "repelents",
+    "subCategory": "Disinfectants",
+    "description": "A traditional and very common disinfectant, especially in older Indian households. It is a concentrated liquid with a strong smell, used for cleaning and disinfecting floors and drains.",
+    "imageUrl": "https://placehold.co/400x300/4a2924/ffffff?text=Phenyl"
   }
 ]
