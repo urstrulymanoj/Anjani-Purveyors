@@ -49,8 +49,7 @@
   left: 0;
   width: 100%;
   height: 100%;
-  background-color: rgba(255, 165, 0, 0.7); /* Orange with some transparency */
-  opacity: 0; /* Initially hidden */
+  background-color: rgba(255, 165, 0, 0.5); /* Orange with some transparency */
   transition: opacity 0.3s ease; /* Smooth transition */
   z-index: 1; /* Ensure it appears above the background image */
 }
@@ -59,20 +58,24 @@
 .card h3,
 .card p {
   position: relative; /* Relative positioning to maintain stacking order */
-  opacity: 0; /* Initially hide text */
   color: #fff; /* White text color */
   transition: opacity 0.3s ease; /* Smooth fade-in effect */
   z-index: 2; /* Ensure text appears above the overlay */
 }
 
-/* Show the overlay and text when hovering */
-.card:hover::before {
-  opacity: 1; /* Show the orange overlay when hovering */
-}
+/* Show the overlay and text on hover for desktop */
+@media (min-width: 769px) {
+  .card::before,
+  .card h3,
+  .card p {
+    opacity: 0; /* Initially hidden on desktop */
+  }
 
-.card:hover h3,
-.card:hover p {
-  opacity: 1; /* Show text when the card is hovered */
+  .card:hover::before,
+  .card:hover h3,
+  .card:hover p {
+    opacity: 1; /* Show the overlay and text when hovering */
+  }
 }
 
 /* Ensure the description appears below the title */
@@ -96,6 +99,13 @@
   .cards-container {
     justify-content: center;
   }
+  
+  /* Increase font size for product category title on mobile/tablet */
+  .card h3 {
+    font-size: 24px;
+    font-weight: bold;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
+  }
 }
 
 /* Further adjustment for very small screens (e.g., less than 500px) */
@@ -103,5 +113,10 @@
   .card {
     width: 45%;  /* Full width for each card on very small screens */
     height: 250px; /* Adjust height */
+  }
+
+  /* Increase font size for product category title on very small screens */
+  .card h3 {
+    font-size: 20px;
   }
 }

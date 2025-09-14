@@ -1,0 +1,178 @@
+[
+{
+"id": 1,
+"name": "Fresh Apples",
+"category": "fruits",
+"subCategory": "Fresh Fruits",
+"description": "Crisp and juicy Red Delicious apples, perfect for a healthy snack or baking.",
+"imageUrl": "https://placehold.co/400x300/a7d8a7/4b5563?text=Apples"
+},
+{
+"id": 2,
+"name": "Organic Bananas",
+"category": "fruits",
+"subCategory": "Fresh Fruits",
+"description": "Sweet, organic bananas, a great source of potassium and energy.",
+"imageUrl": "https://placehold.co/400x300/f8f9e2/4b5563?text=Bananas"
+},
+{
+"id": 3,
+"name": "Pomegranates",
+"category": "fruits",
+"subCategory": "Exotic Fruits",
+"description": "Exotic pomegranates with juicy, ruby-red arils. High in antioxidants.",
+"imageUrl": "https://placehold.co/400x300/ffb6c1/4b5563?text=Pomegranates"
+},
+{
+"id": 4,
+"name": "Whole Wheat Flour",
+"category": "grains",
+"subCategory": "Flours",
+"description": "Finely ground whole wheat flour for soft and fluffy rotis and baked goods.",
+"imageUrl": "https://placehold.co/400x300/e0c9a7/4b5563?text=Flour"
+},
+{
+"id": 5,
+"name": "Red Lentils",
+"category": "grains",
+"subCategory": "Lentils",
+"description": "Quick-cooking red lentils, perfect for soups, curries, and stews.",
+"imageUrl": "https://placehold.co/400x300/c7a09c/4b5563?text=Lentils"
+},
+{
+"id": 6,
+"name": "Turmeric Powder",
+"category": "spices",
+"subCategory": "Powder Spices",
+"description": "High-quality, vibrant yellow turmeric powder known for its medicinal properties.",
+"imageUrl": "https://placehold.co/400x300/fff3b0/4b5563?text=Turmeric"
+},
+{
+"id": 7,
+"name": "Cinnamon Sticks",
+"category": "spices",
+"subCategory": "Whole Spices",
+"description": "Aromatic cinnamon sticks, ideal for adding warmth to desserts and beverages.",
+"imageUrl": "https://placehold.co/400x300/d2b48c/4b5563?text=Cinnamon"
+},
+{
+"id": 8,
+"name": "Herbal Tea",
+"category": "spices",
+"subCategory": "Tea & Coffee",
+"description": "A soothing blend of chamomile and mint for a relaxing and refreshing drink.",
+"imageUrl": "https://placehold.co/400x300/8d8977/4b5563?text=Herbal+Tea"
+},
+{
+"id": 9,
+"name": "Extra Virgin Olive Oil",
+"category": "oils",
+"subCategory": "Everyday Oils",
+"description": "Cold-pressed olive oil, rich in flavor, perfect for dressings and light cooking.",
+"imageUrl": "https://placehold.co/400x300/b0c4de/4b5563?text=Olive+Oil"
+},
+{
+"id": 10,
+"name": "Coconut Oil",
+"category": "oils",
+"subCategory": "Everyday Oils",
+"description": "Pure coconut oil, great for cooking, hair care, and skin moisturization.",
+"imageUrl": "https://placehold.co/400x300/f5f5dc/4b5563?text=Coconut+Oil"
+},
+{
+"id": 11,
+"name": "Potato Chips",
+"category": "beverages",
+"subCategory": "Chips & Crsips",
+"description": "Crispy and salted potato chips, a classic snack for any occasion.",
+"imageUrl": "https://placehold.co/400x300/d3d3d3/4b5563?text=Chips"
+},
+{
+"id": 12,
+"name": "Dark Chocolate Bar",
+"category": "beverages",
+"subCategory": "Chocolates & Cookies",
+"description": "Rich dark chocolate with a hint of sea salt, a perfect sweet treat.",
+"imageUrl": "https://placehold.co/400x300/503a3d/f8f9e2?text=Chocolate"
+},
+{
+"id": 13,
+"name": "Herbal Toothpaste",
+"category": "oral",
+"subCategory": "Tooth Paste",
+"description": "Natural toothpaste with neem and clove, for healthy gums and fresh breath.",
+"imageUrl": "https://placehold.co/400x300/a3d9a4/4b5563?text=Toothpaste"
+},
+{
+"id": 14,
+"name": "Moisturizing Soap",
+"category": "soaps",
+"subCategory": "Herbal Soaps",
+"description": "Gentle soap enriched with shea butter to nourish and hydrate your skin.",
+"imageUrl": "https://placehold.co/400x300/f08080/4b5563?text=Soap"
+},
+{
+"id": 15,
+"name": "Hand Sanitizer",
+"category": "handwash",
+"subCategory": "All",
+"description": "Effective hand sanitizer that kills germs and leaves a light, fresh scent.",
+"imageUrl": "https://placehold.co/400x300/a0c4ff/4b5563?text=Handwash"
+},
+{
+"id": 16,
+"name": "Body Lotion",
+"category": "lotions",
+"subCategory": "Moisturizers",
+"description": "A rich, hydrating lotion that keeps skin soft and smooth all day long.",
+"imageUrl": "https://placehold.co/400x300/e6e6fa/4b5563?text=Lotion"
+},
+{
+"id": 17,
+"name": "Herbal Shampoo",
+"category": "haircare",
+"subCategory": "Shampoos",
+"description": "A gentle, sulfate-free shampoo made with natural herbs for healthy hair.",
+"imageUrl": "https://placehold.co/400x300/c0d8f0/4b5563?text=Shampoo"
+},
+{
+"id": 18,
+"name": "Detergent Powder",
+"category": "laundry",
+"subCategory": "Detergent Powders",
+"description": "Removes tough stains and leaves clothes smelling fresh and clean.",
+"imageUrl": "https://placehold.co/400x300/add8e6/4b5563?text=Detergent"
+},
+{
+"id": 19,
+"name": "Dishwash Gel",
+"category": "dishwash",
+"subCategory": "Dishwash Gels",
+"description": "A powerful gel formula that cuts through grease and grime on your dishes.",
+"imageUrl": "https://placehold.co/400x300/f08080/4b5563?text=Dishwash"
+},
+{
+"id": 20,
+"name": "Toilet Cleaner",
+"category": "bathroom",
+"subCategory": "Toilet Cleaners",
+"description": "A strong formula that cleans and disinfects your toilet bowl.",
+"imageUrl": "https://placehold.co/400x300/e3c5bb/4b5563?text=Toilet+Cleaner"
+},
+{
+"id": 21,
+"name": "Floor Cleaner",
+"category": "floorcleaners",
+"subCategory": "Floor Cleaners",
+"description": "A powerful floor cleaner that leaves a streak-free shine and a fresh scent.",
+"imageUrl": "https://placehold.co/400x300/c9c9c9/4b5563?text=Floor+Cleaner"
+},
+{
+"id": 22,
+"name": "Mosquito Repellent",
+"category": "repelents",
+"subCategory": "Sprays",
+"description": "An effective spray that keeps mosquitoes away for hours.",
+"imageUrl": "https://placehold.co/400x300/6f9e6f/4b5563?text=Repellent"
+}
+]

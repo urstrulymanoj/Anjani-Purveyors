@@ -41,27 +41,27 @@ const ProductCatalog = () => {
           <div className="cards-container">
             <Card 
               title="Fruits and Vegetables" 
-              description="Fresh fruits, dry fruits and vegetables" 
+              //description="Fresh fruits, dry fruits and vegetables" 
               backgroundImage={fruitsImage} 
             />
             <Card 
               title="Grains and Pulses" 
-              description="Whole Grains, pulses and flours" 
+              //description="Whole Grains, pulses and flours" 
               backgroundImage={grainsIamge} 
             />
             <Card 
               title="Tea, Coffee and Spices" 
-              description="Premium quality spices" 
+              //description="Premium quality spices" 
               backgroundImage={spicesImage} 
             />
             <Card 
               title="Oils" 
-              description="Healthy cooking oils" 
+              //description="Healthy cooking oils" 
               backgroundImage={oilsImage} 
             />
             <Card 
               title="Snacks and Beverages" 
-              description="Munchkins, crisps and cold drinks" 
+              //description="Munchkins, crisps and cold drinks" 
               backgroundImage={snacksImage} 
             />
           </div>
@@ -73,27 +73,27 @@ const ProductCatalog = () => {
           <div className="cards-container">
             <Card 
               title="Oral Care" 
-              description="Oral hygiene essentials" 
+              //description="Oral hygiene essentials" 
               backgroundImage={toothPasteImage} 
             />
             <Card 
               title="Soaps" 
-              description="Organic and premium soaps" 
+              //description="Organic and premium soaps" 
               backgroundImage={soapsImage} 
             />
             <Card 
               title="Handwash" 
-              description="Germ protection and gentle handwash" 
+              //description="Germ protection and gentle handwash" 
               backgroundImage={handwashImage} 
             />
             <Card 
               title="Body Lotions" 
-              description="Premium quality body lotions" 
+              //description="Premium quality body lotions" 
               backgroundImage={bodyLotionImage} 
             />
             <Card 
               title="Hair Care" 
-              description="Premium hair care products" 
+              //description="Premium hair care products" 
               backgroundImage={shampooImage} 
             />
           </div>
@@ -105,27 +105,27 @@ const ProductCatalog = () => {
           <div className="cards-container">
             <Card 
               title="Laundry Essentials" 
-              description="Fabric cleaning solutions" 
+              //description="Fabric cleaning solutions" 
               backgroundImage={laundryImage} 
             />
             <Card 
               title="Dishwashing Gels and Bars" 
-              description="Dishwashing Solutions" 
+              //description="Dishwashing Solutions" 
               backgroundImage={dishwasherImage} 
             />
             <Card 
               title="Toilet and Bathroom Supplies" 
-              description="Toiletries for clean and fresh washrooms" 
+              //description="Toiletries for clean and fresh washrooms" 
               backgroundImage={toiletCleanerImage} 
             />
             <Card 
               title="Floor and Surface Cleaners" 
-              description="Cleaning solutions for clean and fresh homes" 
+              //description="Cleaning solutions for clean and fresh homes" 
               backgroundImage={surfaceCleanerImage} 
             />
             <Card 
               title="Repelents and Disinfectants" 
-              description="Safety solutions against bugs, insects and germs" 
+              //description="Safety solutions against bugs, insects and germs" 
               backgroundImage={repelentsImage} 
             />
           </div>
