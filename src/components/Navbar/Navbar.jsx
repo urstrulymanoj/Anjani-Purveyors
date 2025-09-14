@@ -3,40 +3,51 @@ import './Navbar.css'
 import { NavLink } from 'react-router-dom';
 import logo from '../../assets/logo.png'
 import menu_icon from '../../assets/menu-icon.png'
+
 const Navbar = () => {
-
   const [sticky, setSticky] = useState(false);
-
-  useEffect(()=>{
-    window.addEventListener('scroll', ()=>{
-      window.scrollY > 50 ? setSticky(true) : setSticky(false);
-    })
-  },[]);
-
   const [mobileMenu, setMobileMenu] = useState(false);
 
-  const toggleMenu = ()=>{
-    mobileMenu ? setMobileMenu(false) : setMobileMenu(true);
+  useEffect(() => {
+    const handleScroll = () => {
+      setSticky(window.scrollY > 50);
+    };
+    window.addEventListener('scroll', handleScroll);
+    return () => window.removeEventListener('scroll', handleScroll);
+  }, []);
 
-  }
+  const toggleMenu = () => {
+    setMobileMenu(!mobileMenu);
+  };
 
+  const closeMenu = () => {
+    setMobileMenu(false);
+  };
 
   return (
-    <nav className={`container ${sticky? 'dark-nav' : ''}`}>
-      <img src={logo} alt="" className='logo'/>
+    <>
+      <nav className={`container ${sticky ? 'dark-nav' : ''}`}>
+        <img src={logo} alt="Company Logo" className="logo" />
 
-      <ul className={mobileMenu?'':'hide-mobile-menu'}>
-        <li><NavLink to='/'>Home</NavLink></li>
-        <li><NavLink to='/ProductCatalog'>Product Catalog</NavLink></li>
-        <li><NavLink to='/ProductsPage'>Products</NavLink></li>
-        <li><NavLink to='/AboutUs'>About Us</NavLink></li>
-        <li><NavLink to='/ContactUs'>Contact Us</NavLink></li>
-      </ul>
+        <ul className={mobileMenu ? 'mobile-menu' : 'hide-mobile-menu'}>
+          <li><NavLink to="/" onClick={closeMenu}>Home</NavLink></li>
+          <li><NavLink to="/ProductCatalog" onClick={closeMenu}>Product Catalog</NavLink></li>
+          <li><NavLink to="/ProductsPage" onClick={closeMenu}>Products</NavLink></li>
+          <li><NavLink to="/AboutUs" onClick={closeMenu}>About Us</NavLink></li>
+          <li><NavLink to="/ContactUs" onClick={closeMenu}>Contact Us</NavLink></li>
+        </ul>
 
-      <img src={menu_icon} alt="" className='menu_icon' onClick={toggleMenu}/>
+        <img 
+          src={menu_icon} 
+          alt="Menu Icon" 
+          className="menu_icon" 
+          onClick={toggleMenu} 
+        />
+      </nav>
 
-
-    </nav>
+      {/* Overlay */}
+      {mobileMenu && <div className="overlay" onClick={closeMenu}></div>}
+    </>
   )
 }
 

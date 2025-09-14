@@ -23,15 +23,15 @@ const AboutUs = () => {
       <section className="about-us-section" id="how-can-we-help">
         <h2>How Can We Help You?</h2>
         <p>
-          At [Company Name], we provide a wide variety of services tailored to meet your needs. 
-          Whether you are looking for [Service 1], [Service 2], or [Service 3], we ensure that our solutions 
-          are built with quality, reliability, and customer satisfaction in mind. Our products undergo rigorous 
-          quality checks to ensure they meet the highest standards.
+          At Anjani Purveyors, we understand that running a hotel, café, or restaurant means juggling countless responsibilities — and sourcing reliable supplies shouldn’t be one of your worries. That’s where we step in.
         </p>
         <ul>
-          <li>Service 1: Description of Service 1</li>
-          <li>Service 2: Description of Service 2</li>
-          <li>Service 3: Description of Service 3</li>
+          <li>One-Stop Solution: From fresh vegetables, fruits, and groceries to sanitary essentials and body care products, we provide everything your kitchen and staff need under one roof.</li>
+          <li>Wholesale Prices: We help you cut costs without compromising on quality, offering competitive rates that fit your business budget.</li>
+          <li>Consistent Quality: Our carefully sourced products ensure that every dish you serve and every experience you provide meets the highest standards.</li>
+          <li>Streamlined Supply Chain: With timely deliveries and hassle-free ordering, we make sure your shelves are stocked and your operations run smoothly.</li>
+          <li>Trusted Partner: More than just a supplier, we aim to be your growth partner — supporting you with reliable service so you can focus on delighting your customers.</li>
+      
         </ul>
       </section>
 
