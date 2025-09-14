@@ -1,0 +1,1922 @@
+[
+    {
+        "id": "fruit0001",
+        "name": "Apples",
+        "category": "fruits",
+        "subCategory": "Fresh Fruits",
+        "description": "Crisp and juicy Red Delicious apples, perfect for a healthy snack or baking.",
+        "imageUrl": "https://placehold.co/400x300/a7d8a7/4b5563?text=Apples"
+    },
+    {
+        "id": "fruit0002",
+        "name": "Bananas",
+        "category": "fruits",
+        "subCategory": "Fresh Fruits",
+        "description": "Sweet, organic bananas, a great source of potassium and energy.",
+        "imageUrl": "https://placehold.co/400x300/f8f9e2/4b5563?text=Bananas"
+    },
+    {
+        "id": "fruit0003",
+        "name": "Oranges",
+        "category": "fruits",
+        "subCategory": "Fresh Fruits",
+        "description": "Sweet and tangy oranges, packed with Vitamin C. Great for juicing or eating whole.",
+        "imageUrl": "https://www.google.com/search?q=https://placehold.co/400x300/f0b459/4b5563%3Ftext%3DOranges"
+    },
+    {
+        "id": "fruit0004",
+        "name": "Grapes",
+        "category": "fruits",
+        "subCategory": "Fresh Fruits",
+        "description": "Seedless green grapes that are crisp, sweet, and incredibly refreshing.",
+        "imageUrl": "https://www.google.com/search?q=https://placehold.co/400x300/8d8977/4b5563%3Ftext%3DGrapes"
+    },
+    {
+        "id": "fruit0005",
+        "name": "Strawberries",
+        "category": "fruits",
+        "subCategory": "Fresh Fruits",
+        "description": "Juicy and sweet strawberries, ideal for snacking and decorating.",
+        "imageUrl": "https://www.google.com/search?q=https://placehold.co/400x300/e66c6c/4b5563%3Ftext%3DStrawberries"
+    },
+    {
+        "id": "fruit0006",
+        "name": "Pineapple",
+        "category": "fruits",
+        "subCategory": "Fresh Fruits",
+        "description": "Juicy and tangy pineapple, great for a tropical treat or to add to savory dishes.",
+        "imageUrl": "https://www.google.com/search?q=https://placehold.co/400x300/ffdb58/4b5563%3Ftext%3DPineapple"
+    },
+    {
+        "id": "fruit0008",
+        "name": "Watermelon",
+        "category": "fruits",
+        "subCategory": "Fresh Fruits",
+        "description": "Refreshing and hydrating watermelon, a perfect treat for a hot day.",
+        "imageUrl": "https://www.google.com/search?q=https://placehold.co/400x300/b0e0a7/4b5563%3Ftext%3DWatermelon"
+    },
+    {
+        "id": "fruit0009",
+        "name": "Mangoes",
+        "category": "fruits",
+        "subCategory": "Fresh Fruits",
+        "description": "Sweet and succulent mangoes, perfect for smoothies and desserts.",
+        "imageUrl": "https://www.google.com/search?q=https://placehold.co/400x300/ffbf30/4b5563%3Ftext%3DMangoes"
+    },
+    {
+        "id": "fruit0010",
+        "name": "Cherries",
+        "category": "fruits",
+        "subCategory": "Fresh Fruits",
+        "description": "Sweet and juicy red cherries, excellent for snacking or as a garnish.",
+        "imageUrl": "https://www.google.com/search?q=https://placehold.co/400x300/8b0000/f8f9e2%3Ftext%3DCherries"
+    },
+    {
+        "id": "fruit0011",
+        "name": "Dragon Fruit",
+        "category": "fruits",
+        "subCategory": "Exotic Fruits",
+        "description": "A visually stunning fruit with a mildly sweet flavor, often described as a mix between a pear and a kiwi.",
+        "imageUrl": "https://www.google.com/search?q=https://placehold.co/400x300/ff69b4/4b5563%3Ftext%3DDragon%2BFruit"
+    },
+    {
+        "id": "fruit0012",
+        "name": "Passion Fruit",
+        "category": "fruits",
+        "subCategory": "Exotic Fruits",
+        "description": "A wrinkly, purple fruit with a tangy and sweet pulp full of edible seeds.",
+        "imageUrl": "https://www.google.com/search?q=https://placehold.co/400x300/e6e6fa/4b5563%3Ftext%3DPassion%2BFruit"
+    },
+    {
+        "id": "fruit0013",
+        "name": "Blue Berries",
+        "category": "fruits",
+        "subCategory": "Exotic Fruits",
+        "description": "A small, round fruit with a red, textured rind and a sweet, fragrant, and slightly floral white flesh.",
+        "imageUrl": "https://www.google.com/search?q=https://placehold.co/400x300/f08080/4b5563%3Ftext%3DLychee"
+    },
+    {
+        "id": "fruit0014",
+        "name": "Kiwi",
+        "category": "fruits",
+        "subCategory": "Exotic Fruits",
+        "description": "A nutrient-dense fruit with a unique sweet and tart flavor and vibrant green flesh with small black seeds.",
+        "imageUrl": "https://www.google.com/search?q=https://placehold.co/400x300/98c581/4b5563%3Ftext%3DKiwi"
+    },
+    {
+        "id": "fruit0015",
+        "name": "Guava",
+        "category": "fruits",
+        "subCategory": "Exotic Fruits",
+        "description": "A tropical fruit with a sweet taste, a strong scent, and a pink or white pulp with small seeds.",
+        "imageUrl": "https://www.google.com/search?q=https://placehold.co/400x300/f5deb3/4b5563%3Ftext%3DGuava"
+    },
+    {
+        "id": "fruit0016",
+        "name": "Starfruit",
+        "category": "fruits",
+        "subCategory": "Exotic Fruits",
+        "description": "A beautiful fruit with a distinctive five-point shape when sliced. It has a slightly sour flavor.",
+        "imageUrl": "https://www.google.com/search?q=https://placehold.co/400x300/d2b48c/4b5563%3Ftext%3DStarfruit"
+    },
+    {
+        "id": "fruit0017",
+        "name": "Pomegranate",
+        "category": "fruits",
+        "subCategory": "Exotic Fruits",
+        "description": "An ancient fruit with a hard exterior and hundreds of juicy, gem-like arils filled with sweet and tart juice.",
+        "imageUrl": "https://www.google.com/search?q=https://placehold.co/400x300/ffb6c1/4b5563%3Ftext%3DPomegranate"
+    },
+    {
+        "id": "fruit0018",
+        "name": "Figs",
+        "category": "fruits",
+        "subCategory": "Exotic Fruits",
+        "description": "A soft, pear-shaped fruit with a sweet, jam-like texture and a unique flavor.",
+        "imageUrl": "https://www.google.com/search?q=https://placehold.co/400x300/c7a09c/4b5563%3Ftext%3DFigs"
+    },
+    {
+        "id": "fruit0019",
+        "name": "Rambutan",
+        "category": "fruits",
+        "subCategory": "Exotic Fruits",
+        "description": "A fruit with a hairy, red exterior and a sweet, translucent flesh similar to lychee.",
+        "imageUrl": "https://www.google.com/search?q=https://placehold.co/400x300/f08080/4b5563%3Ftext%3DRambutan"
+    },
+    {
+        "id": "fruit0020",
+        "name": "Durian",
+        "category": "fruits",
+        "subCategory": "Exotic Fruits",
+        "description": "Known as the 'king of fruits,' it has a pungent odor and a creamy, rich texture.",
+        "imageUrl": "https://www.google.com/search?q=https://placehold.co/400x300/a3d9a4/4b5563%3Ftext%3DDurian"
+    },
+    {
+        "id": "fruit0021",
+        "name": "Almonds",
+        "category": "fruits",
+        "subCategory": "Dry Fruits",
+        "description": "Crunchy and nutrient-rich almonds, perfect for snacking or as a healthy addition to meals.",
+        "imageUrl": "https://www.google.com/search?q=https://placehold.co/400x300/e6e6fa/4b5563%3Ftext%3DAlmonds"
+    },
+    {
+        "id": "fruit0022",
+        "name": "Walnuts",
+        "category": "fruits",
+        "subCategory": "Dry Fruits",
+        "description": "Heart-healthy walnuts with a rich, earthy flavor. Great for baking or as a topping for salads.",
+        "imageUrl": "https://www.google.com/search?q=https://placehold.co/400x300/d2b48c/4b5563%3Ftext%3DWalnuts"
+    },
+    {
+        "id": "fruit0023",
+        "name": "Cashews",
+        "category": "fruits",
+        "subCategory": "Dry Fruits",
+        "description": "Creamy cashews with a delicate flavor, perfect for snacking and adding to curries.",
+        "imageUrl": "https://www.google.com/search?q=https://placehold.co/400x300/f8f9e2/4b5563%3Ftext%3DCashews"
+    },
+    {
+        "id": "fruit0024",
+        "name": "Pistachios",
+        "category": "fruits",
+        "subCategory": "Dry Fruits",
+        "description": "Salty and delicious pistachios, a satisfying snack with a distinct green hue.",
+        "imageUrl": "https://www.google.com/search?q=https://placehold.co/400x300/a3d9a4/4b5563%3Ftext%3DPistachios"
+    },
+    {
+        "id": "fruit0025",
+        "name": "Dried Apricots",
+        "category": "fruits",
+        "subCategory": "Dry Fruits",
+        "description": "Sweet and chewy dried apricots, a great source of fiber and vitamin A.",
+        "imageUrl": "https://www.google.com/search?q=https://placehold.co/400x300/ffcd8c/4b5563%3Ftext%3DDried%2BApricots"
+    },
+    {
+        "id": "fruit0026",
+        "name": "Raisins",
+        "category": "fruits",
+        "subCategory": "Dry Fruits",
+        "description": "Naturally sweet dried grapes, perfect for baking or a quick energy boost.",
+        "imageUrl": "https://www.google.com/search?q=https://placehold.co/400x300/c7a09c/4b5563%3Ftext%3DRaisins"
+    },
+    {
+        "id": "fruit0027",
+        "name": "Dates",
+        "category": "fruits",
+        "subCategory": "Dry Fruits",
+        "description": "Sweet, chewy dates, a natural sweetener and a great source of iron and potassium.",
+        "imageUrl": "https://www.google.com/search?q=https://placehold.co/400x300/8d8977/4b5563%3Ftext%3DDates"
+    },
+    {
+        "id": "fruit0028",
+        "name": "Dried Figs",
+        "category": "fruits",
+        "subCategory": "Dry Fruits",
+        "description": "Soft and sweet dried figs, a classic dry fruit with a jam-like texture.",
+        "imageUrl": "https://www.google.com/search?q=https://placehold.co/400x300/b873d9/4b5563%3Ftext%3DDried%2BFigs"
+    },
+    {
+        "id": "fruit0029",
+        "name": "Dried Cranberries",
+        "category": "fruits",
+        "subCategory": "Dry Fruits",
+        "description": "Tart and tangy dried cranberries, a perfect addition to trail mix and baked goods.",
+        "imageUrl": "https://www.google.com/search?q=https://placehold.co/400x300/e66c6c/4b5563%3Ftext%3DCranberries"
+    },
+    {
+        "id": "fruit0030",
+        "name": "Hazelnuts",
+        "category": "fruits",
+        "subCategory": "Dry Fruits",
+        "description": "Nutty and aromatic hazelnuts, often used in desserts and confections.",
+        "imageUrl": "https://www.google.com/search?q=https://placehold.co/400x300/a3d9a4/4b5563%3Ftext%3DHazelnuts"
+    },
+    {
+        "id": "veges0001",
+        "name": "Onions",
+        "category": "fruits",
+        "subCategory": "Fresh Vegetables",
+        "description": "A foundational ingredient in most Indian curries and gravies, providing a pungent and savory base.",
+        "imageUrl": "https://www.google.com/search?q=https://placehold.co/400x300/e6e6fa/4b5563%3Ftext%3DOnions"
+    },
+    {
+        "id": "veges0002",
+        "name": "Tomatoes",
+        "category": "fruits",
+        "subCategory": "Fresh Vegetables",
+        "description": "Adds a tangy and slightly sweet flavor to a variety of dishes, from curries to salads.",
+        "imageUrl": "https://www.google.com/search?q=https://placehold.co/400x300/ffb6c1/4b5563%3Ftext%3DTomatoes"
+    },
+    {
+        "id": "veges0003",
+        "name": "Potatoes",
+        "category": "fruits",
+        "subCategory": "Fresh Vegetables",
+        "description": "A versatile and widely-used vegetable, forming the base of many popular dishes like aloo gobi and aloo mutter.",
+        "imageUrl": "https://www.google.com/search?q=https://placehold.co/400x300/e3c5bb/4b5563%3Ftext%3DPotatoes"
+    },
+    {
+        "id": "veges0004",
+        "name": "Cauliflower",
+        "category": "fruits",
+        "subCategory": "Fresh Vegetables",
+        "description": "Known for its tender florets, it is a key ingredient in 'Gobi Paratha' and the classic 'Aloo Gobi' dish.",
+        "imageUrl": "https://www.google.com/search?q=https://placehold.co/400x300/a7d8a7/4b5563%3Ftext%3DCauliflower"
+    },
+    {
+        "id": "veges0005",
+        "name": "Cabbage",
+        "category": "fruits",
+        "subCategory": "Fresh Vegetables",
+        "description": "A crunchy vegetable used in stir-fries, curries, and salads. It is also the main ingredient in 'Patta Gobhi Ki Sabzi'.",
+        "imageUrl": "https://www.google.com/search?q=https://placehold.co/400x300/c7a09c/4b5563%3Ftext%3DCabbage"
+    },
+    {
+        "id": "veges0006",
+        "name": "Spinach",
+        "category": "fruits",
+        "subCategory": "Fresh Vegetables",
+        "description": "A leafy green vegetable, a rich source of iron. It is used to make dishes like 'Palak Paneer' and 'Saag'.",
+        "imageUrl": "https://www.google.com/search?q=https://placehold.co/400x300/b0c4de/4b5563%3Ftext%3DSpinach"
+    },
+    {
+        "id": "veges0007",
+        "name": "Lady's Finger (Okra)",
+        "category": "fruits",
+        "subCategory": "Fresh Vegetables",
+        "description": "A beloved vegetable in Indian cuisine, used to prepare 'Bhindi Masala' and other dry curries.",
+        "imageUrl": "https://www.google.com/search?q=https://placehold.co/400x300/f8f9e2/4b5563%3Ftext%3DOkra"
+    },
+    {
+        "id": "veges0008",
+        "name": "Bitter Gourd",
+        "category": "fruits",
+        "subCategory": "Fresh Vegetables",
+        "description": "Known for its distinct bitter taste, it is a healthy vegetable often used in stir-fries and pickles.",
+        "imageUrl": "https://www.google.com/search?q=https://placehold.co/400x300/8d8977/4b5563%3Ftext%3DBitter%2BGourd"
+    },
+    {
+        "id": "veges0009",
+        "name": "Carrots",
+        "category": "fruits",
+        "subCategory": "Fresh Vegetables",
+        "description": "A vibrant and sweet vegetable, commonly used in 'Gajar Ka Halwa', curries, and salads.",
+        "imageUrl": "https://www.google.com/search?q=https://placehold.co/400x300/c9c9c9/4b5563%3Ftext%3DCarrots"
+    },
+    {
+        "id": "veges0010",
+        "name": "Radish",
+        "category": "fruits",
+        "subCategory": "Fresh Vegetables",
+        "description": "A Radish has a crunchy texture and a slightly peppery flavor. Add flavors to you 'Parathas' and salads.",
+        "imageUrl": "https://www.google.com/search?q=https://placehold.co/400x300/c9c9c9/4b5563%3Ftext%3DCarrots"
+    },
+    {
+        "id": "veges0011",
+        "name": "Capsicum (Bell Pepper)",
+        "category": "fruits",
+        "subCategory": "Fresh Vegetables",
+        "description": "Adds a mild, sweet flavor and vibrant color to dishes. It is a key ingredient in 'Capsicum Fry' and 'Paneer Chilli'.",
+        "imageUrl": "https://www.google.com/search?q=https://placehold.co/400x300/ffbf00/4b5563%3Ftext%3DCapsicum"
+    },
+    {
+        "id": "veges0012",
+        "name": "Zucchini",
+        "category": "fruits",
+        "subCategory": "Exotic Vegetables",
+        "description": "A versatile vegetable, popular for its mild flavor and high water content. It's often used in stir-fries, salads, and as a substitute for noodles.",
+        "imageUrl": "https://www.google.com/search?q=https://placehold.co/400x300/a7d8a7/4b5563%3Ftext%3DZucchini"
+    },
+    {
+        "id": "veges0013",
+        "name": "Broccoli",
+        "category": "fruits",
+        "subCategory": "Exotic Vegetables",
+        "description": "A nutrient-rich vegetable with dense, green florets. It is often steamed or stir-fried and is a popular addition to many healthy dishes.",
+        "imageUrl": "https://www.google.com/search?q=https://placehold.co/400x300/c7a09c/4b5563%3Ftext%3DBroccoli"
+    },
+    {
+        "id": "veges0014",
+        "name": "Red Bell Peppers",
+        "category": "fruits",
+        "subCategory": "Exotic Vegetables",
+        "description": "Sweet and vibrant, these bell peppers add color and flavor to stir-fries, salads, and roasted vegetable platters.",
+        "imageUrl": "https://www.google.com/search?q=https://placehold.co/400x300/ffb6c1/4b5563%3Ftext%3DRed%2BBell%2BPeppers"
+    },
+    {
+        "id": "veges0015",
+        "name": "Yellow Bell Peppers",
+        "category": "fruits",
+        "subCategory": "Exotic Vegetables",
+        "description": "Known for their mild, sweet taste, yellow bell peppers are a popular choice for salads, sandwiches, and for stuffing with a variety of fillings.",
+        "imageUrl": "https://www.google.com/search?q=https://placehold.co/400x300/f8f9e2/4b5563%3Ftext%3DYellow%2BBell%2BPeppers"
+    },
+    {
+        "id": "veges0016",
+        "name": "Mushrooms",
+        "category": "fruits",
+        "subCategory": "Exotic Vegetables",
+        "description": "Earthy and savory, mushrooms add a unique texture and a rich, umami flavor to a variety of curries, stir-fries, and biryanis.",
+        "imageUrl": "https://www.google.com/search?q=https://placehold.co/400x300/8d8977/4b5563%3Ftext%3DMushrooms"
+    },
+    {
+        "id": "veges0017",
+        "name": "Lettuce",
+        "category": "fruits",
+        "subCategory": "Exotic Vegetables",
+        "description": "A crisp and fresh leafy green, commonly used in salads and sandwiches to add a light, crunchy texture.",
+        "imageUrl": "https://www.google.com/search?q=https://placehold.co/400x300/b0c4de/4b5563%3Ftext%3DLettuce"
+    },
+    {
+        "id": "veges0018",
+        "name": "Asparagus",
+        "category": "fruits",
+        "subCategory": "Exotic Vegetables",
+        "description": "Delicate and earthy, asparagus spears are typically blanched or roasted and served as a side dish or in salads.",
+        "imageUrl": "https://www.google.com/search?q=https://placehold.co/400x300/e6e6fa/4b5563%3Ftext%3DAsparagus"
+    },
+    {
+        "id": "veges0019",
+        "name": "Celery",
+        "category": "fruits",
+        "subCategory": "Exotic Vegetables",
+        "description": "A crunchy vegetable with a distinct savory flavor, often used in soups, stews, and as a raw snack with dips.",
+        "imageUrl": "https://www.google.com/search?q=https://placehold.co/400x300/e3c5bb/4b5563%3Ftext%3DCelery"
+    },
+    {
+        "id": "veges0020",
+        "name": "Cherry Tomatoes",
+        "category": "fruits",
+        "subCategory": "Exotic Vegetables",
+        "description": "Small and sweet, these tomatoes are perfect for adding a burst of flavor to salads, pasta dishes, and skewers.",
+        "imageUrl": "https://www.google.com/search?q=https://placehold.co/400x300/ffbf00/4b5563%3Ftext%3DCherry%2BTomatoes"
+    },
+    {
+        "id": "veges0021",
+        "name": "Baby Corn",
+        "category": "vegetables",
+        "subCategory": "Exotic Vegetables",
+        "description": "Small, tender, and sweet, baby corn adds a delicate crunch to stir-fries, salads, and soups.",
+        "imageUrl": "https://www.google.com/search?q=https://placehold.co/400x300/add8e6/4b5563%3Ftext%3DBaby%2BCorn"
+    },
+    {
+        "id": "grains0001",
+        "name": "Wheat",
+        "category": "grains",
+        "subCategory": "Whole Grains",
+        "description": "A staple grain used to make flour for daily rotis, chapatis, and various baked goods.",
+        "imageUrl": "https://www.google.com/search?q=https://placehold.co/400x300/e0c9a7/4b5563%3Ftext%3DWheat"
+    },
+    {
+        "id": "grains0002",
+        "name": "Rice",
+        "category": "grains",
+        "subCategory": "Whole Grains",
+        "description": "The most widely consumed grain in India, serving as a primary accompaniment to curries, dals, and vegetables.",
+        "imageUrl": "https://www.google.com/search?q=https://placehold.co/400x300/f8f9e2/4b5563%3Ftext%3DRice"
+    },
+    {
+        "id": "grains0003",
+        "name": "Bajra",
+        "category": "grains",
+        "subCategory": "Whole Grains",
+        "description": "Also known as pearl millet, it is a highly nutritious grain often used to make rotis, especially in the winter.",
+        "imageUrl": "https://www.google.com/search?q=https://placehold.co/400x300/c7a09c/4b5563%3Ftext%3DBajra"
+    },
+    {
+        "id": "grains0004",
+        "name": "Jowar",
+        "category": "grains",
+        "subCategory": "Whole Grains",
+        "description": "Sorghum grain is a popular gluten-free alternative used to make flatbreads (rotlas) and is known for its health benefits.",
+        "imageUrl": "https://www.google.com/search?q=https://placehold.co/400x300/e3c5bb/4b5563%3Ftext%3DJowar"
+    },
+    {
+        "id": "grains0005",
+        "name": "Maize",
+        "category": "grains",
+        "subCategory": "Whole Grains",
+        "description": "Corn is used for various purposes, including making flour for 'Makki ki Roti' and as a sweet vegetable.",
+        "imageUrl": "https://www.google.com/search?q=https://placehold.co/400x300/fff3b0/4b5563%3Ftext%3DMaize"
+    },
+    {
+        "id": "grains0006",
+        "name": "Ragi",
+        "category": "grains",
+        "subCategory": "Whole Grains",
+        "description": "Finger millet, a nutrient-dense grain popular in southern India, is used to make porridge, rotis, and dosas.",
+        "imageUrl": "https://www.google.com/search?q=https://placehold.co/400x300/d2b48c/4b5563%3Ftext%3DRagi"
+    },
+    {
+        "id": "grains0007",
+        "name": "Barley",
+        "category": "grains",
+        "subCategory": "Whole Grains",
+        "description": "A fiber-rich grain often used in soups, stews, and as a healthy breakfast option.",
+        "imageUrl": "https://www.google.com/search?q=https://placehold.co/400x300/8d8977/4b5563%3Ftext%3DBarley"
+    },
+    {
+        "id": "grains0008",
+        "name": "Oats",
+        "category": "grains",
+        "subCategory": "Whole Grains",
+        "description": "A versatile grain, commonly used for making healthy breakfast porridge and a popular ingredient in many baked goods.",
+        "imageUrl": "https://www.google.com/search?q=https://placehold.co/400x300/add8e6/4b5563%3Ftext%3DOats"
+    },
+    {
+        "id": "grains0009",
+        "name": "Quinoa",
+        "category": "grains",
+        "subCategory": "Whole Grains",
+        "description": "While not a traditional Indian grain, it has become increasingly popular due to its high protein content and versatility in salads and rice dishes.",
+        "imageUrl": "https://www.google.com/search?q=https://placehold.co/400x300/b0c4de/4b5563%3Ftext%3DQuinoa"
+    },
+    {
+        "id": "grains0010",
+        "name": "Semolina (Suji)",
+        "category": "grains",
+        "subCategory": "Whole Grains",
+        "description": "Also known as suji, this coarse flour is used to prepare popular Indian dishes like upma, rava dosa, and halwa.",
+        "imageUrl": "https://www.google.com/search?q=https://placehold.co/400x300/e6e6fa/4b5563%3Ftext%3DSemolina"
+    },
+    {
+        "id": "lentils0001",
+        "name": "Toor Dal",
+        "category": "grains",
+        "subCategory": "Lentils",
+        "description": "Also known as split pigeon peas, Toor Dal is a staple in Indian households, commonly used to prepare sambar and dal fry.",
+        "imageUrl": "https://www.google.com/search?q=https://placehold.co/400x300/ffbf00/4b5563%3Ftext%3DToor%2BDal"
+    },
+    {
+        "id": "lentils0002",
+        "name": "Masoor Dal",
+        "category": "grains",
+        "subCategory": "Lentils",
+        "description": "Red lentils that are easy to cook and absorb flavors well. They are often used in simple, comforting dal preparations.",
+        "imageUrl": "https://www.google.com/search?q=https://placehold.co/400x300/ffb6c1/4b5563%3Ftext%3DMasoor%2BDal"
+    },
+    {
+        "id": "lentils0003",
+        "name": "Moong Dal",
+        "category": "grains",
+        "subCategory": "Lentils",
+        "description": "Split yellow lentils with a soft, creamy texture. Moong Dal is highly digestible and is used for both savory and sweet dishes like halwa.",
+        "imageUrl": "https://www.google.com/search?q=https://placehold.co/400x300/f8f9e2/4b5563%3Ftext%3DMoong%2BDal"
+    },
+    {
+        "id": "lentils0004",
+        "name": "Urad Dal",
+        "category": "grains",
+        "subCategory": "Lentils",
+        "description": "Also known as black gram, it is used to make a variety of dishes including dal makhani, dosas, and idlis.",
+        "imageUrl": "https://www.google.com/search?q=https://placehold.co/400x300/8d8977/4b5563%3Ftext%3DUrad%2BDal"
+    },
+    {
+        "id": "lentils0005",
+        "name": "Chana Dal",
+        "category": "grains",
+        "subCategory": "Lentils",
+        "description": "Split chickpeas with a nutty flavor. Chana Dal is a good source of protein and is used in curries, snacks, and sweets.",
+        "imageUrl": "https://www.google.com/search?q=https://placehold.co/400x300/e0c9a7/4b5563%3Ftext%3DChana%2BDal"
+    },
+    {
+        "id": "lentils0006",
+        "name": "Arhar Dal",
+        "category": "grains",
+        "subCategory": "Lentils",
+        "description": "Split pigeon peas, also known as Toor Dal in some regions. A cornerstone of Indian vegetarian cooking, used in a variety of regional dals.",
+        "imageUrl": "https://www.google.com/search?q=https://placehold.co/400x300/f5f5dc/4b5563%3Ftext%3DArhar%2BDal"
+    },
+    {
+        "id": "beans0001",
+        "name": "Chickpeas (Kabuli Chana)",
+        "category": "grains",
+        "subCategory": "Beans",
+        "description": "Also known as Kabuli Chana, these versatile chickpeas are a key ingredient in popular dishes like Chole Bhature.",
+        "imageUrl": "https://www.google.com/search?q=https://placehold.co/400x300/d2b48c/4b5563%3Ftext%3DChickpeas"
+    },
+    {
+        "id": "beans0002",
+        "name": "Kidney Beans (Rajma)",
+        "category": "grains",
+        "subCategory": "Beans",
+        "description": "A staple in North Indian cuisine, Rajma are a hearty bean used to prepare a rich and flavorful curry.",
+        "imageUrl": "https://www.google.com/search?q=https://placehold.co/400x300/c7a09c/4b5563%3Ftext%3DRajma"
+    },
+    {
+        "id": "beans0003",
+        "name": "Black-Eyed Peas (Lobia)",
+        "category": "grains",
+        "subCategory": "Beans",
+        "description": "Known for their mild flavor and creamy texture, Lobia is used in curries, salads, and lentil fritters.",
+        "imageUrl": "https://www.google.com/search?q=https://placehold.co/400x300/b0c4de/4b5563%3Ftext%3DLobia"
+    },
+    {
+        "id": "beans0004",
+        "name": "Dried Peas (Matar)",
+        "category": "grains",
+        "subCategory": "Beans",
+        "description": "Dried peas are commonly used to make delicious street food like 'matar chaat' and hearty curries.",
+        "imageUrl": "https://www.google.com/search?q=https://placehold.co/400x300/e6e6fa/4b5563%3Ftext%3DMatar"
+    },
+    {
+        "id": "beans0005",
+        "name": "Green Gram (Moong Whole)",
+        "category": "grains",
+        "subCategory": "Beans",
+        "description": "A versatile whole lentil used for sprouting, making 'chilas' (pancakes), and delicious curries.",
+        "imageUrl": "https://www.google.com/search?q=https://placehold.co/400x300/b0c4de/4b5563%3Ftext%3DMoong%2BWhole"
+    },
+    {
+        "id": "beans0006",
+        "name": "Black Gram (Urad Whole)",
+        "category": "grains",
+        "subCategory": "Beans",
+        "description": "Used to make a variety of dishes including dal makhani, dosas, and idlis.",
+        "imageUrl": "https://www.google.com/search?q=https://placehold.co/400x300/8d8977/4b5563%3Ftext%3DUrad%2BWhole"
+    },
+    {
+        "id": "beans0007",
+        "name": "Pigeon Pea (Arhar)",
+        "category": "grains",
+        "subCategory": "Beans",
+        "description": "The whole form of pigeon peas, a cornerstone of Indian vegetarian cooking, used in a variety of regional dals.",
+        "imageUrl": "https://www.google.com/search?q=https://placehold.co/400x300/ffbf00/4b5563%3Ftext%3DArhar"
+    },
+    {
+        "id": "beans0008",
+        "name": "Soybeans",
+        "category": "grains",
+        "subCategory": "Beans",
+        "description": "Soybeans are highly nutritious and versatile, used for making tofu, soy milk, and in various vegetarian dishes.",
+        "imageUrl": "https://www.google.com/search?q=https://placehold.co/400x300/e6e6fa/4b5563%3Ftext%3DSoybeans"
+    },
+    {
+        "id": "beans0009",
+        "name": "Peanuts (Groundnuts)",
+        "category": "grains",
+        "subCategory": "Beans",
+        "description": "A popular snack and ingredient, peanuts are used in curries, chutneys, and groundnut oil production.",
+        "imageUrl": "https://www.google.com/search?q=https://placehold.co/400x300/d9b389/4b5563%3Ftext%3DPeanuts"
+    },
+    {
+        "id": "flour0001",
+        "name": "Wheat Flour (Atta)",
+        "category": "grains",
+        "subCategory": "Flours",
+        "description": "The most common flour in India, used to make soft and fluffy rotis, parathas, and pooris.",
+        "imageUrl": "https://www.google.com/search?q=https://placehold.co/400x300/e0c9a7/4b5563%3Ftext%3DWheat%2BFlour"
+    },
+    {
+        "id": "flour0002",
+        "name": "Chickpea Flour (Besan)",
+        "category": "grains",
+        "subCategory": "Flours",
+        "description": "Used widely for making popular snacks like pakoras, bhajis, and for preparing a variety of curries and sweets.",
+        "imageUrl": "https://www.google.com/search?q=https://placehold.co/400x300/ffbf00/4b5563%3Ftext%3DChickpea%2BFlour"
+    },
+    {
+        "id": "flour0003",
+        "name": "Rice Flour (Chawal ka Atta)",
+        "category": "grains",
+        "subCategory": "Flours",
+        "description": "Used to make crisp dosas, idlis, and a variety of snacks. It's also used as a thickening agent.",
+        "imageUrl": "https://www.google.com/search?q=https://placehold.co/400x300/f5f5dc/4b5563%3Ftext%3DRice%2BFlour"
+    },
+    {
+        "id": "flour0004",
+        "name": "Corn Flour (Makki ka Atta)",
+        "category": "grains",
+        "subCategory": "Flours",
+        "description": "A staple in North Indian cuisine, used to make Makki ki Roti, a flatbread often paired with Sarson ka Saag.",
+        "imageUrl": "https://www.google.com/search?q=https://placehold.co/400x300/ffd700/4b5563%3Ftext%3DCorn%2BFlour"
+    },
+    {
+        "id": "flour0005",
+        "name": "Sorghum Flour (Jowar Atta)",
+        "category": "grains",
+        "subCategory": "Flours",
+        "description": "A gluten-free flour used to make rotis, especially in Maharashtra and Karnataka. It's rich in fiber and protein.",
+        "imageUrl": "https://www.google.com/search?q=https://placehold.co/400x300/a3d9a4/4b5563%3Ftext%3DJowar%2BAtta"
+    },
+    {
+        "id": "flour0006",
+        "name": "Finger Millet Flour (Ragi Atta)",
+        "category": "grains",
+        "subCategory": "Flours",
+        "description": "Known for its high calcium and iron content, Ragi flour is used to make rotis, dosas, and baby food.",
+        "imageUrl": "https://www.google.com/search?q=https://placehold.co/400x300/c7a09c/4b5563%3Ftext%3DRagi%2BAtta"
+    },
+    {
+        "id": "flour0007",
+        "name": "Barley Flour (Jau ka Atta)",
+        "category": "grains",
+        "subCategory": "Flours",
+        "description": "A nutritious flour used in combination with other flours to make rotis and for porridges.",
+        "imageUrl": "https://www.google.com/search?q=https://placehold.co/400x300/d2b48c/4b5563%3Ftext%3DBarley%2BFlour"
+    },
+    {
+        "id": "flour0008",
+        "name": "Gram Flour (Sattu)",
+        "category": "grains",
+        "subCategory": "Flours",
+        "description": "Roasted chickpea flour, a popular high-protein food in Bihar and other parts of India, used for drinks and savory dishes.",
+        "imageUrl": "https://www.google.com/search?q=https://placehold.co/400x300/d8c199/4b5563%3Ftext%3DSattu"
+    },
+    {
+        "id": "flour0009",
+        "name": "Buckwheat Flour (Kuttu Atta)",
+        "category": "grains",
+        "subCategory": "Flours",
+        "description": "A gluten-free flour commonly consumed during fasting periods (Vrat). Used to make pooris and pakoras.",
+        "imageUrl": "https://www.google.com/search?q=https://placehold.co/400x300/b0c4de/4b5563%3Ftext%3DKuttu%2BAtta"
+    },
+    {
+        "id": "flour0010",
+        "name": "Water Chestnut Flour (Singhada Atta)",
+        "category": "grains",
+        "subCategory": "Flours",
+        "description": "Used during religious fasts in India, this flour is used to make rotis and halwa.",
+        "imageUrl": "https://www.google.com/search?q=https://placehold.co/400x300/8d8977/4b5563%3Ftext%3DSinghada%2BAtta"
+    },
+    {
+        "id": "tea0001",
+        "name": "Tata Tea",
+        "category": "spices",
+        "subCategory": "Tea & Coffee",
+        "description": "One of India's most recognized tea brands, Tata Tea is a household name known for its rich taste and strong, brisk flavor.",
+        "imageUrl": "https://www.google.com/search?q=https://placehold.co/400x300/a3d9a4/4b5563%3Ftext%3DTata%2BTea"
+    },
+    {
+        "id": "tea0002",
+        "name": "Brooke Bond Red Label",
+        "category": "spices",
+        "subCategory": "Tea & Coffee",
+        "description": "As one of the largest-selling tea brands in India, Red Label is celebrated for its balanced flavor and rich color, making it a staple for many.",
+        "imageUrl": "https://www.google.com/search?q=https://placehold.co/400x300/ffbf00/4b5563%3Ftext%3DRed%2BLabel"
+    },
+    {
+        "id": "tea0003",
+        "name": "Wagh Bakri Tea",
+        "category": "spices",
+        "subCategory": "Tea & Coffee",
+        "description": "Known for its consistent quality and robust, full-bodied flavor, Wagh Bakri is a popular choice, especially in Western India.",
+        "imageUrl": "https://www.google.com/search?q=https://placehold.co/400x300/d2b48c/4b5563%3Ftext%3DWagh%2BBakri"
+    },
+    {
+        "id": "tea0004",
+        "name": "Lipton",
+        "category": "spices",
+        "subCategory": "Tea & Coffee",
+        "description": "Globally recognized, Lipton has a strong presence in India, with its green tea variants being particularly popular among health-conscious consumers.",
+        "imageUrl": "https://www.google.com/search?q=https://placehold.co/400x300/c7a09c/4b5563%3Ftext%3DLipton"
+    },
+    {
+        "id": "tea0005",
+        "name": "Taj Mahal Tea",
+        "category": "spices",
+        "subCategory": "Tea & Coffee",
+        "description": "This premium brand is known for its exquisite aroma and taste, often enjoyed on special occasions and by those who appreciate a fine blend.",
+        "imageUrl": "https://www.google.com/search?q=https://placehold.co/400x300/b0c4de/4b5563%3Ftext%3DTaj%2BMahal"
+    },
+    {
+        "id": "coffee0001",
+        "name": "Nescafé",
+        "category": "spices",
+        "subCategory": "Tea & Coffee",
+        "description": "A globally recognized brand and a household name in India, Nescafé is a leader in the instant coffee segment, known for its convenience and wide range of products like Classic, Gold, and Sunrise.",
+        "imageUrl": "https://placehold.co/400x300/c7a09c/4b5563?text=Nescafe"
+    },
+    {
+        "id": "coffee0002",
+        "name": "Bru",
+        "category": "spices",
+        "subCategory": "Tea & Coffee",
+        "description": "Owned by Hindustan Unilever, Bru is one of India's most popular coffee brands. It has a strong presence with both instant coffee and traditional chicory-blended filter coffee powder.",
+        "imageUrl": "https://placehold.co/400x300/c7a09c/4b5563?text=Bru"
+    },
+    {
+        "id": "coffee0003",
+        "name": "Tata Coffee",
+        "category": "spices",
+        "subCategory": "Tea & Coffee",
+        "description": "A major Indian producer with its own plantations, Tata Coffee offers a diverse range of products, from instant coffee to premium single-origin beans, with a focus on quality and sustainability.",
+        "imageUrl": "https://placehold.co/400x300/c7a09c/4b5563?text=Tata+Coffee"
+    },
+    {
+        "id": "coffee0004",
+        "name": "Blue Tokai Coffee Roasters",
+        "category": "spices",
+        "subCategory": "Tea & Coffee",
+        "description": "As a leader in India's specialty coffee movement, Blue Tokai is highly popular among connoisseurs, offering a wide variety of freshly roasted, single-origin coffee beans and ground coffee.",
+        "imageUrl": "https://placehold.co/400x300/c7a09c/4b5563?text=Blue+Tokai"
+    },
+    {
+        "id": "coffee0005",
+        "name": "Continental Coffee",
+        "category": "spices",
+        "subCategory": "Tea & Coffee",
+        "description": "A prominent Indian brand known for its wide range of instant, filter, and freeze-dried coffees. Continental Coffee caters to both retail consumers and the hospitality industry.",
+        "imageUrl": "https://placehold.co/400x300/c7a09c/4b5563?text=Continental+Coffee"
+    },
+    {
+    "id": "sugar0001",
+    "name": "Madhur",
+    "category": "spices",
+    "subCategory": "Sweeteners",
+    "description": "A popular and trusted brand in India, known for its hygienic, refined, and sulphur-free sugar. It is a flagship brand of Shree Renuka Sugars.",
+    "imageUrl": "https://placehold.co/400x300/c7a09c/4b5563?text=Madhur+Sugar"
+  },
+  {
+    "id": "sugar0002",
+    "name": "Fortune",
+    "category": "spices",
+    "subCategory": "Sweeteners",
+    "description": "From Adani Wilmar, Fortune is a well-known brand that offers a variety of high-quality, refined and sulphur-free sugars, trusted for its purity and hygiene.",
+    "imageUrl": "https://placehold.co/400x300/c7a09c/4b5563?text=Fortune+Sugar"
+  },
+  {
+    "id": "sugar0003",
+    "name": "Dhampur Green",
+    "category": "spices",
+    "subCategory": "Sweeteners",
+    "description": "Focusing on natural and indigenous sweeteners, Dhampur Green is known for its range of products including sulphur-free sugar, jaggery (gur), and desi khand.",
+    "imageUrl": "https://placehold.co/400x300/c7a09c/4b5563?text=Dhampur+Green"
+  },
+  {
+    "id": "sugar0004",
+    "name": "Tata Sampann",
+    "category": "spices",
+    "subCategory": "Sweeteners",
+    "description": "Part of the trusted Tata Group, Tata Sampann offers a range of everyday kitchen staples, including high-quality crystal sugar that adheres to strict purity standards.",
+    "imageUrl": "https://placehold.co/400x300/c7a09c/4b5563?text=Tata+Sampann"
+  },
+  {
+    "id": "sugar0005",
+    "name": "Uttam Sugar",
+    "category": "spices",
+    "subCategory": "Sweeteners",
+    "description": "Known for its commitment to quality and health, Uttam Sugar produces a variety of sulphur-free sugars, including powdered and demerara options.",
+    "imageUrl": "https://placehold.co/400x300/c7a09c/4b5563?text=Uttam+Sugar"
+  },
+  {
+    "id": "sugar0006",
+    "name": "Dwarikesh Sugar",
+    "category": "spices",
+    "subCategory": "Sweeteners",
+    "description": "A well-known sugar company with a strong market presence, Dwarikesh Sugar is a reliable name for household and industrial sugar needs.",
+    "imageUrl": "https://placehold.co/400x300/c7a09c/4b5563?text=Dwarikesh+Sugar"
+  },
+  {
+    "id": "sweetener0001",
+    "name": "Sugar Free",
+    "category": "spices",
+    "subCategory": "Sweeteners",
+    "description": "The most dominant and widely recognized brand for sugar-free sweeteners in India, with variants like Sugar Free Gold (Aspartame) and Sugar Free Green (Stevia).",
+    "imageUrl": "https://placehold.co/400x300/c7a09c/4b5563?text=Sugar+Free"
+  },
+  {
+    "id": "sweetener0002",
+    "name": "Zindagi Stevia",
+    "category": "spices",
+    "subCategory": "Sweeteners",
+    "description": "Specializing in Stevia-based sweeteners, Zindagi Stevia offers a natural, zero-calorie alternative that is popular with health-conscious consumers and diabetics.",
+    "imageUrl": "https://placehold.co/400x300/c7a09c/4b5563?text=Zindagi+Stevia"
+  },
+  {
+    "id": "sweetener0003",
+    "name": "Equal",
+    "category": "spices",
+    "subCategory": "Sweeteners",
+    "description": "A globally recognized brand, Equal is a common sugar substitute found in Indian supermarkets and cafes, typically using Aspartame.",
+    "imageUrl": "https://placehold.co/400x300/c7a09c/4b5563?text=Equal"
+  },
+  {
+    "id": "sweetener0004",
+    "name": "Gaia",
+    "category": "spices",
+    "subCategory": "Sweeteners",
+    "description": "As part of its health and wellness product line, Gaia offers a popular sugar-free sweetener made from natural Stevia.",
+    "imageUrl": "https://placehold.co/400x300/c7a09c/4b5563?text=Gaia"
+  },
+  {
+    "id": "sweetener0005",
+    "name": "Sprig",
+    "category": "spices",
+    "subCategory": "Sweeteners",
+    "description": "Known for its gourmet food products, Sprig provides a high-quality, Stevia-based sweetener as a healthy and flavorful alternative to sugar.",
+    "imageUrl": "https://placehold.co/400x300/c7a09c/4b5563?text=Sprig+Sweetener"
+  },
+  {
+    "id": "whole_spice_01",
+    "name": "Cumin Seeds (Jeera)",
+    "category": "spices",
+    "subCategory": "Whole Spices",
+    "description": "A staple in almost every Indian kitchen, with a warm, earthy, and smoky flavor. It is often tempered in hot oil at the beginning of a dish to release its aroma.",
+    "imageUrl": "https://placehold.co/400x300/c7a09c/4b5563?text=Cumin+Seeds"
+  },
+  {
+    "id": "whole_spice_02",
+    "name": "Coriander Seeds (Sabut Dhania)",
+    "category": "spices",
+    "subCategory": "Whole Spices",
+    "description": "The dried seeds of the coriander plant, with a mild, citrusy, and nutty flavor. They are a core ingredient in many spice blends and are often roasted and ground.",
+    "imageUrl": "https://placehold.co/400x300/c7a09c/4b5563?text=Coriander+Seeds"
+  },
+  {
+    "id": "whole_spice_03",
+    "name": "Mustard Seeds (Sarson/Rai)",
+    "category": "spices",
+    "subCategory": "Whole Spices",
+    "description": "Small, round seeds that pop when tempered in hot oil, releasing a pungent, nutty flavor. They are widely used in South Indian cuisine and pickles.",
+    "imageUrl": "https://placehold.co/400x300/c7a09c/4b5563?text=Mustard+Seeds"
+  },
+  {
+    "id": "whole_spice_04",
+    "name": "Fenugreek Seeds (Methi Dana)",
+    "category": "spices",
+    "subCategory": "Whole Spices",
+    "description": "Small, yellowish seeds with a slightly bitter and nutty taste. Used in small quantities in pickles and spice blends, they are also known for their digestive properties.",
+    "imageUrl": "https://placehold.co/400x300/c7a09c/4b5563?text=Fenugreek+Seeds"
+  },
+  {
+    "id": "whole_spice_05",
+    "name": "Green Cardamom (Hari Elaichi)",
+    "category": "spices",
+    "subCategory": "Whole Spices",
+    "description": "Known as the 'Queen of Spices,' it has a sweet, floral, and aromatic flavor. It is used whole in both sweet dishes and savory preparations like biryani.",
+    "imageUrl": "https://placehold.co/400x300/c7a09c/4b5563?text=Green+Cardamom"
+  },
+  {
+    "id": "whole_spice_06",
+    "name": "Cloves (Laung)",
+    "category": "spices",
+    "subCategory": "Whole Spices",
+    "description": "Dried flower buds with a strong, pungent, and sweet aroma. A potent spice used in small amounts to flavor rice dishes and meat curries.",
+    "imageUrl": "https://placehold.co/400x300/c7a09c/4b5563?text=Cloves"
+  },
+  {
+    "id": "whole_spice_07",
+    "name": "Black Peppercorns (Kali Mirch)",
+    "category": "spices",
+    "subCategory": "Whole Spices",
+    "description": "Native to India, these offer a sharp, pungent heat. They are used whole to add a distinct depth of flavor to biryani and various curries.",
+    "imageUrl": "https://placehold.co/400x300/c7a09c/4b5563?text=Black+Peppercorns"
+  },
+  {
+    "id": "whole_spice_08",
+    "name": "Cinnamon Stick (Dalchini)",
+    "category": "spices",
+    "subCategory": "Whole Spices",
+    "description": "The bark of the cinnamon tree, with a warm, sweet, and woody aroma. Used whole in rice dishes and curries, and is a key ingredient in Garam Masala.",
+    "imageUrl": "https://placehold.co/400x300/c7a09c/4b5563?text=Cinnamon+Stick"
+  },
+  {
+    "id": "whole_spice_09",
+    "name": "Bay Leaves (Tej Patta)",
+    "category": "spices",
+    "subCategory": "Whole Spices",
+    "description": "Used for their aromatic qualities, they have a subtle, earthy, and sweet aroma. They are typically added to stews, curries, and rice dishes like biryani and removed before serving.",
+    "imageUrl": "https://placehold.co/400x300/c7a09c/4b5563?text=Bay+Leaves"
+  },
+  {
+    "id": "whole_spice_10",
+    "name": "Star Anise (Chakra Phool)",
+    "category": "spices",
+    "subCategory": "Whole Spices",
+    "description": "This star-shaped spice has a strong licorice-like flavor. It is a staple in Mughlai cuisine and is used in various spice blends.",
+    "imageUrl": "https://placehold.co/400x300/c7a09c/4b5563?text=Star+Anise"
+  },
+  {
+    "id": "powder_spice_01",
+    "name": "Turmeric Powder (Haldi)",
+    "category": "spices",
+    "subCategory": "Powder Spices",
+    "description": "A vibrant yellow powder known for its earthy, slightly bitter flavor and anti-inflammatory properties. It is a cornerstone of Indian cooking, adding color and health benefits to almost every dish.",
+    "imageUrl": "https://placehold.co/400x300/c7a09c/4b5563?text=Turmeric+Powder"
+  },
+  {
+    "id": "powder_spice_02",
+    "name": "Red Chili Powder (Lal Mirch)",
+    "category": "spices",
+    "subCategory": "Powder Spices",
+    "description": "Provides the spicy heat and color to Indian cuisine. It is available in various grades of pungency, from mild Kashmiri chili to the fiery hot Guntur chili.",
+    "imageUrl": "https://placehold.co/400x300/c7a09c/4b5563?text=Red+Chili+Powder"
+  },
+  {
+    "id": "powder_spice_03",
+    "name": "Coriander Powder (Dhaniya Powder)",
+    "category": "spices",
+    "subCategory": "Powder Spices",
+    "description": "Made from ground coriander seeds, it is a versatile spice with a mild, earthy, and citrusy flavor. It provides a base flavor for many curries and gravies.",
+    "imageUrl": "https://placehold.co/400x300/c7a09c/4b5563?text=Coriander+Powder"
+  },
+  {
+    "id": "powder_spice_04",
+    "name": "Cumin Powder (Jeera Powder)",
+    "category": "spices",
+    "subCategory": "Powder Spices",
+    "description": "Ground from roasted cumin seeds, it has a warm, earthy flavor. It is a key ingredient in many dishes and spice blends, and is also used for its digestive benefits.",
+    "imageUrl": "https://placehold.co/400x300/c7a09c/4b5563?text=Cumin+Powder"
+  },
+  {
+    "id": "powder_spice_05",
+    "name": "Garam Masala",
+    "category": "spices",
+    "subCategory": "Powder Spices",
+    "description": "A quintessential Indian spice blend. The mix typically includes cinnamon, cardamom, cloves, cumin, coriander, and black pepper, adding warmth and depth to dishes.",
+    "imageUrl": "https://placehold.co/400x300/c7a09c/4b5563?text=Garam+Masala"
+  },
+  {
+    "id": "powder_spice_06",
+    "name": "Black Pepper Powder (Kali Mirch Powder)",
+    "category": "spices",
+    "subCategory": "Powder Spices",
+    "description": "Provides a pungent, sharp heat. It is a common seasoning and is used to add a quick punch of spice to soups, salads, and various dishes.",
+    "imageUrl": "https://placehold.co/400x300/c7a09c/4b5563?text=Black+Pepper+Powder"
+  },
+  {
+    "id": "powder_spice_07",
+    "name": "Amchur Powder (Dry Mango Powder)",
+    "category": "spices",
+    "subCategory": "Powder Spices",
+    "description": "Made from sun-dried green mangoes, this powder is a souring agent. It adds a tangy, fruity flavor to curries, chutneys, and savory snacks like chaat.",
+    "imageUrl": "https://placehold.co/400x300/c7a09c/4b5563?text=Amchur+Powder"
+  },
+  {
+    "id": "powder_spice_08",
+    "name": "Asafoetida (Hing)",
+    "category": "spices",
+    "subCategory": "Powder Spices",
+    "description": "A dried resin with an extremely pungent aroma in its raw form, which mellows to a smooth, onion-garlic flavor when cooked. A tiny pinch is used as a flavor base in many lentil and vegetable dishes.",
+    "imageUrl": "https://placehold.co/400x300/c7a09c/4b5563?text=Asafoetida"
+  },
+  {
+    "id": "powder_spice_09",
+    "name": "Dry Ginger Powder (Sonth)",
+    "category": "spices",
+    "subCategory": "Powder Spices",
+    "description": "Ground from dried ginger root, it has a strong, pungent, and slightly sweet flavor. It is used in curries, marinades, and in spice blends for its unique taste and health benefits.",
+    "imageUrl": "https://placehold.co/400x300/c7a09c/4b5563?text=Dry+Ginger+Powder"
+  },
+  {
+    "id": "powder_spice_10",
+    "name": "Dry Fenugreek Leaves (Kasuri Methi)",
+    "category": "spices",
+    "subCategory": "Powder Spices",
+    "description": "Dried fenugreek leaves that have a rich, slightly bitter, and aromatic flavor. A pinch of these leaves, crushed between the palms, adds a distinct fragrance to curries and breads.",
+    "imageUrl": "https://placehold.co/400x300/c7a09c/4b5563?text=Kasuri+Methi"
+  },
+  {
+    "id": "exotic_spice_01",
+    "name": "Saffron (Kesar)",
+    "category": "spices",
+    "subCategory": "Exotic Spices",
+    "description": "The world's most expensive spice, made from the stigma of the saffron crocus flower. It imparts a beautiful golden color, a subtle flavor, and a luxurious aroma to sweet dishes and biryani.",
+    "imageUrl": "https://placehold.co/400x300/c7a09c/4b5563?text=Saffron"
+  },
+  {
+    "id": "exotic_spice_02",
+    "name": "Mace (Javitri)",
+    "category": "spices",
+    "subCategory": "Exotic Spices",
+    "description": "The dried, crimson-colored outer covering of the nutmeg seed. It has a delicate, sweet, and warm flavor, more subtle than nutmeg, and is used in fine spice blends and biryani.",
+    "imageUrl": "https://placehold.co/400x300/c7a09c/4b5563?text=Mace"
+  },
+  {
+    "id": "exotic_spice_03",
+    "name": "Black Cardamom (Badi Elaichi)",
+    "category": "spices",
+    "subCategory": "Exotic Spices",
+    "description": "Larger than its green counterpart, this spice has a smoky, camphor-like flavor. It is a powerful spice used in savory dishes, meat curries, and biryanis for a deep, musky aroma.",
+    "imageUrl": "https://placehold.co/400x300/c7a09c/4b5563?text=Black+Cardamom"
+  },
+  {
+    "id": "exotic_spice_04",
+    "name": "Nutmeg (Jaiphal)",
+    "category": "spices",
+    "subCategory": "Exotic Spices",
+    "description": "A hard, aromatic seed with a warm, nutty flavor. It is used in small quantities, often grated, in both sweet dishes, rich gravies, and some spice blends.",
+    "imageUrl": "https://placehold.co/400x300/c7a09c/4b5563?text=Nutmeg"
+  },
+  {
+    "id": "exotic_spice_05",
+    "name": "Chilli Flakes",
+    "category": "spices",
+    "subCategory": "Exotic Spices",
+    "description": "Chilli flakes are crushed dried red chili peppers, used to add a touch of spicy heat and vibrant color to dishes.",
+    "imageUrl": "https://placehold.co/400x300/c7a09c/4b5563?text=Chilli+Flakes"
+  },
+  {
+    "id": "exotic_spice_06",
+    "name": "Oregano Herbs",
+    "category": "spices",
+    "subCategory": "Exotic Spices",
+    "description": "Oregano is an aromatic herb from the mint family, with a warm, earthy, and slightly bitter flavor, widely used in Italian, Greek, and other Mediterranean cuisines.",
+    "imageUrl": "https://placehold.co/400x300/c7a09c/4b5563?text=Oregano+Herbs"
+  }, 
+  {
+    "id": "common_oil_01",
+    "name": "Sunflower Oil",
+    "category": "oils",
+    "subCategory": "Everyday Oils",
+    "description": "A light and neutral-flavored oil with a high smoke point, making it a versatile choice for a wide range of everyday Indian dishes, from deep-frying to sautéing.",
+    "imageUrl": "https://placehold.co/400x300/c7a09c/4b5563?text=Sunflower+Oil"
+  },
+  {
+    "id": "common_oil_02",
+    "name": "Mustard Oil (Sarson ka Tel)",
+    "category": "oils",
+    "subCategory": "Everyday Oils",
+    "description": "Known for its pungent flavor and strong aroma, this oil is a staple in Northern and Eastern Indian cuisine, particularly for curries, stir-fries, and pickles.",
+    "imageUrl": "https://placehold.co/400x300/c7a09c/4b5563?text=Mustard+Oil"
+  },
+  {
+    "id": "common_oil_03",
+    "name": "Groundnut Oil (Peanut Oil)",
+    "category": "oils",
+    "subCategory": "Everyday Oils",
+    "description": "Popular in Western and Southern India, this oil has a mild, nutty flavor and a high smoke point, making it ideal for deep-frying and stir-frying.",
+    "imageUrl": "https://placehold.co/400x300/c7a09c/4b5563?text=Groundnut+Oil"
+  },
+  {
+    "id": "common_oil_04",
+    "name": "Coconut Oil",
+    "category": "oils",
+    "subCategory": "Everyday Oils",
+    "description": "A cornerstone of South Indian and coastal cuisine, known for its distinct aroma and flavor. It is widely used in curries, tempering, and in dishes where its unique taste is desired.",
+    "imageUrl": "https://placehold.co/400x300/c7a09c/4b5563?text=Coconut+Oil"
+  },
+  {
+    "id": "common_oil_05",
+    "name": "Ghee (Clarified Butter)",
+    "category": "oils",
+    "subCategory": "Everyday Oils",
+    "description": "A traditional Indian cooking fat with a rich, nutty flavor and high smoke point. It is used for tempering, frying, and is a key ingredient for many sweets and rich gravies.",
+    "imageUrl": "https://placehold.co/400x300/c7a09c/4b5563?text=Ghee"
+  },
+  {
+    "id": "common_oil_06",
+    "name": "Sesame Oil (Til Oil)",
+    "category": "oils",
+    "subCategory": "Everyday Oils",
+    "description": "A staple in many Southern Indian states, with a distinct, nutty flavor. It is excellent for tempering, sautéing, and adding a finishing touch to dishes.",
+    "imageUrl": "https://placehold.co/400x300/c7a09c/4b5563?text=Sesame+Oil"
+  },
+  {
+    "id": "common_oil_07",
+    "name": "Soybean Oil",
+    "category": "oils",
+    "subCategory": "Everyday Oils",
+    "description": "A neutral-flavored, affordable oil with a high smoke point, making it a popular choice for all kinds of cooking, from frying to baking.",
+    "imageUrl": "https://placehold.co/400x300/c7a09c/4b5563?text=Soybean+Oil"
+  },
+  {
+    "id": "common_oil_08",
+    "name": "Rice Bran Oil",
+    "category": "oils",
+    "subCategory": "Everyday Oils",
+    "description": "Known for its high smoke point and light, neutral flavor. It is gaining popularity due to its perceived health benefits and is suitable for all types of cooking, including deep-frying.",
+    "imageUrl": "https://placehold.co/400x300/c7a09c/4b5563?text=Rice+Bran+Oil"
+  },
+  {
+    "id": "common_oil_09",
+    "name": "Canola Oil",
+    "category": "oils",
+    "subCategory": "Everyday Oils",
+    "description": "With a light flavor and low saturated fat content, canola oil is considered a healthier option and is versatile for various Indian cooking methods.",
+    "imageUrl": "https://placehold.co/400x300/c7a09c/4b5563?text=Canola+Oil"
+  },
+  {
+    "id": "exotic_oil_01",
+    "name": "Extra Virgin Olive Oil",
+    "category": "oils",
+    "subCategory": "Premium Oils",
+    "description": "A premium oil from Italy and Spain, gaining popularity for its health benefits. It is best used for dressings, light sautéing, and drizzling over finished dishes as its flavor is delicate and it has a low smoke point.",
+    "imageUrl": "https://placehold.co/400x300/c7a09c/4b5563?text=Olive+Oil"
+  },
+  {
+    "id": "exotic_oil_02",
+    "name": "Avocado Oil",
+    "category": "oils",
+    "subCategory": "Premium Oils",
+    "description": "Known for its high smoke point and buttery flavor, avocado oil is a versatile option for high-heat cooking, grilling, and salad dressings.",
+    "imageUrl": "https://placehold.co/400x300/c7a09c/4b5563?text=Avocado+Oil"
+  },
+  {
+    "id": "exotic_oil_03",
+    "name": "Flaxseed Oil (Alsi ka Tel)",
+    "category": "oils",
+    "subCategory": "Premium Oils",
+    "description": "A rich source of Omega-3 fatty acids, this oil has a nutty flavor and is not suitable for cooking due to its low smoke point. It is best used raw in salads, smoothies, or as a supplement.",
+    "imageUrl": "https://placehold.co/400x300/c7a09c/4b5563?text=Flaxseed+Oil"
+  },
+  {
+    "id": "exotic_oil_04",
+    "name": "Walnut Oil",
+    "category": "oils",
+    "subCategory": "Premium Oils",
+    "description": "A flavorful and expensive oil with a distinct nutty taste. It is not ideal for high-heat cooking and is best used for salad dressings, baking, or to add a gourmet touch to dishes.",
+    "imageUrl": "https://placehold.co/400x300/c7a09c/4b5563?text=Walnut+Oil"
+  },
+  {
+    "id": "exotic_oil_05",
+    "name": "Hemp Seed Oil",
+    "category": "oils",
+    "subCategory": "Premium Oils",
+    "description": "Known for its rich omega fatty acid content and subtle, nutty flavor. It is not suitable for cooking and is used primarily in dressings, dips, and cold preparations for its health benefits.",
+    "imageUrl": "https://placehold.co/400x300/c7a09c/4b5563?text=Hemp+Seed+Oil"
+  },
+  {
+    "id": "chips_01",
+    "name": "Lay's India's Magic Masala",
+    "category": "beverages",
+    "subCategory": "Chips & Crsips",
+    "description": "A very popular potato chip flavor in India, offering a zesty and spicy mix of local spices and herbs that appeals to the Indian palate. It's a signature product from the Lay's brand.",
+    "imageUrl": "https://placehold.co/400x300/a26c48/ffffff?text=Lay%27s+Magic+Masala"
+  },
+  {
+    "id": "chips_02",
+    "name": "Uncle Chipps Plain Salted",
+    "category": "beverages",
+    "subCategory": "Chips & Crsips",
+    "description": "A classic and nostalgic brand of potato chips in India, known for its simple, no-fuss salted flavor. It is a legacy brand often associated with a reliable and homely taste.",
+    "imageUrl": "https://placehold.co/400x300/a3927d/ffffff?text=Uncle+Chipps+Plain+Salted"
+  },
+  {
+    "id": "chips_03",
+    "name": "Bingo! Mad Angles",
+    "category": "beverages",
+    "subCategory": "Chips & Crsips",
+    "description": "Known for their unique triangular shape, these crisps offer a satisfying crunch and a variety of bold, spicy flavors like 'Achaari Masti,' catering to a younger audience.",
+    "imageUrl": "https://placehold.co/400x300/d44f38/ffffff?text=Bingo!+Mad+Angles"
+  },
+  {
+    "id": "wafers_04",
+    "name": "Balaji Wafers Masala",
+    "category": "beverages",
+    "subCategory": "Chips & Crsips",
+    "description": "A very popular homegrown brand, these thin, crispy potato wafers are known for their distinct and intense masala seasoning. They are a staple in many Indian households.",
+    "imageUrl": "https://placehold.co/400x300/ffbb00/ffffff?text=Balaji+Wafers+Masala"
+  },
+  {
+    "id": "wafers_05",
+    "name": "Parle's Wafers",
+    "category": "beverages",
+    "subCategory": "Chips & Crsips",
+    "description": "From the makers of the iconic Parle-G biscuit, Parle's Wafers are a well-known and widely available brand of potato chips, often favored for their affordability and classic flavors.",
+    "imageUrl": "https://placehold.co/400x300/7d5648/ffffff?text=Parle%27s+Wafers"
+  },
+  {
+    "id": "chips_06",
+    "name": "Pringles Desi Masala Tadka",
+    "category": "beverages",
+    "subCategory": "Chips & Crsips",
+    "description": "Pringles' Indian-inspired flavor, offering a unique 'desi' twist to their classic stackable crisps. It combines the familiar Pringles shape with the spicy and tangy flavors of Indian cuisine.",
+    "imageUrl": "https://placehold.co/400x300/c74e2d/ffffff?text=Pringles+Desi+Masala"
+  },
+  {
+    "id": "chips_07",
+    "name": "Kurkure Masala Munch",
+    "category": "beverages",
+    "subCategory": "Chips & Crsips",
+    "description": "A staple in Indian households, these crunchy and tangy corn puffs are known for their unique 'Tedha Hai Par Mera Hai' tagline and a spicy, 'chatpata' flavor.",
+    "imageUrl": "https://placehold.co/400x300/e8784e/ffffff?text=Kurkure+Masala+Munch"
+  },
+  {
+    "id": "chips_08",
+    "name": "Banana Chips",
+    "category": "beverages",
+    "subCategory": "Chips & Crsips",
+    "description": "A popular South Indian snack, these thin and crispy slices of raw banana are deep-fried, often in coconut oil. They are a common homemade and packaged snack with a distinct texture.",
+    "imageUrl": "https://placehold.co/400x300/e6c76e/ffffff?text=Banana+Chips"
+  },
+  {
+    "id": "chips_09",
+    "name": "Too Yumm! Bhuja",
+    "category": "beverages",
+    "subCategory": "Chips & Crsips",
+    "description": "Marketed as a healthier alternative, these baked chips from the Too Yumm! brand offer a savory 'bhuja' or masala flavor without being fried.",
+    "imageUrl": "https://placehold.co/400x300/8d8c91/ffffff?text=Too+Yumm!+Bhuja"
+  },
+  {
+    "id": "wafers_10",
+    "name": "Bingo! Original Style Salted",
+    "category": "beverages",
+    "subCategory": "Chips & Crsips",
+    "description": "A simple and classic offering from Bingo!, these potato wafers are a straightforward salted option, providing a satisfying crunch and a light, savory taste.",
+    "imageUrl": "https://placehold.co/400x300/3a3a3a/ffffff?text=Bingo!+Original+Salted"
+  },
+  {
+    "id": "chocolate_01",
+    "name": "Cadbury Dairy Milk",
+    "category": "beverages",
+    "subCategory": "Chocolates & Cookies",
+    "description": "An iconic and widely popular milk chocolate bar that is a household name in India. Its sweet, creamy taste makes it a go-to for daily indulgence and gifting.",
+    "imageUrl": "https://placehold.co/400x300/6f3b5e/ffffff?text=Cadbury+Dairy+Milk"
+  },
+  {
+    "id": "chocolate_02",
+    "name": "Nestlé KitKat",
+    "category": "beverages",
+    "subCategory": "Chocolates & Cookies",
+    "description": "Known for its unique combination of crispy wafer fingers covered in chocolate. The 'Have a break, have a KitKat' tagline is well-recognized in the country.",
+    "imageUrl": "https://placehold.co/400x300/a7211e/ffffff?text=Nestle+KitKat"
+  },
+  {
+    "id": "chocolate_03",
+    "name": "Cadbury 5 Star",
+    "category": "beverages",
+    "subCategory": "Chocolates & Cookies",
+    "description": "A popular chocolate bar with a chewy nougat and caramel center. It is known for its sticky, chewy texture and rich taste, making it a classic treat.",
+    "imageUrl": "https://placehold.co/400x300/8c4e1f/ffffff?text=Cadbury+5+Star"
+  },
+  {
+    "id": "chocolate_04",
+    "name": "Nestlé Munch",
+    "category": "beverages",
+    "subCategory": "Chocolates & Cookies",
+    "description": "A crunchy, wafer-based chocolate bar that is a favorite among children and adults alike. It is known for its 'Munch, 'Munch' sound and is a popular budget-friendly option.",
+    "imageUrl": "https://placehold.co/400x300/5b4737/ffffff?text=Nestle+Munch"
+  },
+  {
+    "id": "chocolate_05",
+    "name": "Ferrero Rocher",
+    "category": "beverages",
+    "subCategory": "Chocolates & Cookies",
+    "description": "A premium chocolate known for its golden packaging and unique layered texture with a whole hazelnut, a creamy filling, and a crispy wafer shell, perfect for gifting.",
+    "imageUrl": "https://placehold.co/400x300/f5c35b/ffffff?text=Ferrero+Rocher"
+  },
+  {
+    "id": "cookies_01",
+    "name": "Sunfeast Dark Fantasy Choco Fills",
+    "category": "beverages",
+    "subCategory": "Chocolates & Cookies",
+    "description": "A popular cookie that offers a 'dessert-like' experience with its crunchy shell and a soft, molten chocolate center. It is a go-to choice for a quick indulgence.",
+    "imageUrl": "https://placehold.co/400x300/4a2924/ffffff?text=Dark+Fantasy+Choco+Fills"
+  },
+  {
+    "id": "cookies_02",
+    "name": "Britannia Good Day",
+    "category": "beverages",
+    "subCategory": "Chocolates & Cookies",
+    "description": "One of India's most loved cookie brands, known for its buttery taste and a variety of inclusions like chocolate chips and nuts. It's a classic tea-time snack.",
+    "imageUrl": "https://placehold.co/400x300/ffbb00/ffffff?text=Britannia+Good+Day"
+  },
+  {
+    "id": "cookies_03",
+    "name": "Cadbury Chocobakes Choco Chip Cookies",
+    "category": "beverages",
+    "subCategory": "Chocolates & Cookies",
+    "description": "A cookie brand from Cadbury that appeals to chocolate lovers. It combines the classic choco-chip cookie with the rich flavor of Cadbury chocolate.",
+    "imageUrl": "https://placehold.co/400x300/6f3b5e/ffffff?text=Cadbury+Chocobakes"
+  },
+  {
+    "id": "cookies_04",
+    "name": "Parle Hide & Seek",
+    "category": "beverages",
+    "subCategory": "Chocolates & Cookies",
+    "description": "A premium chocolate chip cookie from Parle, known for its rich cocoa flavor and visible choco-chips. It's a widely available and popular choice for a sweet treat.",
+    "imageUrl": "https://placehold.co/400x300/3e2723/ffffff?text=Parle+Hide+%26+Seek"
+  },
+  {
+    "id": "cookies_05",
+    "name": "Britannia NutriChoice Digestive",
+    "category": "beverages",
+    "subCategory": "Chocolates & Cookies",
+    "description": "A brand focused on healthier snacking, these biscuits are rich in fiber and made with whole wheat, making them a popular choice for health-conscious consumers.",
+    "imageUrl": "https://placehold.co/400x300/8d8c91/ffffff?text=Britannia+NutriChoice"
+  },
+  {
+    "id": "biscuit_01",
+    "name": "Parle-G",
+    "category": "beverages",
+    "subCategory": "Chocolates & Cookies",
+    "description": "An undisputed leader and an iconic biscuit brand in India. Known for its affordability and glucose content, it is a staple in every Indian household and a common pairing with tea.",
+    "imageUrl": "https://placehold.co/400x300/ffbb00/ffffff?text=Parle-G"
+  },
+  {
+    "id": "biscuit_02",
+    "name": "Britannia Marie Gold",
+    "category": "beverages",
+    "subCategory": "Chocolates & Cookies",
+    "description": "A light and crispy biscuit that is a quintessential tea-time companion. Its simple, slightly sweet flavor makes it perfect for dipping in hot beverages.",
+    "imageUrl": "https://placehold.co/400x300/a3927d/ffffff?text=Britannia+Marie+Gold"
+  },
+  {
+    "id": "biscuit_03",
+    "name": "Monaco",
+    "category": "beverages",
+    "subCategory": "Chocolates & Cookies",
+    "description": "A popular salty biscuit from Parle. Its light, crispy, and savory taste is a refreshing change from sweet biscuits, making it a favorite for snacking.",
+    "imageUrl": "https://placehold.co/400x300/d44f38/ffffff?text=Monaco"
+  },
+  {
+    "id": "biscuit_04",
+    "name": "Oreo",
+    "category": "beverages",
+    "subCategory": "Chocolates & Cookies",
+    "description": "A globally famous chocolate sandwich cookie with a creamy filling. The 'Twist, Lick, Dunk' ritual has made it a favorite among kids and adults in India.",
+    "imageUrl": "https://placehold.co/400x300/4a2924/ffffff?text=Oreo"
+  },
+  {
+    "id": "biscuit_05",
+    "name": "Britannia Bourbon",
+    "category": "beverages",
+    "subCategory": "Chocolates & Cookies",
+    "description": "A classic chocolate-flavored cream biscuit with a rich chocolate filling. Its distinct rectangular shape and unique taste have made it a favorite for generations.",
+    "imageUrl": "https://placehold.co/400x300/8c4e1f/ffffff?text=Britannia+Bourbon"
+  },
+  {
+    "id": "papad_01",
+    "name": "Lijjat Urad Papad",
+    "category": "beverages",
+    "subCategory": "Papad & Fryums",
+    "description": "An iconic and widely consumed papad made from urad dal flour. It is known for its light, crispy texture and can be roasted or fried, making it a perfect accompaniment to a meal.",
+    "imageUrl": "https://placehold.co/400x300/f0e6d6/000000?text=Lijjat+Urad+Papad"
+  },
+  {
+    "id": "papad_02",
+    "name": "Moong Papad",
+    "category": "beverages",
+    "subCategory": "Papad & Fryums",
+    "description": "A light and crispy papad made from moong dal flour. It is often milder in flavor than urad papad and is a popular choice for a side dish with rice and dal.",
+    "imageUrl": "https://placehold.co/400x300/e6c76e/000000?text=Moong+Papad"
+  },
+  {
+    "id": "papad_03",
+    "name": "Aloo Papad",
+    "category": "beverages",
+    "subCategory": "Papad & Fryums",
+    "description": "A classic homemade-style papad made from mashed potatoes and spices. It puffs up beautifully when fried, offering a light and flavorful crispy snack, especially popular during festive seasons.",
+    "imageUrl": "https://placehold.co/400x300/a3927d/000000?text=Aloo+Papad"
+  },
+  {
+    "id": "papad_04",
+    "name": "Sabudana Papad",
+    "category": "beverages",
+    "subCategory": "Papad & Fryums",
+    "description": "Made from sabudana (tapioca pearls), this papad is a staple during fasting periods like Navaratri. It has a unique, bubbly texture and a simple, subtle taste.",
+    "imageUrl": "https://placehold.co/400x300/ffffff/000000?text=Sabudana+Papad"
+  },
+  {
+    "id": "fryums_05",
+    "name": "Wheel Fryums",
+    "category": "beverages",
+    "subCategory": "Papad & Fryums",
+    "description": "A popular fryum with a distinct wheel-like shape. These are made from a mix of wheat, corn, and other flours, and puff up into a crunchy, light snack when fried.",
+    "imageUrl": "https://placehold.co/400x300/e8784e/ffffff?text=Wheel+Fryums"
+  },
+  {
+    "id": "fryums_06",
+    "name": "Finger Fryums",
+    "category": "beverages",
+    "subCategory": "Papad & Fryums",
+    "description": "Long, tubular-shaped fryums that are a childhood favorite. They have a satisfying crunch and are often found in assorted colorful packs, flavored with masala.",
+    "imageUrl": "https://placehold.co/400x300/ffbb00/ffffff?text=Finger+Fryums"
+  },
+  {
+    "id": "fryums_07",
+    "name": "Ring Fryums",
+    "category": "beverages",
+    "subCategory": "Papad & Fryums",
+    "description": "Simple ring-shaped fryums that are easy to eat and fun for kids. They are a classic snack, often seasoned with salt and chili powder after frying.",
+    "imageUrl": "https://placehold.co/400x300/d44f38/ffffff?text=Ring+Fryums"
+  },
+  {
+    "id": "fryums_08",
+    "name": "Alphabet Fryums",
+    "category": "beverages",
+    "subCategory": "Papad & Fryums",
+    "description": "A playful and colorful fryum shaped like alphabets, often a popular snack for children. They are typically made from a wheat-based dough and are light and crispy when fried.",
+    "imageUrl": "https://placehold.co/400x300/a7211e/ffffff?text=Alphabet+Fryums"
+  },
+  {
+    "id": "papad_09",
+    "name": "Rice Papad (Khichiya)",
+    "category": "beverages",
+    "subCategory": "Papad & Fryums",
+    "description": "A specialty from North and Western India, this papad is made from rice flour. It is thin, light, and becomes extremely crispy upon frying or roasting, often used for 'masala papad'.",
+    "imageUrl": "https://placehold.co/400x300/c74e2d/ffffff?text=Rice+Papad"
+  },
+  {
+    "id": "papad_10",
+    "name": "Masala Papad",
+    "category": "beverages",
+    "subCategory": "Papad & Fryums",
+    "description": "This is a variant of the traditional papad, typically Urad or Moong, which is topped with chopped onions, tomatoes, coriander, and spices. It is a popular appetizer in restaurants and homes.",
+    "imageUrl": "https://placehold.co/400x300/a26c48/ffffff?text=Masala+Papad"
+  },
+  {
+    "id": "jam_01",
+    "name": "Kissan Jam",
+    "category": "beverages",
+    "subCategory": "Spreads & Sauces",
+    "description": "A legacy brand in India, Kissan is known for its mixed fruit jam. It's a staple in most households and a go-to for breakfast and snacks.",
+    "imageUrl": "https://placehold.co/400x300/a7211e/ffffff?text=Kissan+Jam"
+  },
+  {
+    "id": "pb_01",
+    "name": "Pintola Peanut Butter",
+    "category": "beverages",
+    "subCategory": "Spreads & Sauces",
+    "description": "A very popular and trusted brand, Pintola offers a range of all-natural and high-protein peanut butters, catering to a health-conscious audience.",
+    "imageUrl": "https://placehold.co/400x300/8c4e1f/ffffff?text=Pintola"
+  },
+  {
+    "id": "pb_02",
+    "name": "Sundrop Peanut Butter",
+    "category": "beverages",
+    "subCategory": "Spreads & Sauces",
+    "description": "A legacy brand in India's food sector, Sundrop is known for its creamy and crunchy peanut butter, making it a household name for decades.",
+    "imageUrl": "https://placehold.co/400x300/a3927d/ffffff?text=Sundrop"
+  },
+  {
+    "id": "pb_03",
+    "name": "Myfitness Peanut Butter",
+    "category": "beverages",
+    "subCategory": "Spreads & Sauces",
+    "description": "Gained massive popularity for its unique and delicious chocolate-flavored peanut butter, appealing to a younger demographic and fitness enthusiasts.",
+    "imageUrl": "https://placehold.co/400x300/4a2924/ffffff?text=Myfitness"
+  },
+  {
+    "id": "ketchup_01",
+    "name": "Maggi Ketchup",
+    "category": "beverages",
+    "subCategory": "Spreads & Sauces",
+    "description": "A market leader in India, Maggi's tomato ketchup is known for its balanced sweet and tangy flavor. It is a very common dip for Indian snacks and meals.",
+    "imageUrl": "https://placehold.co/400x300/f8b400/ffffff?text=Maggi+Ketchup"
+  },
+  {
+    "id": "ketchup_02",
+    "name": "Kissan Ketchup",
+    "category": "beverages",
+    "subCategory": "Spreads & Sauces",
+    "description": "Kissan is another leading ketchup brand, famous for its 'sweet and sour' taste. It is widely used in Indian households and fast-food eateries.",
+    "imageUrl": "https://placehold.co/400x300/a7211e/ffffff?text=Kissan+Ketchup"
+  },
+  {
+    "id": "ketchup_03",
+    "name": "Heinz Ketchup",
+    "category": "beverages",
+    "subCategory": "Spreads & Sauces",
+    "description": "A globally recognized brand, Heinz ketchup is popular in India for its rich tomato flavor and thick texture, often found in restaurants and homes.",
+    "imageUrl": "https://placehold.co/400x300/ffbb00/ffffff?text=Heinz+Ketchup"
+  },
+  {
+    "id": "ketchup_04",
+    "name": "Veeba Ketchup",
+    "category": "beverages",
+    "subCategory": "Spreads & Sauces",
+    "description": "A relatively newer brand that has quickly gained popularity for its wide range of sauces and dips. Veeba's ketchup is known for its quality and taste.",
+    "imageUrl": "https://placehold.co/400x300/d44f38/ffffff?text=Veeba+Ketchup"
+  },
+  {
+    "id": "ketchup_05",
+    "name": "Del Monte Ketchup",
+    "category": "beverages",
+    "subCategory": "Spreads & Sauces",
+    "description": "Known for its premium quality products, Del Monte offers a range of sauces and spreads, including a well-regarded tomato ketchup with a rich, tangy flavor.",
+    "imageUrl": "https://placehold.co/400x300/a35f29/ffffff?text=Del+Monte+Ketchup"
+  },
+  {
+    "id": "mayo_01",
+    "name": "Dr. Oetker Funfoods Mayo",
+    "category": "beverages",
+    "subCategory": "Spreads & Sauces",
+    "description": "A market leader in the mayonnaise segment, Funfoods is a go-to brand in India. It offers a variety of flavors, including the popular vegetarian and sandwich mayo.",
+    "imageUrl": "https://placehold.co/400x300/e0e0e0/000000?text=Funfoods+Mayonnaise"
+  },
+  {
+    "id": "mayo_02",
+    "name": "Veeba Mayo",
+    "category": "beverages",
+    "subCategory": "Spreads & Sauces",
+    "description": "Veeba has become a strong competitor in the sauces and dips market. Its mayonnaise is highly popular for its creamy texture and various flavor options like 'Tandoori' and 'Garlic'.",
+    "imageUrl": "https://placehold.co/400x300/8d8c91/ffffff?text=Veeba+Mayonnaise"
+  },
+  {
+    "id": "chinese_sauce_01",
+    "name": "Ching's Secret Sauce",
+    "category": "beverages",
+    "subCategory": "Spreads & Sauces",
+    "description": "The most famous brand for Indo-Chinese products in India. It offers a variety of sauces like Schezwan, Soy, and Chilli Vinegar, which are a must-have for cooking Chinese food at home.",
+    "imageUrl": "https://placehold.co/400x300/c74e2d/ffffff?text=Ching's+Secret"
+  },
+  {
+    "id": "chinese_sauce_02",
+    "name": "Maggi Chinese Sauce",
+    "category": "beverages",
+    "subCategory": "Spreads & Sauces",
+    "description": "While primarily known for its noodles and ketchup, Maggi also has a popular range of Indo-Chinese sauces, including a spicy chili garlic and soy sauce.",
+    "imageUrl": "https://placehold.co/400x300/f8b400/ffffff?text=Maggi+Chinese+Sauce"
+  },
+  {
+    "id": "chinese_sauce_03",
+    "name": "Veeba Sauces",
+    "category": "beverages",
+    "subCategory": "Spreads & Sauces",
+    "description": "Veeba's strong presence in the sauces market extends to the Indo-Chinese category. Its Schezwan and Stir Fry sauces are widely used for their authentic flavor and quality.",
+    "imageUrl": "https://placehold.co/400x300/d44f38/ffffff?text=Veeba+Chinese+Sauce"
+  },
+  {
+    "id": "softdrink_01",
+    "name": "Coca-Cola",
+    "category": "beverages",
+    "subCategory": "Soft Drinks",
+    "description": "The world's most popular cola, it is a dominant force in the Indian market. It is a go-to choice for social gatherings, meals, and a classic thirst-quencher.",
+    "imageUrl": "https://placehold.co/400x300/a7211e/ffffff?text=Coca-Cola"
+  },
+  {
+    "id": "softdrink_02",
+    "name": "Thums Up",
+    "category": "beverages",
+    "subCategory": "Soft Drinks",
+    "description": "An iconic Indian cola brand, known for its strong, fizzy taste and 'Taste the Thunder' tagline. It's particularly popular in India and has a loyal customer base.",
+    "imageUrl": "https://placehold.co/400x300/e8784e/ffffff?text=Thums+Up"
+  },
+  {
+    "id": "softdrink_03",
+    "name": "Sprite",
+    "category": "beverages",
+    "subCategory": "Soft Drinks",
+    "description": "A clear, lemon-lime flavored soft drink known for its crisp, clean taste. It is often marketed as a refreshing drink to beat the heat and is a popular alternative to colas.",
+    "imageUrl": "https://placehold.co/400x300/6fa04b/ffffff?text=Sprite"
+  },
+  {
+    "id": "softdrink_04",
+    "name": "Fanta",
+    "category": "beverages",
+    "subCategory": "Soft Drinks",
+    "description": "A carbonated orange-flavored drink that is a favorite, especially among children. Its bright color and fruity taste make it a staple at parties and celebrations.",
+    "imageUrl": "https://placehold.co/400x300/ff7f00/ffffff?text=Fanta"
+  },
+  {
+    "id": "softdrink_05",
+    "name": "Mirinda",
+    "category": "beverages",
+    "subCategory": "Soft Drinks",
+    "description": "PepsiCo's primary orange-flavored soft drink in India, which is a direct competitor to Fanta. It is well-known for its vibrant flavor and packaging.",
+    "imageUrl": "https://placehold.co/400x300/a35f29/ffffff?text=Mirinda"
+  },
+  {
+    "id": "softdrink_06",
+    "name": "Pepsi",
+    "category": "beverages",
+    "subCategory": "Soft Drinks",
+    "description": "The main rival to Coca-Cola, Pepsi has a strong presence in the Indian market. It is widely consumed and is a key player in the carbonated drinks segment.",
+    "imageUrl": "https://placehold.co/400x300/004a99/ffffff?text=Pepsi"
+  },
+  {
+    "id": "softdrink_07",
+    "name": "Limca",
+    "category": "beverages",
+    "subCategory": "Soft Drinks",
+    "description": "A cloudy lemon-lime drink from Coca-Cola, known for its slightly sweet and tangy flavor. It's a popular choice for those who prefer a non-cola, refreshing beverage.",
+    "imageUrl": "https://placehold.co/400x300/a3927d/ffffff?text=Limca"
+  },
+  {
+    "id": "softdrink_08",
+    "name": "Mountain Dew",
+    "category": "beverages",
+    "subCategory": "Soft Drinks",
+    "description": "A citrus-flavored soft drink with a high level of carbonation. It is popular among the youth, often associated with adventure and daring through its marketing campaigns.",
+    "imageUrl": "https://placehold.co/400x300/2f4f2f/ffffff?text=Mountain+Dew"
+  },
+  {
+    "id": "softdrink_09",
+    "name": "Maaza",
+    "category": "beverages",
+    "subCategory": "Soft Drinks",
+    "description": "A well-known mango-flavored fruit drink. It's a classic summer beverage in India, with a thick, juicy texture that mimics the taste of real mangoes.",
+    "imageUrl": "https://placehold.co/400x300/ffbb00/ffffff?text=Maaza"
+  },
+  {
+    "id": "softdrink_10",
+    "name": "Appy Fizz",
+    "category": "beverages",
+    "subCategory": "Soft Drinks",
+    "description": "A unique, carbonated apple juice drink that is a popular alternative to traditional sodas. It has a light, bubbly texture and a sweet apple flavor.",
+    "imageUrl": "https://placehold.co/400x300/e6c76e/ffffff?text=Appy+Fizz"
+  },
+  {
+    "id": "toothpaste_01",
+    "name": "Colgate Total",
+    "category": "oral",
+    "subCategory": "Toothpaste",
+    "description": "A popular all-in-one toothpaste that provides 12-hour protection against germs. It is known for its comprehensive benefits, including fighting cavities, plaque, and gingivitis, and for its freshness.",
+    "imageUrl": "https://placehold.co/400x300/e0e0e0/000000?text=Colgate+Total"
+  },
+  {
+    "id": "toothpaste_02",
+    "name": "Dabur Red",
+    "category": "oral",
+    "subCategory": "Toothpaste",
+    "description": "A very common and trusted Ayurvedic toothpaste known for its blend of traditional ingredients like clove, mint, and black pepper. It is popular for providing a natural and holistic approach to oral hygiene.",
+    "imageUrl": "https://placehold.co/400x300/a7211e/ffffff?text=Dabur+Red"
+  },
+  {
+    "id": "toothpaste_03",
+    "name": "Pepsodent Germicheck",
+    "category": "oral",
+    "subCategory": "Toothpaste",
+    "description": "A widely used toothpaste from Hindustan Unilever, marketed for its 12-hour germ protection. It is a family favorite for its strong focus on preventing cavities and promoting oral health.",
+    "imageUrl": "https://placehold.co/400x300/004a99/ffffff?text=Pepsodent+Germicheck"
+  },
+  {
+    "id": "toothpaste_04",
+    "name": "Sensodyne",
+    "category": "oral",
+    "subCategory": "Toothpaste",
+    "description": "A dentist-recommended toothpaste specifically formulated for sensitive teeth. It works by either soothing the nerves or building a protective barrier to provide relief from sensitivity.",
+    "imageUrl": "https://placehold.co/400x300/8c4e1f/ffffff?text=Sensodyne"
+  },
+  {
+    "id": "toothpaste_05",
+    "name": "Himalaya Herbals Complete Care",
+    "category": "oral",
+    "subCategory": "Toothpaste",
+    "description": "A popular herbal toothpaste that combines the power of natural ingredients like Neem and Miswak to fight germs and strengthen gums. It is a preferred choice for consumers seeking natural oral care solutions.",
+    "imageUrl": "https://placehold.co/400x300/6fa04b/ffffff?text=Himalaya+Herbals"
+  },
+  {
+    "id": "toothpaste_06",
+    "name": "Closeup Everfresh Red Hot Gel",
+    "category": "oral",
+    "subCategory": "Toothpaste",
+    "description": "India's first gel-based toothpaste, known for its mouthwash-like freshness and whitening properties. Its bright color and strong flavor have made it a favorite among the youth.",
+    "imageUrl": "https://placehold.co/400x300/d44f38/ffffff?text=Closeup+Everfresh"
+  },
+  {
+    "id": "toothpaste_07",
+    "name": "Vicco Vajradanti",
+    "category": "oral",
+    "subCategory": "Toothpaste",
+    "description": "An all-natural, Ayurvedic toothpaste and tooth powder brand that has been a part of Indian households for decades. It is known for its traditional herbal formulation, which promotes strong gums and healthy teeth.",
+    "imageUrl": "https://placehold.co/400x300/ffbb00/ffffff?text=Vicco+Vajradanti"
+  },
+  {
+    "id": "toothpaste_08",
+    "name": "Patanjali Dant Kanti",
+    "category": "oral",
+    "subCategory": "Toothpaste",
+    "description": "A highly popular herbal toothpaste from Patanjali, which gained a strong market share with its affordable price and natural ingredients. It is a well-known name in the herbal oral care segment.",
+    "imageUrl": "https://placehold.co/400x300/8d8c91/ffffff?text=Patanjali+Dant+Kanti"
+  },
+  {
+    "id": "toothpaste_09",
+    "name": "Dabur Meswak",
+    "category": "oral",
+    "subCategory": "Toothpaste",
+    "description": "This toothpaste is made with extracts from the Meswak plant, which is traditionally known for its dental care properties. It is marketed for its ability to fight plaque and give a fresh breath.",
+    "imageUrl": "https://placehold.co/400x300/4a2924/ffffff?text=Dabur+Meswak"
+  },
+  {
+    "id": "toothpaste_10",
+    "name": "Colgate Active Salt",
+    "category": "oral",
+    "subCategory": "Toothpaste",
+    "description": "A variant from Colgate that incorporates salt to fight germs and gum problems. It is a popular choice for those who prefer the traditional oral care benefits of salt.",
+    "imageUrl": "https://placehold.co/400x300/a3927d/ffffff?text=Colgate+Active+Salt"
+  },
+  {
+    "id": "mouthwash_01",
+    "name": "Listerine",
+    "category": "oral",
+    "subCategory": "Mouthwash",
+    "description": "A globally recognized brand and a market leader in India. Listerine is known for its strong, antiseptic properties that kill germs and provide long-lasting fresh breath. It comes in various flavors like Cool Mint and Fresh Burst.",
+    "imageUrl": "https://placehold.co/400x300/004a99/ffffff?text=Listerine"
+  },
+  {
+    "id": "mouthwash_02",
+    "name": "Colgate Plax",
+    "category": "oral",
+    "subCategory": "Mouthwash",
+    "description": "Colgate's popular mouthwash offering, known for its antibacterial formula that provides germ protection and fresh breath. It is a common choice for daily oral hygiene routines.",
+    "imageUrl": "https://placehold.co/400x300/e0e0e0/000000?text=Colgate+Plax"
+  },
+  {
+    "id": "mouthwash_03",
+    "name": "Himalaya Active Fresh",
+    "category": "oral",
+    "subCategory": "Mouthwash",
+    "description": "A popular herbal mouthwash that is alcohol-free and fluoride-free. It is made with natural ingredients like fennel and mint to provide a refreshing and natural oral rinse.",
+    "imageUrl": "https://placehold.co/400x300/6fa04b/ffffff?text=Himalaya+Mouthwash"
+  },
+  {
+    "id": "mouthwash_04",
+    "name": "Sensodyne Complete Protection+",
+    "category": "oral",
+    "subCategory": "Mouthwash",
+    "description": "A mouthwash designed for sensitive teeth and gums. It is part of the Sensodyne family of products and offers a gentle yet effective way to protect against sensitivity and provide a clean feel.",
+    "imageUrl": "https://placehold.co/400x300/8c4e1f/ffffff?text=Sensodyne+Mouthwash"
+  },
+  {
+    "id": "mouthwash_05",
+    "name": "Dabur Red Pulling Oil",
+    "category": "oral",
+    "subCategory": "Mouthwash",
+    "description": "Inspired by the traditional Ayurvedic practice of oil pulling, this product is a blend of natural oils and spices. It is used as a mouth rinse to support gum health and overall oral hygiene.",
+    "imageUrl": "https://placehold.co/400x300/a7211e/ffffff?text=Dabur+Red+Pulling+Oil"
+  },
+  {
+    "id": "normal_soap_01",
+    "name": "Lux",
+    "category": "soaps",
+    "subCategory": "Normal Soap",
+    "description": "A classic beauty soap known for its pleasant fragrances and creamy lather. It is a long-standing favorite, often associated with a touch of luxury at an affordable price, and is a staple in many Indian homes.",
+    "imageUrl": "https://placehold.co/400x300/e6c76e/ffffff?text=Lux"
+  },
+  {
+    "id": "normal_soap_02",
+    "name": "Lifebuoy",
+    "category": "soaps",
+    "subCategory": "Normal Soap",
+    "description": "One of the most popular germ protection soaps, Lifebuoy is synonymous with hygiene in India. Its distinctive carbolic fragrance and effectiveness in fighting germs have made it a trusted name for decades.",
+    "imageUrl": "https://placehold.co/400x300/a7211e/ffffff?text=Lifebuoy"
+  },
+  {
+    "id": "normal_soap_03",
+    "name": "Dettol",
+    "category": "soaps",
+    "subCategory": "Normal Soap",
+    "description": "A well-known antiseptic soap, Dettol is a household name for its germ-killing properties. It's often used for a sense of deep cleansing and protection against illness-causing germs.",
+    "imageUrl": "https://placehold.co/400x300/a7a7a7/ffffff?text=Dettol"
+  },
+  {
+    "id": "normal_soap_04",
+    "name": "Dove",
+    "category": "soaps",
+    "subCategory": "Normal Soap",
+    "description": "Marketed as a 'beauty bar' rather than a soap, Dove is celebrated for its moisturizing properties. It is a go-to for people with dry or sensitive skin due to its quarter moisturizing cream content.",
+    "imageUrl": "https://placehold.co/400x300/f0e6d6/000000?text=Dove"
+  },
+  {
+    "id": "normal_soap_05",
+    "name": "Pears",
+    "category": "soaps",
+    "subCategory": "Normal Soap",
+    "description": "Known for its translucent, glycerin-based formula, Pears is a gentle soap that is easy on the skin. It is a classic choice for maintaining skin's moisture and is widely used across all age groups.",
+    "imageUrl": "https://placehold.co/400x300/b8e0e0/000000?text=Pears"
+  },
+  {
+    "id": "herbal_soap_01",
+    "name": "Medimix",
+    "category": "soaps",
+    "subCategory": "Herbal Soaps",
+    "description": "A very popular Ayurvedic soap in India, Medimix is known for its blend of 18 herbs to fight skin infections and rashes. It is a trusted brand for those seeking natural skincare solutions.",
+    "imageUrl": "https://placehold.co/400x300/4a875d/ffffff?text=Medimix"
+  },
+  {
+    "id": "herbal_soap_02",
+    "name": "Santoor",
+    "category": "soaps",
+    "subCategory": "Herbal Soaps",
+    "description": "Santoor is a household favorite known for its core ingredients of sandalwood and turmeric. It is widely used by women and is often marketed with the promise of youthful, glowing skin.",
+    "imageUrl": "https://placehold.co/400x300/ffbb00/000000?text=Santoor"
+  },
+  {
+    "id": "herbal_soap_03",
+    "name": "Himalaya Herbals Neem & Turmeric",
+    "category": "soaps",
+    "subCategory": "Herbal Soaps",
+    "description": "This soap from Himalaya is known for its antibacterial and antifungal properties. It is a popular choice for those with oily or acne-prone skin, combining traditional Ayurvedic ingredients.",
+    "imageUrl": "https://placehold.co/400x300/8d8c91/ffffff?text=Himalaya+Herbal+Soap"
+  },
+  {
+    "id": "herbal_soap_04",
+    "name": "Mysore Sandal Soap",
+    "category": "soaps",
+    "subCategory": "Herbal Soaps",
+    "description": "An iconic Indian brand, this soap is made from 100% pure sandalwood oil, which gives it a luxurious and distinct fragrance. It has been a symbol of tradition and quality for over a century.",
+    "imageUrl": "https://placehold.co/400x300/a35f29/ffffff?text=Mysore+Sandal"
+  },
+  {
+    "id": "herbal_soap_05",
+    "name": "Margo",
+    "category": "soaps",
+    "subCategory": "Herbal Soaps",
+    "description": "Margo is an old and trusted brand whose main ingredient is Neem, known for its powerful antibacterial and medicinal properties. It is widely used for protecting skin from germs and various skin problems.",
+    "imageUrl": "https://placehold.co/400x300/6fa04b/ffffff?text=Margo"
+  },
+  {
+    "id": "baby_soap_01",
+    "name": "Johnson's Baby Soap",
+    "category": "soaps",
+    "subCategory": "Baby Soaps",
+    "description": "A globally recognized and trusted brand for baby care in India. Its soap is known for being mild and gentle, with a familiar, pleasant fragrance that has been a part of baby bathing rituals for generations.",
+    "imageUrl": "https://placehold.co/400x300/f0e6d6/000000?text=Johnson's+Baby+Soap"
+  },
+  {
+    "id": "baby_soap_02",
+    "name": "Himalaya Gentle Baby Soap",
+    "category": "soaps",
+    "subCategory": "Baby Soaps",
+    "description": "Made with herbal ingredients like olive oil and almond oil, this soap is known for its mildness. It is a popular choice for parents looking for a soap that is free from parabens, SLES, and synthetic colors.",
+    "imageUrl": "https://placehold.co/400x300/a7a7a7/ffffff?text=Himalaya+Baby+Soap"
+  },
+  {
+    "id": "baby_soap_03",
+    "name": "Baby Dove",
+    "category": "soaps",
+    "subCategory": "Baby Soaps",
+    "description": "A baby-specific product from the Dove brand, it is known for its moisturizing formula. It is often recommended for babies with sensitive skin as it helps retain natural skin moisture.",
+    "imageUrl": "https://placehold.co/400x300/b8e0e0/000000?text=Baby+Dove"
+  },
+  {
+    "id": "baby_soap_04",
+    "name": "Sebamed Baby Cleansing Bar",
+    "category": "soaps",
+    "subCategory": "Baby Soaps",
+    "description": "A popular choice for its soap-free, pH 5.5 formula, which is ideal for a baby's delicate skin. It is recommended by dermatologists for its ability to maintain the skin's natural protective layer.",
+    "imageUrl": "https://placehold.co/400x300/8d8c91/ffffff?text=Sebamed+Baby+Soap"
+  },
+  {
+    "id": "baby_soap_05",
+    "name": "Mamaearth Milky Soft Baby Soap",
+    "category": "soaps",
+    "subCategory": "Baby Soaps",
+    "description": "A natural and toxin-free baby soap that has gained popularity among new-age parents. It is often made with ingredients like milk, oats, and calendula, focusing on gentle and natural care.",
+    "imageUrl": "https://placehold.co/400x300/d44f38/ffffff?text=Mamaearth+Baby+Soap"
+  },
+  {
+    "id": "shower_gel_01",
+    "name": "Pears Pure & Gentle Shower Gel",
+    "category": "soaps",
+    "subCategory": "Shower Gels",
+    "description": "Pears extended its soap popularity into shower gels, offering a gentle, glycerin-based formula that is mild on the skin and helps maintain its moisture, providing a similar experience to its soap bar.",
+    "imageUrl": "https://placehold.co/400x300/ff7f00/ffffff?text=Pears+Shower+Gel"
+  },
+  {
+    "id": "shower_gel_02",
+    "name": "Dove Deeply Nourishing Body Wash",
+    "category": "soaps",
+    "subCategory": "Shower Gels",
+    "description": "One of the most used body washes, it is known for its NutriumMoisture technology that helps nourish the skin while cleansing, making it a favorite for those with dry skin.",
+    "imageUrl": "https://placehold.co/400x300/f0e6d6/000000?text=Dove+Body+Wash"
+  },
+  {
+    "id": "shower_gel_03",
+    "name": "Nivea Shower Gels",
+    "category": "soaps",
+    "subCategory": "Shower Gels",
+    "description": "Nivea offers a wide variety of shower gels, known for their creamy texture and pleasant fragrances. They are a popular choice for their moisturizing properties and a refreshing bathing experience.",
+    "imageUrl": "https://placehold.co/400x300/b8e0e0/000000?text=Nivea+Shower+Gel"
+  },
+  {
+    "id": "shower_gel_04",
+    "name": "Lux Body Wash",
+    "category": "soaps",
+    "subCategory": "Shower Gels",
+    "description": "Mirroring its soap line, Lux offers body washes with rich scents and a luxurious feel. The gels are designed to provide a perfumed, indulgent bathing experience that leaves the skin feeling soft.",
+    "imageUrl": "https://placehold.co/400x300/e6c76e/ffffff?text=Lux+Body+Wash"
+  },
+  {
+    "id": "shower_gel_05",
+    "name": "Fiama Di Wills Gel Bars",
+    "category": "soaps",
+    "subCategory": "Shower Gels",
+    "description": "Known for its unique gel-based formula, Fiama's shower gels offer a light, bubbly lather. They are popular for their vibrant colors, fresh fragrances, and a refreshing feel on the skin.",
+    "imageUrl": "https://placehold.co/400x300/c74e2d/ffffff?text=Fiama+Shower+Gel"
+  }
+]

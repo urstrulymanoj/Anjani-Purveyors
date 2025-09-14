@@ -3,7 +3,7 @@ import React, { useState, useEffect } from "react";
 import ProductsPageHero from "../components/ProductsPageHero/ProductsPageHero";
 import "./ProductsPage.css";
 import "./ProductsPopUp.css"; // Import the new CSS file
-import productsData from "./ProductsData.json";
+import productsData from "./FruitsData.json";
 
 // Reusable ProductCard component
 const ProductCard = ({ product, onClick }) => (
@@ -47,11 +47,11 @@ const ProductsPage = () => {
 
   const filtersByCategory = {
     fruits: ["All", "Fresh Fruits", "Exotic Fruits", "Dry Fruits", "Fresh Vegetables", "Exotic Vegetables"],
-    grains: ["All", "Whole Grains", "Lentils", "Beans", "Flours", "Gluten Free Flours"],
-    spices: ["All", "Tea & Coffee", "Sweetners", "Whole Spices", "Powder Spices", "Exotic Spices"],
+    grains: ["All", "Whole Grains", "Lentils", "Beans", "Flours"],
+    spices: ["All", "Tea & Coffee", "Sweeteners", "Whole Spices", "Powder Spices", "Exotic Spices"],
     oils: ["All", "Everyday Oils", "Premium Oils"],
     beverages: ["All", "Chips & Crsips", "Chocolates & Cookies", "Papad & Fryums", "Spreads & Sauces", "Soft Drinks"],
-    oral: ["All", "Tooth Paste", "Mouth Wash"],
+    oral: ["All", "Toothpaste", "Mouthwash"],
     soaps: ["All", "Herbal Soaps", "Baby Soaps", "Shower Gels"],
     handwash: ["All"],
     lotions: ["All", "Moisturizers", "Sunscreens"],
