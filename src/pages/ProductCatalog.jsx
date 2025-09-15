@@ -24,30 +24,35 @@ const categoriesData = {
   "Foods and Grocery": [
     {
       title: "Fruits and Vegetables",
+      key: "fruits",
       description: "Organic fruits and vegetables, delivered fresh",
       color: "#D8E6F0",
       imageUrl: fruitsImage
     },
     {
       title: "Grains and Pulses",
+      key: "grains",
       description: "Whole grains, pulses and flours",
       color: "#F7F7D9",
       imageUrl: grainsIamge
     },
     {
       title: "Tea, Coffee and Spices",
+      key: "spices",
       description: "Premium quality tea, coffee, sweeteners and spices",
       color: "#EAE7F6",
       imageUrl: spicesImage
     },
     {
       title: "Oils",
+      key: "oils",
       description: "Healthy cooking oils",
       color: "#EAE7F6",
       imageUrl: oilsImage
     },
     {
       title: "Snacks and Beverages",
+      key: "beverages",
       description: "Munchkins, crisps and cold drinks for your cravings",
       color: "#EAE7F6",
       imageUrl: snacksImage
@@ -56,30 +61,35 @@ const categoriesData = {
   "Body Care": [
     {
       title: "Oral Care",
+      key: "oral",
       description: "Oral hygiene essentials",
       color: "#F2D973",
       imageUrl: toothPasteImage
     },
     {
       title: "Soaps",
+      key: "soaps",
       description: "Premium soaps, baby soaps and shower gels",
       color: "#E2C9C9",
       imageUrl: soapsImage
     },
     {
       title: "Handwash",
+      key: "handwash",
       description: "Germ protection and gentle handwash",
       color: "#E2C9C9",
       imageUrl: handwashImage
     },
     {
       title: "Skin Care",
+      key: "lotions",
       description: "Sunscreen, moisturizers and body lotions for your skin",
       color: "#E2C9C9",
       imageUrl: bodyLotionImage
     },
     {
       title: "Hair Care",
+      key: "haircare",
       description: "Shampoos, conditioners, and hair oils",
       color: "#E2C9C9",
       imageUrl: shampooImage
@@ -88,30 +98,35 @@ const categoriesData = {
   "Cleaning and Sanitation": [
     {
       title: "Laundry Essentials",
+      key: "laundry",
       description: "Detergent bars, detergent powders and fabric softners",
       color: "#B4D8C7",
       imageUrl: laundryImage
     },
     {
       title: "Dishwashing Gels and Bars",
+      key: "dishwash",
       description: "Dishwashing bars, dishwashing powders and dishwashing gels",
       color: "#A0D9F2",
       imageUrl: dishwasherImage
     },
     {
       title: "Toilet and Bathroom Supplies",
+      key: "bathroom",
       description: "Toiletries for clean and fresh washrooms",
       color: "#A0D9F2",
       imageUrl: toiletCleanerImage
     },
     {
       title: "Floor and Surface Cleaners",
+      key: "floorcleaners",
       description: "Cleaning solutions for clean and fresh homes",
       color: "#A0D9F2",
       imageUrl: surfaceCleanerImage
     },
     {
       title: "Repelents and Disinfectants",
+      key: "repelents",
       description: "Safety solutions against bugs, insects and germs",
       color: "#A0D9F2",
       imageUrl: repelentsImage
@@ -137,6 +152,7 @@ const ProductCatalog = () => {
               description={category.description}
               color={category.color}
               imageUrl={category.imageUrl}
+              categoryKey={category.key}
             />
           ))}
         </div>
@@ -153,6 +169,7 @@ const ProductCatalog = () => {
               description={category.description}
               color={category.color}
               imageUrl={category.imageUrl}
+              categoryKey={category.key}
             />
           ))}
         </div>
@@ -169,6 +186,7 @@ const ProductCatalog = () => {
               description={category.description}
               color={category.color}
               imageUrl={category.imageUrl}
+              categoryKey={category.key}
             />
           ))}
         </div>

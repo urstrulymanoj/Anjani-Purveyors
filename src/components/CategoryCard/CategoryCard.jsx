@@ -1,7 +1,15 @@
 import React from 'react';
+import { useNavigate } from 'react-router-dom'; // Add this line
 import './CategoryCard.css';
 
-const CategoryCard = ({ title, description, color, imageUrl }) => {
+const CategoryCard = ({ title, description, color, imageUrl, categoryKey }) => {
+
+  const navigate = useNavigate();
+
+  const handleClick = () => {
+    // Correctly navigate to the 'ProductsPage' path defined in your router
+    navigate('/ProductsPage', { state: { category: categoryKey } });
+  };
   // Determine text color based on background luminance for better contrast
   const isDarkBackground = (color) => {
     if (!color) return false;
@@ -17,7 +25,7 @@ const CategoryCard = ({ title, description, color, imageUrl }) => {
   const headerTextColor = isDarkBackground(color) ? '#fff' : '#333';
 
   return (
-    <div className="category-card" style={{ backgroundColor: color }}>
+    <div className="category-card" style={{ backgroundColor: color }} onClick={handleClick}>
       <div className="card-header">
         {imageUrl && <img src={imageUrl} alt={title} className="category-image" />}
         

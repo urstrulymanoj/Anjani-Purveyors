@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from "react";
+import { useLocation } from "react-router-dom";
 // Assuming ProductsPageHero is imported from a separate file as per your code
 import ProductsPageHero from "../components/ProductsPageHero/ProductsPageHero";
 import "./ProductsPage.css";
@@ -39,6 +40,8 @@ const ProductDetailsPopup = ({ product, onClose }) => {
 };
 
 const ProductsPage = () => {
+
+  const location = useLocation(); // Initialize the hook here
   const [selectedCategory, setSelectedCategory] = useState("fruits");
   const [filteredProducts, setFilteredProducts] = useState([]);
   const [selectedFilter, setSelectedFilter] = useState("All");
@@ -62,6 +65,16 @@ const ProductsPage = () => {
     floorcleaners: ["All", "Floor Cleaners", "Surface Cleaners", "Room Freshners"],
     repelents: ["All", "Machines & Refills", "Sprays", "Gels", "Disinfectants"]
   };
+
+  useEffect(() => {
+    // Check if location.state exists and has a category property
+    if (location.state && location.state.category) {
+      // The passed category is now a standardized key (e.g., "soaps")
+      setSelectedCategory(location.state.category);
+    }
+  }, [location.state]);
+  
+  // The rest of your useEffect hook remains the same
 
   useEffect(() => {
     // Filter products based on selected category and sub-category

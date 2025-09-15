@@ -682,7 +682,7 @@
     {
         "id": "tea0001",
         "name": "Tata Tea",
-        "category": "beverages",
+        "category": "spices",
         "subCategory": "Tea & Coffee",
         "description": "One of India's most recognized tea brands, Tata Tea is a household name known for its rich taste and strong, brisk flavor.",
         "imageUrl": "https://placehold.co/400x300/a3d9a4/4b5563?text=Tata+Tea"
@@ -690,7 +690,7 @@
     {
         "id": "tea0002",
         "name": "Brooke Bond Red Label",
-        "category": "beverages",
+        "category": "spices",
         "subCategory": "Tea & Coffee",
         "description": "As one of the largest-selling tea brands in India, Red Label is celebrated for its balanced flavor and rich color, making it a staple for many.",
         "imageUrl": "https://placehold.co/400x300/ffbf00/4b5563?text=Red+Label"
@@ -698,7 +698,7 @@
     {
         "id": "tea0003",
         "name": "Wagh Bakri Tea",
-        "category": "beverages",
+        "category": "spices",
         "subCategory": "Tea & Coffee",
         "description": "Known for its consistent quality and robust, full-bodied flavor, Wagh Bakri is a popular choice, especially in Western India.",
         "imageUrl": "https://placehold.co/400x300/d2b48c/4b5563?text=Wagh+Bakri"
@@ -706,7 +706,7 @@
     {
         "id": "tea0004",
         "name": "Lipton",
-        "category": "beverages",
+        "category": "spices",
         "subCategory": "Tea & Coffee",
         "description": "Globally recognized, Lipton has a strong presence in India, with its green tea variants being particularly popular among health-conscious consumers.",
         "imageUrl": "https://placehold.co/400x300/c7a09c/4b5563?text=Lipton"
@@ -714,7 +714,7 @@
     {
         "id": "tea0005",
         "name": "Taj Mahal Tea",
-        "category": "beverages",
+        "category": "spices",
         "subCategory": "Tea & Coffee",
         "description": "This premium brand is known for its exquisite aroma and taste, often enjoyed on special occasions and by those who appreciate a fine blend.",
         "imageUrl": "https://placehold.co/400x300/b0c4de/4b5563?text=Taj+Mahal"
