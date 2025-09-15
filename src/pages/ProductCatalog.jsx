@@ -1,6 +1,7 @@
 import React from 'react';
-import ProductsHero from '../components/ProductsHero/ProductsHero';
-import './ProductCatalog.css';
+import CategoryCard from '../components/CategoryCard/CategoryCard';
+import ProductsHero from "../components/ProductsHero/ProductsHero";
+import './ProductCatalog.css'; // For grid layout
 
 // Importing images from the assets folder
 import fruitsImage from '../assets/FruitCategory.png';
@@ -19,118 +20,160 @@ import toiletCleanerImage from '../assets/toiletCleaner1.png'
 import surfaceCleanerImage from '../assets/floorCleaners1.png'
 import repelentsImage from '../assets/repelant1.png'
 
-
-
-// Card component to display each product category
-const Card = ({ title, description, backgroundImage }) => (
-  <div className="card" style={{ backgroundImage: `url(${backgroundImage})` }}>
-    <h3>{title}</h3>
-    <p>{description}</p>
-  </div>
-);
+const categoriesData = {
+  "Foods and Grocery": [
+    {
+      title: "Fruits and Vegetables",
+      description: "Organic fruits and vegetables, delivered fresh",
+      color: "#D8E6F0",
+      imageUrl: fruitsImage
+    },
+    {
+      title: "Grains and Pulses",
+      description: "Whole grains, pulses and flours",
+      color: "#F7F7D9",
+      imageUrl: grainsIamge
+    },
+    {
+      title: "Tea, Coffee and Spices",
+      description: "Premium quality tea, coffee, sweeteners and spices",
+      color: "#EAE7F6",
+      imageUrl: spicesImage
+    },
+    {
+      title: "Oils",
+      description: "Healthy cooking oils",
+      color: "#EAE7F6",
+      imageUrl: oilsImage
+    },
+    {
+      title: "Snacks and Beverages",
+      description: "Munchkins, crisps and cold drinks for your cravings",
+      color: "#EAE7F6",
+      imageUrl: snacksImage
+    },
+  ],
+  "Body Care": [
+    {
+      title: "Oral Care",
+      description: "Oral hygiene essentials",
+      color: "#F2D973",
+      imageUrl: toothPasteImage
+    },
+    {
+      title: "Soaps",
+      description: "Premium soaps, baby soaps and shower gels",
+      color: "#E2C9C9",
+      imageUrl: soapsImage
+    },
+    {
+      title: "Handwash",
+      description: "Germ protection and gentle handwash",
+      color: "#E2C9C9",
+      imageUrl: handwashImage
+    },
+    {
+      title: "Skin Care",
+      description: "Sunscreen, moisturizers and body lotions for your skin",
+      color: "#E2C9C9",
+      imageUrl: bodyLotionImage
+    },
+    {
+      title: "Hair Care",
+      description: "Shampoos, conditioners, and hair oils",
+      color: "#E2C9C9",
+      imageUrl: shampooImage
+    },
+  ],
+  "Cleaning and Sanitation": [
+    {
+      title: "Laundry Essentials",
+      description: "Detergent bars, detergent powders and fabric softners",
+      color: "#B4D8C7",
+      imageUrl: laundryImage
+    },
+    {
+      title: "Dishwashing Gels and Bars",
+      description: "Dishwashing bars, dishwashing powders and dishwashing gels",
+      color: "#A0D9F2",
+      imageUrl: dishwasherImage
+    },
+    {
+      title: "Toilet and Bathroom Supplies",
+      description: "Toiletries for clean and fresh washrooms",
+      color: "#A0D9F2",
+      imageUrl: toiletCleanerImage
+    },
+    {
+      title: "Floor and Surface Cleaners",
+      description: "Cleaning solutions for clean and fresh homes",
+      color: "#A0D9F2",
+      imageUrl: surfaceCleanerImage
+    },
+    {
+      title: "Repelents and Disinfectants",
+      description: "Safety solutions against bugs, insects and germs",
+      color: "#A0D9F2",
+      imageUrl: repelentsImage
+    },
+  ],
+};
 
 const ProductCatalog = () => {
   return (
+
     <div>
-      <ProductsHero />
-      <div>
-        
-        {/* Food Category Section */}
-        <section className="food-section">
-          <h2>Food and Grocery</h2>
-          <div className="cards-container">
-            <Card 
-              title="Fruits and Vegetables" 
-              //description="Fresh fruits, dry fruits and vegetables" 
-              backgroundImage={fruitsImage} 
-            />
-            <Card 
-              title="Grains and Pulses" 
-              //description="Whole Grains, pulses and flours" 
-              backgroundImage={grainsIamge} 
-            />
-            <Card 
-              title="Tea, Coffee and Spices" 
-              //description="Premium quality spices" 
-              backgroundImage={spicesImage} 
-            />
-            <Card 
-              title="Oils" 
-              //description="Healthy cooking oils" 
-              backgroundImage={oilsImage} 
-            />
-            <Card 
-              title="Snacks and Beverages" 
-              //description="Munchkins, crisps and cold drinks" 
-              backgroundImage={snacksImage} 
-            />
-          </div>
-        </section>
+      <ProductsHero></ProductsHero>
+    <div className="catalog-container">
 
-        {/* Body and Personal Care Category Section */}
-        <section className="food-section">
-          <h2>Body and Personal Care</h2>
-          <div className="cards-container">
-            <Card 
-              title="Oral Care" 
-              //description="Oral hygiene essentials" 
-              backgroundImage={toothPasteImage} 
+      {/* Foods and Grocery Section */}
+      <section className="category-section">
+        <h2 className="section-title">Foods and Grocery</h2>
+        <div className="card-grid">
+          {categoriesData["Foods and Grocery"].map((category, index) => (
+            <CategoryCard
+              key={index}
+              title={category.title}
+              description={category.description}
+              color={category.color}
+              imageUrl={category.imageUrl}
             />
-            <Card 
-              title="Soaps" 
-              //description="Organic and premium soaps" 
-              backgroundImage={soapsImage} 
-            />
-            <Card 
-              title="Handwash" 
-              //description="Germ protection and gentle handwash" 
-              backgroundImage={handwashImage} 
-            />
-            <Card 
-              title="Body Lotions" 
-              //description="Premium quality body lotions" 
-              backgroundImage={bodyLotionImage} 
-            />
-            <Card 
-              title="Hair Care" 
-              //description="Premium hair care products" 
-              backgroundImage={shampooImage} 
-            />
-          </div>
-        </section>
+          ))}
+        </div>
+      </section>
 
-        {/* Cleaning and Sanitation Products Category Section */}
-        <section className="food-section">
-          <h2>Cleaning and Sanitation</h2>
-          <div className="cards-container">
-            <Card 
-              title="Laundry Essentials" 
-              //description="Fabric cleaning solutions" 
-              backgroundImage={laundryImage} 
+      {/* Body Care Section */}
+      <section className="category-section">
+        <h2 className="section-title">Body Care</h2>
+        <div className="card-grid">
+          {categoriesData["Body Care"].map((category, index) => (
+            <CategoryCard
+              key={index}
+              title={category.title}
+              description={category.description}
+              color={category.color}
+              imageUrl={category.imageUrl}
             />
-            <Card 
-              title="Dishwashing Gels and Bars" 
-              //description="Dishwashing Solutions" 
-              backgroundImage={dishwasherImage} 
+          ))}
+        </div>
+      </section>
+
+      {/* Cleaning and Sanitation Section */}
+      <section className="category-section">
+        <h2 className="section-title">Cleaning and Sanitation</h2>
+        <div className="card-grid">
+          {categoriesData["Cleaning and Sanitation"].map((category, index) => (
+            <CategoryCard
+              key={index}
+              title={category.title}
+              description={category.description}
+              color={category.color}
+              imageUrl={category.imageUrl}
             />
-            <Card 
-              title="Toilet and Bathroom Supplies" 
-              //description="Toiletries for clean and fresh washrooms" 
-              backgroundImage={toiletCleanerImage} 
-            />
-            <Card 
-              title="Floor and Surface Cleaners" 
-              //description="Cleaning solutions for clean and fresh homes" 
-              backgroundImage={surfaceCleanerImage} 
-            />
-            <Card 
-              title="Repelents and Disinfectants" 
-              //description="Safety solutions against bugs, insects and germs" 
-              backgroundImage={repelentsImage} 
-            />
-          </div>
-        </section>
-      </div>
+          ))}
+        </div>
+      </section>
+    </div>
     </div>
   );
 };

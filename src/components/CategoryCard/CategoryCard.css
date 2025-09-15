@@ -1,0 +1,53 @@
+.category-card {
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  font-family: Arial, sans-serif;
+  transition: transform 0.2s ease-in-out;
+  display: flex;
+  flex-direction: column;
+}
+
+.category-card:hover {
+  transform: translateY(-5px);
+}
+
+.card-header {
+  padding: 0; /* Remove padding if you want the image to go edge-to-edge */
+  /* Remove min-height if present and let the image define the height */
+  overflow: hidden; /* Important: Hides any overflow if image slightly exceeds bounds */
+  position: relative; /* If you want to absolutely position text over the image later */
+}
+
+.category-image {
+  width: 100%; /* Make image take full width of its parent */
+  height: 100%; /* Make image take full height of its parent */
+  object-fit: cover; /* This is the key: it crops the image to fill the container, maintaining aspect ratio */
+  display: block; /* Removes any extra space below the image if it's an inline element */
+  margin-bottom: 0; /* Remove any bottom margin if it's pushing things */
+}
+
+.card-header h2 {
+  margin: 0;
+  font-size: 1.5rem; /* Reduced font size to better fit a balanced card design */
+  font-weight: bold;
+}
+
+.card-content {
+  background-color: #fff;
+  padding: 20px;
+  text-align: center;
+  flex-grow: 1;
+}
+
+.card-content p:first-child {
+  font-weight: bold;
+  color: #333;
+  margin: 0 0 5px 0;
+}
+
+.card-content p:last-child {
+  font-size: 0.9rem;
+  color: #777;
+  margin: 0;
+}
