@@ -39,7 +39,6 @@ const Contact = () => {
                 questions and suggestions are valuable to us as we strive to provide exceptional service to our customers.</p>
             <ul>
                 <li><img src={mail_icon} alt="" />anjanipurveyorspvtltd@gmail.com</li>
-                <li><img src={phone_icon} alt="" />Amit Solanki : 9712149076</li>
                 <li><img src={phone_icon} alt="" />Rakesh Parmar : 8866764161</li>
                 <li><img src={location_icon} alt="" />Shop No. 4, Anmol Appt, Opp. Virmaya Nagar, <br /> Behrampura, Ahmedabad-380022</li>
 

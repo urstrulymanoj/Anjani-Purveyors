@@ -76,8 +76,10 @@
         width: 35px;
     }
 
+    /* Change the width of the list items to 100% to ensure each card takes full width */
     .testimonials ul li{
         padding: 10px;
+        width: 100%; 
     }
 
     .slide{
