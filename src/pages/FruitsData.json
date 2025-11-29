@@ -5,7 +5,7 @@
         "category": "fruits",
         "subCategory": "Fresh Fruits",
         "description": "Crisp and juicy Red Delicious apples, perfect for a healthy snack or baking.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/apples.png"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/fruits/apple.png"
     },
     {
         "id": "fruit0002",
@@ -13,7 +13,7 @@
         "category": "fruits",
         "subCategory": "Fresh Fruits",
         "description": "Sweet, organic bananas, a great source of potassium and energy.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/bananas.png"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/fruits/banana.png"
     },
     {
         "id": "fruit0003",
@@ -21,7 +21,7 @@
         "category": "fruits",
         "subCategory": "Fresh Fruits",
         "description": "Sweet and tangy oranges, packed with Vitamin C. Great for juicing or eating whole.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/oranges.png"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/fruits/orange.png"
     },
     {
         "id": "fruit0004",
@@ -29,7 +29,7 @@
         "category": "fruits",
         "subCategory": "Fresh Fruits",
         "description": "Seedless green grapes that are crisp, sweet, and incredibly refreshing.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/grapes.png"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/fruits/grape.png"
     },
     {
         "id": "fruit0005",
@@ -37,7 +37,7 @@
         "category": "fruits",
         "subCategory": "Fresh Fruits",
         "description": "Juicy and sweet strawberries, ideal for snacking and decorating.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/strawberries.png"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/fruits/strawberry.png"
     },
     {
         "id": "fruit0006",
@@ -45,7 +45,7 @@
         "category": "fruits",
         "subCategory": "Fresh Fruits",
         "description": "Juicy and tangy pineapple, great for a tropical treat or to add to savory dishes.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/pineapple.jpg"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/fruits/pineapple.png"
     },
     {
         "id": "fruit0008",
@@ -53,7 +53,7 @@
         "category": "fruits",
         "subCategory": "Fresh Fruits",
         "description": "Refreshing and hydrating watermelon, a perfect treat for a hot day.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/watermelon.png"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/fruits/watermelon.png"
     },
     {
         "id": "fruit0009",
@@ -61,7 +61,7 @@
         "category": "fruits",
         "subCategory": "Fresh Fruits",
         "description": "Sweet and succulent mangoes, perfect for smoothies and desserts.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/mango.png"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/fruits/mango.png"
     },
     {
         "id": "fruit0010",
@@ -69,7 +69,7 @@
         "category": "fruits",
         "subCategory": "Fresh Fruits",
         "description": "Sweet and juicy red cherries, excellent for snacking or as a garnish.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/cherry.png"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/fruits/cherry.png"
     },
     {
         "id": "fruit0011",
@@ -77,7 +77,7 @@
         "category": "fruits",
         "subCategory": "Fresh Fruits",
         "description": "A visually stunning fruit with a mildly sweet flavor, often described as a mix between a pear and a kiwi.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/dragon_fruit.png"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/fruits/dragon_fruit.png"
     },
     {
         "id": "fruit0012",
@@ -85,7 +85,7 @@
         "category": "fruits",
         "subCategory": "Exotic Fruits",
         "description": "A wrinkly, purple fruit with a tangy and sweet pulp full of edible seeds.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/persimmon.png"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/fruits/persimmon.png"
     },
     {
         "id": "fruit0013",
@@ -93,7 +93,7 @@
         "category": "fruits",
         "subCategory": "Exotic Fruits",
         "description": "A small, round fruit with a red, textured rind and a sweet, fragrant, and slightly floral white flesh.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/blue_berrie.png"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/fruits/blue_berry.png"
     },
     {
         "id": "fruit0014",
@@ -101,7 +101,7 @@
         "category": "fruits",
         "subCategory": "Exotic Fruits",
         "description": "A nutrient-dense fruit with a unique sweet and tart flavor and vibrant green flesh with small black seeds.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/kiwi.png"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/fruits/kiwi.png"
     },
     {
         "id": "fruit0015",
@@ -109,7 +109,7 @@
         "category": "fruits",
         "subCategory": "Exotic Fruits",
         "description": "A tropical fruit with a sweet taste, a strong scent, and a pink or white pulp with small seeds.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/guava.png"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/fruits/guava.png"
     },
     {
         "id": "fruit0016",
@@ -117,7 +117,7 @@
         "category": "fruits",
         "subCategory": "Exotic Fruits",
         "description": "A beautiful fruit with a distinctive five-point shape when sliced. It has a slightly sour flavor.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/custard_apple.png"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/fruits/custard_apple.png"
     },
     {
         "id": "fruit0017",
@@ -125,7 +125,7 @@
         "category": "fruits",
         "subCategory": "Exotic Fruits",
         "description": "An ancient fruit with a hard exterior and hundreds of juicy, gem-like arils filled with sweet and tart juice.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/pomegranate.png"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/fruits/pomegranate.png"
     },
     {
         "id": "fruit0018",
@@ -133,7 +133,7 @@
         "category": "fruits",
         "subCategory": "Exotic Fruits",
         "description": "A soft, pear-shaped fruit with a sweet, jam-like texture and a unique flavor.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/figs.png"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/fruits/fig.png"
     },
     {
         "id": "fruit0019",
@@ -141,7 +141,7 @@
         "category": "fruits",
         "subCategory": "Exotic Fruits",
         "description": "A fruit with a hairy, red exterior and a sweet, translucent flesh similar to lychee.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/rambutan.png"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/fruits/rambutan.png"
     },
     {
         "id": "fruit0020",
@@ -149,7 +149,7 @@
         "category": "fruits",
         "subCategory": "Exotic Fruits",
         "description": "Known as the 'king of fruits,' it has a pungent odor and a creamy, rich texture.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/lychee.png"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/fruits/lychee.png"
     },
     {
         "id": "fruit0021",
@@ -157,7 +157,7 @@
         "category": "fruits",
         "subCategory": "Dry Fruits",
         "description": "Crunchy and nutrient-rich almonds, perfect for snacking or as a healthy addition to meals.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/almond.png"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/fruits/almond.png"
     },
     {
         "id": "fruit0022",
@@ -165,7 +165,7 @@
         "category": "fruits",
         "subCategory": "Dry Fruits",
         "description": "Heart-healthy walnuts with a rich, earthy flavor. Great for baking or as a topping for salads.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/walnut.png"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/fruits/walnut.png"
     },
     {
         "id": "fruit0023",
@@ -173,7 +173,7 @@
         "category": "fruits",
         "subCategory": "Dry Fruits",
         "description": "Creamy cashews with a delicate flavor, perfect for snacking and adding to curries.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/cashew.png"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/fruits/cashew.png"
     },
     {
         "id": "fruit0024",
@@ -181,7 +181,7 @@
         "category": "fruits",
         "subCategory": "Dry Fruits",
         "description": "Salty and delicious pistachios, a satisfying snack with a distinct green hue.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/pistachio.png"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/fruits/pistachiow.png"
     },
     {
         "id": "fruit0025",
@@ -189,7 +189,7 @@
         "category": "fruits",
         "subCategory": "Dry Fruits",
         "description": "Sweet and chewy dried apricots, a great source of fiber and vitamin A.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/dried_apricot.png"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/fruits/dried_apricot.png"
     },
     {
         "id": "fruit0026",
@@ -197,7 +197,7 @@
         "category": "fruits",
         "subCategory": "Dry Fruits",
         "description": "Naturally sweet dried grapes, perfect for baking or a quick energy boost.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/raisin.png"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/fruits/raisin.png"
     },
     {
         "id": "fruit0027",
@@ -205,7 +205,7 @@
         "category": "fruits",
         "subCategory": "Dry Fruits",
         "description": "Sweet, chewy dates, a natural sweetener and a great source of iron and potassium.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/date.png"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/fruits/date.png"
     },
     {
         "id": "fruit0028",
@@ -213,7 +213,7 @@
         "category": "fruits",
         "subCategory": "Dry Fruits",
         "description": "Soft and sweet dried figs, a classic dry fruit with a jam-like texture.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/dried_fig.png"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/fruits/dried_fig.png"
     },
     {
         "id": "fruit0029",
@@ -221,7 +221,7 @@
         "category": "fruits",
         "subCategory": "Dry Fruits",
         "description": "Tart and tangy dried cranberries, a perfect addition to trail mix and baked goods.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/dried_cranberry.png"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/fruits/dried_cranberry.png"
     },
     {
         "id": "fruit0030",
@@ -229,7 +229,7 @@
         "category": "fruits",
         "subCategory": "Dry Fruits",
         "description": "Nutty and aromatic hazelnuts, often used in desserts and confections.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/hazelnut.png"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/fruits/hazelnut.png"
     },
     {
         "id": "veges0001",
