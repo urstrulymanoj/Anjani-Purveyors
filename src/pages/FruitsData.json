@@ -405,7 +405,7 @@
         "category": "grains",
         "subCategory": "Whole Grains",
         "description": "A staple grain used to make flour for daily rotis, chapatis, and various baked goods.",
-        "imageUrl": "https://placehold.co/400x300/e0c9a7/4b5563?text=Wheat"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/grains/wheat.png"
     },
     {
         "id": "grains0002",
@@ -413,7 +413,7 @@
         "category": "grains",
         "subCategory": "Whole Grains",
         "description": "The most widely consumed grain in India, serving as a primary accompaniment to curries, dals, and vegetables.",
-        "imageUrl": "https://placehold.co/400x300/f8f9e2/4b5563?text=Rice"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/grains/rice.png"
     },
     {
         "id": "grains0003",
@@ -421,7 +421,7 @@
         "category": "grains",
         "subCategory": "Whole Grains",
         "description": "Also known as pearl millet, it is a highly nutritious grain often used to make rotis, especially in the winter.",
-        "imageUrl": "https://placehold.co/400x300/c7a09c/4b5563?text=Bajra"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/grains/bajra.png"
     },
     {
         "id": "grains0004",
@@ -429,7 +429,7 @@
         "category": "grains",
         "subCategory": "Whole Grains",
         "description": "Sorghum grain is a popular gluten-free alternative used to make flatbreads (rotlas) and is known for its health benefits.",
-        "imageUrl": "https://placehold.co/400x300/e3c5bb/4b5563?text=Jowar"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/grains/jowar.png"
     },
     {
         "id": "grains0005",
@@ -437,7 +437,7 @@
         "category": "grains",
         "subCategory": "Whole Grains",
         "description": "Corn is used for various purposes, including making flour for 'Makki ki Roti' and as a sweet vegetable.",
-        "imageUrl": "https://placehold.co/400x300/fff3b0/4b5563?text=Maize"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/grains/maize.png"
     },
     {
         "id": "grains0006",
@@ -445,7 +445,7 @@
         "category": "grains",
         "subCategory": "Whole Grains",
         "description": "Finger millet, a nutrient-dense grain popular in southern India, is used to make porridge, rotis, and dosas.",
-        "imageUrl": "https://placehold.co/400x300/d2b48c/4b5563?text=Ragi"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/grains/ragi.png"
     },
     {
         "id": "grains0007",
@@ -453,7 +453,7 @@
         "category": "grains",
         "subCategory": "Whole Grains",
         "description": "A fiber-rich grain often used in soups, stews, and as a healthy breakfast option.",
-        "imageUrl": "https://placehold.co/400x300/8d8977/4b5563?text=Barley"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/grains/barley.png"
     },
     {
         "id": "grains0008",
@@ -461,7 +461,7 @@
         "category": "grains",
         "subCategory": "Whole Grains",
         "description": "A versatile grain, commonly used for making healthy breakfast porridge and a popular ingredient in many baked goods.",
-        "imageUrl": "https://placehold.co/400x300/add8e6/4b5563?text=Oats"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/grains/oats.png"
     },
     {
         "id": "grains0009",
@@ -469,7 +469,7 @@
         "category": "grains",
         "subCategory": "Whole Grains",
         "description": "While not a traditional Indian grain, it has become increasingly popular due to its high protein content and versatility in salads and rice dishes.",
-        "imageUrl": "https://placehold.co/400x300/b0c4de/4b5563?text=Quinoa"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/grains/quinoa.png"
     },
     {
         "id": "grains0010",
@@ -477,7 +477,7 @@
         "category": "grains",
         "subCategory": "Whole Grains",
         "description": "Also known as suji, this coarse flour is used to prepare popular Indian dishes like upma, rava dosa, and halwa.",
-        "imageUrl": "https://placehold.co/400x300/e6e6fa/4b5563?text=Semolina"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/grains/semolina_suji.png"
     },
     {
         "id": "lentils0001",
@@ -485,7 +485,7 @@
         "category": "grains",
         "subCategory": "Lentils",
         "description": "Also known as split pigeon peas, Toor Dal is a staple in Indian households, commonly used to prepare sambar and dal fry.",
-        "imageUrl": "https://placehold.co/400x300/ffbf00/4b5563?text=Toor+Dal"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/lentils/toor_dal.png"
     },
     {
         "id": "lentils0002",
@@ -493,7 +493,7 @@
         "category": "grains",
         "subCategory": "Lentils",
         "description": "Red lentils that are easy to cook and absorb flavors well. They are often used in simple, comforting dal preparations.",
-        "imageUrl": "https://placehold.co/400x300/ffb6c1/4b5563?text=Masoor+Dal"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/lentils/masoor_dal.png"
     },
     {
         "id": "lentils0003",
@@ -501,7 +501,7 @@
         "category": "grains",
         "subCategory": "Lentils",
         "description": "Split yellow lentils with a soft, creamy texture. Moong Dal is highly digestible and is used for both savory and sweet dishes like halwa.",
-        "imageUrl": "https://placehold.co/400x300/f8f9e2/4b5563?text=Moong+Dal"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/lentils/moong_dal.png"
     },
     {
         "id": "lentils0004",
@@ -509,7 +509,7 @@
         "category": "grains",
         "subCategory": "Lentils",
         "description": "Also known as black gram, it is used to make a variety of dishes including dal makhani, dosas, and idlis.",
-        "imageUrl": "https://placehold.co/400x300/8d8977/4b5563?text=Urad+Dal"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/lentils/urad_dal.png"
     },
     {
         "id": "lentils0005",
@@ -517,15 +517,7 @@
         "category": "grains",
         "subCategory": "Lentils",
         "description": "Split chickpeas with a nutty flavor. Chana Dal is a good source of protein and is used in curries, snacks, and sweets.",
-        "imageUrl": "https://placehold.co/400x300/e0c9a7/4b5563?text=Chana+Dal"
-    },
-    {
-        "id": "lentils0006",
-        "name": "Arhar Dal",
-        "category": "grains",
-        "subCategory": "Lentils",
-        "description": "Split pigeon peas, also known as Toor Dal in some regions. A cornerstone of Indian vegetarian cooking, used in a variety of regional dals.",
-        "imageUrl": "https://placehold.co/400x300/f5f5dc/4b5563?text=Arhar+Dal"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/lentils/chana_dal.png"
     },
     {
         "id": "beans0001",
@@ -533,7 +525,7 @@
         "category": "grains",
         "subCategory": "Beans",
         "description": "Also known as Kabuli Chana, these versatile chickpeas are a key ingredient in popular dishes like Chole Bhature.",
-        "imageUrl": "https://placehold.co/400x300/d2b48c/4b5563?text=Chickpeas"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/beans/chickpea.png"
     },
     {
         "id": "beans0002",
@@ -541,7 +533,7 @@
         "category": "grains",
         "subCategory": "Beans",
         "description": "A staple in North Indian cuisine, Rajma are a hearty bean used to prepare a rich and flavorful curry.",
-        "imageUrl": "https://placehold.co/400x300/c7a09c/4b5563?text=Rajma"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/beans/kidney_bean.png"
     },
     {
         "id": "beans0003",
@@ -549,7 +541,7 @@
         "category": "grains",
         "subCategory": "Beans",
         "description": "Known for their mild flavor and creamy texture, Lobia is used in curries, salads, and lentil fritters.",
-        "imageUrl": "https://placehold.co/400x300/b0c4de/4b5563?text=Lobia"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/beans/black_eyed_pea.png"
     },
     {
         "id": "beans0004",
@@ -557,7 +549,7 @@
         "category": "grains",
         "subCategory": "Beans",
         "description": "Dried peas are commonly used to make delicious street food like 'matar chaat' and hearty curries.",
-        "imageUrl": "https://placehold.co/400x300/e6e6fa/4b5563?text=Matar"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/beans/dried_pea.png"
     },
     {
         "id": "beans0005",
@@ -565,7 +557,7 @@
         "category": "grains",
         "subCategory": "Beans",
         "description": "A versatile whole lentil used for sprouting, making 'chilas' (pancakes), and delicious curries.",
-        "imageUrl": "https://placehold.co/400x300/b0c4de/4b5563?text=Moong+Whole"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/beans/green_gram.png"
     },
     {
         "id": "beans0006",
@@ -573,7 +565,7 @@
         "category": "grains",
         "subCategory": "Beans",
         "description": "Used to make a variety of dishes including dal makhani, dosas, and idlis.",
-        "imageUrl": "https://placehold.co/400x300/8d8977/4b5563?text=Urad+Whole"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/beans/black_gram.png"
     },
     {
         "id": "beans0007",
@@ -581,7 +573,7 @@
         "category": "grains",
         "subCategory": "Beans",
         "description": "The whole form of pigeon peas, a cornerstone of Indian vegetarian cooking, used in a variety of regional dals.",
-        "imageUrl": "https://placehold.co/400x300/ffbf00/4b5563?text=Arhar"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/beans/pigeon_pea.png"
     },
     {
         "id": "beans0008",
@@ -589,7 +581,7 @@
         "category": "grains",
         "subCategory": "Beans",
         "description": "Soybeans are highly nutritious and versatile, used for making tofu, soy milk, and in various vegetarian dishes.",
-        "imageUrl": "https://placehold.co/400x300/e6e6fa/4b5563?text=Soybeans"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/beans/soybean.png"
     },
     {
         "id": "beans0009",
@@ -597,7 +589,7 @@
         "category": "grains",
         "subCategory": "Beans",
         "description": "A popular snack and ingredient, peanuts are used in curries, chutneys, and groundnut oil production.",
-        "imageUrl": "https://placehold.co/400x300/d9b389/4b5563?text=Peanuts"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/beans/soybean.png"
     },
     {
         "id": "flour0001",
@@ -605,7 +597,7 @@
         "category": "grains",
         "subCategory": "Flours",
         "description": "The most common flour in India, used to make soft and fluffy rotis, parathas, and pooris.",
-        "imageUrl": "https://placehold.co/400x300/e0c9a7/4b5563?text=Wheat+Flour"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/flours/wheat_flour.png"
     },
     {
         "id": "flour0002",
@@ -613,7 +605,7 @@
         "category": "grains",
         "subCategory": "Flours",
         "description": "Used widely for making popular snacks like pakoras, bhajis, and for preparing a variety of curries and sweets.",
-        "imageUrl": "https://placehold.co/400x300/ffbf00/4b5563?text=Chickpea+Flour"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/flours/chickpea_flour_besan.png"
     },
     {
         "id": "flour0003",
@@ -621,7 +613,7 @@
         "category": "grains",
         "subCategory": "Flours",
         "description": "Used to make crisp dosas, idlis, and a variety of snacks. It's also used as a thickening agent.",
-        "imageUrl": "https://placehold.co/400x300/f5f5dc/4b5563?text=Rice+Flour"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/flours/rice_flour.png"
     },
     {
         "id": "flour0004",
@@ -629,7 +621,7 @@
         "category": "grains",
         "subCategory": "Flours",
         "description": "A staple in North Indian cuisine, used to make Makki ki Roti, a flatbread often paired with Sarson ka Saag.",
-        "imageUrl": "https://placehold.co/400x300/ffd700/4b5563?text=Corn+Flour"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/flours/corn_flour.png"
     },
     {
         "id": "flour0005",
@@ -637,7 +629,7 @@
         "category": "grains",
         "subCategory": "Flours",
         "description": "A gluten-free flour used to make rotis, especially in Maharashtra and Karnataka. It's rich in fiber and protein.",
-        "imageUrl": "https://placehold.co/400x300/a3d9a4/4b5563?text=Jowar+Atta"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/flours/sorghum_flour.png"
     },
     {
         "id": "flour0006",
@@ -645,15 +637,15 @@
         "category": "grains",
         "subCategory": "Flours",
         "description": "Known for its high calcium and iron content, Ragi flour is used to make rotis, dosas, and baby food.",
-        "imageUrl": "https://placehold.co/400x300/c7a09c/4b5563?text=Ragi+Atta"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/flours/finger_millet_flour_ragi.png"
     },
     {
         "id": "flour0007",
-        "name": "Barley Flour (Jau ka Atta)",
+        "name": "Millte Flour (Bajri ka Atta)",
         "category": "grains",
         "subCategory": "Flours",
         "description": "A nutritious flour used in combination with other flours to make rotis and for porridges.",
-        "imageUrl": "https://placehold.co/400x300/d2b48c/4b5563?text=Barley+Flour"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/flours/millet_flour_bajri.png"
     },
     {
         "id": "flour0008",
@@ -661,15 +653,15 @@
         "category": "grains",
         "subCategory": "Flours",
         "description": "Roasted chickpea flour, a popular high-protein food in Bihar and other parts of India, used for drinks and savory dishes.",
-        "imageUrl": "https://placehold.co/400x300/d8c199/4b5563?text=Sattu"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/flours/gram_flour_sattu.png"
     },
     {
         "id": "flour0009",
-        "name": "Buckwheat Flour (Kuttu Atta)",
+        "name": "Multigrain Flour",
         "category": "grains",
         "subCategory": "Flours",
-        "description": "A gluten-free flour commonly consumed during fasting periods (Vrat). Used to make pooris and pakoras.",
-        "imageUrl": "https://placehold.co/400x300/b0c4de/4b5563?text=Kuttu+Atta"
+        "description": "A nutient rich flour.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/flours/multigrain_flour.png"
     },
     {
         "id": "flour0010",
@@ -677,7 +669,7 @@
         "category": "grains",
         "subCategory": "Flours",
         "description": "Used during religious fasts in India, this flour is used to make rotis and halwa.",
-        "imageUrl": "https://placehold.co/400x300/8d8977/4b5563?text=Singhada+Atta"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/flours/water_chestnut_flour.png"
     },
     {
         "id": "tea0001",
