@@ -237,7 +237,7 @@
         "category": "fruits",
         "subCategory": "Fresh Vegetables",
         "description": "A foundational ingredient in most Indian curries and gravies, providing a pungent and savory base.",
-        "imageUrl": "https://placehold.co/400x300/e6e6fa/4b5563?text=Onions"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/vegetables/onion.png"
     },
     {
         "id": "veges0002",
@@ -245,7 +245,7 @@
         "category": "fruits",
         "subCategory": "Fresh Vegetables",
         "description": "Adds a tangy and slightly sweet flavor to a variety of dishes, from curries to salads.",
-        "imageUrl": "https://placehold.co/400x300/ffb6c1/4b5563?text=Tomatoes"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/vegetables/tomato.png"
     },
     {
         "id": "veges0003",
@@ -253,7 +253,7 @@
         "category": "fruits",
         "subCategory": "Fresh Vegetables",
         "description": "A versatile and widely-used vegetable, forming the base of many popular dishes like aloo gobi and aloo mutter.",
-        "imageUrl": "https://placehold.co/400x300/e3c5bb/4b5563?text=Potatoes"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/vegetables/potato.png"
     },
     {
         "id": "veges0004",
@@ -261,7 +261,7 @@
         "category": "fruits",
         "subCategory": "Fresh Vegetables",
         "description": "Known for its tender florets, it is a key ingredient in 'Gobi Paratha' and the classic 'Aloo Gobi' dish.",
-        "imageUrl": "https://placehold.co/400x300/a7d8a7/4b5563?text=Cauliflower"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/vegetables/cauliflower.png"
     },
     {
         "id": "veges0005",
@@ -269,7 +269,7 @@
         "category": "fruits",
         "subCategory": "Fresh Vegetables",
         "description": "A crunchy vegetable used in stir-fries, curries, and salads. It is also the main ingredient in 'Patta Gobhi Ki Sabzi'.",
-        "imageUrl": "https://placehold.co/400x300/c7a09c/4b5563?text=Cabbage"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/vegetables/cabbage.png"
     },
     {
         "id": "veges0006",
@@ -277,7 +277,7 @@
         "category": "fruits",
         "subCategory": "Fresh Vegetables",
         "description": "A leafy green vegetable, a rich source of iron. It is used to make dishes like 'Palak Paneer' and 'Saag'.",
-        "imageUrl": "https://placehold.co/400x300/b0c4de/4b5563?text=Spinach"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/vegetables/spinach.png"
     },
     {
         "id": "veges0007",
@@ -285,7 +285,7 @@
         "category": "fruits",
         "subCategory": "Fresh Vegetables",
         "description": "A beloved vegetable in Indian cuisine, used to prepare 'Bhindi Masala' and other dry curries.",
-        "imageUrl": "https://placehold.co/400x300/f8f9e2/4b5563?text=Okra"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/vegetables/lady_finger.png"
     },
     {
         "id": "veges0008",
@@ -293,7 +293,7 @@
         "category": "fruits",
         "subCategory": "Fresh Vegetables",
         "description": "Known for its distinct bitter taste, it is a healthy vegetable often used in stir-fries and pickles.",
-        "imageUrl": "https://placehold.co/400x300/8d8977/4b5563?text=Bitter+Gourd"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/vegetables/bittergaurd.png"
     },
     {
         "id": "veges0009",
@@ -301,7 +301,7 @@
         "category": "fruits",
         "subCategory": "Fresh Vegetables",
         "description": "A vibrant and sweet vegetable, commonly used in 'Gajar Ka Halwa', curries, and salads.",
-        "imageUrl": "https://placehold.co/400x300/c9c9c9/4b5563?text=Carrots"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/vegetables/carrot.png"
     },
     {
         "id": "veges0010",
@@ -309,7 +309,7 @@
         "category": "fruits",
         "subCategory": "Fresh Vegetables",
         "description": "A Radish has a crunchy texture and a slightly peppery flavor. Add flavors to you 'Parathas' and salads.",
-        "imageUrl": "https://placehold.co/400x300/c9c9c9/4b5563?text=Carrots"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/vegetables/radish.png"
     },
     {
         "id": "veges0011",
@@ -317,7 +317,7 @@
         "category": "fruits",
         "subCategory": "Fresh Vegetables",
         "description": "Adds a mild, sweet flavor and vibrant color to dishes. It is a key ingredient in 'Capsicum Fry' and 'Paneer Chilli'.",
-        "imageUrl": "https://placehold.co/400x300/ffbf00/4b5563?text=Capsicum"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/vegetables/capsicum.png"
     },
     {
         "id": "veges0012",
@@ -325,7 +325,7 @@
         "category": "fruits",
         "subCategory": "Exotic Vegetables",
         "description": "A versatile vegetable, popular for its mild flavor and high water content. It's often used in stir-fries, salads, and as a substitute for noodles.",
-        "imageUrl": "https://placehold.co/400x300/a7d8a7/4b5563?text=Zucchini"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/vegetables/zucchini.png"
     },
     {
         "id": "veges0013",
@@ -333,7 +333,7 @@
         "category": "fruits",
         "subCategory": "Exotic Vegetables",
         "description": "A nutrient-rich vegetable with dense, green florets. It is often steamed or stir-fried and is a popular addition to many healthy dishes.",
-        "imageUrl": "https://placehold.co/400x300/c7a09c/4b5563?text=Broccoli"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/vegetables/broccoli.png"
     },
     {
         "id": "veges0014",
@@ -341,7 +341,7 @@
         "category": "fruits",
         "subCategory": "Exotic Vegetables",
         "description": "Sweet and vibrant, these bell peppers add color and flavor to stir-fries, salads, and roasted vegetable platters.",
-        "imageUrl": "https://placehold.co/400x300/ffb6c1/4b5563?text=Red+Bell+Peppers"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/vegetables/red_bell_pepper.png"
     },
     {
         "id": "veges0015",
@@ -349,7 +349,7 @@
         "category": "fruits",
         "subCategory": "Exotic Vegetables",
         "description": "Known for their mild, sweet taste, yellow bell peppers are a popular choice for salads, sandwiches, and for stuffing with a variety of fillings.",
-        "imageUrl": "https://placehold.co/400x300/f8f9e2/4b5563?text=Yellow+Bell+Peppers"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/vegetables/yellow_bell_pepper.png"
     },
     {
         "id": "veges0016",
@@ -357,7 +357,7 @@
         "category": "fruits",
         "subCategory": "Exotic Vegetables",
         "description": "Earthy and savory, mushrooms add a unique texture and a rich, umami flavor to a variety of curries, stir-fries, and biryanis.",
-        "imageUrl": "https://placehold.co/400x300/8d8977/4b5563?text=Mushrooms"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/vegetables/mushroom.png"
     },
     {
         "id": "veges0017",
@@ -365,7 +365,7 @@
         "category": "fruits",
         "subCategory": "Exotic Vegetables",
         "description": "A crisp and fresh leafy green, commonly used in salads and sandwiches to add a light, crunchy texture.",
-        "imageUrl": "https://placehold.co/400x300/b0c4de/4b5563?text=Lettuce"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/vegetables/lettuce.png"
     },
     {
         "id": "veges0018",
@@ -373,7 +373,7 @@
         "category": "fruits",
         "subCategory": "Exotic Vegetables",
         "description": "Delicate and earthy, asparagus spears are typically blanched or roasted and served as a side dish or in salads.",
-        "imageUrl": "https://placehold.co/400x300/e6e6fa/4b5563?text=Asparagus"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/vegetables/asparagus.png"
     },
     {
         "id": "veges0019",
@@ -381,7 +381,7 @@
         "category": "fruits",
         "subCategory": "Exotic Vegetables",
         "description": "A crunchy vegetable with a distinct savory flavor, often used in soups, stews, and as a raw snack with dips.",
-        "imageUrl": "https://placehold.co/400x300/e3c5bb/4b5563?text=Celery"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/vegetables/celery.png"
     },
     {
         "id": "veges0020",
@@ -389,7 +389,7 @@
         "category": "fruits",
         "subCategory": "Exotic Vegetables",
         "description": "Small and sweet, these tomatoes are perfect for adding a burst of flavor to salads, pasta dishes, and skewers.",
-        "imageUrl": "https://placehold.co/400x300/ffbf00/4b5563?text=Cherry+Tomatoes"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/vegetables/cherry_tomato.png"
     },
     {
         "id": "veges0021",
@@ -397,7 +397,7 @@
         "category": "fruits",
         "subCategory": "Exotic Vegetables",
         "description": "Small, tender, and sweet, baby corn adds a delicate crunch to stir-fries, salads, and soups.",
-        "imageUrl": "https://placehold.co/400x300/add8e6/4b5563?text=Baby+Corn"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/vegetables/baby_corn.png"
     },
     {
         "id": "grains0001",
