@@ -5,7 +5,7 @@
         "category": "fruits",
         "subCategory": "Fresh Fruits",
         "description": "Crisp and juicy Red Delicious apples, perfect for a healthy snack or baking.",
-        "imageUrl": "https://placehold.co/400x300/a7d8a7/4b5563?text=Apples"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/apples.png"
     },
     {
         "id": "fruit0002",
@@ -13,7 +13,7 @@
         "category": "fruits",
         "subCategory": "Fresh Fruits",
         "description": "Sweet, organic bananas, a great source of potassium and energy.",
-        "imageUrl": "https://placehold.co/400x300/f8f9e2/4b5563?text=Bananas"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/bananas.png"
     },
     {
         "id": "fruit0003",
@@ -21,7 +21,7 @@
         "category": "fruits",
         "subCategory": "Fresh Fruits",
         "description": "Sweet and tangy oranges, packed with Vitamin C. Great for juicing or eating whole.",
-        "imageUrl": "https://placehold.co/400x300/f0b459/4b5563?text=Oranges"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/oranges.png"
     },
     {
         "id": "fruit0004",
@@ -29,7 +29,7 @@
         "category": "fruits",
         "subCategory": "Fresh Fruits",
         "description": "Seedless green grapes that are crisp, sweet, and incredibly refreshing.",
-        "imageUrl": "https://placehold.co/400x300/8d8977/4b5563?text=Grapes"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/grapes.png"
     },
     {
         "id": "fruit0005",
@@ -37,7 +37,7 @@
         "category": "fruits",
         "subCategory": "Fresh Fruits",
         "description": "Juicy and sweet strawberries, ideal for snacking and decorating.",
-        "imageUrl": "https://placehold.co/400x300/e66c6c/4b5563?text=Strawberries"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/strawberries.png"
     },
     {
         "id": "fruit0006",
@@ -45,7 +45,7 @@
         "category": "fruits",
         "subCategory": "Fresh Fruits",
         "description": "Juicy and tangy pineapple, great for a tropical treat or to add to savory dishes.",
-        "imageUrl": "https://placehold.co/400x300/ffdb58/4b5563?text=Pineapple"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/pineapple.jpg"
     },
     {
         "id": "fruit0008",
@@ -53,7 +53,7 @@
         "category": "fruits",
         "subCategory": "Fresh Fruits",
         "description": "Refreshing and hydrating watermelon, a perfect treat for a hot day.",
-        "imageUrl": "https://placehold.co/400x300/b0e0a7/4b5563?text=Watermelon"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/watermelon.png"
     },
     {
         "id": "fruit0009",
@@ -61,7 +61,7 @@
         "category": "fruits",
         "subCategory": "Fresh Fruits",
         "description": "Sweet and succulent mangoes, perfect for smoothies and desserts.",
-        "imageUrl": "https://placehold.co/400x300/ffbf30/4b5563?text=Mangoes"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/mango.png"
     },
     {
         "id": "fruit0010",
@@ -69,7 +69,7 @@
         "category": "fruits",
         "subCategory": "Fresh Fruits",
         "description": "Sweet and juicy red cherries, excellent for snacking or as a garnish.",
-        "imageUrl": "https://placehold.co/400x300/8b0000/f8f9e2?text=Cherries"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/cherry.png"
     },
     {
         "id": "fruit0011",
@@ -77,15 +77,15 @@
         "category": "fruits",
         "subCategory": "Fresh Fruits",
         "description": "A visually stunning fruit with a mildly sweet flavor, often described as a mix between a pear and a kiwi.",
-        "imageUrl": "https://placehold.co/400x300/ff69b4/4b5563?text=Dragon+Fruit"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/dragon_fruit.png"
     },
     {
         "id": "fruit0012",
-        "name": "Passion Fruit",
+        "name": "Persimmon",
         "category": "fruits",
         "subCategory": "Exotic Fruits",
         "description": "A wrinkly, purple fruit with a tangy and sweet pulp full of edible seeds.",
-        "imageUrl": "https://placehold.co/400x300/e6e6fa/4b5563?text=Passion+Fruit"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/persimmon.png"
     },
     {
         "id": "fruit0013",
@@ -93,7 +93,7 @@
         "category": "fruits",
         "subCategory": "Exotic Fruits",
         "description": "A small, round fruit with a red, textured rind and a sweet, fragrant, and slightly floral white flesh.",
-        "imageUrl": "https://placehold.co/400x300/f08080/4b5563?text=Lychee"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/blue_berrie.png"
     },
     {
         "id": "fruit0014",
@@ -101,7 +101,7 @@
         "category": "fruits",
         "subCategory": "Exotic Fruits",
         "description": "A nutrient-dense fruit with a unique sweet and tart flavor and vibrant green flesh with small black seeds.",
-        "imageUrl": "https://placehold.co/400x300/98c581/4b5563?text=Kiwi"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/kiwi.png"
     },
     {
         "id": "fruit0015",
@@ -109,15 +109,15 @@
         "category": "fruits",
         "subCategory": "Exotic Fruits",
         "description": "A tropical fruit with a sweet taste, a strong scent, and a pink or white pulp with small seeds.",
-        "imageUrl": "https://placehold.co/400x300/f5deb3/4b5563?text=Guava"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/guava.png"
     },
     {
         "id": "fruit0016",
-        "name": "Starfruit",
+        "name": "Custard Apple",
         "category": "fruits",
         "subCategory": "Exotic Fruits",
         "description": "A beautiful fruit with a distinctive five-point shape when sliced. It has a slightly sour flavor.",
-        "imageUrl": "https://placehold.co/400x300/d2b48c/4b5563?text=Starfruit"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/custard_apple.png"
     },
     {
         "id": "fruit0017",
@@ -125,7 +125,7 @@
         "category": "fruits",
         "subCategory": "Exotic Fruits",
         "description": "An ancient fruit with a hard exterior and hundreds of juicy, gem-like arils filled with sweet and tart juice.",
-        "imageUrl": "https://placehold.co/400x300/ffb6c1/4b5563?text=Pomegranate"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/pomegranate.png"
     },
     {
         "id": "fruit0018",
@@ -133,7 +133,7 @@
         "category": "fruits",
         "subCategory": "Exotic Fruits",
         "description": "A soft, pear-shaped fruit with a sweet, jam-like texture and a unique flavor.",
-        "imageUrl": "https://placehold.co/400x300/c7a09c/4b5563?text=Figs"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/figs.png"
     },
     {
         "id": "fruit0019",
@@ -141,15 +141,15 @@
         "category": "fruits",
         "subCategory": "Exotic Fruits",
         "description": "A fruit with a hairy, red exterior and a sweet, translucent flesh similar to lychee.",
-        "imageUrl": "https://placehold.co/400x300/f08080/4b5563?text=Rambutan"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/rambutan.png"
     },
     {
         "id": "fruit0020",
-        "name": "Durian",
+        "name": "Lychee",
         "category": "fruits",
         "subCategory": "Exotic Fruits",
         "description": "Known as the 'king of fruits,' it has a pungent odor and a creamy, rich texture.",
-        "imageUrl": "https://placehold.co/400x300/a3d9a4/4b5563?text=Durian"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/lychee.png"
     },
     {
         "id": "fruit0021",
@@ -157,7 +157,7 @@
         "category": "fruits",
         "subCategory": "Dry Fruits",
         "description": "Crunchy and nutrient-rich almonds, perfect for snacking or as a healthy addition to meals.",
-        "imageUrl": "https://placehold.co/400x300/e6e6fa/4b5563?text=Almonds"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/almond.png"
     },
     {
         "id": "fruit0022",
@@ -165,7 +165,7 @@
         "category": "fruits",
         "subCategory": "Dry Fruits",
         "description": "Heart-healthy walnuts with a rich, earthy flavor. Great for baking or as a topping for salads.",
-        "imageUrl": "https://placehold.co/400x300/d2b48c/4b5563?text=Walnuts"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/walnut.png"
     },
     {
         "id": "fruit0023",
@@ -173,7 +173,7 @@
         "category": "fruits",
         "subCategory": "Dry Fruits",
         "description": "Creamy cashews with a delicate flavor, perfect for snacking and adding to curries.",
-        "imageUrl": "https://placehold.co/400x300/f8f9e2/4b5563?text=Cashews"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/cashew.png"
     },
     {
         "id": "fruit0024",
@@ -181,7 +181,7 @@
         "category": "fruits",
         "subCategory": "Dry Fruits",
         "description": "Salty and delicious pistachios, a satisfying snack with a distinct green hue.",
-        "imageUrl": "https://placehold.co/400x300/a3d9a4/4b5563?text=Pistachios"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/pistachio.png"
     },
     {
         "id": "fruit0025",
@@ -189,7 +189,7 @@
         "category": "fruits",
         "subCategory": "Dry Fruits",
         "description": "Sweet and chewy dried apricots, a great source of fiber and vitamin A.",
-        "imageUrl": "https://placehold.co/400x300/ffcd8c/4b5563?text=Dried+Apricots"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/dried_apricot.png"
     },
     {
         "id": "fruit0026",
@@ -197,7 +197,7 @@
         "category": "fruits",
         "subCategory": "Dry Fruits",
         "description": "Naturally sweet dried grapes, perfect for baking or a quick energy boost.",
-        "imageUrl": "https://placehold.co/400x300/c7a09c/4b5563?text=Raisins"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/raisin.png"
     },
     {
         "id": "fruit0027",
@@ -205,7 +205,7 @@
         "category": "fruits",
         "subCategory": "Dry Fruits",
         "description": "Sweet, chewy dates, a natural sweetener and a great source of iron and potassium.",
-        "imageUrl": "https://placehold.co/400x300/8d8977/4b5563?text=Dates"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/date.png"
     },
     {
         "id": "fruit0028",
@@ -213,7 +213,7 @@
         "category": "fruits",
         "subCategory": "Dry Fruits",
         "description": "Soft and sweet dried figs, a classic dry fruit with a jam-like texture.",
-        "imageUrl": "https://placehold.co/400x300/b873d9/4b5563?text=Dried+Figs"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/dried_fig.png"
     },
     {
         "id": "fruit0029",
@@ -221,7 +221,7 @@
         "category": "fruits",
         "subCategory": "Dry Fruits",
         "description": "Tart and tangy dried cranberries, a perfect addition to trail mix and baked goods.",
-        "imageUrl": "https://placehold.co/400x300/e66c6c/4b5563?text=Cranberries"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/dried_cranberry.png"
     },
     {
         "id": "fruit0030",
@@ -229,7 +229,7 @@
         "category": "fruits",
         "subCategory": "Dry Fruits",
         "description": "Nutty and aromatic hazelnuts, often used in desserts and confections.",
-        "imageUrl": "https://placehold.co/400x300/a3d9a4/4b5563?text=Hazelnuts"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/hazelnut.png"
     },
     {
         "id": "veges0001",
