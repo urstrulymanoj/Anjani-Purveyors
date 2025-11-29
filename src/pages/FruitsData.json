@@ -677,7 +677,7 @@
         "category": "spices",
         "subCategory": "Tea & Coffee",
         "description": "One of India's most recognized tea brands, Tata Tea is a household name known for its rich taste and strong, brisk flavor.",
-        "imageUrl": "https://placehold.co/400x300/a3d9a4/4b5563?text=Tata+Tea"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/tea_coffee/tata_tea.png"
     },
     {
         "id": "tea0002",
@@ -685,7 +685,7 @@
         "category": "spices",
         "subCategory": "Tea & Coffee",
         "description": "As one of the largest-selling tea brands in India, Red Label is celebrated for its balanced flavor and rich color, making it a staple for many.",
-        "imageUrl": "https://placehold.co/400x300/ffbf00/4b5563?text=Red+Label"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/tea_coffee/red_label_tea.png"
     },
     {
         "id": "tea0003",
@@ -693,7 +693,7 @@
         "category": "spices",
         "subCategory": "Tea & Coffee",
         "description": "Known for its consistent quality and robust, full-bodied flavor, Wagh Bakri is a popular choice, especially in Western India.",
-        "imageUrl": "https://placehold.co/400x300/d2b48c/4b5563?text=Wagh+Bakri"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/tea_coffee/wagh_bakri_tea.png"
     },
     {
         "id": "tea0004",
@@ -701,7 +701,7 @@
         "category": "spices",
         "subCategory": "Tea & Coffee",
         "description": "Globally recognized, Lipton has a strong presence in India, with its green tea variants being particularly popular among health-conscious consumers.",
-        "imageUrl": "https://placehold.co/400x300/c7a09c/4b5563?text=Lipton"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/tea_coffee/lipton_tea.png"
     },
     {
         "id": "tea0005",
@@ -709,7 +709,7 @@
         "category": "spices",
         "subCategory": "Tea & Coffee",
         "description": "This premium brand is known for its exquisite aroma and taste, often enjoyed on special occasions and by those who appreciate a fine blend.",
-        "imageUrl": "https://placehold.co/400x300/b0c4de/4b5563?text=Taj+Mahal"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/tea_coffee/taj_mahal_tea.png"
     },
     {
         "id": "coffee0001",
@@ -717,7 +717,7 @@
         "category": "spices",
         "subCategory": "Tea & Coffee",
         "description": "A globally recognized brand and a household name in India, Nescafé is a leader in the instant coffee segment, known for its convenience and wide range of products like Classic, Gold, and Sunrise.",
-        "imageUrl": "https://placehold.co/400x300/c7a09c/4b5563?text=Nescafe"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/tea_coffee/nescafe_coffee.png"
     },
     {
         "id": "coffee0002",
@@ -725,7 +725,7 @@
         "category": "spices",
         "subCategory": "Tea & Coffee",
         "description": "Owned by Hindustan Unilever, Bru is one of India's most popular coffee brands. It has a strong presence with both instant coffee and traditional chicory-blended filter coffee powder.",
-        "imageUrl": "https://placehold.co/400x300/c7a09c/4b5563?text=Bru"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/tea_coffee/bur_coffee.png"
     },
     {
         "id": "coffee0003",
@@ -733,7 +733,7 @@
         "category": "spices",
         "subCategory": "Tea & Coffee",
         "description": "A major Indian producer with its own plantations, Tata Coffee offers a diverse range of products, from instant coffee to premium single-origin beans, with a focus on quality and sustainability.",
-        "imageUrl": "https://placehold.co/400x300/c7a09c/4b5563?text=Tata+Coffee"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/tea_coffee/tata_coffee.png"
     },
     {
         "id": "coffee0004",
@@ -741,7 +741,7 @@
         "category": "spices",
         "subCategory": "Tea & Coffee",
         "description": "As a leader in India's specialty coffee movement, Blue Tokai is highly popular among connoisseurs, offering a wide variety of freshly roasted, single-origin coffee beans and ground coffee.",
-        "imageUrl": "https://placehold.co/400x300/c7a09c/4b5563?text=Blue+Tokai"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/tea_coffee/blue_tokai.png"
     },
     {
         "id": "coffee0005",
@@ -749,7 +749,7 @@
         "category": "spices",
         "subCategory": "Tea & Coffee",
         "description": "A prominent Indian brand known for its wide range of instant, filter, and freeze-dried coffees. Continental Coffee caters to both retail consumers and the hospitality industry.",
-        "imageUrl": "https://placehold.co/400x300/c7a09c/4b5563?text=Continental+Coffee"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/tea_coffee/continental_coffee.png"
     },
     {
         "id": "sugar0001",
@@ -757,7 +757,7 @@
         "category": "spices",
         "subCategory": "Sweeteners",
         "description": "A popular and trusted brand in India, known for its hygienic, refined, and sulphur-free sugar. It is a flagship brand of Shree Renuka Sugars.",
-        "imageUrl": "https://placehold.co/400x300/c7a09c/4b5563?text=Madhur+Sugar"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/sugars/madhur_sugar.png"
     },
     {
         "id": "sugar0002",
@@ -765,39 +765,31 @@
         "category": "spices",
         "subCategory": "Sweeteners",
         "description": "From Adani Wilmar, Fortune is a well-known brand that offers a variety of high-quality, refined and sulphur-free sugars, trusted for its purity and hygiene.",
-        "imageUrl": "https://placehold.co/400x300/c7a09c/4b5563?text=Fortune+Sugar"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/sugars/fortune_sugar.png"
     },
     {
         "id": "sugar0003",
-        "name": "Dhampur Green",
+        "name": "Whole Farm",
         "category": "spices",
         "subCategory": "Sweeteners",
         "description": "Focusing on natural and indigenous sweeteners, Dhampur Green is known for its range of products including sulphur-free sugar, jaggery (gur), and desi khand.",
-        "imageUrl": "https://placehold.co/400x300/c7a09c/4b5563?text=Dhampur+Green"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/sugars/whole_farm_sugar.png"
     },
     {
         "id": "sugar0004",
-        "name": "Tata Sampann",
+        "name": "Organic Tatva",
         "category": "spices",
         "subCategory": "Sweeteners",
         "description": "Part of the trusted Tata Group, Tata Sampann offers a range of everyday kitchen staples, including high-quality crystal sugar that adheres to strict purity standards.",
-        "imageUrl": "https://placehold.co/400x300/c7a09c/4b5563?text=Tata+Sampann"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/sugars/organic_tatva_sugar.png"
     },
     {
         "id": "sugar0005",
-        "name": "Uttam Sugar",
+        "name": "Amul Sugar",
         "category": "spices",
         "subCategory": "Sweeteners",
         "description": "Known for its commitment to quality and health, Uttam Sugar produces a variety of sulphur-free sugars, including powdered and demerara options.",
-        "imageUrl": "https://placehold.co/400x300/c7a09c/4b5563?text=Uttam+Sugar"
-    },
-    {
-        "id": "sugar0006",
-        "name": "Dwarikesh Sugar",
-        "category": "spices",
-        "subCategory": "Sweeteners",
-        "description": "A well-known sugar company with a strong market presence, Dwarikesh Sugar is a reliable name for household and industrial sugar needs.",
-        "imageUrl": "https://placehold.co/400x300/c7a09c/4b5563?text=Dwarikesh+Sugar"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/sugars/amul_sugar.png"
     },
     {
         "id": "sweetener0001",
@@ -805,39 +797,23 @@
         "category": "spices",
         "subCategory": "Sweeteners",
         "description": "The most dominant and widely recognized brand for sugar-free sweeteners in India, with variants like Sugar Free Gold (Aspartame) and Sugar Free Green (Stevia).",
-        "imageUrl": "https://placehold.co/400x300/c7a09c/4b5563?text=Sugar+Free"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/sugars/sugar_free.png"
     },
     {
         "id": "sweetener0002",
-        "name": "Zindagi Stevia",
+        "name": "Sugar Free Stevia",
         "category": "spices",
         "subCategory": "Sweeteners",
         "description": "Specializing in Stevia-based sweeteners, Zindagi Stevia offers a natural, zero-calorie alternative that is popular with health-conscious consumers and diabetics.",
-        "imageUrl": "https://placehold.co/400x300/c7a09c/4b5563?text=Zindagi+Stevia"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/sugars/sugar_free_stevia.png"
     },
     {
         "id": "sweetener0003",
-        "name": "Equal",
+        "name": "I'm Lite",
         "category": "spices",
         "subCategory": "Sweeteners",
         "description": "A globally recognized brand, Equal is a common sugar substitute found in Indian supermarkets and cafes, typically using Aspartame.",
-        "imageUrl": "https://placehold.co/400x300/c7a09c/4b5563?text=Equal"
-    },
-    {
-        "id": "sweetener0004",
-        "name": "Gaia",
-        "category": "spices",
-        "subCategory": "Sweeteners",
-        "description": "As part of its health and wellness product line, Gaia offers a popular sugar-free sweetener made from natural Stevia.",
-        "imageUrl": "https://placehold.co/400x300/c7a09c/4b5563?text=Gaia"
-    },
-    {
-        "id": "sweetener0005",
-        "name": "Sprig",
-        "category": "spices",
-        "subCategory": "Sweeteners",
-        "description": "Known for its gourmet food products, Sprig provides a high-quality, Stevia-based sweetener as a healthy and flavorful alternative to sugar.",
-        "imageUrl": "https://placehold.co/400x300/c7a09c/4b5563?text=Sprig+Sweetener"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/sugars/im_lite_sugar_stevia.png"
     },
     {
         "id": "whole_spice_01",
