@@ -1733,15 +1733,15 @@
         "category": "soaps",
         "subCategory": "Normal Soap",
         "description": "A classic beauty soap known for its pleasant fragrances and creamy lather. It is a long-standing favorite, often associated with a touch of luxury at an affordable price, and is a staple in many Indian homes.",
-        "imageUrl": "https://placehold.co/400x300/e6c76e/ffffff?text=Lux"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/soaps/lux_soap.png"
     },
     {
         "id": "normal_soap_02",
-        "name": "Lifebuoy",
+        "name": "Cinthol",
         "category": "soaps",
         "subCategory": "Normal Soap",
-        "description": "One of the most popular germ protection soaps, Lifebuoy is synonymous with hygiene in India. Its distinctive carbolic fragrance and effectiveness in fighting germs have made it a trusted name for decades.",
-        "imageUrl": "https://placehold.co/400x300/a7211e/ffffff?text=Lifebuoy"
+        "description": "Lemony deo fragrance, suitable for all skin types, grade 1 bathing soap, 99.9% germ protection",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/soaps/cinthol_soap.png"
     },
     {
         "id": "normal_soap_03",
@@ -1749,7 +1749,7 @@
         "category": "soaps",
         "subCategory": "Normal Soap",
         "description": "A well-known antiseptic soap, Dettol is a household name for its germ-killing properties. It's often used for a sense of deep cleansing and protection against illness-causing germs.",
-        "imageUrl": "https://placehold.co/400x300/a7a7a7/ffffff?text=Dettol"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/soaps/detol_soap.png"
     },
     {
         "id": "normal_soap_04",
@@ -1757,7 +1757,7 @@
         "category": "soaps",
         "subCategory": "Normal Soap",
         "description": "Marketed as a 'beauty bar' rather than a soap, Dove is celebrated for its moisturizing properties. It is a go-to for people with dry or sensitive skin due to its quarter moisturizing cream content.",
-        "imageUrl": "https://placehold.co/400x300/f0e6d6/000000?text=Dove"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/soaps/dove_soap.png"
     },
     {
         "id": "normal_soap_05",
@@ -1765,15 +1765,23 @@
         "category": "soaps",
         "subCategory": "Normal Soap",
         "description": "Known for its translucent, glycerin-based formula, Pears is a gentle soap that is easy on the skin. It is a classic choice for maintaining skin's moisture and is widely used across all age groups.",
-        "imageUrl": "https://placehold.co/400x300/b8e0e0/000000?text=Pears"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/soaps/pears_soap.png"
+    },
+    {
+        "id": "normal_soap_06",
+        "name": "Godrej No.1 Soap",
+        "category": "soaps",
+        "subCategory": "Normal Soap",
+        "description": "High TFM for healthy skin, contains natural oils, moisturizes and nourishes, long-lasting refreshing fragrance",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/soaps/godrej_no_one_soap.png"
     },
     {
         "id": "herbal_soap_01",
-        "name": "Medimix",
+        "name": "Vivel",
         "category": "soaps",
         "subCategory": "Herbal Soaps",
-        "description": "A very popular Ayurvedic soap in India, Medimix is known for its blend of 18 herbs to fight skin infections and rashes. It is a trusted brand for those seeking natural skincare solutions.",
-        "imageUrl": "https://placehold.co/400x300/4a875d/ffffff?text=Medimix"
+        "description": "Cooling mint formula for fresh skin, Provides 99.9% germ protection, Deep nourishment for soft skin",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/soaps/vivel_soap.png"
     },
     {
         "id": "herbal_soap_02",
@@ -1781,7 +1789,7 @@
         "category": "soaps",
         "subCategory": "Herbal Soaps",
         "description": "Santoor is a household favorite known for its core ingredients of sandalwood and turmeric. It is widely used by women and is often marketed with the promise of youthful, glowing skin.",
-        "imageUrl": "https://placehold.co/400x300/ffbb00/000000?text=Santoor"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/soaps/santoor_soap.png"
     },
     {
         "id": "herbal_soap_03",
@@ -1789,7 +1797,7 @@
         "category": "soaps",
         "subCategory": "Herbal Soaps",
         "description": "This soap from Himalaya is known for its antibacterial and antifungal properties. It is a popular choice for those with oily or acne-prone skin, combining traditional Ayurvedic ingredients.",
-        "imageUrl": "https://placehold.co/400x300/8d8c91/ffffff?text=Himalaya+Herbal+Soap"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/soaps/himalaya_soap.png"
     },
     {
         "id": "herbal_soap_04",
@@ -1797,7 +1805,7 @@
         "category": "soaps",
         "subCategory": "Herbal Soaps",
         "description": "An iconic Indian brand, this soap is made from 100% pure sandalwood oil, which gives it a luxurious and distinct fragrance. It has been a symbol of tradition and quality for over a century.",
-        "imageUrl": "https://placehold.co/400x300/a35f29/ffffff?text=Mysore+Sandal"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/soaps/mysore_soap.png"
     },
     {
         "id": "herbal_soap_05",
@@ -1805,7 +1813,7 @@
         "category": "soaps",
         "subCategory": "Herbal Soaps",
         "description": "Margo is an old and trusted brand whose main ingredient is Neem, known for its powerful antibacterial and medicinal properties. It is widely used for protecting skin from germs and various skin problems.",
-        "imageUrl": "https://placehold.co/400x300/6fa04b/ffffff?text=Margo"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/soaps/margo_soap.png"
     },
     {
         "id": "baby_soap_01",
@@ -1813,7 +1821,7 @@
         "category": "soaps",
         "subCategory": "Baby Soaps",
         "description": "A globally recognized and trusted brand for baby care in India. Its soap is known for being mild and gentle, with a familiar, pleasant fragrance that has been a part of baby bathing rituals for generations.",
-        "imageUrl": "https://placehold.co/400x300/f0e6d6/000000?text=Johnson's+Baby+Soap"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/soaps/johnsons_baby_soap.png"
     },
     {
         "id": "baby_soap_02",
@@ -1821,15 +1829,15 @@
         "category": "soaps",
         "subCategory": "Baby Soaps",
         "description": "Made with herbal ingredients like olive oil and almond oil, this soap is known for its mildness. It is a popular choice for parents looking for a soap that is free from parabens, SLES, and synthetic colors.",
-        "imageUrl": "https://placehold.co/400x300/a7a7a7/ffffff?text=Himalaya+Baby+Soap"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/soaps/himalaya_gentle_baby_soap.png"
     },
     {
         "id": "baby_soap_03",
-        "name": "Baby Dove",
+        "name": "Mama Earth Baby Soap",
         "category": "soaps",
         "subCategory": "Baby Soaps",
         "description": "A baby-specific product from the Dove brand, it is known for its moisturizing formula. It is often recommended for babies with sensitive skin as it helps retain natural skin moisture.",
-        "imageUrl": "https://placehold.co/400x300/b8e0e0/000000?text=Baby+Dove"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/soaps/mama_earth_baby_soap.png"
     },
     {
         "id": "baby_soap_04",
@@ -1837,15 +1845,15 @@
         "category": "soaps",
         "subCategory": "Baby Soaps",
         "description": "A popular choice for its soap-free, pH 5.5 formula, which is ideal for a baby's delicate skin. It is recommended by dermatologists for its ability to maintain the skin's natural protective layer.",
-        "imageUrl": "https://placehold.co/400x300/8d8c91/ffffff?text=Sebamed+Baby+Soap"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/soaps/sebamed_baby_soap.png"
     },
     {
         "id": "baby_soap_05",
-        "name": "Mamaearth Milky Soft Baby Soap",
+        "name": "Citaphil Baby Soap",
         "category": "soaps",
         "subCategory": "Baby Soaps",
-        "description": "A natural and toxin-free baby soap that has gained popularity among new-age parents. It is often made with ingredients like milk, oats, and calendula, focusing on gentle and natural care.",
-        "imageUrl": "https://placehold.co/400x300/d44f38/ffffff?text=Mamaearth+Baby+Soap"
+        "description": "Enriched with shea butter, olive, and avocado oil, Paraben-free and hypoallergenic, Baby skin friendly pH of 5.5, Dermatologically tested for safety",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/soaps/citaphil_baby_soap.png"
     },
     {
         "id": "shower_gel_01",
@@ -1853,7 +1861,7 @@
         "category": "soaps",
         "subCategory": "Shower Gels",
         "description": "Pears extended its soap popularity into shower gels, offering a gentle, glycerin-based formula that is mild on the skin and helps maintain its moisture, providing a similar experience to its soap bar.",
-        "imageUrl": "https://placehold.co/400x300/ff7f00/ffffff?text=Pears+Shower+Gel"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/soaps/pears_shower_gel.png"
     },
     {
         "id": "shower_gel_02",
@@ -1861,7 +1869,7 @@
         "category": "soaps",
         "subCategory": "Shower Gels",
         "description": "One of the most used body washes, it is known for its NutriumMoisture technology that helps nourish the skin while cleansing, making it a favorite for those with dry skin.",
-        "imageUrl": "https://placehold.co/400x300/f0e6d6/000000?text=Dove+Body+Wash"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/soaps/dove_body_wash.png"
     },
     {
         "id": "shower_gel_03",
@@ -1869,7 +1877,7 @@
         "category": "soaps",
         "subCategory": "Shower Gels",
         "description": "Nivea offers a wide variety of shower gels, known for their creamy texture and pleasant fragrances. They are a popular choice for their moisturizing properties and a refreshing bathing experience.",
-        "imageUrl": "https://placehold.co/400x300/b8e0e0/000000?text=Nivea+Shower+Gel"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/soaps/nivea_shower_gels.png"
     },
     {
         "id": "shower_gel_04",
@@ -1877,15 +1885,15 @@
         "category": "soaps",
         "subCategory": "Shower Gels",
         "description": "Mirroring its soap line, Lux offers body washes with rich scents and a luxurious feel. The gels are designed to provide a perfumed, indulgent bathing experience that leaves the skin feeling soft.",
-        "imageUrl": "https://placehold.co/400x300/e6c76e/ffffff?text=Lux+Body+Wash"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/soaps/lux_body_wash.png"
     },
     {
         "id": "shower_gel_05",
-        "name": "Fiama Di Wills Gel Bars",
+        "name": "Fiama Shower Gel",
         "category": "soaps",
         "subCategory": "Shower Gels",
         "description": "Known for its unique gel-based formula, Fiama's shower gels offer a light, bubbly lather. They are popular for their vibrant colors, fresh fragrances, and a refreshing feel on the skin.",
-        "imageUrl": "https://placehold.co/400x300/c74e2d/ffffff?text=Fiama+Shower+Gel"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/soaps/fiama_shower_gel.png"
     },
     {
         "id": "handwash_01",
