@@ -1609,11 +1609,11 @@
     },
     {
         "id": "toothpaste_01",
-        "name": "Colgate Total",
+        "name": "Colgate Strong Teeth",
         "category": "oral",
         "subCategory": "Toothpaste",
         "description": "A popular all-in-one toothpaste that provides 12-hour protection against germs. It is known for its comprehensive benefits, including fighting cavities, plaque, and gingivitis, and for its freshness.",
-        "imageUrl": "https://placehold.co/400x300/e0e0e0/000000?text=Colgate+Total"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/oralcare/colgate_strong_teeth.png"
     },
     {
         "id": "toothpaste_02",
@@ -1621,7 +1621,7 @@
         "category": "oral",
         "subCategory": "Toothpaste",
         "description": "A very common and trusted Ayurvedic toothpaste known for its blend of traditional ingredients like clove, mint, and black pepper. It is popular for providing a natural and holistic approach to oral hygiene.",
-        "imageUrl": "https://placehold.co/400x300/a7211e/ffffff?text=Dabur+Red"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/oralcare/dabur_red.png"
     },
     {
         "id": "toothpaste_03",
@@ -1629,7 +1629,7 @@
         "category": "oral",
         "subCategory": "Toothpaste",
         "description": "A widely used toothpaste from Hindustan Unilever, marketed for its 12-hour germ protection. It is a family favorite for its strong focus on preventing cavities and promoting oral health.",
-        "imageUrl": "https://placehold.co/400x300/004a99/ffffff?text=Pepsodent+Germicheck"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/oralcare/pepsodent_germicheck.png"
     },
     {
         "id": "toothpaste_04",
@@ -1637,7 +1637,7 @@
         "category": "oral",
         "subCategory": "Toothpaste",
         "description": "A dentist-recommended toothpaste specifically formulated for sensitive teeth. It works by either soothing the nerves or building a protective barrier to provide relief from sensitivity.",
-        "imageUrl": "https://placehold.co/400x300/8c4e1f/ffffff?text=Sensodyne"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/oralcare/sensodyne_toothpaste.png"
     },
     {
         "id": "toothpaste_05",
@@ -1645,7 +1645,7 @@
         "category": "oral",
         "subCategory": "Toothpaste",
         "description": "A popular herbal toothpaste that combines the power of natural ingredients like Neem and Miswak to fight germs and strengthen gums. It is a preferred choice for consumers seeking natural oral care solutions.",
-        "imageUrl": "https://placehold.co/400x300/6fa04b/ffffff?text=Himalaya+Herbals"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/oralcare/himalaya_herbals_toothpaste.png"
     },
     {
         "id": "toothpaste_06",
@@ -1653,7 +1653,7 @@
         "category": "oral",
         "subCategory": "Toothpaste",
         "description": "India's first gel-based toothpaste, known for its mouthwash-like freshness and whitening properties. Its bright color and strong flavor have made it a favorite among the youth.",
-        "imageUrl": "https://placehold.co/400x300/d44f38/ffffff?text=Closeup+Everfresh"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/oralcare/closeup_toothpaste.png"
     },
     {
         "id": "toothpaste_07",
@@ -1661,7 +1661,7 @@
         "category": "oral",
         "subCategory": "Toothpaste",
         "description": "An all-natural, Ayurvedic toothpaste and tooth powder brand that has been a part of Indian households for decades. It is known for its traditional herbal formulation, which promotes strong gums and healthy teeth.",
-        "imageUrl": "https://placehold.co/400x300/ffbb00/ffffff?text=Vicco+Vajradanti"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/oralcare/vicco_vajradanti_toothpaste.png"
     },
     {
         "id": "toothpaste_08",
@@ -1669,7 +1669,7 @@
         "category": "oral",
         "subCategory": "Toothpaste",
         "description": "A highly popular herbal toothpaste from Patanjali, which gained a strong market share with its affordable price and natural ingredients. It is a well-known name in the herbal oral care segment.",
-        "imageUrl": "https://placehold.co/400x300/8d8c91/ffffff?text=Patanjali+Dant+Kanti"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/oralcare/patanjali_dant_kanti.png"
     },
     {
         "id": "toothpaste_09",
@@ -1677,15 +1677,15 @@
         "category": "oral",
         "subCategory": "Toothpaste",
         "description": "This toothpaste is made with extracts from the Meswak plant, which is traditionally known for its dental care properties. It is marketed for its ability to fight plaque and give a fresh breath.",
-        "imageUrl": "https://placehold.co/400x300/4a2924/ffffff?text=Dabur+Meswak"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/oralcare/dabur_meswak.png"
     },
     {
         "id": "toothpaste_10",
-        "name": "Colgate Active Salt",
+        "name": "Mama Earth Kids",
         "category": "oral",
         "subCategory": "Toothpaste",
-        "description": "A variant from Colgate that incorporates salt to fight germs and gum problems. It is a popular choice for those who prefer the traditional oral care benefits of salt.",
-        "imageUrl": "https://placehold.co/400x300/a3927d/ffffff?text=Colgate+Active+Salt"
+        "description": "A variant from mama earth for kids.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/oralcare/mama_earth_kids.png"
     },
     {
         "id": "mouthwash_01",
@@ -1693,23 +1693,23 @@
         "category": "oral",
         "subCategory": "Mouthwash",
         "description": "A globally recognized brand and a market leader in India. Listerine is known for its strong, antiseptic properties that kill germs and provide long-lasting fresh breath. It comes in various flavors like Cool Mint and Fresh Burst.",
-        "imageUrl": "https://placehold.co/400x300/004a99/ffffff?text=Listerine"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/oralcare/listrine_mouthwash.png"
     },
     {
         "id": "mouthwash_02",
-        "name": "Colgate Plax",
+        "name": "Colgate Max Fresh",
         "category": "oral",
         "subCategory": "Mouthwash",
         "description": "Colgate's popular mouthwash offering, known for its antibacterial formula that provides germ protection and fresh breath. It is a common choice for daily oral hygiene routines.",
-        "imageUrl": "https://placehold.co/400x300/e0e0e0/000000?text=Colgate+Plax"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/oralcare/colgate_maxfresh_mouthwash.png"
     },
     {
         "id": "mouthwash_03",
-        "name": "Himalaya Active Fresh",
+        "name": "Perfora Mouth Wash",
         "category": "oral",
         "subCategory": "Mouthwash",
         "description": "A popular herbal mouthwash that is alcohol-free and fluoride-free. It is made with natural ingredients like fennel and mint to provide a refreshing and natural oral rinse.",
-        "imageUrl": "https://placehold.co/400x300/6fa04b/ffffff?text=Himalaya+Mouthwash"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/oralcare/perfora_mouthwash.png"
     },
     {
         "id": "mouthwash_04",
@@ -1717,15 +1717,15 @@
         "category": "oral",
         "subCategory": "Mouthwash",
         "description": "A mouthwash designed for sensitive teeth and gums. It is part of the Sensodyne family of products and offers a gentle yet effective way to protect against sensitivity and provide a clean feel.",
-        "imageUrl": "https://placehold.co/400x300/8c4e1f/ffffff?text=Sensodyne+Mouthwash"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/oralcare/sensodyne_complete_protection.png"
     },
     {
         "id": "mouthwash_05",
-        "name": "Dabur Red Pulling Oil",
+        "name": "Habbits Mouth Wash",
         "category": "oral",
         "subCategory": "Mouthwash",
-        "description": "Inspired by the traditional Ayurvedic practice of oil pulling, this product is a blend of natural oils and spices. It is used as a mouth rinse to support gum health and overall oral hygiene.",
-        "imageUrl": "https://placehold.co/400x300/a7211e/ffffff?text=Dabur+Red+Pulling+Oil"
+        "description": "Alcohol free mouth wash from Habits for advanced stain removal, cavity protection, removes plaque, refreshing taste",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/oralcare/habbits_mouthwash.png"
     },
     {
         "id": "normal_soap_01",
