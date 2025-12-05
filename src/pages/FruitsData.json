@@ -2129,123 +2129,179 @@
     },
     {
         "id": "shampoo_01",
-        "name": "Head & Shoulders",
+        "name": "Head & Shoulders Smooth & Silky 2-in-1 Shampoo & Conditioner",
         "category": "haircare",
         "subCategory": "Shampoos",
-        "description": "A global leader in anti-dandruff shampoos, it is a go-to brand in India for people dealing with dandruff and scalp issues. It is known for its effectiveness and a range of variants.",
-        "imageUrl": "https://placehold.co/400x300/a7a7a7/ffffff?text=Head+%26+Shoulders"
+        "description": "A dual-action formula that effectively fights dandruff and combines a nourishing conditioner to leave hair smooth, silky, and frizz-free.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/shampoo/head_shoulders_shampoo.png"
     },
     {
         "id": "shampoo_02",
-        "name": "Dove Hair Therapy",
+        "name": "Dove Hair Fall Rescue Shampoo",
         "category": "haircare",
         "subCategory": "Shampoos",
-        "description": "Known for its moisturizing properties, Dove shampoos are popular for their ability to combat dryness and frizz. They are a staple for those seeking soft, smooth hair.",
-        "imageUrl": "https://placehold.co/400x300/f0e6d6/000000?text=Dove+Shampoo"
+        "description": "Formulated with Nutrilock actives, this shampoo strengthens hair fibers from the roots, significantly reducing hair fall due to breakage.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/shampoo/dove_shampoo.png"
     },
     {
         "id": "shampoo_03",
-        "name": "Clinic Plus",
+        "name": "Clinic Plus Strong & Long Health Shampoo",
         "category": "haircare",
         "subCategory": "Shampoos",
-        "description": "An iconic and very affordable shampoo brand in India, often sold in sachets. It is a family favorite for its basic cleansing properties and is widely used across the country.",
-        "imageUrl": "https://placehold.co/400x300/e6c76e/ffffff?text=Clinic+Plus"
+        "description": "Enriched with Milk Protein, this shampoo helps nourish hair from the roots, promoting strength and making hair visibly longer.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/shampoo/clinic_plus_shampoo.png"
     },
     {
         "id": "shampoo_04",
-        "name": "Himalaya Anti-Hair Fall",
+        "name": "Himalaya Gentle Daily Care Protein Shampoo",
         "category": "haircare",
         "subCategory": "Shampoos",
-        "description": "Himalaya's shampoos are a popular choice for consumers who prefer herbal products. The anti-hair fall variant is widely used for its natural ingredients like Bhringaraja and Palasha.",
-        "imageUrl": "https://placehold.co/400x300/6fa04b/ffffff?text=Himalaya+Shampoo"
+        "description": "A mild, daily-use shampoo infused with natural proteins like Chickpea and Amla to gently cleanse and nourish hair, keeping it healthy and soft.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/shampoo/himalaya_shampoo.png"
     },
     {
         "id": "shampoo_05",
-        "name": "Sunslik Thick & Long",
+        "name": "Sunsilk Stunning Black Shine Shampoo",
         "category": "haircare",
         "subCategory": "Shampoos",
-        "description": "Sunsilk is a brand that focuses on specific hair concerns. The 'Thick & Long' variant, co-created with a hair expert, is a popular choice for those looking to add volume and strength to their hair.",
-        "imageUrl": "https://placehold.co/400x300/ff7f00/ffffff?text=Sunsilk+Shampoo"
+        "description": "Co-created with a hair expert, this formula is enriched with Amla Pearl Complex to nourish hair and bring out its stunning natural black shine.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/shampoo/sunsilk_shampoo.png"
+    },
+    {
+        "id": "shampoo_06",
+        "name": "Tresemme Keratin Smooth Shampoo",
+        "category": "haircare",
+        "subCategory": "Shampoos",
+        "description": "Infused with Keratin and Argan Oil, this shampoo deeply cleanses while controlling frizz for up to three days, leaving hair smoother and more manageable.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/shampoo/tresemme_keratin_shampoo.png"
+    },
+    {
+        "id": "shampoo_07",
+        "name": "Patanjali Kesh Kanti ",
+        "category": "haircare",
+        "subCategory": "Shampoos",
+        "description": "An Ayurvedic herbal formulation enriched with natural ingredients like Neem and Aloe Vera that gently cleanses, nourishes hair roots, and helps reduce hair fall.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/shampoo/patanjali_shampoo.png"
+    },
+    {
+        "id": "shampoo_08",
+        "name": "Dabur Vatika Long & Black Shampoo",
+        "category": "haircare",
+        "subCategory": "Shampoos",
+        "description": "Enriched with Amla and Black Olive, this shampoo helps nourish hair to make it visibly longer, healthier, and naturally darker.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/shampoo/dabur_vatika_shampoo.png"
+    },
+    {
+        "id": "shampoo_09",
+        "name": "Pantene Shampoo",
+        "category": "haircare",
+        "subCategory": "Shampoos",
+        "description": "A powerful Pro-V formula that penetrates deep into the hair core to cleanse gently, strengthen hair against damage, and restore its natural health and shine.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/shampoo/pantene_shampoo.png"
+    },
+    {
+        "id": "shampoo_10",
+        "name": "Chick Egg White Shampoo",
+        "category": "haircare",
+        "subCategory": "Shampoos",
+        "description": "A protein-rich shampoo infused with Egg White to deeply nourish and strengthen hair, restoring its volume and shine.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/shampoo/chick_egg_white_shampoo.png"
     },
     {
         "id": "conditioner_01",
-        "name": "Dove Hair Therapy Conditioner",
+        "name": "Dove Hair Fall Rescue Conditioner",
         "category": "haircare",
         "subCategory": "Conditioners",
-        "description": "A top-selling conditioner that provides deep nourishment and detangling. It is widely used to achieve smooth, soft, and manageable hair, often paired with Dove shampoos.",
-        "imageUrl": "https://placehold.co/400x300/f0e6d6/000000?text=Dove+Conditioner"
+        "description": "This conditioner works by detangling and strengthening hair fibers from the first wash, significantly reducing hair fall due to breakage.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/conditioners/dove_conditioner.png"
     },
     {
         "id": "conditioner_02",
-        "name": "L'Oréal Paris Dream Lengths Conditioner",
+        "name": "Pantene Adv Hairfall Solution Conditioner",
         "category": "haircare",
         "subCategory": "Conditioners",
-        "description": "A very popular conditioner for people with long hair. It is known for its ability to detangle hair and protect it from damage, helping maintain hair length.",
-        "imageUrl": "https://placehold.co/400x300/a7a7a7/ffffff?text=L'Oreal+Conditioner"
+        "description": "Featuring Pantene's advanced Pro-V formula, this conditioner deeply nourishes and seals hair ends to strengthen against damage and prevent hair fall.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/conditioners/pantene_conditioner.png"
     },
     {
         "id": "conditioner_03",
         "name": "TRESemmé Keratin Smooth Conditioner",
         "category": "haircare",
         "subCategory": "Conditioners",
-        "description": "This salon-quality conditioner is a popular choice for people looking for a keratin treatment at home. It is known for its ability to control frizz and straighten hair.",
-        "imageUrl": "https://placehold.co/400x300/8d8c91/ffffff?text=TRESemme+Conditioner"
+        "description": "Infused with Keratin and Argan Oil, this conditioner detangles hair and provides professional-grade smoothness, making hair frizz-free and manageable.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/conditioners/tresemme_conditioner.png"
     },
     {
         "id": "conditioner_04",
-        "name": "Sunsilk Perfect Straight Conditioner",
+        "name": "L'Oreal Paris Total Repair 5 Conditioner",
         "category": "haircare",
         "subCategory": "Conditioners",
-        "description": "Sunsilk's conditioner for straight hair is a go-to for many. It is known for its ability to keep hair straight and smooth, even after washing, and is a staple in many households.",
-        "imageUrl": "https://placehold.co/400x300/ff7f00/ffffff?text=Sunsilk+Conditioner"
+        "description": "This conditioner combats the five visible signs of damaged hair—breakage, dryness, roughness, dullness, and split ends—for restored strength and vitality.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/conditioners/loreal_conditioner.png"
     },
     {
         "id": "conditioner_05",
-        "name": "Pantene Advanced Hair Fall Solution Conditioner",
+        "name": "Mamaearth Onion Conditioner",
         "category": "haircare",
         "subCategory": "Conditioners",
-        "description": "Pantene is a well-known name in hair care. This conditioner is often chosen for its ability to strengthen hair and reduce hair fall, providing nourishment from root to tip.",
-        "imageUrl": "https://placehold.co/400x300/004a99/ffffff?text=Pantene+Conditioner"
+        "description": "Containing Onion and Coconut Oil, this gentle conditioner helps to detangle hair, reduce frizz, and make hair soft and smooth, thereby reducing breakage.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/conditioners/mamaearth_conditioner.png"
     },
     {
         "id": "hairoil_01",
-        "name": "Parachute Coconut Hair Oil",
+        "name": "Parachute 100% Pure Coconut Oil",
         "category": "haircare",
         "subCategory": "Hair Oils",
-        "description": "An undisputed leader and an iconic brand in the Indian hair oil market. It is a staple in every Indian household, known for its pure coconut oil content and a symbol of traditional hair care.",
-        "imageUrl": "https://placehold.co/400x300/a35f29/ffffff?text=Parachute+Coconut+Oil"
+        "description": "Made from the finest coconuts, this oil is 100% pure and unrefined, providing deep nourishment for strong, healthy, and shiny hair.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/hair_oil/parachute_coconut_oil.png"
     },
     {
         "id": "hairoil_02",
-        "name": "Dabur Amla Hair Oil",
+        "name": "Dabur Amla Sarso Amla Hair Oil Badam Shakti",
         "category": "haircare",
         "subCategory": "Hair Oils",
-        "description": "Dabur Amla is a classic hair oil known for its nourishing properties due to the inclusion of Amla (Indian gooseberry). It is a trusted brand for strengthening hair and preventing graying.",
-        "imageUrl": "https://placehold.co/400x300/6fa04b/ffffff?text=Dabur+Amla+Hair+Oil"
+        "description": "This blend combines the strength of Amla and Sarso (Mustard) oil with the nourishment of Almond, deeply conditioning hair and providing visible shine.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/hair_oil/dabur_amla_sarso_oil.png"
     },
     {
         "id": "hairoil_03",
-        "name": "Bajaj Almond Drops Hair Oil",
+        "name": "Bajaj Almond Drops Non-Sticky Hair Oil ",
         "category": "haircare",
         "subCategory": "Hair Oils",
-        "description": "Known for its light, non-sticky formula and the goodness of almonds, this hair oil is a popular choice for those who prefer a less greasy feel while still getting nourishment.",
-        "imageUrl": "https://placehold.co/400x300/8c4e1f/ffffff?text=Bajaj+Almond+Drops"
+        "description": "Enriched with Almond Oil and Vitamin E, this non-sticky, lightweight oil nourishes hair, reduces breakage, and keeps hair light and shiny.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/hair_oil/bajaj_almond_drops_oil.png"
     },
     {
         "id": "hairoil_04",
-        "name": "Navratna Oil",
+        "name": "Navratna Cool Hair Oil ",
         "category": "haircare",
         "subCategory": "Hair Oils",
-        "description": "A cooling hair oil with a blend of nine Ayurvedic herbs. It is famous for providing a cooling sensation and is often used to relieve stress and headaches, making it a popular choice for head massages.",
-        "imageUrl": "https://placehold.co/400x300/b8e0e0/000000?text=Navratna+Oil"
+        "description": "An herbal cooling oil blend that provides a relaxing head massage experience while relieving stress, headache, and fatigue.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/hair_oil/navratna_cool_hair_oil.png"
     },
     {
         "id": "hairoil_05",
-        "name": "Indulekha Bringha Oil",
+        "name": "Indulekha Bhringraj Hair Oil ",
         "category": "haircare",
         "subCategory": "Hair Oils",
-        "description": "A well-known Ayurvedic hair oil that has gained popularity for its focus on hair fall and hair growth. It comes with a unique comb-like cap for easy and direct application to the scalp.",
-        "imageUrl": "https://placehold.co/400x300/4a2924/ffffff?text=Indulekha+Oil"
+        "description": "An Ayurvedic proprietary medicine prepared with Bhringraj, known to reduce hair fall and promote the growth of new, healthy hair.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/hair_oil/indulekha_hair_oil.png"
+    },
+    {
+        "id": "hairoil_06",
+        "name": "Kesh King Gold Ayurvedic Hair Oil ",
+        "category": "haircare",
+        "subCategory": "Hair Oils",
+        "description": "An Ayurvedic preparation consisting of 21 rare herbs, traditionally used to control hair fall, prevent premature greying, and promote hair growth.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/hair_oil/keshking_hair_oil.png"
+    },
+    {
+        "id": "hairoil_07",
+        "name": "Patanjali Kesh Kanti Hair Oil",
+        "category": "haircare",
+        "subCategory": "Hair Oils",
+        "description": "An herbal hair tonic containing ingredients like Bhringraj, Mehandi, and Neem that strengthen hair roots, prevent hair fall, and reduce dandruff.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/hair_oil/patanjali_kesh_kanti_hair_oil.png"
     },
     {
         "id": "detergent_soap_01",
