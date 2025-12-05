@@ -1897,11 +1897,11 @@
     },
     {
         "id": "handwash_01",
-        "name": "Dettol Original Handwash",
+        "name": "Dettol Handwash",
         "category": "handwash",
         "subCategory": "Liquid Handwash",
-        "description": "A market leader in India, Dettol is a household name for its trusted germ protection formula. It is widely used and is known for its effectiveness in killing a broad range of germs.",
-        "imageUrl": "https://placehold.co/400x300/a7a7a7/ffffff?text=Dettol+Handwash"
+        "description": "Classic, trusted formula with the signature pine fragrance. 10x better germ protection; protects against 100 illness-causing germs.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/handwash/dettol_handwash.png"
     },
     {
         "id": "handwash_02",
@@ -1909,7 +1909,7 @@
         "category": "handwash",
         "subCategory": "Liquid Handwash",
         "description": "Known for its 'Activ Silver Formula,' Lifebuoy is a popular and affordable option for germ protection. It is especially common in households with children due to its strong anti-bacterial properties.",
-        "imageUrl": "https://placehold.co/400x300/a7211e/ffffff?text=Lifebuoy+Handwash"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/handwash/lifebouy_handwash.png"
     },
     {
         "id": "handwash_03",
@@ -1917,7 +1917,7 @@
         "category": "handwash",
         "subCategory": "Liquid Handwash",
         "description": "A well-known antiseptic brand, Savlon's handwash is a strong competitor in the hygiene segment. It's often chosen for its germ-killing efficacy and gentle, moisturizing formula.",
-        "imageUrl": "https://placehold.co/400x300/e6c76e/ffffff?text=Savlon+Handwash"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/handwash/savlon_handwash.png"
     },
     {
         "id": "handwash_04",
@@ -1925,7 +1925,7 @@
         "category": "handwash",
         "subCategory": "Liquid Handwash",
         "description": "This handwash is known for being a natural, eco-friendly option that is free of harmful chemicals. It is a popular choice for families looking for a handwash that is gentle on the skin but tough on germs.",
-        "imageUrl": "https://placehold.co/400x300/3e721a/ffffff?text=Godrej+Protekt"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/handwash/godrej_protek_handwash.png"
     },
     {
         "id": "handwash_05",
@@ -1933,15 +1933,15 @@
         "category": "handwash",
         "subCategory": "Liquid Handwash",
         "description": "Santoor is a popular brand, particularly known for its sandalwood and turmeric variants. Its handwashes are valued for their pleasant fragrances and moisturizing properties, making handwashing a more pleasant experience.",
-        "imageUrl": "https://placehold.co/400x300/ffbb00/000000?text=Santoor+Handwash"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/handwash/santoor_handwash.png"
     },
     {
         "id": "handwash_06",
-        "name": "Himalaya Pure Hands",
+        "name": "Patanjali Anti Bacterial Herbal Hand Wash",
         "category": "handwash",
         "subCategory": "Herbal Handwash",
-        "description": "This handwash from Himalaya is based on herbal ingredients like Neem and Tulsi. It is a preferred choice for consumers seeking natural and Ayurvedic options for daily hygiene.",
-        "imageUrl": "https://placehold.co/400x300/6fa04b/ffffff?text=Himalaya+Pure+Hands"
+        "description": "Patanjali Anti Bacterial Herbal Hand Wash is an Ayurvedic formulation that provides effective anti-bacterial protection using natural extracts like Neem, Tulsi, and Turmeric while keeping hands soft with Aloe Vera.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/handwash/patanjali_handwash.png"
     },
     {
         "id": "handwash_07",
@@ -1949,15 +1949,15 @@
         "category": "handwash",
         "subCategory": "Liquid Handwash",
         "description": "Palmolive offers a range of handwashes with pleasant fragrances and a focus on moisturization. The 'Naturals' line, with ingredients like milk and floral extracts, is popular for its gentle formula.",
-        "imageUrl": "https://placehold.co/400x300/a35f29/ffffff?text=Palmolive"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/handwash/palmolive_handwash.png"
     },
     {
         "id": "handwash_08",
-        "name": "Dabur Vatika Handwash",
+        "name": "Dabur Fem Handwash",
         "category": "handwash",
         "subCategory": "Herbal Handwash",
-        "description": "Part of the Dabur family, this handwash is often made with traditional ingredients, appealing to those who trust in the benefits of Ayurveda for health and hygiene.",
-        "imageUrl": "https://placehold.co/400x300/e0e0e0/000000?text=Dabur+Vatika"
+        "description": "Dabur Fem Handwash is a soft and safe formula enriched with natural skin conditioners like coconut milk and glycerin, designed to remove 99.9% of germs while keeping hands moisturized and pH-balanced.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/handwash/dabur_fem_handwash.png"
     },
     {
         "id": "handwash_09",
@@ -1965,15 +1965,15 @@
         "category": "handwash",
         "subCategory": "Liquid Handwash",
         "description": "Known for its unique gel-based formula and attractive packaging, Fiama handwash is a popular choice among the youth. It focuses on providing a refreshing and scented handwashing experience.",
-        "imageUrl": "https://placehold.co/400x300/c74e2d/ffffff?text=Fiama+Handwash"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/handwash/fiama_handwash.png"
     },
     {
         "id": "handwash_10",
-        "name": "Pears Pure & Gentle Handwash",
+        "name": "Kimirica Bouquet Scented Hand Wash",
         "category": "handwash",
         "subCategory": "Liquid Handwash",
-        "description": "Extending its popular soap formula, Pears handwash is a gentle, pH-balanced option. It is a go-to for sensitive skin, offering a simple and effective cleansing experience.",
-        "imageUrl": "https://placehold.co/400x300/b8e0e0/000000?text=Pears+Handwash"
+        "description": "Kimirica Bouquet Hand Wash is a luxurious, vegan, and non-drying cleanser infused with the captivating scent of Frangipani and Rose, enriched with Aloe Vera and Olive Oil to leave hands clean, soft, and elegantly fragrant.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/handwash/kimirica_handwash.png"
     },
     {
         "id": "sanitizer_01",
@@ -1981,79 +1981,23 @@
         "category": "handwash",
         "subCategory": "Hand Sanitizer",
         "description": "One of the most trusted and widely available sanitizers in India. It is known for its high alcohol content and fast-acting germ-killing formula, often used for on-the-go protection.",
-        "imageUrl": "https://placehold.co/400x300/a7a7a7/ffffff?text=Dettol+Sanitizer"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/handwash/dettol_sanitizer.png"
     },
     {
         "id": "sanitizer_02",
-        "name": "Lifebuoy Hand Sanitizer",
+        "name": "QUARANT Instant Hand Sanitizer",
         "category": "handwash",
         "subCategory": "Hand Sanitizer",
-        "description": "Lifebuoy's sanitizer is a popular, affordable option that provides quick germ protection. It is a staple in many Indian households and a common sight in public places.",
-        "imageUrl": "https://placehold.co/400x300/a7211e/ffffff?text=Lifebuoy+Sanitizer"
+        "description": "QUARANT Instant Hand Sanitizer is a high-efficacy, non-sticky, and rinse-free solution featuring the WHO-recommended 80% alcohol formula to kill 99.95% of germs while moisturizing skin with Glycerine.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/handwash/quarant_sanitizer.png"
     },
     {
         "id": "sanitizer_03",
-        "name": "Savlon Hand Sanitizer",
+        "name": "Pearldew Spray Hand Sanitizer",
         "category": "handwash",
         "subCategory": "Hand Sanitizer",
-        "description": "Savlon's sanitizer is a go-to for its dual-action of germ protection and gentle care. It is a well-established brand in the antiseptic market and a trusted choice for many families.",
-        "imageUrl": "https://placehold.co/400x300/e6c76e/ffffff?text=Savlon+Sanitizer"
-    },
-    {
-        "id": "sanitizer_04",
-        "name": "Himalaya PureHands",
-        "category": "handwash",
-        "subCategory": "Herbal Hand Sanitizer",
-        "description": "This is a popular herbal and alcohol-based sanitizer. It is known for its natural ingredients like Neem and Coriander, and it is widely chosen by consumers who prefer a product with an herbal touch.",
-        "imageUrl": "https://placehold.co/400x300/6fa04b/ffffff?text=Himalaya+PureHands"
-    },
-    {
-        "id": "sanitizer_05",
-        "name": "Dabur Hand Sanitizer",
-        "category": "handwash",
-        "subCategory": "Herbal Hand Sanitizer",
-        "description": "Dabur offers sanitizers with Ayurvedic formulations, appealing to those who trust in natural and traditional remedies. They are often infused with ingredients like lemon and neem.",
-        "imageUrl": "https://placehold.co/400x300/d44f38/ffffff?text=Dabur+Sanitizer"
-    },
-    {
-        "id": "sanitizer_06",
-        "name": "Boroplus Advanced Anti-Germ Sanitizer",
-        "category": "handwash",
-        "subCategory": "Hand Sanitizer",
-        "description": "Known for its 'Ayurvedic Antiseptic Cream,' Boroplus also offers a sanitizer with a focus on germ protection and skin care. It is formulated with ingredients like Neem and Tulsi.",
-        "imageUrl": "https://placehold.co/400x300/a3927d/ffffff?text=Boroplus+Sanitizer"
-    },
-    {
-        "id": "sanitizer_07",
-        "name": "Godrej Protekt Hand Sanitizer",
-        "category": "handwash",
-        "subCategory": "Hand Sanitizer",
-        "description": "Godrej's sanitizer is an eco-friendly option with a focus on a quick and effective germ-killing formula. It is a reliable choice for daily use, offering hygiene and protection.",
-        "imageUrl": "https://placehold.co/400x300/004a99/ffffff?text=Godrej+Protekt+Sanitizer"
-    },
-    {
-        "id": "sanitizer_08",
-        "name": "Patanjali Hand Sanitizer",
-        "category": "handwash",
-        "subCategory": "Herbal Hand Sanitizer",
-        "description": "As part of the Patanjali brand, this sanitizer is popular for its herbal and Ayurvedic ingredients. It is a cost-effective choice for those who prefer natural products.",
-        "imageUrl": "https://placehold.co/400x300/ffbb00/000000?text=Patanjali+Sanitizer"
-    },
-    {
-        "id": "sanitizer_09",
-        "name": "Purell Advanced Hand Sanitizer",
-        "category": "handwash",
-        "subCategory": "Hand Sanitizer",
-        "description": "A well-known global brand, Purell is popular in India for its professional-grade germ-killing effectiveness. It is a favorite in many homes and offices for its reliability.",
-        "imageUrl": "https://placehold.co/400x300/e0e0e0/000000?text=Purell+Sanitizer"
-    },
-    {
-        "id": "sanitizer_10",
-        "name": "Wipro Softouch Hand Sanitizer",
-        "category": "handwash",
-        "subCategory": "Hand Sanitizer",
-        "description": "Wipro's sanitizer is often chosen for its soft and non-sticky formula. It offers a gentle yet effective way to kill germs and keep hands feeling fresh.",
-        "imageUrl": "https://placehold.co/400x300/f0e6d6/000000?text=Wipro+Softouch"
+        "description": "Pearldew Spray Hand Sanitizer is a quick-drying, non-sticky, fine-mist solution that instantly kills 99.9% of germs while moisturizing and conditioning hands with Aloe Vera and Vitamin E.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/handwash/pearldrew_sanitizer.png"
     },
     {
         "id": "moisturizer_01",
