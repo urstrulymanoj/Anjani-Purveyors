@@ -2001,11 +2001,11 @@
     },
     {
         "id": "moisturizer_01",
-        "name": "Nivea Soft Light Moisturizer",
+        "name": "Nivea Body Lotion",
         "category": "lotions",
         "subCategory": "Moisturizers",
         "description": "A very popular and trusted moisturizer known for its non-greasy formula. It is infused with Vitamin E and Jojoba Oil, making it a go-to choice for all skin types and for daily use, especially during the summer.",
-        "imageUrl": "https://placehold.co/400x300/a3927d/ffffff?text=Nivea+Soft"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/lotions/nivea_body_lotion.png"
     },
     {
         "id": "moisturizer_02",
@@ -2013,7 +2013,7 @@
         "category": "lotions",
         "subCategory": "Moisturizers",
         "description": "A classic face moisturizer that is a staple in many Indian households. It is known for its blend of peaches and milk, providing a light, smooth texture and a pleasant fragrance, ideal for daily application.",
-        "imageUrl": "https://placehold.co/400x300/e6c76e/ffffff?text=Lakme+Peach+Milk"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/lotions/lakme_peach_milk_lotion.png"
     },
     {
         "id": "moisturizer_03",
@@ -2021,15 +2021,15 @@
         "category": "lotions",
         "subCategory": "Moisturizers",
         "description": "A well-known lightweight, non-oily moisturizer with Vitamin E and Glycerin. It is widely used and provides hydration without a sticky feel, making it suitable for all seasons.",
-        "imageUrl": "https://placehold.co/400x300/b8e0e0/000000?text=Pond's+Moisturizer"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/lotions/ponds_lotion.png"
     },
     {
         "id": "moisturizer_04",
-        "name": "Himalaya Herbals Nourishing Skin Cream",
+        "name": "Himalaya Nourishing Body Lotion",
         "category": "lotions",
         "subCategory": "Moisturizers",
         "description": "This cream is known for its herbal and natural ingredients like Aloe Vera and Winter Cherry. It's a popular choice for those seeking a product that provides deep hydration and is free from harsh chemicals.",
-        "imageUrl": "https://placehold.co/400x300/6fa04b/ffffff?text=Himalaya+Skin+Cream"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/lotions/himalya_body_lotion.png"
     },
     {
         "id": "moisturizer_05",
@@ -2037,47 +2037,95 @@
         "category": "lotions",
         "subCategory": "Moisturizers",
         "description": "A go-to body lotion for a very long time. It is a highly trusted brand for its deep moisturizing properties, often used to combat dry skin, especially during the winter months.",
-        "imageUrl": "https://placehold.co/400x300/4a2924/ffffff?text=Vaseline+Lotion"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/lotions/vaseline_intensive_care_body_lotion.png"
+    },
+    {
+        "id": "moisturizer_06",
+        "name": "Boroplus Doodh Kesar Moisturizing Body Lotion",
+        "category": "lotions",
+        "subCategory": "Moisturizers",
+        "description": "Enriched with the goodness of Doodh (Milk) and Kesar (Saffron), this moisturizing lotion provides 24-hour hydration and antiseptic protection for soft, glowing skin.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/lotions/boroplus_dudh_kesar_lotion.png"
+    },
+    {
+        "id": "moisturizer_07",
+        "name": "Parachute Advansed Deep Nourish Body Lotion",
+        "category": "lotions",
+        "subCategory": "Moisturizers",
+        "description": "This rich, non-sticky formula is powered by Cocolipid™ technology to penetrate up to 10 layers deep, offering intense, long-lasting moisturization for extra dry skin.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/lotions/parachute_advansed_body_lotion.png"
+    },
+    {
+        "id": "moisturizer_08",
+        "name": "MCaffeine Sweet Escape Perfume Body Lotion",
+        "category": "lotions",
+        "subCategory": "Moisturizers",
+        "description": "A lightweight, non-greasy body lotion infused with the heavenly fragrance of an espresso shot and vanilla, delivering 24-hour moisture and a lingering, sweet perfume.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/lotions/mcaffine_body_lotion.png"
+    },
+    {
+        "id": "moisturizer_09",
+        "name": "Joy Honey & Almonds Nourishing Body Lotion",
+        "category": "lotions",
+        "subCategory": "Moisturizers",
+        "description": "This fast-absorbing, triple-action lotion combines the natural nourishment of Honey and Almonds to relieve dry skin, restore moisture, and maintain a soft, healthy glow.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/lotions/joy_body_lotion.png"
+    },
+    {
+        "id": "moisturizer_10",
+        "name": "Mamaearth Rice Water Hydrating Body Lotion",
+        "category": "lotions",
+        "subCategory": "Moisturizers",
+        "description": "Featuring Rice Water and Shea Butter, this deeply hydrating, non-greasy lotion locks in moisture for up to 24 hours while improving skin texture and elasticity.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/lotions/mamaearth_body_lotion.png"
     },
     {
         "id": "sunscreen_01",
-        "name": "Lotus Herbals Safe Sun 3-in-1 Matte Look Daily Sunscreen",
+        "name": "Minimalist Sunscreen (SPF 50 PA++++)",
         "category": "lotions",
         "subCategory": "Sunscreens",
-        "description": "A very popular Indian brand known for its herbal products. This sunscreen is a favorite for its matte finish, which makes it suitable for oily and combination skin types in India's humid climate.",
-        "imageUrl": "https://placehold.co/400x300/e6c76e/ffffff?text=Lotus+Sunscreen"
+        "description": "A high-protection, lightweight, and invisible sunscreen formulated with advanced UV filters to offer broad-spectrum protection without a white cast.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/sunscreen/minimalist_sunscreen.png"
     },
     {
         "id": "sunscreen_02",
-        "name": "Neutrogena Ultra Sheer Dry-Touch Sunblock",
+        "name": "Dot & Key Vitamin C+E Super Bright Sunscreen (SPF 50+ PA++++)",
         "category": "lotions",
         "subCategory": "Sunscreens",
-        "description": "A globally recognized sunscreen that is highly popular in India for its dry-touch and non-greasy formula. It provides broad-spectrum protection and is a go-to for daily sun protection.",
-        "imageUrl": "https://placehold.co/400x300/a3927d/ffffff?text=Neutrogena+Sunscreen"
+        "description": "This hybrid sunscreen not only provides maximum UV defense (SPF 50+ PA++++) but is also enriched with Vitamins C and E to brighten skin and prevent sun damage.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/sunscreen/dot_key_sunscreen.png"
     },
     {
         "id": "sunscreen_03",
-        "name": "Mamaearth Ultra Light Indian Sunscreen",
+        "name": "Foxtale Golden Hour Glow Sunscreen (SPF 50 PA++++)",
         "category": "lotions",
         "subCategory": "Sunscreens",
-        "description": "A brand that has gained rapid popularity with new-age consumers, known for its natural, toxin-free products. This sunscreen is formulated specifically for Indian skin and weather conditions, offering a lightweight feel.",
-        "imageUrl": "https://placehold.co/400x300/d44f38/ffffff?text=Mamaearth+Sunscreen"
+        "description": "A premium sunscreen offering broad-spectrum protection that imparts an instant, dewy golden hour glow without feeling heavy or greasy.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/sunscreen/foxtale_sunscreen.png"
     },
     {
         "id": "sunscreen_04",
-        "name": "Biotique Bio Sandalwood Sunscreen",
+        "name": "Lakme Sunscreen Gel (SPF 50 PA++++)",
         "category": "lotions",
         "subCategory": "Sunscreens",
-        "description": "A well-known Ayurvedic sunscreen from Biotique, infused with sandalwood and other natural ingredients. It is a popular choice for those who prefer herbal and traditional skincare remedies for sun protection.",
-        "imageUrl": "https://placehold.co/400x300/a35f29/ffffff?text=Biotique+Sunscreen"
+        "description": "A refreshing, ultra-light gel-based sunscreen that delivers high SPF 50 and PA++++ protection, ideal for those seeking a non-oily, matte finish.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/sunscreen/lakme_sunscreen.png"
     },
     {
         "id": "sunscreen_05",
-        "name": "Lakmé Sun Expert",
+        "name": "Mamaearth Vitamin C Daily Glow Sunscreen 50 g",
         "category": "lotions",
         "subCategory": "Sunscreens",
-        "description": "A widely available and affordable sunscreen brand. It is a popular choice for daily use, offering protection against UVA and UVB rays while also providing a base for makeup.",
-        "imageUrl": "https://placehold.co/400x300/f0e6d6/000000?text=Lakme+Sunscreen"
+        "description": "This everyday sunscreen offers sun protection while boosting the skin's natural radiance with Vitamin C, ensuring a healthy, non-greasy glow.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/sunscreen/mamaearth_sunscreen.png"
+    },
+    {
+        "id": "sunscreen_06",
+        "name": "Nivea Sunscreen (SPF 50 PA+++)",
+        "category": "lotions",
+        "subCategory": "Sunscreens",
+        "description": "A reliable and water-resistant sunscreen that provides effective SPF 50 protection and prevents sun damage, suitable for both face and body use.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/sunscreen/nivea_sunscreen.png"
     },
     {
         "id": "shampoo_01",
