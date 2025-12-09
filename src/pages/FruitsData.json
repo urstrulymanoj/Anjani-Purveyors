@@ -2689,43 +2689,59 @@
     },
     {
         "id": "floor_cleaner_01",
-        "name": "Lizol Disinfectant Floor Cleaner",
+        "name": "Lizol Disinfectant Surface & Floor Cleaner",
         "category": "floorcleaners",
         "subCategory": "Floor Cleaners",
         "description": "The most widely used disinfectant floor cleaner in India. Lizol is a household name trusted for killing 99.9% of germs and leaving a fresh fragrance. It's a go-to for daily cleaning and disinfecting floors.",
-        "imageUrl": "https://placehold.co/400x300/e6c76e/ffffff?text=Lizol"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/floor_cleaner/lizol_floor_cleaner.avif"
     },
     {
         "id": "floor_cleaner_02",
         "name": "Domex Disinfectant Floor Cleaner",
         "category": "floorcleaners",
         "subCategory": "Floor Cleaners",
-        "description": "A strong competitor to Lizol, Domex is also known for its powerful germ-killing action. It is a popular choice for its ability to clean and disinfect floors, often used in both homes and commercial spaces.",
-        "imageUrl": "https://placehold.co/400x300/004a99/ffffff?text=Domex+Floor+Cleaner"
+        "description": "Domex Disinfectant Floor Cleaner can be used to clean ceramic tiles, floorings, and hard floors, leaving everything fresh and sparkling clean.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/floor_cleaner/domex_floor_cleaner.avif"
     },
     {
         "id": "floor_cleaner_03",
-        "name": "Nimyle Herbal Floor Cleaner",
+        "name": "ITC Nimyle Eco friendly Herbal Floor Cleaner",
         "category": "floorcleaners",
         "subCategory": "Floor Cleaners",
         "description": "A very popular herbal and eco-friendly floor cleaner. Made from natural ingredients like neem, it is a preferred choice for households that want to avoid chemical-based cleaners, especially with kids and pets.",
-        "imageUrl": "https://placehold.co/400x300/6fa04b/ffffff?text=Nimyle+Herbal"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/floor_cleaner/nimyle_floor_cleaner.avif"
     },
     {
         "id": "floor_cleaner_04",
-        "name": "Patanjali Herbal Floor Cleaner",
+        "name": "Patanjali Gonyle Floor Cleaner",
         "category": "floorcleaners",
         "subCategory": "Floor Cleaners",
         "description": "Patanjali's floor cleaner has gained popularity for its Ayurvedic and natural composition. It is a cost-effective alternative that appeals to consumers who prefer products with a traditional herbal approach.",
-        "imageUrl": "https://placehold.co/400x300/ffbb00/000000?text=Patanjali+Floor+Cleaner"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/floor_cleaner/patanjali_floor_cleaner.avif"
     },
     {
         "id": "floor_cleaner_05",
-        "name": "Santoor Disinfectant Floor Cleaner",
+        "name": "Vim Ultra Pro Floor Cleaner",
         "category": "floorcleaners",
         "subCategory": "Floor Cleaners",
-        "description": "From the well-known soap brand, Santoor's floor cleaner is a newer entrant that has a strong presence. It is valued for its effective cleaning power and a pleasant sandalwood fragrance.",
-        "imageUrl": "https://placehold.co/400x300/a35f29/ffffff?text=Santoor+Floor+Cleaner"
+        "description": "This floor cleaner penetrates deep into stubborn spills, dried food splatters, and stubborn drink marks, effectively dissolving them from within.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/floor_cleaner/vim_floor_cleaner.avif"
+    },
+    {
+        "id": "floor_cleaner_06",
+        "name": "Mr Muscle Floor Cleaner",
+        "category": "floorcleaners",
+        "subCategory": "Floor Cleaners",
+        "description": "It helps to remove stains on the floor while leaving it sparkling clean. It helps in giving your home a visibly clean surface.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/floor_cleaner/mr_muscle_floor_cleaner.avif"
+    },
+    {
+        "id": "floor_cleaner_07",
+        "name": "Roff Cera Clean Advance Tile Floor Cleaner",
+        "category": "floorcleaners",
+        "subCategory": "Floor Cleaners",
+        "description": "Roff Cera Clean is a rapid-action cleaner designed for tiles and ceramics. It effectively removes dirt and grime, leaving surfaces spotless.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/floor_cleaner/roff_floor_cleaner.avif"
     },
     {
         "id": "surface_cleaner_01",
@@ -2733,79 +2749,79 @@
         "category": "floorcleaners",
         "subCategory": "Surface Cleaners",
         "description": "An iconic brand for glass and all-purpose surface cleaning. Colin is a must-have in every household for cleaning windows, mirrors, tabletops, and other glass surfaces, leaving them streak-free.",
-        "imageUrl": "https://placehold.co/400x300/004a99/ffffff?text=Colin+Glass+Cleaner"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/surface_cleaner/colin_surface_cleaner.avif"
     },
     {
         "id": "surface_cleaner_02",
-        "name": "Cif Cream Cleaner",
+        "name": "Beco Natural Disinfectant Surface & Floor Cleaner",
         "category": "floorcleaners",
         "subCategory": "Surface Cleaners",
-        "description": "A popular cream-based cleaner known for its powerful action on tough, greasy grime and burnt-on food. It is a go-to for cleaning kitchen sinks, stovetops, and bathroom surfaces.",
-        "imageUrl": "https://placehold.co/400x300/b8e0e0/000000?text=Cif+Cream+Cleaner"
+        "description": "Get spotless floors with BECO's 1- litre natural floor and surface cleaner,  free from harsh chemicals & gentle on surfaces and skin.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/surface_cleaner/beco_surface_cleaner.avif"
     },
     {
         "id": "surface_cleaner_03",
-        "name": "Mr. Muscle All Purpose Cleaner",
+        "name": "Gainda ShineX Glass Cleaner",
         "category": "floorcleaners",
         "subCategory": "Surface Cleaners",
-        "description": "A well-known all-purpose cleaner that is a popular choice for cleaning various surfaces in the kitchen and bathroom. It's known for its strong formula that removes tough stains.",
-        "imageUrl": "https://placehold.co/400x300/ff7f00/ffffff?text=Mr.+Muscle"
+        "description": "Gainda ShineX Glass Cleaner is a versatile, quick-drying formula that effortlessly removes dirt and smudges to deliver a crystal-clear, streak-free shine on all glass surfaces.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/surface_cleaner/gainda_surface_cleaner.avif"
     },
     {
         "id": "surface_cleaner_04",
-        "name": "Dettol Multi-Surface Cleaner",
+        "name": "WD-40 All Purpose Cleaner Spray",
         "category": "floorcleaners",
         "subCategory": "Surface Cleaners",
-        "description": "Dettol extended its germ protection expertise to surface cleaning. This product is a trusted choice for disinfecting kitchen counters, tables, and other frequently touched surfaces.",
-        "imageUrl": "https://placehold.co/400x300/a7211e/ffffff?text=Dettol+Surface+Cleaner"
-    },
-    {
-        "id": "surface_cleaner_05",
-        "name": "Good knight Surface & Floor Cleaner",
-        "category": "floorcleaners",
-        "subCategory": "Surface Cleaners",
-        "description": "While primarily known for repellents, Good knight's floor cleaner is a popular choice that provides a dual benefit of cleaning and keeping mosquitoes away, especially during the monsoon season.",
-        "imageUrl": "https://placehold.co/400x300/4a2924/ffffff?text=Good+knight+Cleaner"
+        "description": "WD-40 All Purpose Cleaner Spray is a powerful, water-based, non-flammable solution that quickly cuts through grease and grime on metal and equipment, drying fast without leaving any residue.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/surface_cleaner/wd40_surface_cleaner.avif"
     },
     {
         "id": "room_freshener_01",
-        "name": "Godrej Aer",
+        "name": "Godrej Aer Matic Room Freshener",
         "category": "floorcleaners",
         "subCategory": "Room Freshners",
-        "description": "A very popular and modern room freshener brand. It comes in a wide range of formats like aer spray, aer matic, and aer twist, offering a variety of long-lasting fragrances.",
-        "imageUrl": "https://placehold.co/400x300/a3927d/ffffff?text=Godrej+Aer"
+        "description": "The Godrej Aer Matic is an automatic, battery-operated room freshener dispenser with customizable spray settings, designed to deliver a refreshing and long-lasting fragrance that lasts up to 60 days.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/room_freshner/godrej_room_freshner.avif"
     },
     {
         "id": "room_freshener_02",
-        "name": "Odonil",
+        "name": "Aer Plug Electric Air Freshener",
         "category": "floorcleaners",
         "subCategory": "Room Freshners",
-        "description": "A legacy brand for air fresheners in India. Odonil is a trusted name that offers a variety of products, including blocks and sprays, known for their strong and effective fragrances.",
-        "imageUrl": "https://placehold.co/400x300/b8e0e0/000000?text=Odonil"
+        "description": "The Aer Plug Electric Air Freshener is a compact, plug-in system that offers continuous, adjustable fragrance delivery for up to 60 days using non-spill, oil-based refills.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/room_freshner/aer_plug_room_freshner.avif"
     },
     {
         "id": "room_freshener_03",
-        "name": "Ambi Pur",
+        "name": "Airwick Freshmatic Autospray Air Freshener",
         "category": "floorcleaners",
         "subCategory": "Room Freshners",
-        "description": "A well-known global brand that has a strong presence in India. Ambi Pur is popular for its car air fresheners and home sprays, known for eliminating tough odors and providing a fresh scent.",
-        "imageUrl": "https://placehold.co/400x300/f0e6d6/000000?text=Ambi+Pur"
+        "description": "The Airwick Freshmatic Autospray is a battery-powered automatic air freshener that delivers continuous bursts of fragrance with three adjustable intensity settings, lasting up to 70 days per refill.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/room_freshner/airwick_room_freshner.avif"
     },
     {
         "id": "room_freshener_04",
-        "name": "Airwick",
+        "name": "Ambi Pur Exotic Air Freshener ",
         "category": "floorcleaners",
         "subCategory": "Room Freshners",
-        "description": "Airwick is a well-established brand for air fresheners, offering a range of products from sprays to automatic diffusers. It is known for its high-quality fragrances and long-lasting effects.",
-        "imageUrl": "https://placehold.co/400x300/e6c76e/ffffff?text=Airwick"
+        "description": "Ambi Pur Room Freshener Spray uses patented OdourClear technology in a 95% water-based, non-flammable formula to eliminate odors rather than mask them, leaving a long-lasting, fresh scent in any room.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/room_freshner/ambipure_room_freshner_spray.avif"
     },
     {
         "id": "room_freshener_05",
-        "name": "Odonil Zipper",
+        "name": "Odonil Room Freshener",
         "category": "floorcleaners",
         "subCategory": "Room Freshners",
-        "description": "A popular variant of the Odonil brand, the 'Zipper' is a small, easy-to-use air freshener that can be hung in bathrooms or cupboards. It is a common choice for smaller spaces that need a quick fragrance boost.",
-        "imageUrl": "https://placehold.co/400x300/ffbb00/000000?text=Odonil+Zipper"
+        "description": "Odonil Lavender Mist Room Freshener delivers an instant burst of the soothing and calming fragrance of lavender, effectively eliminating odors and freshening any indoor space.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/room_freshner/odonil_room_freshner_spray.avif"
+    },
+    {
+        "id": "room_freshener_06",
+        "name": "Godrej Aer Cool Surf Blue Room Freshener",
+        "category": "floorcleaners",
+        "subCategory": "Room Freshners",
+        "description": "Godrej Aer Cool Surf Blue Room Freshener is a clean, ocean-inspired fragrance available in multiple formats (spray, automatic, pocket) that instantly eliminates odors and delivers long-lasting freshness.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/room_freshner/godrej_room_freshner_spray.avif"
     },
     {
         "id": "repellent_machine_01",
