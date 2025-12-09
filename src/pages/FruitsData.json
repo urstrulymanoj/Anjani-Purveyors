@@ -2489,123 +2489,115 @@
     },
     {
         "id": "dishwash_bar_01",
-        "name": "Vim Bar",
+        "name": "Vim Lemon Dishwash Bar",
         "category": "dishwash",
         "subCategory": "Dishwash Bars",
         "description": "An iconic and a very popular dishwashing bar, Vim is a market leader in India. It is known for its quick and effective grease-cutting power, with a long-lasting formula that's a staple in most homes.",
-        "imageUrl": "https://placehold.co/400x300/e6c76e/ffffff?text=Vim+Bar"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/dishwash_bar/vim_dishwash_bar.avif"
     },
     {
         "id": "dishwash_bar_02",
-        "name": "Exo Bar",
+        "name": "Vim Lemon Tub Dishwashing Tub",
         "category": "dishwash",
         "subCategory": "Dishwash Bars",
-        "description": "Exo is a strong competitor to Vim, known for its pleasant lemon fragrance and tough stain-removing properties. It is a well-established brand and a common sight in Indian kitchens.",
-        "imageUrl": "https://placehold.co/400x300/ffbb00/000000?text=Exo+Bar"
+        "description": "Powerful lemon fragrance, prevents sogging with plastic coating, effective on burnt food stains, suitable for all utensils",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/dishwash_bar/vim_dishwash_tub.avif"
     },
     {
         "id": "dishwash_bar_03",
-        "name": "Pril Bar",
+        "name": "Exo Anti Bacterial Ginger Twist Dishwash Bar",
         "category": "dishwash",
         "subCategory": "Dishwash Bars",
-        "description": "Pril is a popular dishwash bar that focuses on gentle cleaning. It is known for being effective on grease while being soft on hands, making it a preferred choice for many.",
-        "imageUrl": "https://placehold.co/400x300/a7a7a7/ffffff?text=Pril+Bar"
+        "description": "Exo is a strong competitor to Vim, known for its pleasant lemon fragrance and tough stain-removing properties. It is a well-established brand and a common sight in Indian kitchens.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/dishwash_bar/exo_dishwash_bar.avif"
     },
     {
         "id": "dishwash_bar_04",
-        "name": "Nirma Bar",
+        "name": "Exo Anti-Bacterial Dishwashing Tub",
         "category": "dishwash",
         "subCategory": "Dishwash Bars",
-        "description": "A well-known and very affordable dishwash bar from the Nirma brand. It is a go-to option for many due to its low cost and reliable performance in daily dishwashing.",
-        "imageUrl": "https://placehold.co/400x300/a7211e/ffffff?text=Nirma+Bar"
+        "description": "Anti-bacterial formula for deep cleaning, Zero wastage tamper-proof packaging, Leaves utensils sparkling clean",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/dishwash_bar/exo_dishwash_tub.avif"
     },
     {
         "id": "dishwash_bar_05",
-        "name": "Odopic Bar",
+        "name": "Patanjali Super Anti Bacterial Dishwash Bar",
         "category": "dishwash",
         "subCategory": "Dishwash Bars",
-        "description": "Odopic is a traditional dishwash bar that is trusted for its powerful cleaning action. It is often used for scrubbing tough stains on utensils and is a legacy brand in the market.",
-        "imageUrl": "https://placehold.co/400x300/4a2924/ffffff?text=Odopic+Bar"
+        "description": "Gentle on hands, tough on grime, natural ingredients, refreshing fragrance",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/dishwash_bar/patanjali_dishwash_bar.avif"
     },
     {
         "id": "dishwash_powder_01",
-        "name": "Vim Powder",
+        "name": "Finish Dishwasher Powder",
         "category": "dishwash",
         "subCategory": "Dishwash Powders",
-        "description": "The powder version of the popular Vim bar, it is widely used for its powerful scouring action. It is a common choice for scrubbing metal utensils and for tackling stubborn food residue.",
-        "imageUrl": "https://placehold.co/400x300/e6c76e/ffffff?text=Vim+Powder"
+        "description": "Deep cleaning power, removes tough stains, contains active softeners, recommended by dishwasher brands",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/dishwash_powder/finish_dishwash_powder.avif"
     },
     {
         "id": "dishwash_powder_02",
-        "name": "Nirma Powder",
+        "name": "Pitambari Shining Dishwash Powder",
         "category": "dishwash",
         "subCategory": "Dishwash Powders",
-        "description": "Nirma's dishwash powder is a very popular and affordable choice. It is a staple in many households, especially for its reliable cleaning power and effective removal of grime from utensils.",
-        "imageUrl": "https://placehold.co/400x300/a7211e/ffffff?text=Nirma+Powder"
+        "description": "Cleans copper, brass, and more, gentle on hands, requires less water, pleasant kewra and sandal fragrance",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/dishwash_powder/pitambari_dishwash_powder.avif"
     },
     {
         "id": "dishwash_powder_03",
-        "name": "Pitambari Shining Powder",
+        "name": "Wonder Fresh Metal Dishwash Powder",
         "category": "dishwash",
         "subCategory": "Dishwash Powders",
-        "description": "This is a specialized powder primarily used for polishing and cleaning brass, copper, and other metal utensils. It's a must-have in many homes for maintaining the shine of traditional kitchenware.",
-        "imageUrl": "https://placehold.co/400x300/ffbb00/000000?text=Pitambari+Powder"
+        "description": "Formulated with a blend of premium polishing agents, our Metal Shining Powder provides a deep, long-lasting shine that resists tarnishing and protects against future corrosion.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/dishwash_powder/wonder_fresh_dishwash_powder.avif"
     },
     {
         "id": "dishwash_powder_04",
         "name": "Odopic Powder",
         "category": "dishwash",
         "subCategory": "Dishwash Powders",
-        "description": "A well-known and trusted brand, Odopic's powder is valued for its effective scrubbing power. It is a classic choice for deep cleaning utensils and removing tough, baked-on stains.",
-        "imageUrl": "https://placehold.co/400x300/4a2924/ffffff?text=Odopic+Powder"
-    },
-    {
-        "id": "dishwash_powder_05",
-        "name": "Ghanshyam Super Scouring Powder",
-        "category": "dishwash",
-        "subCategory": "Dishwash Powders",
-        "description": "A regional but widely used scouring powder, known for its strong scrubbing action. It is popular for its ability to clean tough, greasy pots and pans with minimal effort.",
-        "imageUrl": "https://placehold.co/400x300/a35f29/ffffff?text=Ghanshyam+Powder"
+        "description": "Odopic is a dishwashing detergent that fulfils your need for highly effective cleaning action and value for money. Besides having an in-built ingredient for superior cleaning of grease and stains, this powder is mild and gentle on the hands. It also leaves a lovely lime fragrance in your kitchen.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/dishwash_powder/odopic_dishwash_powder.avif"
     },
     {
         "id": "dishwash_gel_01",
         "name": "Vim Dishwash Gel",
         "category": "dishwash",
         "subCategory": "Dishwash Gels",
-        "description": "The liquid/gel version of the market-leading Vim bar. It is extremely popular for its fast-acting, concentrated formula that cuts through grease easily and leaves no residue, perfect for modern kitchenware.",
-        "imageUrl": "https://placehold.co/400x300/e6c76e/ffffff?text=Vim+Gel"
+        "description": "Removes 100+ odours and grease, infused with lemon power, pH neutral and gentle on hands, residue-free sparkling clean",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/dishwash_liquid/vim_dishwash_gel.avif"
     },
     {
         "id": "dishwash_gel_02",
-        "name": "Pril Dishwash Liquid",
+        "name": "Pril Dishwash Gel",
         "category": "dishwash",
         "subCategory": "Dishwash Gels",
-        "description": "A well-known brand for its gentle formula that is tough on stains but soft on hands. Pril is a popular choice for those who do a lot of handwashing, as it prevents skin from drying out.",
-        "imageUrl": "https://placehold.co/400x300/a7a7a7/ffffff?text=Pril+Liquid"
+        "description": "Superior degreasing liquid, active power molecules, lime freshness, residue-free cleaning",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/dishwash_liquid/pril_dishwash_gel.avif"
     },
     {
         "id": "dishwash_gel_03",
-        "name": "Exo Dishwash Gel",
+        "name": "Dettol Lemon Fresh Dishwash Gel",
         "category": "dishwash",
         "subCategory": "Dishwash Gels",
-        "description": "Exo's liquid dishwash is known for its pleasant citrus fragrance and strong cleaning power. It is a common choice for daily use and is effective on oily and greasy utensils.",
-        "imageUrl": "https://placehold.co/400x300/ffbb00/000000?text=Exo+Gel"
+        "description": "Kills 99.9% of harmful germs, dermatologically tested safe on hands, cuts through tough grease effectively, recommended by indian medical association",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/dishwash_liquid/detol_dishwash_gel.avif"
     },
     {
         "id": "dishwash_gel_04",
-        "name": "Godrej Mr. Magic",
+        "name": "Giffy Active Salt & Lemon Dishwash Gel",
         "category": "dishwash",
         "subCategory": "Dishwash Gels",
-        "description": "A unique product that comes in a powder form and turns into a liquid gel upon mixing with water. It is a popular and cost-effective solution for those who want the convenience of a gel.",
-        "imageUrl": "https://placehold.co/400x300/004a99/ffffff?text=Mr.+Magic+Gel"
+        "description": "2X faster grease removal, enriched with active salt, lemon fragrance for freshness, concentrated formula for efficiency",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/dishwash_liquid/giffy_dishwash_gel.avif"
     },
     {
         "id": "dishwash_gel_05",
-        "name": "Dabur Odonil Dishwash Gel",
+        "name": "SaveMore Lemon Dishwash Gel",
         "category": "dishwash",
         "subCategory": "Dishwash Gels",
-        "description": "Odonil, a well-known brand for air fresheners, also has a dishwash gel that has gained traction. It is often chosen for its long-lasting, fresh fragrance and effective cleaning.",
-        "imageUrl": "https://placehold.co/400x300/e6c76e/ffffff?text=Odonil+Dishwash+Gel"
+        "description": "Effectively removes tough grease and stubborn food residues from dishes, pots, pans, and kitchen utensils",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/dishwash_liquid/savemore_dishwash_gel.avif"
     },
     {
         "id": "toilet_cleaner_01",
