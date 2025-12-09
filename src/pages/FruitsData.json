@@ -2305,83 +2305,91 @@
     },
     {
         "id": "detergent_soap_01",
-        "name": "Rin Advanced Bar",
+        "name": "Rin Detergent Bar",
         "category": "laundry",
-        "subCategory": "Detergent Soaps",
+        "subCategory": "Detegrent Soaps",
         "description": "Rin is a very popular detergent bar known for its 'Whiteness' claim. It is widely used for pre-treating clothes and for handwashing, offering effective stain removal at an affordable price.",
-        "imageUrl": "https://placehold.co/400x300/a7211e/ffffff?text=Rin+Bar"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/detergent_soap/rin_detergent_bar.avif"
     },
     {
         "id": "detergent_soap_02",
-        "name": "Surf Excel Bar",
+        "name": "Surf Excel Stain Eraser Detergent Bar",
         "category": "laundry",
-        "subCategory": "Detergent Soaps",
+        "subCategory": "Detegrent Soaps",
         "description": "A well-known brand for its powerful stain removal. The Surf Excel bar is often used for tough stains on collars and cuffs before washing, a staple in many Indian homes.",
-        "imageUrl": "https://placehold.co/400x300/e6c76e/ffffff?text=Surf+Excel+Bar"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/detergent_soap/surf_excel_detergent_bar.avif"
     },
     {
         "id": "detergent_soap_03",
-        "name": "Ghari Detergent Bar",
+        "name": "Ghadi Detergent Bar",
         "category": "laundry",
-        "subCategory": "Detergent Soaps",
-        "description": "A popular homegrown brand, Ghari is known for its strong cleaning power and value for money. It is widely used, particularly in semi-urban and rural areas.",
-        "imageUrl": "https://placehold.co/400x300/ffbb00/000000?text=Ghari+Bar"
+        "subCategory": "Detegrent Soaps",
+        "description": "A popular homegrown brand, Ghadi is known for its strong cleaning power and value for money. It is widely used, particularly in semi-urban and rural areas.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/detergent_soap/ghadi_detergent_bar.avif"
     },
     {
         "id": "detergent_soap_04",
-        "name": "Wheel Detergent Bar",
+        "name": "Tide Detergent Bar",
         "category": "laundry",
-        "subCategory": "Detergent Soaps",
-        "description": "Wheel is a highly affordable detergent bar that is a household name in India. It is a common choice for daily washing and is known for its ability to provide a clean wash at a low cost.",
-        "imageUrl": "https://placehold.co/400x300/b8e0e0/000000?text=Wheel+Bar"
+        "subCategory": "Detegrent Soaps",
+        "description": "Outstanding cleaning on tough stains, Phosphate-free eco-friendly formula, Fresh lemon and mint fragrance",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/detergent_soap/tide_detergent_bar.avif"
     },
     {
         "id": "detergent_soap_05",
-        "name": "Nirma Super",
+        "name": "Henko Detergent Bar",
         "category": "laundry",
-        "subCategory": "Detergent Soaps",
-        "description": "Nirma's detergent bar is a classic and very well-known product, particularly remembered for its catchy jingle. It has been a trusted brand for generations for its effective cleaning.",
-        "imageUrl": "https://placehold.co/400x300/a7a7a7/ffffff?text=Nirma+Bar"
+        "subCategory": "Detegrent Soaps",
+        "description": "Powerful stain removal technology, gentle on fabrics and clothes, long-lasting formula for tough stains",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/detergent_soap/henko_detergent_bar.png"
     },
     {
         "id": "detergent_powder_01",
-        "name": "Surf Excel Matic",
+        "name": "Surf Excel Easy Wash Detergent Powder",
         "category": "laundry",
         "subCategory": "Detergent Powders",
-        "description": "A leading detergent powder brand in India, known for its superior stain removal and a popular choice for machine washing. It is widely used in both top-load and front-load washing machines.",
-        "imageUrl": "https://placehold.co/400x300/e6c76e/ffffff?text=Surf+Excel+Matic"
+        "description": "Removes tough stains easily, dissolves quickly in water, suitable for all fabrics, long-lasting freshness",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/detergent_powder/surf_excel_detergent_powder.avif"
     },
     {
         "id": "detergent_powder_02",
-        "name": "Ariel Matic",
+        "name": "Ariel Perfect Wash Detergent Powder",
         "category": "laundry",
         "subCategory": "Detergent Powders",
         "description": "Ariel is a major competitor to Surf Excel, known for its excellent cleaning performance and for being tough on stains. It is a go-to for those who want a premium wash for their clothes.",
-        "imageUrl": "https://placehold.co/400x300/a7a7a7/ffffff?text=Ariel+Matic"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/detergent_powder/ariel_detergent_powder.avif"
     },
     {
         "id": "detergent_powder_03",
-        "name": "Tide Plus",
+        "name": "Tide Plus Detergent Powder",
         "category": "laundry",
         "subCategory": "Detergent Powders",
         "description": "Tide is a globally recognized detergent brand that has a strong presence in India. It is a popular choice for its good cleaning power and pleasant fragrance.",
-        "imageUrl": "https://placehold.co/400x300/004a99/ffffff?text=Tide+Plus"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/detergent_powder/tide_detergent_powder.avif"
     },
     {
         "id": "detergent_powder_04",
         "name": "Ghadi Detergent Powder",
         "category": "laundry",
         "subCategory": "Detergent Powders",
-        "description": "The powder version of the popular Ghari bar, this detergent is a top-selling brand in India, especially for its affordability and strong cleaning performance.",
-        "imageUrl": "https://placehold.co/400x300/ffbb00/000000?text=Ghadi+Powder"
+        "description": "The powder version of the popular Ghadi bar, this detergent is a top-selling brand in India, especially for its affordability and strong cleaning performance.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/detergent_powder/ghadi_detergent_powder.avif"
     },
     {
         "id": "detergent_powder_05",
-        "name": "Rin Power White",
+        "name": "Rin Detergent Powder",
         "category": "laundry",
         "subCategory": "Detergent Powders",
         "description": "Rin is a trusted brand for its ability to whiten clothes. This detergent powder is a common choice for washing white garments and for its good lathering ability.",
-        "imageUrl": "https://placehold.co/400x300/a7211e/ffffff?text=Rin+Powder"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/detergent_powder/rin_detergent_powder.avif"
+    },
+    {
+        "id": "detergent_powder_06",
+        "name": "Wheel 2 in 1 Clean & Fresh Detergent Powder",
+        "category": "laundry",
+        "subCategory": "Detergent Powders",
+        "description": "2-in-1 cleaning action, effective on dirt stains, suitable for colored clothes, eco-friendly formulation",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/detergent_powder/wheel_detergent_powder.avif"
     },
     {
         "id": "detergent_liquid_01",
@@ -2389,7 +2397,7 @@
         "category": "laundry",
         "subCategory": "Detergent Liquids",
         "description": "The liquid version of the popular powder, this is a go-to for machine washing. It is known for dissolving quickly, leaving no residue, and being gentle on clothes.",
-        "imageUrl": "https://placehold.co/400x300/e6c76e/ffffff?text=Surf+Excel+Liquid"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/detergent_liquid/surf_excel_detergent_liquid.avif"
     },
     {
         "id": "detergent_liquid_02",
@@ -2397,31 +2405,47 @@
         "category": "laundry",
         "subCategory": "Detergent Liquids",
         "description": "Ariel's liquid detergent is a top choice for its superior cleaning performance and its ability to remove tough stains in a single wash, especially in washing machines.",
-        "imageUrl": "https://placehold.co/400x300/a7a7a7/ffffff?text=Ariel+Liquid"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/detergent_liquid/ariel_detergent_liquid.avif"
     },
     {
         "id": "detergent_liquid_03",
-        "name": "Godrej Ezee",
+        "name": "Godrej Ezee Woolen Liquid",
         "category": "laundry",
         "subCategory": "Detergent Liquids",
         "description": "A well-known brand specifically for washing delicate and woolen clothes. It is a staple in Indian households for its gentle formula that prevents shrinking and fading.",
-        "imageUrl": "https://placehold.co/400x300/004a99/ffffff?text=Godrej+Ezee"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/detergent_liquid/godrej_ezee_detergent_liquid.avif"
     },
     {
         "id": "detergent_liquid_04",
-        "name": "Genteel",
+        "name": "Godrej Genteel Matic Liquid",
         "category": "laundry",
         "subCategory": "Detergent Liquids",
         "description": "A popular liquid detergent known for its soft and gentle formula. It is widely used for washing delicate fabrics like silk and wool, and for its pleasant fragrance.",
-        "imageUrl": "https://placehold.co/400x300/b8e0e0/000000?text=Genteel"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/detergent_liquid/godrej_genteel_detergent_liquid.avif"
     },
     {
         "id": "detergent_liquid_05",
-        "name": "Vanish",
+        "name": "Godrej Fab Liquid Detergent Refill",
         "category": "laundry",
         "subCategory": "Detergent Liquids",
-        "description": "While primarily a stain remover, Vanish liquid is a very popular addition to regular laundry for a powerful boost. It is used to get rid of tough stains and restore the brightness of clothes.",
-        "imageUrl": "https://placehold.co/400x300/ff7f00/ffffff?text=Vanish"
+        "description": "Fast dissolving formula, suitable for machine and hand wash, brightens whites and colours, fresh long-lasting fragrance",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/detergent_liquid/godrej_fab_detergent_liquid.avif"
+    },
+    {
+        "id": "detergent_liquid_06",
+        "name": "Rin Top Load Liquid Detergent",
+        "category": "laundry",
+        "subCategory": "Detergent Liquids",
+        "description": "Superior dissolution technology, brightens clothes like new, fresh and fragrant",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/detergent_liquid/rin_detergent_liquid.avif"
+    },
+    {
+        "id": "detergent_liquid_07",
+        "name": "Tide Matic Front Load Liquid Detergent",
+        "category": "laundry",
+        "subCategory": "Detergent Liquids",
+        "description": "Superior stain removal technology, Protects and maintains color vibrancy, Fresh long-lasting fragrance",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/detergent_liquid/tide_detergent_liquid.avif"
     },
     {
         "id": "fabric_softener_01",
@@ -2429,39 +2453,39 @@
         "category": "laundry",
         "subCategory": "Fabric Softeners",
         "description": "Comfort is the most widely used fabric conditioner in India. It is known for its ability to make clothes soft, fragrant, and easy to iron, and is an essential for machine washing.",
-        "imageUrl": "https://placehold.co/400x300/8d8c91/ffffff?text=Comfort"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/fabric_conditioner/comfort_fabric_conditioner.avif"
     },
     {
         "id": "fabric_softener_02",
-        "name": "Godrej Ezee Fabric Softener",
+        "name": "Softouch 2x French Perfume Fabric Conditioner",
         "category": "laundry",
         "subCategory": "Fabric Softeners",
-        "description": "From the makers of the gentle liquid detergent, Godrej Ezee also offers a fabric softener that is a popular choice for adding a soft touch and a pleasant fragrance to delicate clothes.",
-        "imageUrl": "https://placehold.co/400x300/3e721a/ffffff?text=Ezee+Softener"
+        "description": "2X French perfume fragrance, long-lasting scent, eliminates bad odour, works in hard water",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/fabric_conditioner/soft_touch_fabric_conditioner.avif"
     },
     {
         "id": "fabric_softener_03",
-        "name": "Downy Fabric Softener",
+        "name": "Savlon Soft & Protect Fabric Conditioner",
         "category": "laundry",
         "subCategory": "Fabric Softeners",
-        "description": "A globally recognized brand, Downy has a growing presence in the Indian market. It is known for its long-lasting fragrance and its ability to reduce wrinkles in clothes.",
-        "imageUrl": "https://placehold.co/400x300/a35f29/ffffff?text=Downy"
+        "description": "This powerful formula is designed to eliminate 99.9% of germs, ensuring your clothes are clean and hygienic. Infused with a refreshing Fresh Blossom fragrance, it leaves your clothes smelling delightful. Keep your family safe and your clothes fresh with Savlon Laundry Disinfectant & Refreshing Liquid.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/fabric_conditioner/savlon_fabric_conditioner.avif"
     },
     {
         "id": "fabric_softener_04",
-        "name": "Safewash Fabric Softener",
+        "name": "Ujala Young & Fresh Fabric Conditioner",
         "category": "laundry",
         "subCategory": "Fabric Softeners",
-        "description": "Safewash offers a fabric softener that is popular for its gentle, no-chemical formula. It's often used by those who prefer a more natural and mild product for their clothes.",
-        "imageUrl": "https://placehold.co/400x300/4a2924/ffffff?text=Safewash"
+        "description": "Long-lasting french perfume fragrance, superior malodour control, ultra softening formula, maintains fabric colour vibrancy",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/fabric_conditioner/ujala_fabric_conditioner.avif"
     },
     {
         "id": "fabric_softener_05",
-        "name": "Vanish Liquid Fabric Softener",
+        "name": "Zimmer Aufraumen Fabric Conditioner",
         "category": "laundry",
         "subCategory": "Fabric Softeners",
-        "description": "Vanish offers a fabric softener as a complementary product to its stain removers. It is used to give a final touch of softness and fragrance to clothes after a deep clean.",
-        "imageUrl": "https://placehold.co/400x300/ffbb00/000000?text=Vanish+Softener"
+        "description": "Zimmer Aufraumen Laundry Fragrance Booster can be added along with your liquid or powder detergent to give clothes a long-lasting refreshing fragrance. Control the amount of fragrance by increasing or decreasing the dosage of the fragrance booster, It keeps the clothes fragrant and fresh for days after washing and ironing",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/fabric_conditioner/zimmer_fabric_conditioner.avif"
     },
     {
         "id": "dishwash_bar_01",
