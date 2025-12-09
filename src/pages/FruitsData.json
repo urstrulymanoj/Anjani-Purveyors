@@ -2601,19 +2601,19 @@
     },
     {
         "id": "toilet_cleaner_01",
-        "name": "Harpic",
+        "name": "Harpic Disinfectant Liquid Toilet Cleaner",
         "category": "bathroom",
         "subCategory": "Toilet Cleaners",
         "description": "An iconic brand and the undisputed market leader in toilet cleaners. Harpic is a staple in most Indian households and is known for its powerful germ-killing formula and effective stain removal.",
-        "imageUrl": "https://placehold.co/400x300/a7211e/ffffff?text=Harpic"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/toilet_cleaners/harpic_toilet_cleaner.avif"
     },
     {
         "id": "toilet_cleaner_02",
-        "name": "Lizol Power Toilet Cleaner",
+        "name": "Sani Fresh Ultrashine Toilet Cleaner",
         "category": "bathroom",
         "subCategory": "Toilet Cleaners",
-        "description": "Lizol, a well-known brand for disinfectants, also offers a powerful toilet cleaner. It is a popular alternative to Harpic and is trusted for its ability to kill germs and remove tough stains.",
-        "imageUrl": "https://placehold.co/400x300/e6c76e/ffffff?text=Lizol+Toilet+Cleaner"
+        "description": "Sanifresh toilet cleaner features an advanced formula that effectively cleans and disinfects your toilet bowl, removing tough stains and leaving it sparkling clean",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/toilet_cleaners/sanifresh_toilet_cleaner.avif"
     },
     {
         "id": "toilet_cleaner_03",
@@ -2621,63 +2621,71 @@
         "category": "bathroom",
         "subCategory": "Toilet Cleaners",
         "description": "Domex is a popular choice for its strong cleaning and germ protection properties. This toilet cleaner is known for its thick formula that clings to the toilet surface for a deep clean.",
-        "imageUrl": "https://placehold.co/400x300/004a99/ffffff?text=Domex+Toilet+Cleaner"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/toilet_cleaners/domex_toilet_cleaner.avif"
     },
     {
         "id": "toilet_cleaner_04",
-        "name": "Sanifresh Shine",
+        "name": "SaveMore Toilet Cleaner Liquid",
         "category": "bathroom",
         "subCategory": "Toilet Cleaners",
-        "description": "From the makers of household cleaners, Sanifresh is a well-known brand for toilet cleaning. It is a popular and affordable option that provides a clean and fresh-smelling toilet.",
-        "imageUrl": "https://placehold.co/400x300/a7a7a7/ffffff?text=Sanifresh+Shine"
+        "description": "Disinfectant Toilet Cleaner and bleach that kills germs. Removes tough stains. leaves the toilet visibly clean. Whitens dull toilet surface.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/toilet_cleaners/savemore_toilet_cleaner.avif"
     },
     {
         "id": "toilet_cleaner_05",
-        "name": "Cif Perfect Finish",
+        "name": "Clefill Disinfectant Toilet Cleaner",
         "category": "bathroom",
         "subCategory": "Toilet Cleaners",
-        "description": "Cif, known for its powerful surface cleaners, also offers a toilet cleaner that is gaining popularity. It is often chosen for its ability to leave a sparkling clean finish.",
-        "imageUrl": "https://placehold.co/400x300/b8e0e0/000000?text=Cif+Toilet+Cleaner"
+        "description": "Keeps your toilet cleaner cleans 99.99% germs; Tackles tough stains, dirt and bacteria, while eliminating unpleasant odors. Keeps toilet clean and fresh.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/toilet_cleaners/clefill_toilet_cleaner.avif"
+    },
+    {
+        "id": "toilet_cleaner_06",
+        "name": "Mr Muscle Toilet Cleaner",
+        "category": "bathroom",
+        "subCategory": "Toilet Cleaners",
+        "description": "Mr Muscle Citrus Toilet Cleaner is the perfect companion to remove tough stains from your toilet while leaving it sparkling clean.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/toilet_cleaners/mr_muscle_toilet_cleaner.avif"
     },
     {
         "id": "bathroom_cleaner_01",
-        "name": "Lizol Disinfectant Floor Cleaner",
-        "category": "bathroom",
-        "subCategory": "Bathroom Cleaners",
-        "description": "Lizol is the most widely used disinfectant cleaner for bathrooms and floors. It is trusted for its ability to kill 99.9% of germs and is available in various fragrances like lavender, lemon, and pine.",
-        "imageUrl": "https://placehold.co/400x300/e6c76e/ffffff?text=Lizol"
-    },
-    {
-        "id": "bathroom_cleaner_02",
-        "name": "Domex Floor Cleaner",
-        "category": "bathroom",
-        "subCategory": "Bathroom Cleaners",
-        "description": "A popular alternative to Lizol, Domex is also a well-known name for germ protection. Its floor cleaner is widely used for its effective cleaning and fresh fragrance.",
-        "imageUrl": "https://placehold.co/400x300/004a99/ffffff?text=Domex"
-    },
-    {
-        "id": "bathroom_cleaner_03",
-        "name": "Harpic Bathroom Cleaner",
+        "name": "Harpic Disinfectant Liquid Bathroom Cleaner",
         "category": "bathroom",
         "subCategory": "Bathroom Cleaners",
         "description": "Harpic, a leader in toilet cleaners, has also entered the bathroom cleaning market. This product is formulated to clean tough bathroom stains like soap scum and hard water marks.",
-        "imageUrl": "https://placehold.co/400x300/a7211e/ffffff?text=Harpic+Bathroom+Cleaner"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/bathroom_cleaner/harpic_bathroom_cleaner.avif"
     },
     {
-        "id": "bathroom_cleaner_04",
+        "id": "bathroom_cleaner_02",
+        "name": "Clefill Disinfectant Bathroom Cleaner",
+        "category": "bathroom",
+        "subCategory": "Bathroom Cleaners",
+        "description": "Clefill Disinfectant Bathroom Cleaner is a powerful formula that removes tough stains, eliminates 99.9% of germs, and deodorizes, leaving bathroom surfaces hygienically clean and fresh.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/bathroom_cleaner/clefill_bathroom_cleaner.avif"
+    },
+    {
+        "id": "bathroom_cleaner_03",
         "name": "Cif Power & Shine Bathroom Cleaner",
         "category": "bathroom",
         "subCategory": "Bathroom Cleaners",
         "description": "Cif is gaining popularity for its powerful formula that removes soap scum, limescale, and watermarks. It is a go-to for those who want a sparkling and streak-free finish on bathroom surfaces.",
-        "imageUrl": "https://placehold.co/400x300/b8e0e0/000000?text=Cif+Bathroom+Cleaner"
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/bathroom_cleaner/cif_bathroom_cleaner.avif"
+    },
+    {
+        "id": "bathroom_cleaner_04",
+        "name": "JOFF Shower and Tap cleaner",
+        "category": "bathroom",
+        "subCategory": "Bathroom Cleaners",
+        "description": "Joff Tab and Shower Cleaner works effectively on soap scum, water stains, and grime. It leaves tiles and fittings shiny with minimal scrubbing.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/bathroom_cleaner/joff_bathroom_cleaner.avif"
     },
     {
         "id": "bathroom_cleaner_05",
-        "name": "Nimyle Herbal Floor Cleaner",
+        "name": "Kleenest Zero Bleach Bathroom Cleaner",
         "category": "bathroom",
         "subCategory": "Bathroom Cleaners",
-        "description": "A popular herbal and eco-friendly floor cleaner. It is made from natural ingredients like neem and is a preferred choice for households that want to avoid chemical-based cleaners.",
-        "imageUrl": "https://placehold.co/400x300/6fa04b/ffffff?text=Nimyle"
+        "description": "Kleenest Zero Bleach Bathroom Cleaner is a powerful yet gentle, bleach-free formula that effectively cuts through soap scum and hard water stains while sanitizing surfaces and leaving a fresh, non-chemical scent.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/bathroom_cleaner/kleenest_bathroom_cleaner.avif"
     },
     {
         "id": "floor_cleaner_01",
