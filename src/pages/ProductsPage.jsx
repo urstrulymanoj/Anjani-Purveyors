@@ -52,7 +52,7 @@ const ProductsPage = () => {
     fruits: ["All", "Fresh Fruits", "Exotic Fruits", "Dry Fruits", "Fresh Vegetables", "Exotic Vegetables"],
     grains: ["All", "Whole Grains", "Lentils", "Beans", "Flours"],
     spices: ["All", "Tea & Coffee", "Sweeteners", "Whole Spices", "Powder Spices", "Exotic Spices"],
-    oils: ["All", "Everyday Oils", "Premium Oils"],
+    oils: ["All", "Everyday Oils", "Premium Oils", "Ghee"],
     beverages: ["All", "Chips & Crsips", "Chocolates & Cookies", "Papad & Fryums", "Spreads & Sauces", "Soft Drinks"],
     oral: ["All", "Toothpaste", "Mouthwash"],
     soaps: ["All", "Herbal Soaps", "Baby Soaps", "Shower Gels"],

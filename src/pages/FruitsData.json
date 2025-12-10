@@ -1025,115 +1025,147 @@
     },
     {
         "id": "common_oil_01",
-        "name": "Sunflower Oil",
+        "name": "Ankur Refined Cottonseed Oil",
         "category": "oils",
         "subCategory": "Everyday Oils",
-        "description": "A light and neutral-flavored oil with a high smoke point, making it a versatile choice for a wide range of everyday Indian dishes, from deep-frying to sautéing.",
-        "imageUrl": "https://placehold.co/400x300/c7a09c/4b5563?text=Sunflower+Oil"
+        "description": "Ankur Refined Cottonseed Oil is a light, neutral-flavored cooking oil with a high smoke point, making it excellent for deep frying and high-temperature cooking while providing the goodness of Vitamin E.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/oils/ankur_cotton_seed_oil.avif"
     },
     {
         "id": "common_oil_02",
-        "name": "Mustard Oil (Sarson ka Tel)",
+        "name": "Fortune Filtered Groundnut Oil",
         "category": "oils",
         "subCategory": "Everyday Oils",
-        "description": "Known for its pungent flavor and strong aroma, this oil is a staple in Northern and Eastern Indian cuisine, particularly for curries, stir-fries, and pickles.",
-        "imageUrl": "https://placehold.co/400x300/c7a09c/4b5563?text=Mustard+Oil"
+        "description": "Fortune Filtered Groundnut Oil is a high-smoke-point cooking oil that retains the traditional, mild nutty flavor of peanuts and is rich in heart-healthy Monounsaturated Fatty Acids (MUFA).",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/oils/fortune_groundnut_oil.avif"
     },
     {
         "id": "common_oil_03",
-        "name": "Groundnut Oil (Peanut Oil)",
+        "name": "Fortune Premium Kachi Ghani Pure Mustard Oil",
         "category": "oils",
         "subCategory": "Everyday Oils",
-        "description": "Popular in Western and Southern India, this oil has a mild, nutty flavor and a high smoke point, making it ideal for deep-frying and stir-frying.",
-        "imageUrl": "https://placehold.co/400x300/c7a09c/4b5563?text=Groundnut+Oil"
+        "description": "Fortune Premium Kachi Ghani Pure Mustard Oil is a heart-healthy, cold-pressed oil renowned for its traditional strong pungency and sharp flavor, making it essential for authentic Indian cooking and pickling.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/oils/fortune_mustard_oil.avif"
     },
     {
         "id": "common_oil_04",
-        "name": "Coconut Oil",
+        "name": "Fortune Sunlite Refined Sunflower Oil",
         "category": "oils",
         "subCategory": "Everyday Oils",
-        "description": "A cornerstone of South Indian and coastal cuisine, known for its distinct aroma and flavor. It is widely used in curries, tempering, and in dishes where its unique taste is desired.",
-        "imageUrl": "https://placehold.co/400x300/c7a09c/4b5563?text=Coconut+Oil"
+        "description": "Fortune Sunlite Refined Sunflower Oil is a light and odorless oil with a high smoke point, ideal for all types of high-heat cooking and frying while being naturally rich in Vitamin E.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/oils/fortune_sunflower_oil.avif"
     },
     {
         "id": "common_oil_05",
-        "name": "Ghee (Clarified Butter)",
+        "name": "Gulab Cold Pressed Virgin Coconut Oil",
         "category": "oils",
         "subCategory": "Everyday Oils",
-        "description": "A traditional Indian cooking fat with a rich, nutty flavor and high smoke point. It is used for tempering, frying, and is a key ingredient for many sweets and rich gravies.",
-        "imageUrl": "https://placehold.co/400x300/c7a09c/4b5563?text=Ghee"
+        "description": "Gulab Cold Pressed Virgin Coconut Oil is a pure, unrefined oil rich in beneficial MCTs and Lauric Acid, retaining the natural aroma and sweet taste of fresh coconuts, perfect for cooking, skin, and hair care.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/oils/gulab_coconut_oil.avif"
     },
     {
         "id": "common_oil_06",
-        "name": "Sesame Oil (Til Oil)",
+        "name": "Saffola Cold Pressed Sesame Oil",
         "category": "oils",
         "subCategory": "Everyday Oils",
-        "description": "A staple in many Southern Indian states, with a distinct, nutty flavor. It is excellent for tempering, sautéing, and adding a finishing touch to dishes.",
-        "imageUrl": "https://placehold.co/400x300/c7a09c/4b5563?text=Sesame+Oil"
+        "description": "Saffola Cold Pressed Sesame Oil is a pure, aromatic oil with a distinct nutty flavor, extracted without heat to retain natural nutrients and Omega-6, helping to lower cholesterol and suited for high-heat cooking.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/oils/saffola_sesame_oil.avif"
     },
     {
         "id": "common_oil_07",
-        "name": "Soybean Oil",
+        "name": "Saffola Active Rice Bran & Soyabean Blended Cooking Oil",
         "category": "oils",
         "subCategory": "Everyday Oils",
-        "description": "A neutral-flavored, affordable oil with a high smoke point, making it a popular choice for all kinds of cooking, from frying to baking.",
-        "imageUrl": "https://placehold.co/400x300/c7a09c/4b5563?text=Soybean+Oil"
+        "description": "Saffola Active is a healthy blended cooking oil of Rice Bran and Soyabean that uses L.O.R.A. technology to ensure up to 20% less oil absorption in food while providing the goodness of Oryzanol and Vitamin E.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/oils/saffola_soyabean_oil.avif"
     },
     {
         "id": "common_oil_08",
-        "name": "Rice Bran Oil",
+        "name": "Saffola Total Heart Pro Rice Bran & Sunflower Edible Oil",
         "category": "oils",
         "subCategory": "Everyday Oils",
-        "description": "Known for its high smoke point and light, neutral flavor. It is gaining popularity due to its perceived health benefits and is suitable for all types of cooking, including deep-frying.",
-        "imageUrl": "https://placehold.co/400x300/c7a09c/4b5563?text=Rice+Bran+Oil"
-    },
-    {
-        "id": "common_oil_09",
-        "name": "Canola Oil",
-        "category": "oils",
-        "subCategory": "Everyday Oils",
-        "description": "With a light flavor and low saturated fat content, canola oil is considered a healthier option and is versatile for various Indian cooking methods.",
-        "imageUrl": "https://placehold.co/400x300/c7a09c/4b5563?text=Canola+Oil"
+        "description": "Saffola Total Heart Pro is a heart-conscious blend of Rice Bran and Sunflower oils, scientifically proven to help manage cholesterol with the Power of 6 and featuring LOSORB™ Technology for reduced oil absorption in food.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/oils/safola_ricebran_oil.avif"
     },
     {
         "id": "exotic_oil_01",
-        "name": "Extra Virgin Olive Oil",
+        "name": "Tata Simply Better Extra Virgin Olive Oil",
         "category": "oils",
         "subCategory": "Premium Oils",
-        "description": "A premium oil from Italy and Spain, gaining popularity for its health benefits. It is best used for dressings, light sautéing, and drizzling over finished dishes as its flavor is delicate and it has a low smoke point.",
-        "imageUrl": "https://placehold.co/400x300/c7a09c/4b5563?text=Olive+Oil"
+        "description": "Tata Simply Better Extra Virgin Olive Oil is a premium, first cold-pressed oil with a distinct fruity and peppery flavor, ideal for dressings, sautéing, and cold applications due to its high concentration of heart-healthy MUFA and natural antioxidants.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/oils/tata_olive_oil.avif"
     },
     {
         "id": "exotic_oil_02",
-        "name": "Avocado Oil",
+        "name": "True Story Avocado Oil",
         "category": "oils",
         "subCategory": "Premium Oils",
-        "description": "Known for its high smoke point and buttery flavor, avocado oil is a versatile option for high-heat cooking, grilling, and salad dressings.",
-        "imageUrl": "https://placehold.co/400x300/c7a09c/4b5563?text=Avocado+Oil"
+        "description": "True Story Extra Virgin Cold Pressed Avocado Oil is a 100% pure, high-smoke-point oil extracted from Hass avocados, rich in heart-healthy MUFA, Omega fatty acids, and Lutein, making it ideal for both high-heat cooking and wellness applications.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/oils/true_story_avocado_oil.avif"
     },
     {
-        "id": "exotic_oil_03",
-        "name": "Flaxseed Oil (Alsi ka Tel)",
+        "id": "ghee_01",
+        "name": "Amul Pure Ghee",
         "category": "oils",
-        "subCategory": "Premium Oils",
-        "description": "A rich source of Omega-3 fatty acids, this oil has a nutty flavor and is not suitable for cooking due to its low smoke point. It is best used raw in salads, smoothies, or as a supplement.",
-        "imageUrl": "https://placehold.co/400x300/c7a09c/4b5563?text=Flaxseed+Oil"
+        "subCategory": "Ghee",
+        "description": "Amul Pure Ghee is 100% pure cow milk fat known for its distinct granular texture and rich, aromatic flavor, providing a high-smoke-point cooking medium and essential fat-soluble vitamins.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/ghee/amul_pure_ghee.avif"
     },
     {
-        "id": "exotic_oil_04",
-        "name": "Walnut Oil",
+        "id": "ghee_02",
+        "name": "Amul Cow Ghee ",
         "category": "oils",
-        "subCategory": "Premium Oils",
-        "description": "A flavorful and expensive oil with a distinct nutty taste. It is not ideal for high-heat cooking and is best used for salad dressings, baking, or to add a gourmet touch to dishes.",
-        "imageUrl": "https://placehold.co/400x300/c7a09c/4b5563?text=Walnut+Oil"
+        "subCategory": "Ghee",
+        "description": "Amul Cow Ghee is 100% pure cow milk fat, characterized by its golden yellow color, rich granular texture, and mild buttery flavor, making it a high-smoke-point cooking medium essential for traditional recipes.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/ghee/amul_cow_ghee.avif"
     },
     {
-        "id": "exotic_oil_05",
-        "name": "Hemp Seed Oil",
+        "id": "ghee_03",
+        "name": "Amul Buffalo Ghee",
         "category": "oils",
-        "subCategory": "Premium Oils",
-        "description": "Known for its rich omega fatty acid content and subtle, nutty flavor. It is not suitable for cooking and is used primarily in dressings, dips, and cold preparations for its health benefits.",
-        "imageUrl": "https://placehold.co/400x300/c7a09c/4b5563?text=Hemp+Seed+Oil"
+        "subCategory": "Ghee",
+        "description": "Amul Buffalo Ghee is 100% pure buffalo milk fat known for its whiter color, robust flavor, and rich granular texture, serving as a high-smoke-point cooking medium for traditional Indian cuisine.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/ghee/amul_buffalo_ghee.avif"
+    },
+    {
+        "id": "ghee_04",
+        "name": "Gowardhan Premium Cow Ghee",
+        "category": "oils",
+        "subCategory": "Ghee",
+        "description": "Gowardhan Premium Cow Ghee is a 100% pure, golden yellow ghee with a traditional granular texture and rich, authentic aroma, made from cow's milk for all high-heat cooking and dietary needs.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/ghee/gowardhan_ghee.avif"
+    },
+    {
+        "id": "ghee_05",
+        "name": "Paras Desi Ghee",
+        "category": "oils",
+        "subCategory": "Ghee",
+        "description": "Paras Desi Ghee is a 100% pure, rich, and aromatic clarified butter known for its traditional granular texture and high smoke point, making it an essential and nutritious ingredient for authentic Indian cooking.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/ghee/paras_desi_ghee.avif"
+    },
+    {
+        "id": "ghee_06",
+        "name": "Patanjali Cow Ghee ",
+        "category": "oils",
+        "subCategory": "Ghee",
+        "description": "Patanjali Cow Ghee is a 100% pure, Ayurvedic-focused cow milk fat known for its granular texture, high smoke point, and rich aroma, making it a nutritious and traditional cooking medium.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/ghee/patanjali_cow_ghee.avif"
+    },
+    {
+        "id": "ghee_07",
+        "name": "Sagar Pure Ghee",
+        "category": "oils",
+        "subCategory": "Ghee",
+        "description": "Sagar Pure Ghee is a 100% pure milk fat product known for its traditional granular texture, rich, authentic aroma, and high smoke point, making it an ideal and nutritious medium for all types of Indian cooking.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/ghee/sagar_pure_ghee.avif"
+    },
+    {
+        "id": "ghee_08",
+        "name": "Dalda Vanaspati",
+        "category": "oils",
+        "subCategory": "Ghee",
+        "description": "Dalda Vanaspati is a cost-effective, semi-solid, hydrogenated vegetable fat known for its granular texture, high smoke point, and widespread use in deep frying, commercial baking, and traditional Indian sweets.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/ghee/dalda_vanaspati.avif"
     },
     {
         "id": "chips_01",
@@ -1417,195 +1449,259 @@
     },
     {
         "id": "jam_01",
-        "name": "Kissan Jam",
+        "name": "Kissan Mixed Fruit Jam",
         "category": "beverages",
         "subCategory": "Spreads & Sauces",
-        "description": "A legacy brand in India, Kissan is known for its mixed fruit jam. It's a staple in most households and a go-to for breakfast and snacks.",
-        "imageUrl": "https://placehold.co/400x300/a7211e/ffffff?text=Kissan+Jam"
+        "description": "Kissan Mixed Fruit Jam is a smooth, versatile spread combining the sweet and tangy flavors of multiple seasonal fruits, perfect for topping toast, bread, and rotis.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/spreads/kissan_mix_fruit_jam.avif"
+    },
+    {
+        "id": "jam_02",
+        "name": "Kissan Blueberry & Mulberry Spread",
+        "category": "beverages",
+        "subCategory": "Spreads & Sauces",
+        "description": "Kissan Blueberry & Mulberry Spread is a smooth, easily spreadable preserve that offers a rich, balanced, and unique berry flavor by blending the tartness of blueberries with the distinct sweetness of mulberries.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/spreads/kissan_blueberry_spread.avif"
+    },
+    {
+        "id": "jam_03",
+        "name": "Kissan Strawberry & Raspberry Spread",
+        "category": "beverages",
+        "subCategory": "Spreads & Sauces",
+        "description": "Kissan Strawberry & Raspberry Spread is a smooth, easily spreadable preserve that blends the classic sweetness of strawberries with the slightly tart intensity of raspberries for a rich and complex berry flavor.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/spreads/kissan_strawberry_spread.avif"
     },
     {
         "id": "pb_01",
-        "name": "Pintola Peanut Butter",
+        "name": "Pintola Dark Chocolate Crunchy Peanut Butter",
         "category": "beverages",
         "subCategory": "Spreads & Sauces",
-        "description": "A very popular and trusted brand, Pintola offers a range of all-natural and high-protein peanut butters, catering to a health-conscious audience.",
-        "imageUrl": "https://placehold.co/400x300/8c4e1f/ffffff?text=Pintola"
+        "description": "Pintola Dark Chocolate Crunchy Peanut Butter is a protein-rich, vegan, and gluten-free spread that combines the intense, slightly bitter flavor of dark chocolate with a satisfying crunchy texture from real peanut pieces.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/spreads/pintola_peanut_butter.avif"
     },
     {
         "id": "pb_02",
-        "name": "Sundrop Peanut Butter",
+        "name": "Sundrop Creamy Peanut Butter",
         "category": "beverages",
         "subCategory": "Spreads & Sauces",
-        "description": "A legacy brand in India's food sector, Sundrop is known for its creamy and crunchy peanut butter, making it a household name for decades.",
-        "imageUrl": "https://placehold.co/400x300/a3927d/ffffff?text=Sundrop"
+        "description": "Sundrop Creamy Peanut Butter is a smooth, easily spreadable, and protein-rich butter made from roasted peanuts, offering a classic, balanced, nutty flavor ideal for sandwiches and snacks.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/spreads/sundrop_peanut_butter.avif"
     },
     {
         "id": "pb_03",
-        "name": "Myfitness Peanut Butter",
+        "name": "MyFitness High Protein Chocolate Crunchy Peanut Butter",
         "category": "beverages",
         "subCategory": "Spreads & Sauces",
-        "description": "Gained massive popularity for its unique and delicious chocolate-flavored peanut butter, appealing to a younger demographic and fitness enthusiasts.",
-        "imageUrl": "https://placehold.co/400x300/4a2924/ffffff?text=Myfitness"
+        "description": "MyFitness High Protein Chocolate Crunchy Peanut Butter is a high-protein, vegan-friendly spread that delivers a satisfying crunchy texture and a rich chocolate flavor, making it an excellent source of healthy fats and protein for fitness and snacking.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/spreads/myfitness_peanut_butter.avif"
     },
     {
         "id": "ketchup_01",
-        "name": "Maggi Ketchup",
+        "name": "Kissan Tomato Ketchup",
         "category": "beverages",
         "subCategory": "Spreads & Sauces",
-        "description": "A market leader in India, Maggi's tomato ketchup is known for its balanced sweet and tangy flavor. It is a very common dip for Indian snacks and meals.",
-        "imageUrl": "https://placehold.co/400x300/f8b400/ffffff?text=Maggi+Ketchup"
+        "description": "Kissan Tomato Ketchup is a classic, thick, and smooth condiment made from ripe tomatoes, known for its universally appealing perfectly balanced sweet and tangy flavor, ideal for all snacks and meals.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/spreads/kissan_ketchup.avif"
     },
     {
         "id": "ketchup_02",
-        "name": "Kissan Ketchup",
+        "name": "Del Monte Tomato Ketchup",
         "category": "beverages",
         "subCategory": "Spreads & Sauces",
-        "description": "Kissan is another leading ketchup brand, famous for its 'sweet and sour' taste. It is widely used in Indian households and fast-food eateries.",
-        "imageUrl": "https://placehold.co/400x300/a7211e/ffffff?text=Kissan+Ketchup"
+        "description": "Del Monte Tomato Ketchup is a premium, thick, and smooth condiment made from ripe tomatoes, known for its well-balanced tangy and savory flavor that elevates snacks and meals.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/spreads/delmonte_ketchup.avif"
     },
     {
         "id": "ketchup_03",
-        "name": "Heinz Ketchup",
+        "name": "Heinz Tomato Ketchup",
         "category": "beverages",
         "subCategory": "Spreads & Sauces",
-        "description": "A globally recognized brand, Heinz ketchup is popular in India for its rich tomato flavor and thick texture, often found in restaurants and homes.",
-        "imageUrl": "https://placehold.co/400x300/ffbb00/ffffff?text=Heinz+Ketchup"
+        "description": "Heinz Tomato Ketchup is the world's most famous and trusted condiment, known for its distinctive, perfectly balanced sweet and tangy flavor and its rich, thick, smooth consistency, made from sun-ripened tomatoes.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/spreads/heinz_ketchup.avif"
     },
     {
         "id": "ketchup_04",
-        "name": "Veeba Ketchup",
+        "name": "Maggi Rich Tomato Ketchup",
         "category": "beverages",
         "subCategory": "Spreads & Sauces",
-        "description": "A relatively newer brand that has quickly gained popularity for its wide range of sauces and dips. Veeba's ketchup is known for its quality and taste.",
-        "imageUrl": "https://placehold.co/400x300/d44f38/ffffff?text=Veeba+Ketchup"
+        "description": "Maggi Rich Tomato Ketchup is a smooth, classic condiment made from high-quality tomatoes, famous for its rich, thick texture and well-balanced sweet and tangy flavor, making it an essential companion for snacks and meals.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/spreads/maggi_ketchup.avif"
     },
     {
         "id": "ketchup_05",
-        "name": "Del Monte Ketchup",
+        "name": "Veeba Chef's Special Tomato Ketchup",
         "category": "beverages",
         "subCategory": "Spreads & Sauces",
-        "description": "Known for its premium quality products, Del Monte offers a range of sauces and spreads, including a well-regarded tomato ketchup with a rich, tangy flavor.",
-        "imageUrl": "https://placehold.co/400x300/a35f29/ffffff?text=Del+Monte+Ketchup"
+        "description": "Veeba Chef's Special Tomato Ketchup is a premium, thick, and smooth condiment made from ripe tomatoes, known for its rich, well-balanced tangy and savory flavor that is versatile enough for both dipping and gourmet cooking applications.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/spreads/veeba_ketchup.avif"
     },
     {
         "id": "mayo_01",
-        "name": "Dr. Oetker Funfoods Mayo",
+        "name": "Dr. Oetker FunFoods Veg Mayonnaise Original",
         "category": "beverages",
         "subCategory": "Spreads & Sauces",
-        "description": "A market leader in the mayonnaise segment, Funfoods is a go-to brand in India. It offers a variety of flavors, including the popular vegetarian and sandwich mayo.",
-        "imageUrl": "https://placehold.co/400x300/e0e0e0/000000?text=Funfoods+Mayonnaise"
+        "description": "Dr. Oetker FunFoods Veg Mayonnaise Original is a 100% vegetarian, rich, and creamy spread known for its mild, balanced sweet and tangy flavor, making it a highly versatile base for sandwiches, burgers, and dips.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/spreads/fun_foods_mayonnaise.avif"
     },
     {
         "id": "mayo_02",
-        "name": "Veeba Mayo",
+        "name": "Hellmann's Veg Mayonnaise",
         "category": "beverages",
         "subCategory": "Spreads & Sauces",
-        "description": "Veeba has become a strong competitor in the sauces and dips market. Its mayonnaise is highly popular for its creamy texture and various flavor options like 'Tandoori' and 'Garlic'.",
-        "imageUrl": "https://placehold.co/400x300/8d8c91/ffffff?text=Veeba+Mayonnaise"
+        "description": "Hellmann's Veg Mayonnaise is a 100% vegetarian (eggless), rich, and creamy spread from the World's No. 1 Mayonnaise brand, known for its classic, well-balanced taste and is fortified with essential Vitamins A & D.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/spreads/hellmann_veg_mayonaise.avif"
+    },
+    {
+        "id": "mayo_03",
+        "name": "Veeba Chef's Special Veg Mayonnaise",
+        "category": "beverages",
+        "subCategory": "Spreads & Sauces",
+        "description": "Veeba Chef's Special Veg Mayonnaise is a premium, 100% vegetarian and exceptionally thick, creamy spread known for its rich, robust flavor profile, making it the perfect versatile base for gourmet salads, sandwiches, and dips.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/spreads/veeba_mayonnaise.avif"
     },
     {
         "id": "chinese_sauce_01",
-        "name": "Ching's Secret Sauce",
+        "name": "Ching's Secret Dark Soy Sauce",
         "category": "beverages",
         "subCategory": "Spreads & Sauces",
-        "description": "The most famous brand for Indo-Chinese products in India. It offers a variety of sauces like Schezwan, Soy, and Chilli Vinegar, which are a must-have for cooking Chinese food at home.",
-        "imageUrl": "https://placehold.co/400x300/c74e2d/ffffff?text=Ching's+Secret"
+        "description": "Ching's Secret Dark Soy Sauce is a thick, viscous sauce known for its rich, deep umami flavor and mild saltiness, used primarily to impart a dark, appetizing color and glaze to Indian-Chinese stir-fries and gravies.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/spreads/chings_sauce.avif"
     },
     {
         "id": "chinese_sauce_02",
-        "name": "Maggi Chinese Sauce",
+        "name": "Ching's Secret Schezwan Chutney",
         "category": "beverages",
         "subCategory": "Spreads & Sauces",
-        "description": "While primarily known for its noodles and ketchup, Maggi also has a popular range of Indo-Chinese sauces, including a spicy chili garlic and soy sauce.",
-        "imageUrl": "https://placehold.co/400x300/f8b400/ffffff?text=Maggi+Chinese+Sauce"
+        "description": "Ching's Secret Schezwan Chutney is a highly versatile, fiery-hot, and tangy condiment made with red chilies, garlic, and spices, ideal for use as a dipping sauce or as a quick flavor base for Indo-Chinese dishes like Schezwan Fried Rice.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/spreads/chings_schezwan_chutney.avif"
     },
     {
         "id": "chinese_sauce_03",
-        "name": "Veeba Sauces",
+        "name": "Knorr Schezwan Sauce",
         "category": "beverages",
         "subCategory": "Spreads & Sauces",
-        "description": "Veeba's strong presence in the sauces market extends to the Indo-Chinese category. Its Schezwan and Stir Fry sauces are widely used for their authentic flavor and quality.",
-        "imageUrl": "https://placehold.co/400x300/d44f38/ffffff?text=Veeba+Chinese+Sauce"
+        "description": "Knorr Schezwan Sauce is a ready-to-use, thick sauce known for its fiery, pungent, and savory flavor, offering a convenient all-in-one base for quick preparation of popular Indo-Chinese dishes like Schezwan Noodles and Fried Rice.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/spreads/knorr_schezwan_sauce.avif"
+    },
+    {
+        "id": "chinese_sauce_04",
+        "name": "Knorr Pizza & Pasta Sauce",
+        "category": "beverages",
+        "subCategory": "Spreads & Sauces",
+        "description": "Knorr Pizza & Pasta Sauce is a ready-to-use, thick, and savory sauce that blends ripe tomatoes with classic Italian herbs like oregano and basil, providing a convenient, tangy base for quick homemade pizzas and pasta dishes.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/spreads/knorr_pizza_pasta_sauce.avif"
+    },
+    {
+        "id": "chinese_sauce_05",
+        "name": "Veeba Smokey Barbeque Sauce",
+        "category": "beverages",
+        "subCategory": "Spreads & Sauces",
+        "description": "Veeba Smokey Barbeque Sauce is a thick, rich, and tangy vegetarian sauce known for its signature sweet and deep smoky flavor, making it an ideal choice for grilling, basting, dipping, and spreading.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/spreads/veeba_smokey_sauce.avif"
     },
     {
         "id": "softdrink_01",
-        "name": "Coca-Cola",
+        "name": "Coca-Cola Cola Soft Drink",
         "category": "beverages",
         "subCategory": "Soft Drinks",
-        "description": "The world's most popular cola, it is a dominant force in the Indian market. It is a go-to choice for social gatherings, meals, and a classic thirst-quencher.",
-        "imageUrl": "https://placehold.co/400x300/a7211e/ffffff?text=Coca-Cola"
+        "description": "Coca-Cola is the world-renowned, highly carbonated soft drink with a unique, sweet, and crisp classic cola flavor, offering instant refreshment.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/soft_drinks/coca_cola.avif"
     },
     {
         "id": "softdrink_02",
-        "name": "Thums Up",
+        "name": "Thums Up Cola Soft Drink",
         "category": "beverages",
         "subCategory": "Soft Drinks",
-        "description": "An iconic Indian cola brand, known for its strong, fizzy taste and 'Taste the Thunder' tagline. It's particularly popular in India and has a loyal customer base.",
-        "imageUrl": "https://placehold.co/400x300/e8784e/ffffff?text=Thums+Up"
+        "description": "Thums Up is a highly carbonated soft drink renowned for its strong, sharp, and intense cola flavor that delivers a powerful 'thunder' or 'bite' of refreshment.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/soft_drinks/thumbs_up.avif"
     },
     {
         "id": "softdrink_03",
-        "name": "Sprite",
+        "name": "Pepsi Cola Soft Drink",
         "category": "beverages",
         "subCategory": "Soft Drinks",
-        "description": "A clear, lemon-lime flavored soft drink known for its crisp, clean taste. It is often marketed as a refreshing drink to beat the heat and is a popular alternative to colas.",
-        "imageUrl": "https://placehold.co/400x300/6fa04b/ffffff?text=Sprite"
+        "description": "Pepsi Cola is a highly carbonated soft drink known for its distinctively sweet and smooth cola flavor that delivers a refreshing burst of energy.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/soft_drinks/pepsi.avif"
     },
     {
         "id": "softdrink_04",
-        "name": "Fanta",
+        "name": "7UP Lime Soft Drink",
         "category": "beverages",
         "subCategory": "Soft Drinks",
-        "description": "A carbonated orange-flavored drink that is a favorite, especially among children. Its bright color and fruity taste make it a staple at parties and celebrations.",
-        "imageUrl": "https://placehold.co/400x300/ff7f00/ffffff?text=Fanta"
+        "description": "7UP is a crisp, clear, and highly carbonated lemon-lime flavored soft drink that is typically caffeine-free and widely enjoyed as a refreshing standalone beverage or cocktail mixer.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/soft_drinks/7up_lime.avif"
     },
     {
         "id": "softdrink_05",
-        "name": "Mirinda",
+        "name": "Sprite Lime Soft Drink ",
         "category": "beverages",
         "subCategory": "Soft Drinks",
-        "description": "PepsiCo's primary orange-flavored soft drink in India, which is a direct competitor to Fanta. It is well-known for its vibrant flavor and packaging.",
-        "imageUrl": "https://placehold.co/400x300/a35f29/ffffff?text=Mirinda"
+        "description": "Sprite is a clear, highly carbonated soft drink renowned for its intense, crisp lemon-lime flavor and refreshing, caffeine-free formulation, designed to truly quench your thirst.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/soft_drinks/sprite.avif"
     },
     {
         "id": "softdrink_06",
-        "name": "Pepsi",
+        "name": "Limca Lemon 'N' Lime Soft Drink",
         "category": "beverages",
         "subCategory": "Soft Drinks",
-        "description": "The main rival to Coca-Cola, Pepsi has a strong presence in the Indian market. It is widely consumed and is a key player in the carbonated drinks segment.",
-        "imageUrl": "https://placehold.co/400x300/004a99/ffffff?text=Pepsi"
+        "description": "Limca is a highly carbonated soft drink renowned for its unique, tangy, and zesty lemon 'n' lime flavor, offering a refreshing lift that keeps you feeling light.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/soft_drinks/limca.avif"
     },
     {
         "id": "softdrink_07",
-        "name": "Limca",
-        "category": "beverages",
-        "subCategory": "Soft Drinks",
-        "description": "A cloudy lemon-lime drink from Coca-Cola, known for its slightly sweet and tangy flavor. It's a popular choice for those who prefer a non-cola, refreshing beverage.",
-        "imageUrl": "https://placehold.co/400x300/a3927d/ffffff?text=Limca"
-    },
-    {
-        "id": "softdrink_08",
         "name": "Mountain Dew",
         "category": "beverages",
         "subCategory": "Soft Drinks",
-        "description": "A citrus-flavored soft drink with a high level of carbonation. It is popular among the youth, often associated with adventure and daring through its marketing campaigns.",
-        "imageUrl": "https://placehold.co/400x300/2f4f2f/ffffff?text=Mountain+Dew"
+        "description": "Mountain Dew is a highly carbonated soft drink known for its distinct, bold, intense citrus flavor and high caffeine content, promoting a rush of energetic refreshment.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/soft_drinks/mountain_dew.avif"
+    },
+    {
+        "id": "softdrink_08",
+        "name": "Fanta Orange Soft Drink",
+        "category": "beverages",
+        "subCategory": "Soft Drinks",
+        "description": "Fanta Orange is a highly carbonated, sweet, and tangy soft drink known for its bright orange color and refreshing, fruity flavor, typically formulated to be caffeine-free.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/soft_drinks/fanta.avif"
     },
     {
         "id": "softdrink_09",
-        "name": "Maaza",
+        "name": "Mirinda Orange Soft Drink",
         "category": "beverages",
         "subCategory": "Soft Drinks",
-        "description": "A well-known mango-flavored fruit drink. It's a classic summer beverage in India, with a thick, juicy texture that mimics the taste of real mangoes.",
-        "imageUrl": "https://placehold.co/400x300/ffbb00/ffffff?text=Maaza"
+        "description": "Mirinda Orange is a highly carbonated, sweet soft drink known for its vibrant orange color and intense, bold orange flavor, offering a fruity and caffeine-free refreshment.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/soft_drinks/mirinda.avif"
     },
     {
         "id": "softdrink_10",
-        "name": "Appy Fizz",
+        "name": "Maaza Mango Drink",
         "category": "beverages",
         "subCategory": "Soft Drinks",
-        "description": "A unique, carbonated apple juice drink that is a popular alternative to traditional sodas. It has a light, bubbly texture and a sweet apple flavor.",
-        "imageUrl": "https://placehold.co/400x300/e6c76e/ffffff?text=Appy+Fizz"
+        "description": "Maaza Mango Drink is a non-carbonated, sweet, and refreshing beverage known for its thick, pulpy texture and authentic, rich Alphonso mango flavor.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/soft_drinks/maza.avif"
+    },
+    {
+        "id": "softdrink_11",
+        "name": "Frooti Mango Drink",
+        "category": "beverages",
+        "subCategory": "Soft Drinks",
+        "description": "Frooti Mango Drink is a non-carbonated, sweet, and refreshing beverage known for its smooth, pulpy texture and consistent mango flavor, famously packaged in convenient Tetra Pak cartons.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/soft_drinks/frooti.avif"
+    },
+    {
+        "id": "softdrink_12",
+        "name": "Slice Mango Drink ",
+        "category": "beverages",
+        "subCategory": "Soft Drinks",
+        "description": "Slice Mango Drink is a non-carbonated, thick, and pulpy beverage known for its intensely rich and sweet mango flavor, offering a satisfying and indulgent fruit experience.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/soft_drinks/slice.avif"
+    },
+    {
+        "id": "softdrink_13",
+        "name": "Appy Fizz Sparkling Drink",
+        "category": "beverages",
+        "subCategory": "Soft Drinks",
+        "description": "Appy Fizz is a unique, highly carbonated beverage that combines the crisp, sweet flavor of real apple juice with a lively fizz, making it a refreshing alternative to traditional soft drinks.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/soft_drinks/appy_fizz.avif"
     },
     {
         "id": "toothpaste_01",
