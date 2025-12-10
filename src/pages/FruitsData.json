@@ -2825,162 +2825,218 @@
     },
     {
         "id": "repellent_machine_01",
-        "name": "Good knight Activ+",
+        "name": "Good Knight Flash Liquid Vaporiser Mosquito Killer Machine with Refills",
         "category": "repelents",
         "subCategory": "Machines & Refills",
-        "description": "The most widely used mosquito repellent machine and refill brand in India. It is a staple in almost every household and is known for its dual-mode feature and effectiveness in repelling mosquitoes.",
-        "imageUrl": "https://placehold.co/400x300/a7211e/ffffff?text=Good+knight+Activ%2B"
+        "description": "The Good Knight Flash Liquid Vaporiser is an electric mosquito killer machine featuring a dual-mode system with a powerful 'Flash' setting for intensified protection against mosquitoes, lasting up to 45 nights per refill.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/machine_refills/goodknight_machine_refill.avif"
     },
     {
         "id": "repellent_machine_02",
-        "name": "All Out All Night",
+        "name": "Good Knight Flash Liquid Vaporiser Mosquito Repellent Refill",
         "category": "repelents",
         "subCategory": "Machines & Refills",
-        "description": "A strong competitor to Good knight, All Out is a popular brand known for its consistent performance throughout the night. It is a trusted name for providing uninterrupted protection from mosquitoes.",
-        "imageUrl": "https://placehold.co/400x300/a7a7a7/ffffff?text=All+Out+All+Night"
+        "description": "The Good Knight Flash Liquid Vaporiser Refill contains the specialized mosquito repellent formula designed for the dual-mode machine, providing effective and continuous protection for up to 45 nights.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/machine_refills/goodknight_refill.avif"
     },
     {
         "id": "repellent_machine_03",
-        "name": "Mortein Powergard",
+        "name": "All Out Ultra Power Liquid Vaporizer Mosquito Killer Machine",
         "category": "repelents",
         "subCategory": "Machines & Refills",
-        "description": "Mortein is a well-known brand for pest control. Its liquid vaporizer is a popular choice for its powerful formula that is designed to repel mosquitoes quickly and effectively.",
-        "imageUrl": "https://placehold.co/400x300/ffbb00/000000?text=Mortein"
+        "description": "The All Out Ultra Power Liquid Vaporizer is an electric mosquito killer machine featuring an adjustable intensity control to deliver enhanced protection with a stronger 'Ultra Power' mode for effective mosquito control.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/machine_refills/allout_machine_refill.avif"
     },
     {
         "id": "repellent_machine_04",
-        "name": "Maxo",
+        "name": "All Out Ultra Liquid Vaporizer Mosquito Killer Machine Refill",
         "category": "repelents",
         "subCategory": "Machines & Refills",
-        "description": "Maxo is an affordable and widely available brand in the repellent segment. Its machine and refills are a common choice for daily mosquito protection.",
-        "imageUrl": "https://placehold.co/400x300/b8e0e0/000000?text=Maxo"
+        "description": "The All Out Ultra Liquid Vaporizer Refill provides up to 45 nights of continuous mosquito repellent action, designed to work seamlessly with the All Out Ultra Power machine's adjustable intensity settings.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/machine_refills/allout_refill.avif"
     },
     {
         "id": "repellent_machine_05",
-        "name": "Mosquito Repellent Coil",
+        "name": "Hit Spray Matic Mosquito Repellent Dispenser",
         "category": "repelents",
         "subCategory": "Machines & Refills",
-        "description": "While not a machine, the repellent coil is a traditional and highly popular form of mosquito repellent in India. Brands like Good knight and Maxo offer these coils, which are a very affordable option for continuous protection.",
-        "imageUrl": "https://placehold.co/400x300/a35f29/ffffff?text=Mosquito+Coil"
+        "description": "The Hit Spray Matic is an automatic, battery-operated dispenser that releases measured bursts of powerful mosquito repellent at regular intervals, providing continuous protection and lasting up to 8 weeks per refill.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/machine_refills/hit_machine_refill.avif"
+    },
+    {
+        "id": "repellent_machine_06",
+        "name": "Mortein Smart Mosquito Repellent Machine ",
+        "category": "repelents",
+        "subCategory": "Machines & Refills",
+        "description": "The Mortein Smart Mosquito Repellent Machine is a liquid vaporizer featuring an Auto/Smart Mode that automatically adjusts repellent intensity based on mosquito density while offering continuous and effective protection.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/machine_refills/mortein_machine_refill.avif"
+    },
+    {
+        "id": "repellent_machine_07",
+        "name": "Mortein Smart Mosquito Repellent Refill",
+        "category": "repelents",
+        "subCategory": "Machines & Refills",
+        "description": "The Mortein Smart Mosquito Repellent Refill provides continuous, effective mosquito repellent action for up to 45 nights, designed to seamlessly integrate with the Mortein Smart Machine's adjustable modes.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/machine_refills/mortein_refill.avif"
+    },
+    {
+        "id": "repellent_machine_08",
+        "name": "DND Secure Mosquito Repellent Refill",
+        "category": "repelents",
+        "subCategory": "Machines & Refills",
+        "description": "The DND Secure Mosquito Repellent Refill is a liquid vaporizer refill with a strong, fast-action formula designed to provide continuous and effective mosquito protection for up to 45 nights.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/machine_refills/dnd_refill.avif"
     },
     {
         "id": "repellent_spray_01",
-        "name": "Mortein Instamosquito",
+        "name": "All Out All Night Flies & Mosquito Repellent Spray",
         "category": "repelents",
         "subCategory": "Sprays",
-        "description": "Mortein's spray is a very popular choice for its quick action. It is a go-to for killing mosquitoes and other flying insects instantly, making it ideal for immediate relief.",
-        "imageUrl": "https://placehold.co/400x300/ffbb00/000000?text=Mortein+Spray"
+        "description": "All Out All Night is a long-lasting aerosol spray repellent that provides continuous, overnight protection by both killing and repelling mosquitoes and flies.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/repellent_spray/allout_spray.avif"
     },
     {
         "id": "repellent_spray_02",
-        "name": "All Out Mosquito Spray",
+        "name": "Baygon Max Cockroach Spray",
         "category": "repelents",
         "subCategory": "Sprays",
-        "description": "All Out's spray provides quick and effective protection against mosquitoes. It is a common household product used to clear rooms of insects before sleeping.",
-        "imageUrl": "https://placehold.co/400x300/a7a7a7/ffffff?text=All+Out+Spray"
+        "description": "Baygon Max Cockroach Spray is a powerful aerosol solution with a deep-reach nozzle that provides instant knockdown and long-lasting residual action to effectively eliminate cockroaches and other crawling insects.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/repellent_spray/baygon_cockroach_spray.avif"
     },
     {
         "id": "repellent_spray_03",
-        "name": "Good knight Xpress",
+        "name": "Baygon Fly Lime Scent Mosquito Repellent Spray",
         "category": "repelents",
         "subCategory": "Sprays",
-        "description": "Known for its 'Xpress' fast-action formula, this spray is designed to quickly knock down and kill mosquitoes. It is a popular and reliable choice for instant pest control.",
-        "imageUrl": "https://placehold.co/400x300/a7211e/ffffff?text=Good+knight+Xpress"
+        "description": "Baygon Fly Lime Scent Mosquito Repellent Spray is an instant-action aerosol solution designed to quickly knockdown and repel both mosquitoes and flies while leaving a fresh lime fragrance.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/repellent_spray/baygon_mosquito_spray.avif"
     },
     {
         "id": "repellent_spray_04",
-        "name": "Odomos Herbal",
+        "name": "Hit Fresh Fragrance Cockroach Spray",
         "category": "repelents",
         "subCategory": "Sprays",
-        "description": "Odomos is primarily known for its repellent creams, but its spray variant is also popular for on-the-go protection. It's often chosen for its long-lasting and safe-on-skin formula.",
-        "imageUrl": "https://placehold.co/400x300/6fa04b/ffffff?text=Odomos+Herbal"
+        "description": "Hit Fresh Fragrance Cockroach Spray is a powerful aerosol killer that provides instant knockdown and long-lasting residual action against cockroaches, featuring a special nozzle and a fresh scent to mask chemical odor.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/repellent_spray/hit_cockroach_spray.avif"
     },
     {
         "id": "repellent_spray_05",
-        "name": "Aer Mosquito Repellent",
+        "name": "Hit Spray Flies & Mosquito Repellent Spray",
         "category": "repelents",
         "subCategory": "Sprays",
-        "description": "From the well-known brand Godrej, Aer offers a mosquito repellent spray that combines a pleasant fragrance with effective pest control, making it a good choice for modern homes.",
-        "imageUrl": "https://placehold.co/400x300/a3927d/ffffff?text=Aer+Repellent"
+        "description": "Hit Spray Flies & Mosquito Repellent Spray is an instant-action aerosol formula designed to quickly knockdown and eliminate both mosquitoes and flies upon contact.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/repellent_spray/hit_mosquito_spray.avif"
+    },
+    {
+        "id": "repellent_spray_06",
+        "name": "Mortein Cockroach Killer with Deep Reach Nozzle",
+        "category": "repelents",
+        "subCategory": "Sprays",
+        "description": "Mortein Cockroach Killer is a powerful aerosol spray equipped with a Deep Reach Nozzle to target and instantly eliminate hidden cockroaches, while leaving a long-lasting residual killing effect.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/repellent_spray/mortein_cockroach_spray.avif"
+    },
+    {
+        "id": "repellent_spray_07",
+        "name": "Mortein 2 In 1 Mosquito & Cockroach Spray",
+        "category": "repelents",
+        "subCategory": "Sprays",
+        "description": "Mortein 2 In 1 Spray is a versatile aerosol insecticide that provides instant knockdown and kill action against both flying pests like mosquitoes and crawling pests like cockroaches.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/repellent_spray/mortein_spray.avif"
     },
     {
         "id": "repellent_gel_01",
-        "name": "Odomos Mosquito Repellent",
+        "name": "DND Secure Cockroach Gel",
         "category": "repelents",
         "subCategory": "Gels",
-        "description": "The most widely used personal mosquito repellent in India. Odomos is trusted for its non-sticky gel and cream formula that provides long-lasting protection from mosquito bites without being harsh on the skin.",
-        "imageUrl": "https://placehold.co/400x300/e6c76e/ffffff?text=Odomos+Gel"
+        "description": "DND Secure Cockroach Gel is a discreet, odorless bait applied via syringe that creates a domino effect to eliminate entire cockroach colonies, providing long-lasting, mess-free control.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/repellent_gel/dnd_cockroach_gel.avif"
     },
     {
         "id": "repellent_gel_02",
-        "name": "Good knight Fabric Roll-On",
+        "name": "Hit Cockroach Chalk Repellent",
         "category": "repelents",
         "subCategory": "Gels",
-        "description": "A very popular and innovative product that is applied to clothes and not the skin. It is a go-to for parents to protect their children from mosquito bites, known for its long-lasting effect.",
-        "imageUrl": "https://placehold.co/400x300/b8e0e0/000000?text=Good+knight+Roll-On"
+        "description": "Hit Cockroach Chalk Repellent is a solid chalk insecticide that creates a powerful, visible barrier line to effectively repel and kill cockroaches and other crawling insects.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/repellent_gel/hit_cockroach_chalk.avif"
     },
     {
         "id": "repellent_gel_03",
-        "name": "Mortein Mosquito Repellent Roll-On",
+        "name": "Hit Anti Roach Cockroach Gel",
         "category": "repelents",
         "subCategory": "Gels",
-        "description": "Mortein's roll-on repellent is a common choice for its convenient application and effective protection against mosquitoes, especially during outdoor activities.",
-        "imageUrl": "https://placehold.co/400x300/ffbb00/000000?text=Mortein+Roll-On"
+        "description": "Hit Anti Roach Cockroach Gel is a discreet, odorless, and highly effective bait applied via syringe that triggers a domino effect to kill entire cockroach colonies and provide long-term control.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/repellent_gel/hit_cockroach_gel.avif"
     },
     {
         "id": "repellent_gel_04",
-        "name": "Mosquito Repellent Patch",
+        "name": "Odomos With Vitamin E Mosquito Repellent Cream",
         "category": "repelents",
         "subCategory": "Gels",
-        "description": "A popular choice for kids, these patches are infused with natural oils like citronella. They are a convenient and safe way to keep mosquitoes away without applying anything directly to the skin.",
-        "imageUrl": "https://placehold.co/400x300/a35f29/ffffff?text=Mosquito+Patch"
+        "description": "Odomos With Vitamin E Mosquito Repellent Cream is a clinically proven, non-sticky cream that offers up to 8 hours of protection from mosquito bites while keeping the skin nourished and moisturized.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/repellent_gel/odomos_gel.avif"
     },
     {
         "id": "repellent_gel_05",
-        "name": "Jungle Formula",
+        "name": "Odomos Fabric Mosquito Repellent Roll On",
         "category": "repelents",
         "subCategory": "Gels",
-        "description": "While not as common as Odomos, Jungle Formula is a very popular international brand. Its gel and lotion are chosen for their strong and long-lasting protection, especially in high-risk areas.",
-        "imageUrl": "https://placehold.co/400x300/a7a7a7/ffffff?text=Jungle+Formula"
+        "description": "Odomos Fabric Mosquito Repellent Roll On is a convenient, mess-free applicator that creates a long-lasting, invisible shield of protection by applying mosquito repellent directly onto clothing and fabric instead of skin.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/repellent_gel/odomos_rollon.avif"
+    },
+    {
+        "id": "repellent_gel_06",
+        "name": "Good Knight Natural Fabric Mosquito Repellent Roll On",
+        "category": "repelents",
+        "subCategory": "Gels",
+        "description": "Good Knight Natural Fabric Roll On is a DEET-free repellent made with 100% natural Citronella and Eucalyptus oils that is rolled onto clothes to provide up to 8 hours of skin-safe mosquito protection.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/repellent_gel/goodknight_rollon.avif"
+    },
+    {
+        "id": "repellent_gel_07",
+        "name": "Mamaearth Fabric Roll on Mosquito Repellent",
+        "category": "repelents",
+        "subCategory": "Gels",
+        "description": "Mamaearth Fabric Roll On is a DEET-free, MadeSafe certified, 100% natural mosquito repellent enriched with Citronella and Eucalyptus oil that is rolled onto clothes to provide up to 8 hours of safe protection for babies and children.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/repellent_gel/mamaearth_rollon.avif"
     },
     {
         "id": "disinfectant_01",
-        "name": "Lizol Disinfectant Liquid",
+        "name": "Dettol Germ Defence Antiseptic Liquid",
         "category": "repelents",
         "subCategory": "Disinfectants",
-        "description": "The most trusted and widely used disinfectant for floors and surfaces in India. It is known for its ability to kill 99.9% of germs and is available in a variety of fragrances.",
-        "imageUrl": "https://placehold.co/400x300/e6c76e/ffffff?text=Lizol+Disinfectant"
+        "description": "Dettol Germ Defence Antiseptic Liquid is a concentrated, trusted solution containing Chloroxylenol, widely used for first aid, personal hygiene, and household surface disinfection to protect against germs.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/disinfectant/detol_disinfectant.avif"
     },
     {
         "id": "disinfectant_02",
-        "name": "Dettol Antiseptic Liquid",
+        "name": "Lizol Shakti Disinfectant Floor Cleaner",
         "category": "repelents",
         "subCategory": "Disinfectants",
-        "description": "A classic and iconic antiseptic liquid used for personal hygiene and surface disinfection. It's a staple in every Indian medicine cabinet and is also used for cleaning floors and surfaces to kill germs.",
-        "imageUrl": "https://placehold.co/400x300/a7211e/ffffff?text=Dettol+Antiseptic"
+        "description": "Lizol Shakti Disinfectant Floor Cleaner is a powerful concentrated solution that kills 99.9% of germs while cutting through tough stains, leaving floors sparkling clean and infused with a strong, lasting fragrance.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/disinfectant/lizol_disinfectant.avif"
     },
     {
         "id": "disinfectant_03",
-        "name": "Domex Disinfectant Floor Cleaner",
+        "name": "Savlon Disinfectant Antiseptic Liquid",
         "category": "repelents",
         "subCategory": "Disinfectants",
-        "description": "Domex is a popular choice for disinfecting floors and bathrooms. Its formula is designed to provide powerful germ-killing action and is a strong competitor in the hygiene market.",
-        "imageUrl": "https://placehold.co/400x300/004a99/ffffff?text=Domex+Disinfectant"
+        "description": "Savlon Disinfectant Antiseptic Liquid is a concentrated solution containing Cetrimide and Chlorhexidine that is gentle on wounds yet effectively kills germs for first aid, bathing, and household disinfection.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/disinfectant/savlon_disinfectant.avif"
     },
     {
         "id": "disinfectant_04",
-        "name": "Savlon Disinfectant Liquid",
+        "name": "Niks Premium White Phenyl Floor cleaner",
         "category": "repelents",
         "subCategory": "Disinfectants",
-        "description": "Savlon is a well-known antiseptic brand, and its disinfectant liquid is a common choice for its gentle yet effective formula. It is used for first aid and for disinfecting surfaces.",
-        "imageUrl": "https://placehold.co/400x300/b8e0e0/000000?text=Savlon+Disinfectant"
+        "description": "Niks Premium White Phenyl is a powerful, pine-scented floor cleaner that forms a thick white emulsion, providing effective germicidal action and leaving a strong, lingering fresh fragrance.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/disinfectant/niks_phenyl.avif"
     },
     {
         "id": "disinfectant_05",
-        "name": "Phenyl",
+        "name": "SaveMore Pine Phenyl Liquid",
         "category": "repelents",
         "subCategory": "Disinfectants",
-        "description": "A traditional and very common disinfectant, especially in older Indian households. It is a concentrated liquid with a strong smell, used for cleaning and disinfecting floors and drains.",
-        "imageUrl": "https://placehold.co/400x300/4a2924/ffffff?text=Phenyl"
+        "description": "SaveMore Pine Phenyl Liquid is an economical and powerful concentrated disinfectant that creates a milky white emulsion and releases a strong, fresh pine scent while effectively killing floor germs.",
+        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/disinfectant/savemore_phenyl.avif"
     }
 ]
