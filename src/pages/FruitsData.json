@@ -677,7 +677,7 @@
         "category": "spices",
         "subCategory": "Tea & Coffee",
         "description": "One of India's most recognized tea brands, Tata Tea is a household name known for its rich taste and strong, brisk flavor.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/tea_coffee/tata_tea.png"
+        "imageUrl": "/images/tea_coffee/tata_tea.avif"
     },
     {
         "id": "tea0002",
@@ -685,7 +685,7 @@
         "category": "spices",
         "subCategory": "Tea & Coffee",
         "description": "As one of the largest-selling tea brands in India, Red Label is celebrated for its balanced flavor and rich color, making it a staple for many.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/tea_coffee/red_label_tea.png"
+        "imageUrl": "/images/tea_coffee/red_label_tea.avif"
     },
     {
         "id": "tea0003",
@@ -693,7 +693,7 @@
         "category": "spices",
         "subCategory": "Tea & Coffee",
         "description": "Known for its consistent quality and robust, full-bodied flavor, Wagh Bakri is a popular choice, especially in Western India.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/tea_coffee/wagh_bakri_tea.png"
+        "imageUrl": "/images/tea_coffee/wagh_bakri_tea.avif"
     },
     {
         "id": "tea0004",
@@ -701,7 +701,7 @@
         "category": "spices",
         "subCategory": "Tea & Coffee",
         "description": "Globally recognized, Lipton has a strong presence in India, with its green tea variants being particularly popular among health-conscious consumers.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/tea_coffee/lipton_tea.png"
+        "imageUrl": "/images/tea_coffee/lipton_green_tea.avif"
     },
     {
         "id": "tea0005",
@@ -709,7 +709,7 @@
         "category": "spices",
         "subCategory": "Tea & Coffee",
         "description": "This premium brand is known for its exquisite aroma and taste, often enjoyed on special occasions and by those who appreciate a fine blend.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/tea_coffee/taj_mahal_tea.png"
+        "imageUrl": "/images/tea_coffee/taj_mahal_tea.avif"
     },
     {
         "id": "coffee0001",
@@ -717,7 +717,7 @@
         "category": "spices",
         "subCategory": "Tea & Coffee",
         "description": "A globally recognized brand and a household name in India, Nescafé is a leader in the instant coffee segment, known for its convenience and wide range of products like Classic, Gold, and Sunrise.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/tea_coffee/nescafe_coffee.png"
+        "imageUrl": "/images/tea_coffee/nescafe_coffee.avif"
     },
     {
         "id": "coffee0002",
@@ -725,7 +725,7 @@
         "category": "spices",
         "subCategory": "Tea & Coffee",
         "description": "Owned by Hindustan Unilever, Bru is one of India's most popular coffee brands. It has a strong presence with both instant coffee and traditional chicory-blended filter coffee powder.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/tea_coffee/bur_coffee.png"
+        "imageUrl": "/images/tea_coffee/bru_coffee.avif"
     },
     {
         "id": "coffee0003",
@@ -733,7 +733,7 @@
         "category": "spices",
         "subCategory": "Tea & Coffee",
         "description": "A major Indian producer with its own plantations, Tata Coffee offers a diverse range of products, from instant coffee to premium single-origin beans, with a focus on quality and sustainability.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/tea_coffee/tata_coffee.png"
+        "imageUrl": "/images/tea_coffee/tata_coffee_grand.avif"
     },
     {
         "id": "coffee0004",
@@ -741,7 +741,7 @@
         "category": "spices",
         "subCategory": "Tea & Coffee",
         "description": "As a leader in India's specialty coffee movement, Blue Tokai is highly popular among connoisseurs, offering a wide variety of freshly roasted, single-origin coffee beans and ground coffee.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/tea_coffee/blue_tokai.png"
+        "imageUrl": "/images/tea_coffee/blue_tokai_coffee_roasters.avif"
     },
     {
         "id": "coffee0005",
@@ -749,7 +749,7 @@
         "category": "spices",
         "subCategory": "Tea & Coffee",
         "description": "A prominent Indian brand known for its wide range of instant, filter, and freeze-dried coffees. Continental Coffee caters to both retail consumers and the hospitality industry.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/tea_coffee/continental_coffee.png"
+        "imageUrl": "/images/tea_coffee/continental_coffee.avif"
     },
     {
         "id": "sugar0001",
@@ -757,7 +757,7 @@
         "category": "spices",
         "subCategory": "Sweeteners",
         "description": "A popular and trusted brand in India, known for its hygienic, refined, and sulphur-free sugar. It is a flagship brand of Shree Renuka Sugars.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/sugars/madhur_sugar.png"
+        "imageUrl": "/images/sugar/madhur_sugar.avif"
     },
     {
         "id": "sugar0002",
@@ -765,7 +765,7 @@
         "category": "spices",
         "subCategory": "Sweeteners",
         "description": "From Adani Wilmar, Fortune is a well-known brand that offers a variety of high-quality, refined and sulphur-free sugars, trusted for its purity and hygiene.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/sugars/fortune_sugar.png"
+        "imageUrl": "/images/sugar/fortune_sugar.avif"
     },
     {
         "id": "sugar0003",
@@ -773,7 +773,7 @@
         "category": "spices",
         "subCategory": "Sweeteners",
         "description": "Focusing on natural and indigenous sweeteners, Dhampur Green is known for its range of products including sulphur-free sugar, jaggery (gur), and desi khand.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/sugars/whole_farm_sugar.png"
+        "imageUrl": "/images/sugar/whole_farm_sugar.avif"
     },
     {
         "id": "sugar0004",
@@ -781,7 +781,7 @@
         "category": "spices",
         "subCategory": "Sweeteners",
         "description": "Part of the trusted Tata Group, Tata Sampann offers a range of everyday kitchen staples, including high-quality crystal sugar that adheres to strict purity standards.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/sugars/organic_tatva_sugar.png"
+        "imageUrl": "/images/sugar/organic_tatva_sugar.avif"
     },
     {
         "id": "sugar0005",
@@ -789,7 +789,7 @@
         "category": "spices",
         "subCategory": "Sweeteners",
         "description": "Known for its commitment to quality and health, Uttam Sugar produces a variety of sulphur-free sugars, including powdered and demerara options.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/sugars/amul_sugar.png"
+        "imageUrl": "/images/sugar/amul_sugar.avif"
     },
     {
         "id": "sweetener0001",
@@ -797,7 +797,7 @@
         "category": "spices",
         "subCategory": "Sweeteners",
         "description": "The most dominant and widely recognized brand for sugar-free sweeteners in India, with variants like Sugar Free Gold (Aspartame) and Sugar Free Green (Stevia).",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/sugars/sugar_free.png"
+        "imageUrl": "/images/sugar/sugar_free.avif"
     },
     {
         "id": "sweetener0002",
@@ -805,7 +805,7 @@
         "category": "spices",
         "subCategory": "Sweeteners",
         "description": "Specializing in Stevia-based sweeteners, Zindagi Stevia offers a natural, zero-calorie alternative that is popular with health-conscious consumers and diabetics.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/sugars/sugar_free_stevia.png"
+        "imageUrl": "/images/sugar/sugar_free_stevia.avif"
     },
     {
         "id": "sweetener0003",
@@ -813,7 +813,7 @@
         "category": "spices",
         "subCategory": "Sweeteners",
         "description": "A globally recognized brand, Equal is a common sugar substitute found in Indian supermarkets and cafes, typically using Aspartame.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/sugars/im_lite_sugar_stevia.png"
+        "imageUrl": "/images/sugar/i_m_lite_stevia.avif"
     },
     {
         "id": "whole_spice_01",
@@ -821,7 +821,7 @@
         "category": "spices",
         "subCategory": "Whole Spices",
         "description": "A staple in almost every Indian kitchen, with a warm, earthy, and smoky flavor. It is often tempered in hot oil at the beginning of a dish to release its aroma.",
-        "imageUrl": "https://placehold.co/400x300/c7a09c/4b5563?text=Cumin+Seeds"
+        "imageUrl": "/images/spices/cumin_seeds.avif"
     },
     {
         "id": "whole_spice_02",
@@ -829,7 +829,7 @@
         "category": "spices",
         "subCategory": "Whole Spices",
         "description": "The dried seeds of the coriander plant, with a mild, citrusy, and nutty flavor. They are a core ingredient in many spice blends and are often roasted and ground.",
-        "imageUrl": "https://placehold.co/400x300/c7a09c/4b5563?text=Coriander+Seeds"
+        "imageUrl": "/images/spices/coriander_seeds.avif"
     },
     {
         "id": "whole_spice_03",
@@ -837,7 +837,7 @@
         "category": "spices",
         "subCategory": "Whole Spices",
         "description": "Small, round seeds that pop when tempered in hot oil, releasing a pungent, nutty flavor. They are widely used in South Indian cuisine and pickles.",
-        "imageUrl": "https://placehold.co/400x300/c7a09c/4b5563?text=Mustard+Seeds"
+        "imageUrl": "/images/spices/mustard_seeds.avif"
     },
     {
         "id": "whole_spice_04",
@@ -845,7 +845,7 @@
         "category": "spices",
         "subCategory": "Whole Spices",
         "description": "Small, yellowish seeds with a slightly bitter and nutty taste. Used in small quantities in pickles and spice blends, they are also known for their digestive properties.",
-        "imageUrl": "https://placehold.co/400x300/c7a09c/4b5563?text=Fenugreek+Seeds"
+        "imageUrl": "/images/spices/fenugreek_seeds.avif"
     },
     {
         "id": "whole_spice_05",
@@ -853,7 +853,7 @@
         "category": "spices",
         "subCategory": "Whole Spices",
         "description": "Known as the 'Queen of Spices,' it has a sweet, floral, and aromatic flavor. It is used whole in both sweet dishes and savory preparations like biryani.",
-        "imageUrl": "https://placehold.co/400x300/c7a09c/4b5563?text=Green+Cardamom"
+        "imageUrl": "/images/spices/green_cardamom.avif"
     },
     {
         "id": "whole_spice_06",
@@ -861,7 +861,7 @@
         "category": "spices",
         "subCategory": "Whole Spices",
         "description": "Dried flower buds with a strong, pungent, and sweet aroma. A potent spice used in small amounts to flavor rice dishes and meat curries.",
-        "imageUrl": "https://placehold.co/400x300/c7a09c/4b5563?text=Cloves"
+        "imageUrl": "/images/spices/cloves.avif"
     },
     {
         "id": "whole_spice_07",
@@ -869,7 +869,7 @@
         "category": "spices",
         "subCategory": "Whole Spices",
         "description": "Native to India, these offer a sharp, pungent heat. They are used whole to add a distinct depth of flavor to biryani and various curries.",
-        "imageUrl": "https://placehold.co/400x300/c7a09c/4b5563?text=Black+Peppercorns"
+        "imageUrl": "/images/spices/black_peppercorns.avif"
     },
     {
         "id": "whole_spice_08",
@@ -877,7 +877,7 @@
         "category": "spices",
         "subCategory": "Whole Spices",
         "description": "The bark of the cinnamon tree, with a warm, sweet, and woody aroma. Used whole in rice dishes and curries, and is a key ingredient in Garam Masala.",
-        "imageUrl": "https://placehold.co/400x300/c7a09c/4b5563?text=Cinnamon+Stick"
+        "imageUrl": "/images/spices/cinnamon_stick.avif"
     },
     {
         "id": "whole_spice_09",
@@ -885,7 +885,7 @@
         "category": "spices",
         "subCategory": "Whole Spices",
         "description": "Used for their aromatic qualities, they have a subtle, earthy, and sweet aroma. They are typically added to stews, curries, and rice dishes like biryani and removed before serving.",
-        "imageUrl": "https://placehold.co/400x300/c7a09c/4b5563?text=Bay+Leaves"
+        "imageUrl": "/images/spices/bay_leaves.avif"
     },
     {
         "id": "whole_spice_10",
@@ -893,7 +893,7 @@
         "category": "spices",
         "subCategory": "Whole Spices",
         "description": "This star-shaped spice has a strong licorice-like flavor. It is a staple in Mughlai cuisine and is used in various spice blends.",
-        "imageUrl": "https://placehold.co/400x300/c7a09c/4b5563?text=Star+Anise"
+        "imageUrl": "/images/spices/star_anise.avif"
     },
     {
         "id": "powder_spice_01",
@@ -901,7 +901,7 @@
         "category": "spices",
         "subCategory": "Powder Spices",
         "description": "A vibrant yellow powder known for its earthy, slightly bitter flavor and anti-inflammatory properties. It is a cornerstone of Indian cooking, adding color and health benefits to almost every dish.",
-        "imageUrl": "https://placehold.co/400x300/c7a09c/4b5563?text=Turmeric+Powder"
+        "imageUrl": "/images/spices/turmeric_powder.avif"
     },
     {
         "id": "powder_spice_02",
@@ -909,7 +909,7 @@
         "category": "spices",
         "subCategory": "Powder Spices",
         "description": "Provides the spicy heat and color to Indian cuisine. It is available in various grades of pungency, from mild Kashmiri chili to the fiery hot Guntur chili.",
-        "imageUrl": "https://placehold.co/400x300/c7a09c/4b5563?text=Red+Chili+Powder"
+        "imageUrl": "/images/spices/red_chili_powder.avif"
     },
     {
         "id": "powder_spice_03",
@@ -917,7 +917,7 @@
         "category": "spices",
         "subCategory": "Powder Spices",
         "description": "Made from ground coriander seeds, it is a versatile spice with a mild, earthy, and citrusy flavor. It provides a base flavor for many curries and gravies.",
-        "imageUrl": "https://placehold.co/400x300/c7a09c/4b5563?text=Coriander+Powder"
+        "imageUrl": "/images/spices/coriander_powder.avif"
     },
     {
         "id": "powder_spice_04",
@@ -925,7 +925,7 @@
         "category": "spices",
         "subCategory": "Powder Spices",
         "description": "Ground from roasted cumin seeds, it has a warm, earthy flavor. It is a key ingredient in many dishes and spice blends, and is also used for its digestive benefits.",
-        "imageUrl": "https://placehold.co/400x300/c7a09c/4b5563?text=Cumin+Powder"
+        "imageUrl": "/images/spices/cumin_powder.avif"
     },
     {
         "id": "powder_spice_05",
@@ -933,7 +933,7 @@
         "category": "spices",
         "subCategory": "Powder Spices",
         "description": "A quintessential Indian spice blend. The mix typically includes cinnamon, cardamom, cloves, cumin, coriander, and black pepper, adding warmth and depth to dishes.",
-        "imageUrl": "https://placehold.co/400x300/c7a09c/4b5563?text=Garam+Masala"
+        "imageUrl": "/images/spices/garam_masala.avif"
     },
     {
         "id": "powder_spice_06",
@@ -941,7 +941,7 @@
         "category": "spices",
         "subCategory": "Powder Spices",
         "description": "Provides a pungent, sharp heat. It is a common seasoning and is used to add a quick punch of spice to soups, salads, and various dishes.",
-        "imageUrl": "https://placehold.co/400x300/c7a09c/4b5563?text=Black+Pepper+Powder"
+        "imageUrl": "/images/spices/black_pepper_powder.avif"
     },
     {
         "id": "powder_spice_07",
@@ -949,7 +949,7 @@
         "category": "spices",
         "subCategory": "Powder Spices",
         "description": "Made from sun-dried green mangoes, this powder is a souring agent. It adds a tangy, fruity flavor to curries, chutneys, and savory snacks like chaat.",
-        "imageUrl": "https://placehold.co/400x300/c7a09c/4b5563?text=Amchur+Powder"
+        "imageUrl": "/images/spices/amchur_powder.avif"
     },
     {
         "id": "powder_spice_08",
@@ -957,7 +957,7 @@
         "category": "spices",
         "subCategory": "Powder Spices",
         "description": "A dried resin with an extremely pungent aroma in its raw form, which mellows to a smooth, onion-garlic flavor when cooked. A tiny pinch is used as a flavor base in many lentil and vegetable dishes.",
-        "imageUrl": "https://placehold.co/400x300/c7a09c/4b5563?text=Asafoetida"
+        "imageUrl": "/images/spices/asafoetida.avif"
     },
     {
         "id": "powder_spice_09",
@@ -965,7 +965,7 @@
         "category": "spices",
         "subCategory": "Powder Spices",
         "description": "Ground from dried ginger root, it has a strong, pungent, and slightly sweet flavor. It is used in curries, marinades, and in spice blends for its unique taste and health benefits.",
-        "imageUrl": "https://placehold.co/400x300/c7a09c/4b5563?text=Dry+Ginger+Powder"
+        "imageUrl": "/images/spices/dry_ginger_powder.avif"
     },
     {
         "id": "powder_spice_10",
@@ -973,7 +973,7 @@
         "category": "spices",
         "subCategory": "Powder Spices",
         "description": "Dried fenugreek leaves that have a rich, slightly bitter, and aromatic flavor. A pinch of these leaves, crushed between the palms, adds a distinct fragrance to curries and breads.",
-        "imageUrl": "https://placehold.co/400x300/c7a09c/4b5563?text=Kasuri+Methi"
+        "imageUrl": "/images/spices/dry_fenugreek_leaves.avif"
     },
     {
         "id": "exotic_spice_01",
@@ -981,7 +981,7 @@
         "category": "spices",
         "subCategory": "Exotic Spices",
         "description": "The world's most expensive spice, made from the stigma of the saffron crocus flower. It imparts a beautiful golden color, a subtle flavor, and a luxurious aroma to sweet dishes and biryani.",
-        "imageUrl": "https://placehold.co/400x300/c7a09c/4b5563?text=Saffron"
+        "imageUrl": "/images/spices/saffron.avif"
     },
     {
         "id": "exotic_spice_02",
@@ -989,7 +989,7 @@
         "category": "spices",
         "subCategory": "Exotic Spices",
         "description": "The dried, crimson-colored outer covering of the nutmeg seed. It has a delicate, sweet, and warm flavor, more subtle than nutmeg, and is used in fine spice blends and biryani.",
-        "imageUrl": "https://placehold.co/400x300/c7a09c/4b5563?text=Mace"
+        "imageUrl": "/images/spices/mace.avif"
     },
     {
         "id": "exotic_spice_03",
@@ -997,7 +997,7 @@
         "category": "spices",
         "subCategory": "Exotic Spices",
         "description": "Larger than its green counterpart, this spice has a smoky, camphor-like flavor. It is a powerful spice used in savory dishes, meat curries, and biryanis for a deep, musky aroma.",
-        "imageUrl": "https://placehold.co/400x300/c7a09c/4b5563?text=Black+Cardamom"
+        "imageUrl": "/images/spices/black_cardamom.avif"
     },
     {
         "id": "exotic_spice_04",
@@ -1005,7 +1005,7 @@
         "category": "spices",
         "subCategory": "Exotic Spices",
         "description": "A hard, aromatic seed with a warm, nutty flavor. It is used in small quantities, often grated, in both sweet dishes, rich gravies, and some spice blends.",
-        "imageUrl": "https://placehold.co/400x300/c7a09c/4b5563?text=Nutmeg"
+        "imageUrl": "/images/spices/nutmeg.avif"
     },
     {
         "id": "exotic_spice_05",
@@ -1013,7 +1013,7 @@
         "category": "spices",
         "subCategory": "Exotic Spices",
         "description": "Chilli flakes are crushed dried red chili peppers, used to add a touch of spicy heat and vibrant color to dishes.",
-        "imageUrl": "https://placehold.co/400x300/c7a09c/4b5563?text=Chilli+Flakes"
+        "imageUrl": "/images/spices/chilli_flakes.avif"
     },
     {
         "id": "exotic_spice_06",
@@ -1021,7 +1021,7 @@
         "category": "spices",
         "subCategory": "Exotic Spices",
         "description": "Oregano is an aromatic herb from the mint family, with a warm, earthy, and slightly bitter flavor, widely used in Italian, Greek, and other Mediterranean cuisines.",
-        "imageUrl": "https://placehold.co/400x300/c7a09c/4b5563?text=Oregano+Herbs"
+        "imageUrl": "/images/spices/oregano_herbs.avif"
     },
     {
         "id": "common_oil_01",
