@@ -1453,7 +1453,7 @@
         "category": "beverages",
         "subCategory": "Spreads & Sauces",
         "description": "Kissan Mixed Fruit Jam is a smooth, versatile spread combining the sweet and tangy flavors of multiple seasonal fruits, perfect for topping toast, bread, and rotis.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/spreads/kissan_mix_fruit_jam.avif"
+        "imageUrl": "/images/spreads/kissan_mix_fruit_jam.avif"
     },
     {
         "id": "jam_02",
@@ -1461,7 +1461,7 @@
         "category": "beverages",
         "subCategory": "Spreads & Sauces",
         "description": "Kissan Blueberry & Mulberry Spread is a smooth, easily spreadable preserve that offers a rich, balanced, and unique berry flavor by blending the tartness of blueberries with the distinct sweetness of mulberries.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/spreads/kissan_blueberry_spread.avif"
+        "imageUrl": "/images/spreads/kissan_blueberry_spread.avif"
     },
     {
         "id": "jam_03",
@@ -1469,7 +1469,7 @@
         "category": "beverages",
         "subCategory": "Spreads & Sauces",
         "description": "Kissan Strawberry & Raspberry Spread is a smooth, easily spreadable preserve that blends the classic sweetness of strawberries with the slightly tart intensity of raspberries for a rich and complex berry flavor.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/spreads/kissan_strawberry_spread.avif"
+        "imageUrl": "/images/spreads/kissan_strawberry_spread.avif"
     },
     {
         "id": "pb_01",
@@ -1477,7 +1477,7 @@
         "category": "beverages",
         "subCategory": "Spreads & Sauces",
         "description": "Pintola Dark Chocolate Crunchy Peanut Butter is a protein-rich, vegan, and gluten-free spread that combines the intense, slightly bitter flavor of dark chocolate with a satisfying crunchy texture from real peanut pieces.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/spreads/pintola_peanut_butter.avif"
+        "imageUrl": "/images/spreads/pintola_peanut_butter.avif"
     },
     {
         "id": "pb_02",
@@ -1485,7 +1485,7 @@
         "category": "beverages",
         "subCategory": "Spreads & Sauces",
         "description": "Sundrop Creamy Peanut Butter is a smooth, easily spreadable, and protein-rich butter made from roasted peanuts, offering a classic, balanced, nutty flavor ideal for sandwiches and snacks.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/spreads/sundrop_peanut_butter.avif"
+        "imageUrl": "/images/spreads/sundrop_peanut_butter.avif"
     },
     {
         "id": "pb_03",
@@ -1493,7 +1493,7 @@
         "category": "beverages",
         "subCategory": "Spreads & Sauces",
         "description": "MyFitness High Protein Chocolate Crunchy Peanut Butter is a high-protein, vegan-friendly spread that delivers a satisfying crunchy texture and a rich chocolate flavor, making it an excellent source of healthy fats and protein for fitness and snacking.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/spreads/myfitness_peanut_butter.avif"
+        "imageUrl": "/images/spreads/myfitness_peanut_butter.avif"
     },
     {
         "id": "ketchup_01",
@@ -1501,7 +1501,7 @@
         "category": "beverages",
         "subCategory": "Spreads & Sauces",
         "description": "Kissan Tomato Ketchup is a classic, thick, and smooth condiment made from ripe tomatoes, known for its universally appealing perfectly balanced sweet and tangy flavor, ideal for all snacks and meals.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/spreads/kissan_ketchup.avif"
+        "imageUrl": "/images/spreads/kissan_ketchup.avif"
     },
     {
         "id": "ketchup_02",
@@ -1509,7 +1509,7 @@
         "category": "beverages",
         "subCategory": "Spreads & Sauces",
         "description": "Del Monte Tomato Ketchup is a premium, thick, and smooth condiment made from ripe tomatoes, known for its well-balanced tangy and savory flavor that elevates snacks and meals.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/spreads/delmonte_ketchup.avif"
+        "imageUrl": "/images/spreads/delmonte_ketchup.avif"
     },
     {
         "id": "ketchup_03",
@@ -1517,7 +1517,7 @@
         "category": "beverages",
         "subCategory": "Spreads & Sauces",
         "description": "Heinz Tomato Ketchup is the world's most famous and trusted condiment, known for its distinctive, perfectly balanced sweet and tangy flavor and its rich, thick, smooth consistency, made from sun-ripened tomatoes.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/spreads/heinz_ketchup.avif"
+        "imageUrl": "/images/spreads/heinz_ketchup.avif"
     },
     {
         "id": "ketchup_04",
@@ -1525,7 +1525,7 @@
         "category": "beverages",
         "subCategory": "Spreads & Sauces",
         "description": "Maggi Rich Tomato Ketchup is a smooth, classic condiment made from high-quality tomatoes, famous for its rich, thick texture and well-balanced sweet and tangy flavor, making it an essential companion for snacks and meals.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/spreads/maggi_ketchup.avif"
+        "imageUrl": "/images/spreads/maggi_ketchup.avif"
     },
     {
         "id": "ketchup_05",
@@ -1533,7 +1533,7 @@
         "category": "beverages",
         "subCategory": "Spreads & Sauces",
         "description": "Veeba Chef's Special Tomato Ketchup is a premium, thick, and smooth condiment made from ripe tomatoes, known for its rich, well-balanced tangy and savory flavor that is versatile enough for both dipping and gourmet cooking applications.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/spreads/veeba_ketchup.avif"
+        "imageUrl": "/images/spreads/veeba_ketchup.avif"
     },
     {
         "id": "mayo_01",
@@ -1541,7 +1541,7 @@
         "category": "beverages",
         "subCategory": "Spreads & Sauces",
         "description": "Dr. Oetker FunFoods Veg Mayonnaise Original is a 100% vegetarian, rich, and creamy spread known for its mild, balanced sweet and tangy flavor, making it a highly versatile base for sandwiches, burgers, and dips.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/spreads/fun_foods_mayonnaise.avif"
+        "imageUrl": "/images/spreads/fun_foods_mayonnaise.avif"
     },
     {
         "id": "mayo_02",
@@ -1549,7 +1549,7 @@
         "category": "beverages",
         "subCategory": "Spreads & Sauces",
         "description": "Hellmann's Veg Mayonnaise is a 100% vegetarian (eggless), rich, and creamy spread from the World's No. 1 Mayonnaise brand, known for its classic, well-balanced taste and is fortified with essential Vitamins A & D.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/spreads/hellmann_veg_mayonaise.avif"
+        "imageUrl": "/images/spreads/hellmann_veg_mayonaise.avif"
     },
     {
         "id": "mayo_03",
@@ -1557,7 +1557,7 @@
         "category": "beverages",
         "subCategory": "Spreads & Sauces",
         "description": "Veeba Chef's Special Veg Mayonnaise is a premium, 100% vegetarian and exceptionally thick, creamy spread known for its rich, robust flavor profile, making it the perfect versatile base for gourmet salads, sandwiches, and dips.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/spreads/veeba_mayonnaise.avif"
+        "imageUrl": "/images/spreads/veeba_mayonnaise.avif"
     },
     {
         "id": "chinese_sauce_01",
@@ -1565,7 +1565,7 @@
         "category": "beverages",
         "subCategory": "Spreads & Sauces",
         "description": "Ching's Secret Dark Soy Sauce is a thick, viscous sauce known for its rich, deep umami flavor and mild saltiness, used primarily to impart a dark, appetizing color and glaze to Indian-Chinese stir-fries and gravies.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/spreads/chings_sauce.avif"
+        "imageUrl": "/images/spreads/chings_sauce.avif"
     },
     {
         "id": "chinese_sauce_02",
@@ -1573,7 +1573,7 @@
         "category": "beverages",
         "subCategory": "Spreads & Sauces",
         "description": "Ching's Secret Schezwan Chutney is a highly versatile, fiery-hot, and tangy condiment made with red chilies, garlic, and spices, ideal for use as a dipping sauce or as a quick flavor base for Indo-Chinese dishes like Schezwan Fried Rice.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/spreads/chings_schezwan_chutney.avif"
+        "imageUrl": "/images/spreads/chings_schezwan_chutney.avif"
     },
     {
         "id": "chinese_sauce_03",
@@ -1581,7 +1581,7 @@
         "category": "beverages",
         "subCategory": "Spreads & Sauces",
         "description": "Knorr Schezwan Sauce is a ready-to-use, thick sauce known for its fiery, pungent, and savory flavor, offering a convenient all-in-one base for quick preparation of popular Indo-Chinese dishes like Schezwan Noodles and Fried Rice.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/spreads/knorr_schezwan_sauce.avif"
+        "imageUrl": "/images/spreads/knorr_schezwan_sauce.avif"
     },
     {
         "id": "chinese_sauce_04",
@@ -1589,7 +1589,7 @@
         "category": "beverages",
         "subCategory": "Spreads & Sauces",
         "description": "Knorr Pizza & Pasta Sauce is a ready-to-use, thick, and savory sauce that blends ripe tomatoes with classic Italian herbs like oregano and basil, providing a convenient, tangy base for quick homemade pizzas and pasta dishes.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/spreads/knorr_pizza_pasta_sauce.avif"
+        "imageUrl": "/images/spreads/knorr_pizza_pasta_sauce.avif"
     },
     {
         "id": "chinese_sauce_05",
@@ -1597,7 +1597,7 @@
         "category": "beverages",
         "subCategory": "Spreads & Sauces",
         "description": "Veeba Smokey Barbeque Sauce is a thick, rich, and tangy vegetarian sauce known for its signature sweet and deep smoky flavor, making it an ideal choice for grilling, basting, dipping, and spreading.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/spreads/veeba_smokey_sauce.avif"
+        "imageUrl": "/images/spreads/veeba_smokey_sauce.avif"
     },
     {
         "id": "softdrink_01",
@@ -1605,7 +1605,7 @@
         "category": "beverages",
         "subCategory": "Soft Drinks",
         "description": "Coca-Cola is the world-renowned, highly carbonated soft drink with a unique, sweet, and crisp classic cola flavor, offering instant refreshment.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/soft_drinks/coca_cola.avif"
+        "imageUrl": "/images/soft_drinks/coca_cola.avif"
     },
     {
         "id": "softdrink_02",
@@ -1613,7 +1613,7 @@
         "category": "beverages",
         "subCategory": "Soft Drinks",
         "description": "Thums Up is a highly carbonated soft drink renowned for its strong, sharp, and intense cola flavor that delivers a powerful 'thunder' or 'bite' of refreshment.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/soft_drinks/thumbs_up.avif"
+        "imageUrl": "/images/soft_drinks/thumbs_up.avif"
     },
     {
         "id": "softdrink_03",
@@ -1621,7 +1621,7 @@
         "category": "beverages",
         "subCategory": "Soft Drinks",
         "description": "Pepsi Cola is a highly carbonated soft drink known for its distinctively sweet and smooth cola flavor that delivers a refreshing burst of energy.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/soft_drinks/pepsi.avif"
+        "imageUrl": "/images/soft_drinks/pepsi.avif"
     },
     {
         "id": "softdrink_04",
@@ -1629,7 +1629,7 @@
         "category": "beverages",
         "subCategory": "Soft Drinks",
         "description": "7UP is a crisp, clear, and highly carbonated lemon-lime flavored soft drink that is typically caffeine-free and widely enjoyed as a refreshing standalone beverage or cocktail mixer.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/soft_drinks/7up_lime.avif"
+        "imageUrl": "/images/soft_drinks/7up_lime.avif"
     },
     {
         "id": "softdrink_05",
@@ -1637,7 +1637,7 @@
         "category": "beverages",
         "subCategory": "Soft Drinks",
         "description": "Sprite is a clear, highly carbonated soft drink renowned for its intense, crisp lemon-lime flavor and refreshing, caffeine-free formulation, designed to truly quench your thirst.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/soft_drinks/sprite.avif"
+        "imageUrl": "/images/soft_drinks/sprite.avif"
     },
     {
         "id": "softdrink_06",
@@ -1645,7 +1645,7 @@
         "category": "beverages",
         "subCategory": "Soft Drinks",
         "description": "Limca is a highly carbonated soft drink renowned for its unique, tangy, and zesty lemon 'n' lime flavor, offering a refreshing lift that keeps you feeling light.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/soft_drinks/limca.avif"
+        "imageUrl": "/images/soft_drinks/limca.avif"
     },
     {
         "id": "softdrink_07",
@@ -1653,7 +1653,7 @@
         "category": "beverages",
         "subCategory": "Soft Drinks",
         "description": "Mountain Dew is a highly carbonated soft drink known for its distinct, bold, intense citrus flavor and high caffeine content, promoting a rush of energetic refreshment.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/soft_drinks/mountain_dew.avif"
+        "imageUrl": "/images/soft_drinks/mountain_dew.avif"
     },
     {
         "id": "softdrink_08",
@@ -1661,7 +1661,7 @@
         "category": "beverages",
         "subCategory": "Soft Drinks",
         "description": "Fanta Orange is a highly carbonated, sweet, and tangy soft drink known for its bright orange color and refreshing, fruity flavor, typically formulated to be caffeine-free.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/soft_drinks/fanta.avif"
+        "imageUrl": "/images/soft_drinks/fanta.avif"
     },
     {
         "id": "softdrink_09",
@@ -1669,7 +1669,7 @@
         "category": "beverages",
         "subCategory": "Soft Drinks",
         "description": "Mirinda Orange is a highly carbonated, sweet soft drink known for its vibrant orange color and intense, bold orange flavor, offering a fruity and caffeine-free refreshment.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/soft_drinks/mirinda.avif"
+        "imageUrl": "/images/soft_drinks/mirinda.avif"
     },
     {
         "id": "softdrink_10",
@@ -1677,7 +1677,7 @@
         "category": "beverages",
         "subCategory": "Soft Drinks",
         "description": "Maaza Mango Drink is a non-carbonated, sweet, and refreshing beverage known for its thick, pulpy texture and authentic, rich Alphonso mango flavor.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/soft_drinks/maza.avif"
+        "imageUrl": "/images/soft_drinks/maza.avif"
     },
     {
         "id": "softdrink_11",
@@ -1685,7 +1685,7 @@
         "category": "beverages",
         "subCategory": "Soft Drinks",
         "description": "Frooti Mango Drink is a non-carbonated, sweet, and refreshing beverage known for its smooth, pulpy texture and consistent mango flavor, famously packaged in convenient Tetra Pak cartons.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/soft_drinks/frooti.avif"
+        "imageUrl": "/images/soft_drinks/frooti.avif"
     },
     {
         "id": "softdrink_12",
@@ -1693,7 +1693,7 @@
         "category": "beverages",
         "subCategory": "Soft Drinks",
         "description": "Slice Mango Drink is a non-carbonated, thick, and pulpy beverage known for its intensely rich and sweet mango flavor, offering a satisfying and indulgent fruit experience.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/soft_drinks/slice.avif"
+        "imageUrl": "/images/soft_drinks/slice.avif"
     },
     {
         "id": "softdrink_13",
@@ -1701,7 +1701,7 @@
         "category": "beverages",
         "subCategory": "Soft Drinks",
         "description": "Appy Fizz is a unique, highly carbonated beverage that combines the crisp, sweet flavor of real apple juice with a lively fizz, making it a refreshing alternative to traditional soft drinks.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/soft_drinks/appy_fizz.avif"
+        "imageUrl": "/images/soft_drinks/appy_fizz.avif"
     },
     {
         "id": "toothpaste_01",
