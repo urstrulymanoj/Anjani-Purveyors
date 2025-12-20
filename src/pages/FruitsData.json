@@ -2693,7 +2693,7 @@
         "category": "bathroom",
         "subCategory": "Toilet Cleaners",
         "description": "An iconic brand and the undisputed market leader in toilet cleaners. Harpic is a staple in most Indian households and is known for its powerful germ-killing formula and effective stain removal.",
-        "imageUrl": "/images/dishwash_supplies/harpic_toilet_cleaner.avif"
+        "imageUrl": "/images/bathroom_supplies/harpic_toilet_cleaner.avif"
     },
     {
         "id": "toilet_cleaner_02",
@@ -2701,7 +2701,7 @@
         "category": "bathroom",
         "subCategory": "Toilet Cleaners",
         "description": "Sanifresh toilet cleaner features an advanced formula that effectively cleans and disinfects your toilet bowl, removing tough stains and leaving it sparkling clean",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/toilet_cleaners/sanifresh_toilet_cleaner.avif"
+        "imageUrl": "/images/bathroom_supplies/sanifresh_toilet_cleaner.avif"
     },
     {
         "id": "toilet_cleaner_03",
@@ -2709,7 +2709,7 @@
         "category": "bathroom",
         "subCategory": "Toilet Cleaners",
         "description": "Domex is a popular choice for its strong cleaning and germ protection properties. This toilet cleaner is known for its thick formula that clings to the toilet surface for a deep clean.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/toilet_cleaners/domex_toilet_cleaner.avif"
+        "imageUrl": "/images/bathroom_supplies/domex_toilet_cleaner.avif"
     },
     {
         "id": "toilet_cleaner_04",
@@ -2717,7 +2717,7 @@
         "category": "bathroom",
         "subCategory": "Toilet Cleaners",
         "description": "Disinfectant Toilet Cleaner and bleach that kills germs. Removes tough stains. leaves the toilet visibly clean. Whitens dull toilet surface.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/toilet_cleaners/savemore_toilet_cleaner.avif"
+        "imageUrl": "/images/bathroom_supplies/savemore_toilet_cleaner.avif"
     },
     {
         "id": "toilet_cleaner_05",
@@ -2725,7 +2725,7 @@
         "category": "bathroom",
         "subCategory": "Toilet Cleaners",
         "description": "Keeps your toilet cleaner cleans 99.99% germs; Tackles tough stains, dirt and bacteria, while eliminating unpleasant odors. Keeps toilet clean and fresh.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/toilet_cleaners/clefill_toilet_cleaner.avif"
+        "imageUrl": "/images/bathroom_supplies/clefill_toilet_cleaner.avif"
     },
     {
         "id": "toilet_cleaner_06",
@@ -2733,7 +2733,7 @@
         "category": "bathroom",
         "subCategory": "Toilet Cleaners",
         "description": "Mr Muscle Citrus Toilet Cleaner is the perfect companion to remove tough stains from your toilet while leaving it sparkling clean.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/toilet_cleaners/mr_muscle_toilet_cleaner.avif"
+        "imageUrl": "/images/bathroom_supplies/mr_muscle_toilet_cleaner.avif"
     },
     {
         "id": "bathroom_cleaner_01",
@@ -2741,7 +2741,7 @@
         "category": "bathroom",
         "subCategory": "Bathroom Cleaners",
         "description": "Harpic, a leader in toilet cleaners, has also entered the bathroom cleaning market. This product is formulated to clean tough bathroom stains like soap scum and hard water marks.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/bathroom_cleaner/harpic_bathroom_cleaner.avif"
+        "imageUrl": "/images/bathroom_supplies/harpic_bathroom_cleaner.avif"
     },
     {
         "id": "bathroom_cleaner_02",
@@ -2749,7 +2749,7 @@
         "category": "bathroom",
         "subCategory": "Bathroom Cleaners",
         "description": "Clefill Disinfectant Bathroom Cleaner is a powerful formula that removes tough stains, eliminates 99.9% of germs, and deodorizes, leaving bathroom surfaces hygienically clean and fresh.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/bathroom_cleaner/clefill_bathroom_cleaner.avif"
+        "imageUrl": "/images/bathroom_supplies/clefill_bathroom_cleaner.avif"
     },
     {
         "id": "bathroom_cleaner_03",
@@ -2757,7 +2757,7 @@
         "category": "bathroom",
         "subCategory": "Bathroom Cleaners",
         "description": "Cif is gaining popularity for its powerful formula that removes soap scum, limescale, and watermarks. It is a go-to for those who want a sparkling and streak-free finish on bathroom surfaces.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/bathroom_cleaner/cif_bathroom_cleaner.avif"
+        "imageUrl": "/images/bathroom_supplies/cif_bathroom_cleaner.avif"
     },
     {
         "id": "bathroom_cleaner_04",
@@ -2765,7 +2765,7 @@
         "category": "bathroom",
         "subCategory": "Bathroom Cleaners",
         "description": "Joff Tab and Shower Cleaner works effectively on soap scum, water stains, and grime. It leaves tiles and fittings shiny with minimal scrubbing.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/bathroom_cleaner/joff_bathroom_cleaner.avif"
+        "imageUrl": "/images/bathroom_supplies/joff_bathroom_cleaner.avif"
     },
     {
         "id": "bathroom_cleaner_05",
@@ -2773,7 +2773,7 @@
         "category": "bathroom",
         "subCategory": "Bathroom Cleaners",
         "description": "Kleenest Zero Bleach Bathroom Cleaner is a powerful yet gentle, bleach-free formula that effectively cuts through soap scum and hard water stains while sanitizing surfaces and leaving a fresh, non-chemical scent.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/bathroom_cleaner/kleenest_bathroom_cleaner.avif"
+        "imageUrl": "/images/bathroom_supplies/kleenest_bathroom_cleaner.avif"
     },
     {
         "id": "floor_cleaner_01",
@@ -2781,7 +2781,7 @@
         "category": "floorcleaners",
         "subCategory": "Floor Cleaners",
         "description": "The most widely used disinfectant floor cleaner in India. Lizol is a household name trusted for killing 99.9% of germs and leaving a fresh fragrance. It's a go-to for daily cleaning and disinfecting floors.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/floor_cleaner/lizol_floor_cleaner.avif"
+        "imageUrl": "/images/floor_cleaners/lizol_floor_cleaner.avif"
     },
     {
         "id": "floor_cleaner_02",
@@ -2789,7 +2789,7 @@
         "category": "floorcleaners",
         "subCategory": "Floor Cleaners",
         "description": "Domex Disinfectant Floor Cleaner can be used to clean ceramic tiles, floorings, and hard floors, leaving everything fresh and sparkling clean.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/floor_cleaner/domex_floor_cleaner.avif"
+        "imageUrl": "/images/floor_cleaners/domex_floor_cleaner.avif"
     },
     {
         "id": "floor_cleaner_03",
@@ -2797,7 +2797,7 @@
         "category": "floorcleaners",
         "subCategory": "Floor Cleaners",
         "description": "A very popular herbal and eco-friendly floor cleaner. Made from natural ingredients like neem, it is a preferred choice for households that want to avoid chemical-based cleaners, especially with kids and pets.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/floor_cleaner/nimyle_floor_cleaner.avif"
+        "imageUrl": "/images/floor_cleaners/nimyle_floor_cleaner.avif"
     },
     {
         "id": "floor_cleaner_04",
@@ -2805,7 +2805,7 @@
         "category": "floorcleaners",
         "subCategory": "Floor Cleaners",
         "description": "Patanjali's floor cleaner has gained popularity for its Ayurvedic and natural composition. It is a cost-effective alternative that appeals to consumers who prefer products with a traditional herbal approach.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/floor_cleaner/patanjali_floor_cleaner.avif"
+        "imageUrl": "/images/floor_cleaners/patanjali_floor_cleaner.avif"
     },
     {
         "id": "floor_cleaner_05",
@@ -2813,7 +2813,7 @@
         "category": "floorcleaners",
         "subCategory": "Floor Cleaners",
         "description": "This floor cleaner penetrates deep into stubborn spills, dried food splatters, and stubborn drink marks, effectively dissolving them from within.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/floor_cleaner/vim_floor_cleaner.avif"
+        "imageUrl": "/images/floor_cleaners/vim_floor_cleaner.avif"
     },
     {
         "id": "floor_cleaner_06",
@@ -2821,7 +2821,7 @@
         "category": "floorcleaners",
         "subCategory": "Floor Cleaners",
         "description": "It helps to remove stains on the floor while leaving it sparkling clean. It helps in giving your home a visibly clean surface.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/floor_cleaner/mr_muscle_floor_cleaner.avif"
+        "imageUrl": "/images/floor_cleaners/mr_muscle_floor_cleaner.avif"
     },
     {
         "id": "floor_cleaner_07",
@@ -2829,7 +2829,7 @@
         "category": "floorcleaners",
         "subCategory": "Floor Cleaners",
         "description": "Roff Cera Clean is a rapid-action cleaner designed for tiles and ceramics. It effectively removes dirt and grime, leaving surfaces spotless.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/floor_cleaner/roff_floor_cleaner.avif"
+        "imageUrl": "/images/floor_cleaners/roff_floor_cleaner.avif"
     },
     {
         "id": "surface_cleaner_01",
@@ -2837,7 +2837,7 @@
         "category": "floorcleaners",
         "subCategory": "Surface Cleaners",
         "description": "An iconic brand for glass and all-purpose surface cleaning. Colin is a must-have in every household for cleaning windows, mirrors, tabletops, and other glass surfaces, leaving them streak-free.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/surface_cleaner/colin_surface_cleaner.avif"
+        "imageUrl": "/images/floor_cleaners/colin_surface_cleaner.avif"
     },
     {
         "id": "surface_cleaner_02",
@@ -2845,7 +2845,7 @@
         "category": "floorcleaners",
         "subCategory": "Surface Cleaners",
         "description": "Get spotless floors with BECO's 1- litre natural floor and surface cleaner,  free from harsh chemicals & gentle on surfaces and skin.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/surface_cleaner/beco_surface_cleaner.avif"
+        "imageUrl": "/images/floor_cleaners/beco_surface_cleaner.avif"
     },
     {
         "id": "surface_cleaner_03",
@@ -2853,7 +2853,7 @@
         "category": "floorcleaners",
         "subCategory": "Surface Cleaners",
         "description": "Gainda ShineX Glass Cleaner is a versatile, quick-drying formula that effortlessly removes dirt and smudges to deliver a crystal-clear, streak-free shine on all glass surfaces.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/surface_cleaner/gainda_surface_cleaner.avif"
+        "imageUrl": "/images/floor_cleaners/gainda_surface_cleaner.avif"
     },
     {
         "id": "surface_cleaner_04",
@@ -2861,7 +2861,7 @@
         "category": "floorcleaners",
         "subCategory": "Surface Cleaners",
         "description": "WD-40 All Purpose Cleaner Spray is a powerful, water-based, non-flammable solution that quickly cuts through grease and grime on metal and equipment, drying fast without leaving any residue.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/surface_cleaner/wd40_surface_cleaner.avif"
+        "imageUrl": "/images/floor_cleaners/wd40_surface_cleaner.avif"
     },
     {
         "id": "room_freshener_01",
@@ -2869,7 +2869,7 @@
         "category": "floorcleaners",
         "subCategory": "Room Freshners",
         "description": "The Godrej Aer Matic is an automatic, battery-operated room freshener dispenser with customizable spray settings, designed to deliver a refreshing and long-lasting fragrance that lasts up to 60 days.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/room_freshner/godrej_room_freshner.avif"
+        "imageUrl": "/images/floor_cleaners/godrej_room_freshner.avif"
     },
     {
         "id": "room_freshener_02",
@@ -2877,7 +2877,7 @@
         "category": "floorcleaners",
         "subCategory": "Room Freshners",
         "description": "The Aer Plug Electric Air Freshener is a compact, plug-in system that offers continuous, adjustable fragrance delivery for up to 60 days using non-spill, oil-based refills.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/room_freshner/aer_plug_room_freshner.avif"
+        "imageUrl": "/images/floor_cleaners/aer_plug_room_freshner.avif"
     },
     {
         "id": "room_freshener_03",
@@ -2885,7 +2885,7 @@
         "category": "floorcleaners",
         "subCategory": "Room Freshners",
         "description": "The Airwick Freshmatic Autospray is a battery-powered automatic air freshener that delivers continuous bursts of fragrance with three adjustable intensity settings, lasting up to 70 days per refill.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/room_freshner/airwick_room_freshner.avif"
+        "imageUrl": "/images/floor_cleaners/airwick_room_freshner.avif"
     },
     {
         "id": "room_freshener_04",
@@ -2893,7 +2893,7 @@
         "category": "floorcleaners",
         "subCategory": "Room Freshners",
         "description": "Ambi Pur Room Freshener Spray uses patented OdourClear technology in a 95% water-based, non-flammable formula to eliminate odors rather than mask them, leaving a long-lasting, fresh scent in any room.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/room_freshner/ambipure_room_freshner_spray.avif"
+        "imageUrl": "/images/floor_cleaners/ambipure_room_freshner_spray.avif"
     },
     {
         "id": "room_freshener_05",
@@ -2901,7 +2901,7 @@
         "category": "floorcleaners",
         "subCategory": "Room Freshners",
         "description": "Odonil Lavender Mist Room Freshener delivers an instant burst of the soothing and calming fragrance of lavender, effectively eliminating odors and freshening any indoor space.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/room_freshner/odonil_room_freshner_spray.avif"
+        "imageUrl": "/images/floor_cleaners/odonil_room_freshner_spray.avif"
     },
     {
         "id": "room_freshener_06",
@@ -2909,7 +2909,7 @@
         "category": "floorcleaners",
         "subCategory": "Room Freshners",
         "description": "Godrej Aer Cool Surf Blue Room Freshener is a clean, ocean-inspired fragrance available in multiple formats (spray, automatic, pocket) that instantly eliminates odors and delivers long-lasting freshness.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/room_freshner/godrej_room_freshner_spray.avif"
+        "imageUrl": "/images/floor_cleaners/godrej_room_freshner_spray.avif"
     },
     {
         "id": "repellent_machine_01",
@@ -2917,7 +2917,7 @@
         "category": "repelents",
         "subCategory": "Machines & Refills",
         "description": "The Good Knight Flash Liquid Vaporiser is an electric mosquito killer machine featuring a dual-mode system with a powerful 'Flash' setting for intensified protection against mosquitoes, lasting up to 45 nights per refill.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/machine_refills/goodknight_machine_refill.avif"
+        "imageUrl": "/images/repelents_disinfectants/goodknight_machine_refill.avif"
     },
     {
         "id": "repellent_machine_02",
@@ -2925,7 +2925,7 @@
         "category": "repelents",
         "subCategory": "Machines & Refills",
         "description": "The Good Knight Flash Liquid Vaporiser Refill contains the specialized mosquito repellent formula designed for the dual-mode machine, providing effective and continuous protection for up to 45 nights.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/machine_refills/goodknight_refill.avif"
+        "imageUrl": "/images/repelents_disinfectants/goodknight_refill.avif"
     },
     {
         "id": "repellent_machine_03",
@@ -2933,7 +2933,7 @@
         "category": "repelents",
         "subCategory": "Machines & Refills",
         "description": "The All Out Ultra Power Liquid Vaporizer is an electric mosquito killer machine featuring an adjustable intensity control to deliver enhanced protection with a stronger 'Ultra Power' mode for effective mosquito control.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/machine_refills/allout_machine_refill.avif"
+        "imageUrl": "/images/repelents_disinfectants/allout_machine_refill.avif"
     },
     {
         "id": "repellent_machine_04",
@@ -2941,7 +2941,7 @@
         "category": "repelents",
         "subCategory": "Machines & Refills",
         "description": "The All Out Ultra Liquid Vaporizer Refill provides up to 45 nights of continuous mosquito repellent action, designed to work seamlessly with the All Out Ultra Power machine's adjustable intensity settings.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/machine_refills/allout_refill.avif"
+        "imageUrl": "/images/repelents_disinfectants/allout_refill.avif"
     },
     {
         "id": "repellent_machine_05",
@@ -2949,7 +2949,7 @@
         "category": "repelents",
         "subCategory": "Machines & Refills",
         "description": "The Hit Spray Matic is an automatic, battery-operated dispenser that releases measured bursts of powerful mosquito repellent at regular intervals, providing continuous protection and lasting up to 8 weeks per refill.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/machine_refills/hit_machine_refill.avif"
+        "imageUrl": "/images/repelents_disinfectants/hit_machine_refill.avif"
     },
     {
         "id": "repellent_machine_06",
@@ -2957,7 +2957,7 @@
         "category": "repelents",
         "subCategory": "Machines & Refills",
         "description": "The Mortein Smart Mosquito Repellent Machine is a liquid vaporizer featuring an Auto/Smart Mode that automatically adjusts repellent intensity based on mosquito density while offering continuous and effective protection.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/machine_refills/mortein_machine_refill.avif"
+        "imageUrl": "/images/repelents_disinfectants/mortein_machine_refill.avif"
     },
     {
         "id": "repellent_machine_07",
@@ -2965,7 +2965,7 @@
         "category": "repelents",
         "subCategory": "Machines & Refills",
         "description": "The Mortein Smart Mosquito Repellent Refill provides continuous, effective mosquito repellent action for up to 45 nights, designed to seamlessly integrate with the Mortein Smart Machine's adjustable modes.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/machine_refills/mortein_refill.avif"
+        "imageUrl": "/images/repelents_disinfectants/mortein_refill.avif"
     },
     {
         "id": "repellent_machine_08",
@@ -2973,7 +2973,7 @@
         "category": "repelents",
         "subCategory": "Machines & Refills",
         "description": "The DND Secure Mosquito Repellent Refill is a liquid vaporizer refill with a strong, fast-action formula designed to provide continuous and effective mosquito protection for up to 45 nights.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/machine_refills/dnd_refill.avif"
+        "imageUrl": "/images/repelents_disinfectants/dnd_refill.avif"
     },
     {
         "id": "repellent_spray_01",
@@ -2981,7 +2981,7 @@
         "category": "repelents",
         "subCategory": "Sprays",
         "description": "All Out All Night is a long-lasting aerosol spray repellent that provides continuous, overnight protection by both killing and repelling mosquitoes and flies.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/repellent_spray/allout_spray.avif"
+        "imageUrl": "/images/repelents_disinfectants/allout_spray.avif"
     },
     {
         "id": "repellent_spray_02",
@@ -2989,7 +2989,7 @@
         "category": "repelents",
         "subCategory": "Sprays",
         "description": "Baygon Max Cockroach Spray is a powerful aerosol solution with a deep-reach nozzle that provides instant knockdown and long-lasting residual action to effectively eliminate cockroaches and other crawling insects.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/repellent_spray/baygon_cockroach_spray.avif"
+        "imageUrl": "/images/repelents_disinfectants/baygon_cockroach_spray.avif"
     },
     {
         "id": "repellent_spray_03",
@@ -2997,7 +2997,7 @@
         "category": "repelents",
         "subCategory": "Sprays",
         "description": "Baygon Fly Lime Scent Mosquito Repellent Spray is an instant-action aerosol solution designed to quickly knockdown and repel both mosquitoes and flies while leaving a fresh lime fragrance.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/repellent_spray/baygon_mosquito_spray.avif"
+        "imageUrl": "/images/repelents_disinfectants/baygon_mosquito_spray.avif"
     },
     {
         "id": "repellent_spray_04",
@@ -3005,7 +3005,7 @@
         "category": "repelents",
         "subCategory": "Sprays",
         "description": "Hit Fresh Fragrance Cockroach Spray is a powerful aerosol killer that provides instant knockdown and long-lasting residual action against cockroaches, featuring a special nozzle and a fresh scent to mask chemical odor.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/repellent_spray/hit_cockroach_spray.avif"
+        "imageUrl": "/images/repelents_disinfectants/hit_cockroach_spray.avif"
     },
     {
         "id": "repellent_spray_05",
@@ -3013,7 +3013,7 @@
         "category": "repelents",
         "subCategory": "Sprays",
         "description": "Hit Spray Flies & Mosquito Repellent Spray is an instant-action aerosol formula designed to quickly knockdown and eliminate both mosquitoes and flies upon contact.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/repellent_spray/hit_mosquito_spray.avif"
+        "imageUrl": "/images/repelents_disinfectants/hit_mosquito_spray.avif"
     },
     {
         "id": "repellent_spray_06",
@@ -3021,7 +3021,7 @@
         "category": "repelents",
         "subCategory": "Sprays",
         "description": "Mortein Cockroach Killer is a powerful aerosol spray equipped with a Deep Reach Nozzle to target and instantly eliminate hidden cockroaches, while leaving a long-lasting residual killing effect.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/repellent_spray/mortein_cockroach_spray.avif"
+        "imageUrl": "/images/repelents_disinfectants/mortein_cockroach_spray.avif"
     },
     {
         "id": "repellent_spray_07",
@@ -3029,7 +3029,7 @@
         "category": "repelents",
         "subCategory": "Sprays",
         "description": "Mortein 2 In 1 Spray is a versatile aerosol insecticide that provides instant knockdown and kill action against both flying pests like mosquitoes and crawling pests like cockroaches.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/repellent_spray/mortein_spray.avif"
+        "imageUrl": "/images/repelents_disinfectants/mortein_spray.avif"
     },
     {
         "id": "repellent_gel_01",
@@ -3037,7 +3037,7 @@
         "category": "repelents",
         "subCategory": "Gels",
         "description": "DND Secure Cockroach Gel is a discreet, odorless bait applied via syringe that creates a domino effect to eliminate entire cockroach colonies, providing long-lasting, mess-free control.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/repellent_gel/dnd_cockroach_gel.avif"
+        "imageUrl": "/images/repelents_disinfectants/dnd_cockroach_gel.avif"
     },
     {
         "id": "repellent_gel_02",
@@ -3045,7 +3045,7 @@
         "category": "repelents",
         "subCategory": "Gels",
         "description": "Hit Cockroach Chalk Repellent is a solid chalk insecticide that creates a powerful, visible barrier line to effectively repel and kill cockroaches and other crawling insects.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/repellent_gel/hit_cockroach_chalk.avif"
+        "imageUrl": "/images/repelents_disinfectants/hit_cockroach_chalk.avif"
     },
     {
         "id": "repellent_gel_03",
@@ -3053,7 +3053,7 @@
         "category": "repelents",
         "subCategory": "Gels",
         "description": "Hit Anti Roach Cockroach Gel is a discreet, odorless, and highly effective bait applied via syringe that triggers a domino effect to kill entire cockroach colonies and provide long-term control.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/repellent_gel/hit_cockroach_gel.avif"
+        "imageUrl": "/images/repelents_disinfectants/hit_cockroach_gel.avif"
     },
     {
         "id": "repellent_gel_04",
@@ -3061,7 +3061,7 @@
         "category": "repelents",
         "subCategory": "Gels",
         "description": "Odomos With Vitamin E Mosquito Repellent Cream is a clinically proven, non-sticky cream that offers up to 8 hours of protection from mosquito bites while keeping the skin nourished and moisturized.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/repellent_gel/odomos_gel.avif"
+        "imageUrl": "/images/repelents_disinfectants/odomos_gel.avif"
     },
     {
         "id": "repellent_gel_05",
@@ -3069,7 +3069,7 @@
         "category": "repelents",
         "subCategory": "Gels",
         "description": "Odomos Fabric Mosquito Repellent Roll On is a convenient, mess-free applicator that creates a long-lasting, invisible shield of protection by applying mosquito repellent directly onto clothing and fabric instead of skin.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/repellent_gel/odomos_rollon.avif"
+        "imageUrl": "/images/repelents_disinfectants/odomos_rollon.avif"
     },
     {
         "id": "repellent_gel_06",
@@ -3077,7 +3077,7 @@
         "category": "repelents",
         "subCategory": "Gels",
         "description": "Good Knight Natural Fabric Roll On is a DEET-free repellent made with 100% natural Citronella and Eucalyptus oils that is rolled onto clothes to provide up to 8 hours of skin-safe mosquito protection.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/repellent_gel/goodknight_rollon.avif"
+        "imageUrl": "/images/repelents_disinfectants/goodknight_rollon.avif"
     },
     {
         "id": "repellent_gel_07",
@@ -3085,7 +3085,7 @@
         "category": "repelents",
         "subCategory": "Gels",
         "description": "Mamaearth Fabric Roll On is a DEET-free, MadeSafe certified, 100% natural mosquito repellent enriched with Citronella and Eucalyptus oil that is rolled onto clothes to provide up to 8 hours of safe protection for babies and children.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/repellent_gel/mamaearth_rollon.avif"
+        "imageUrl": "/images/repelents_disinfectants/mamaearth_rollon.avif"
     },
     {
         "id": "disinfectant_01",
@@ -3093,7 +3093,7 @@
         "category": "repelents",
         "subCategory": "Disinfectants",
         "description": "Dettol Germ Defence Antiseptic Liquid is a concentrated, trusted solution containing Chloroxylenol, widely used for first aid, personal hygiene, and household surface disinfection to protect against germs.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/disinfectant/detol_disinfectant.avif"
+        "imageUrl": "/images/repelents_disinfectants/detol_disinfectant.avif"
     },
     {
         "id": "disinfectant_02",
@@ -3101,7 +3101,7 @@
         "category": "repelents",
         "subCategory": "Disinfectants",
         "description": "Lizol Shakti Disinfectant Floor Cleaner is a powerful concentrated solution that kills 99.9% of germs while cutting through tough stains, leaving floors sparkling clean and infused with a strong, lasting fragrance.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/disinfectant/lizol_disinfectant.avif"
+        "imageUrl": "/images/repelents_disinfectants/lizol_disinfectant.avif"
     },
     {
         "id": "disinfectant_03",
@@ -3109,7 +3109,7 @@
         "category": "repelents",
         "subCategory": "Disinfectants",
         "description": "Savlon Disinfectant Antiseptic Liquid is a concentrated solution containing Cetrimide and Chlorhexidine that is gentle on wounds yet effectively kills germs for first aid, bathing, and household disinfection.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/disinfectant/savlon_disinfectant.avif"
+        "imageUrl": "/images/repelents_disinfectants/savlon_disinfectant.avif"
     },
     {
         "id": "disinfectant_04",
@@ -3117,7 +3117,7 @@
         "category": "repelents",
         "subCategory": "Disinfectants",
         "description": "Niks Premium White Phenyl is a powerful, pine-scented floor cleaner that forms a thick white emulsion, providing effective germicidal action and leaving a strong, lingering fresh fragrance.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/disinfectant/niks_phenyl.avif"
+        "imageUrl": "/images/repelents_disinfectants/niks_phenyl.avif"
     },
     {
         "id": "disinfectant_05",
@@ -3125,6 +3125,6 @@
         "category": "repelents",
         "subCategory": "Disinfectants",
         "description": "SaveMore Pine Phenyl Liquid is an economical and powerful concentrated disinfectant that creates a milky white emulsion and releases a strong, fresh pine scent while effectively killing floor germs.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/disinfectant/savemore_phenyl.avif"
+        "imageUrl": "/images/repelents_disinfectants/savemore_phenyl.avif"
     }
 ]
