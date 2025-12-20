@@ -5,7 +5,7 @@
         "category": "fruits",
         "subCategory": "Fresh Fruits",
         "description": "Crisp and juicy Red Delicious apples, perfect for a healthy snack or baking.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/fruits/apple.png"
+        "imageUrl": "/images/apples.avif"
     },
     {
         "id": "fruit0002",
@@ -13,7 +13,7 @@
         "category": "fruits",
         "subCategory": "Fresh Fruits",
         "description": "Sweet, organic bananas, a great source of potassium and energy.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/fruits/banana.png"
+        "imageUrl": "/images/bananas.avif"
     },
     {
         "id": "fruit0003",
