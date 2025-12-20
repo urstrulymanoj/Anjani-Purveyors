@@ -1709,7 +1709,7 @@
         "category": "oral",
         "subCategory": "Toothpaste",
         "description": "A popular all-in-one toothpaste that provides 12-hour protection against germs. It is known for its comprehensive benefits, including fighting cavities, plaque, and gingivitis, and for its freshness.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/oralcare/colgate_strong_teeth.png"
+        "imageUrl": "/images/oralcare/colgate_strong_teeth.avif"
     },
     {
         "id": "toothpaste_02",
@@ -1717,7 +1717,7 @@
         "category": "oral",
         "subCategory": "Toothpaste",
         "description": "A very common and trusted Ayurvedic toothpaste known for its blend of traditional ingredients like clove, mint, and black pepper. It is popular for providing a natural and holistic approach to oral hygiene.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/oralcare/dabur_red.png"
+        "imageUrl": "/images/oralcare/dabur_red.avif"
     },
     {
         "id": "toothpaste_03",
@@ -1725,7 +1725,7 @@
         "category": "oral",
         "subCategory": "Toothpaste",
         "description": "A widely used toothpaste from Hindustan Unilever, marketed for its 12-hour germ protection. It is a family favorite for its strong focus on preventing cavities and promoting oral health.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/oralcare/pepsodent_germicheck.png"
+        "imageUrl": "/images/oralcare/pepsodent_germicheck.avif"
     },
     {
         "id": "toothpaste_04",
@@ -1733,7 +1733,7 @@
         "category": "oral",
         "subCategory": "Toothpaste",
         "description": "A dentist-recommended toothpaste specifically formulated for sensitive teeth. It works by either soothing the nerves or building a protective barrier to provide relief from sensitivity.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/oralcare/sensodyne_toothpaste.png"
+        "imageUrl": "/images/oralcare/sensodyne_toothpaste.avif"
     },
     {
         "id": "toothpaste_05",
@@ -1741,7 +1741,7 @@
         "category": "oral",
         "subCategory": "Toothpaste",
         "description": "A popular herbal toothpaste that combines the power of natural ingredients like Neem and Miswak to fight germs and strengthen gums. It is a preferred choice for consumers seeking natural oral care solutions.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/oralcare/himalaya_herbals_toothpaste.png"
+        "imageUrl": "/images/oralcare/himalaya_herbals_toothpaste.avif"
     },
     {
         "id": "toothpaste_06",
@@ -1749,7 +1749,7 @@
         "category": "oral",
         "subCategory": "Toothpaste",
         "description": "India's first gel-based toothpaste, known for its mouthwash-like freshness and whitening properties. Its bright color and strong flavor have made it a favorite among the youth.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/oralcare/closeup_toothpaste.png"
+        "imageUrl": "/images/oralcare/closeup_toothpaste.avif"
     },
     {
         "id": "toothpaste_07",
@@ -1757,7 +1757,7 @@
         "category": "oral",
         "subCategory": "Toothpaste",
         "description": "An all-natural, Ayurvedic toothpaste and tooth powder brand that has been a part of Indian households for decades. It is known for its traditional herbal formulation, which promotes strong gums and healthy teeth.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/oralcare/vicco_vajradanti_toothpaste.png"
+        "imageUrl": "/images/oralcare/vicco_vajradanti_toothpaste.avif"
     },
     {
         "id": "toothpaste_08",
@@ -1765,7 +1765,7 @@
         "category": "oral",
         "subCategory": "Toothpaste",
         "description": "A highly popular herbal toothpaste from Patanjali, which gained a strong market share with its affordable price and natural ingredients. It is a well-known name in the herbal oral care segment.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/oralcare/patanjali_dant_kanti.png"
+        "imageUrl": "/images/oralcare/patanjali_dant_kanti.avif"
     },
     {
         "id": "toothpaste_09",
@@ -1773,7 +1773,7 @@
         "category": "oral",
         "subCategory": "Toothpaste",
         "description": "This toothpaste is made with extracts from the Meswak plant, which is traditionally known for its dental care properties. It is marketed for its ability to fight plaque and give a fresh breath.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/oralcare/dabur_meswak.png"
+        "imageUrl": "/images/oralcare/dabur_meswak.avif"
     },
     {
         "id": "toothpaste_10",
@@ -1781,7 +1781,7 @@
         "category": "oral",
         "subCategory": "Toothpaste",
         "description": "A variant from mama earth for kids.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/oralcare/mama_earth_kids.png"
+        "imageUrl": "/images/oralcare/mama_earth_kids.avif"
     },
     {
         "id": "mouthwash_01",
@@ -1789,7 +1789,7 @@
         "category": "oral",
         "subCategory": "Mouthwash",
         "description": "A globally recognized brand and a market leader in India. Listerine is known for its strong, antiseptic properties that kill germs and provide long-lasting fresh breath. It comes in various flavors like Cool Mint and Fresh Burst.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/oralcare/listrine_mouthwash.png"
+        "imageUrl": "/images/oralcare/listrine_mouthwash.avif"
     },
     {
         "id": "mouthwash_02",
@@ -1797,7 +1797,7 @@
         "category": "oral",
         "subCategory": "Mouthwash",
         "description": "Colgate's popular mouthwash offering, known for its antibacterial formula that provides germ protection and fresh breath. It is a common choice for daily oral hygiene routines.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/oralcare/colgate_maxfresh_mouthwash.png"
+        "imageUrl": "/images/oralcare/colgate_maxfresh_mouthwash.avif"
     },
     {
         "id": "mouthwash_03",
@@ -1805,7 +1805,7 @@
         "category": "oral",
         "subCategory": "Mouthwash",
         "description": "A popular herbal mouthwash that is alcohol-free and fluoride-free. It is made with natural ingredients like fennel and mint to provide a refreshing and natural oral rinse.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/oralcare/perfora_mouthwash.png"
+        "imageUrl": "/images/oralcare/perfora_mouthwash.avif"
     },
     {
         "id": "mouthwash_04",
@@ -1813,15 +1813,7 @@
         "category": "oral",
         "subCategory": "Mouthwash",
         "description": "A mouthwash designed for sensitive teeth and gums. It is part of the Sensodyne family of products and offers a gentle yet effective way to protect against sensitivity and provide a clean feel.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/oralcare/sensodyne_complete_protection.png"
-    },
-    {
-        "id": "mouthwash_05",
-        "name": "Habbits Mouth Wash",
-        "category": "oral",
-        "subCategory": "Mouthwash",
-        "description": "Alcohol free mouth wash from Habits for advanced stain removal, cavity protection, removes plaque, refreshing taste",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/oralcare/habbits_mouthwash.png"
+        "imageUrl": "/images/oralcare/sensodyne_complete_protection.avif"
     },
     {
         "id": "normal_soap_01",
@@ -1829,7 +1821,7 @@
         "category": "soaps",
         "subCategory": "Normal Soap",
         "description": "A classic beauty soap known for its pleasant fragrances and creamy lather. It is a long-standing favorite, often associated with a touch of luxury at an affordable price, and is a staple in many Indian homes.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/soaps/lux_soap.png"
+        "imageUrl": "/images/soaps/lux_soap.avif"
     },
     {
         "id": "normal_soap_02",
@@ -1837,7 +1829,7 @@
         "category": "soaps",
         "subCategory": "Normal Soap",
         "description": "Lemony deo fragrance, suitable for all skin types, grade 1 bathing soap, 99.9% germ protection",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/soaps/cinthol_soap.png"
+        "imageUrl": "/images/soaps/cinthol_soap.avif"
     },
     {
         "id": "normal_soap_03",
@@ -1845,7 +1837,7 @@
         "category": "soaps",
         "subCategory": "Normal Soap",
         "description": "A well-known antiseptic soap, Dettol is a household name for its germ-killing properties. It's often used for a sense of deep cleansing and protection against illness-causing germs.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/soaps/detol_soap.png"
+        "imageUrl": "/images/soaps/detol_soap.avif"
     },
     {
         "id": "normal_soap_04",
@@ -1853,7 +1845,7 @@
         "category": "soaps",
         "subCategory": "Normal Soap",
         "description": "Marketed as a 'beauty bar' rather than a soap, Dove is celebrated for its moisturizing properties. It is a go-to for people with dry or sensitive skin due to its quarter moisturizing cream content.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/soaps/dove_soap.png"
+        "imageUrl": "/images/soaps/dove_soap.avif"
     },
     {
         "id": "normal_soap_05",
@@ -1861,7 +1853,7 @@
         "category": "soaps",
         "subCategory": "Normal Soap",
         "description": "Known for its translucent, glycerin-based formula, Pears is a gentle soap that is easy on the skin. It is a classic choice for maintaining skin's moisture and is widely used across all age groups.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/soaps/pears_soap.png"
+        "imageUrl": "/images/soaps/pears_soap.avif"
     },
     {
         "id": "normal_soap_06",
@@ -1869,7 +1861,7 @@
         "category": "soaps",
         "subCategory": "Normal Soap",
         "description": "High TFM for healthy skin, contains natural oils, moisturizes and nourishes, long-lasting refreshing fragrance",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/soaps/godrej_no_one_soap.png"
+        "imageUrl": "/images/soaps/godrej_no_one_soap.avif"
     },
     {
         "id": "herbal_soap_01",
@@ -1877,7 +1869,7 @@
         "category": "soaps",
         "subCategory": "Herbal Soaps",
         "description": "Cooling mint formula for fresh skin, Provides 99.9% germ protection, Deep nourishment for soft skin",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/soaps/vivel_soap.png"
+        "imageUrl": "/images/soaps/vivel_soap.avif"
     },
     {
         "id": "herbal_soap_02",
@@ -1885,7 +1877,7 @@
         "category": "soaps",
         "subCategory": "Herbal Soaps",
         "description": "Santoor is a household favorite known for its core ingredients of sandalwood and turmeric. It is widely used by women and is often marketed with the promise of youthful, glowing skin.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/soaps/santoor_soap.png"
+        "imageUrl": "/images/soaps/santoor_soap.avif"
     },
     {
         "id": "herbal_soap_03",
@@ -1893,7 +1885,7 @@
         "category": "soaps",
         "subCategory": "Herbal Soaps",
         "description": "This soap from Himalaya is known for its antibacterial and antifungal properties. It is a popular choice for those with oily or acne-prone skin, combining traditional Ayurvedic ingredients.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/soaps/himalaya_soap.png"
+        "imageUrl": "/images/soaps/himalaya_soap.avif"
     },
     {
         "id": "herbal_soap_04",
@@ -1901,7 +1893,7 @@
         "category": "soaps",
         "subCategory": "Herbal Soaps",
         "description": "An iconic Indian brand, this soap is made from 100% pure sandalwood oil, which gives it a luxurious and distinct fragrance. It has been a symbol of tradition and quality for over a century.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/soaps/mysore_soap.png"
+        "imageUrl": "/images/soaps/mysore_soap.avif"
     },
     {
         "id": "herbal_soap_05",
@@ -1909,7 +1901,7 @@
         "category": "soaps",
         "subCategory": "Herbal Soaps",
         "description": "Margo is an old and trusted brand whose main ingredient is Neem, known for its powerful antibacterial and medicinal properties. It is widely used for protecting skin from germs and various skin problems.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/soaps/margo_soap.png"
+        "imageUrl": "/images/soaps/margo_soap.avif"
     },
     {
         "id": "baby_soap_01",
@@ -1917,7 +1909,7 @@
         "category": "soaps",
         "subCategory": "Baby Soaps",
         "description": "A globally recognized and trusted brand for baby care in India. Its soap is known for being mild and gentle, with a familiar, pleasant fragrance that has been a part of baby bathing rituals for generations.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/soaps/johnsons_baby_soap.png"
+        "imageUrl": "/images/soaps/johnsons_baby_soap.avif"
     },
     {
         "id": "baby_soap_02",
@@ -1925,7 +1917,7 @@
         "category": "soaps",
         "subCategory": "Baby Soaps",
         "description": "Made with herbal ingredients like olive oil and almond oil, this soap is known for its mildness. It is a popular choice for parents looking for a soap that is free from parabens, SLES, and synthetic colors.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/soaps/himalaya_gentle_baby_soap.png"
+        "imageUrl": "/images/soaps/himalaya_gentle_baby_soap.avif"
     },
     {
         "id": "baby_soap_03",
@@ -1933,7 +1925,7 @@
         "category": "soaps",
         "subCategory": "Baby Soaps",
         "description": "A baby-specific product from the Dove brand, it is known for its moisturizing formula. It is often recommended for babies with sensitive skin as it helps retain natural skin moisture.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/soaps/mama_earth_baby_soap.png"
+        "imageUrl": "/images/soaps/mama_earth_baby_soap.avif"
     },
     {
         "id": "baby_soap_04",
@@ -1941,7 +1933,7 @@
         "category": "soaps",
         "subCategory": "Baby Soaps",
         "description": "A popular choice for its soap-free, pH 5.5 formula, which is ideal for a baby's delicate skin. It is recommended by dermatologists for its ability to maintain the skin's natural protective layer.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/soaps/sebamed_baby_soap.png"
+        "imageUrl": "/images/soaps/sebamed_baby_soap.avif"
     },
     {
         "id": "baby_soap_05",
@@ -1949,7 +1941,7 @@
         "category": "soaps",
         "subCategory": "Baby Soaps",
         "description": "Enriched with shea butter, olive, and avocado oil, Paraben-free and hypoallergenic, Baby skin friendly pH of 5.5, Dermatologically tested for safety",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/soaps/citaphil_baby_soap.png"
+        "imageUrl": "/images/soaps/citaphil_baby_soap.avif"
     },
     {
         "id": "shower_gel_01",
@@ -1957,7 +1949,7 @@
         "category": "soaps",
         "subCategory": "Shower Gels",
         "description": "Pears extended its soap popularity into shower gels, offering a gentle, glycerin-based formula that is mild on the skin and helps maintain its moisture, providing a similar experience to its soap bar.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/soaps/pears_shower_gel.png"
+        "imageUrl": "/images/soaps/pears_shower_gel.avif"
     },
     {
         "id": "shower_gel_02",
@@ -1965,7 +1957,7 @@
         "category": "soaps",
         "subCategory": "Shower Gels",
         "description": "One of the most used body washes, it is known for its NutriumMoisture technology that helps nourish the skin while cleansing, making it a favorite for those with dry skin.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/soaps/dove_body_wash.png"
+        "imageUrl": "/images/soaps/dove_body_wash.avif"
     },
     {
         "id": "shower_gel_03",
@@ -1973,7 +1965,7 @@
         "category": "soaps",
         "subCategory": "Shower Gels",
         "description": "Nivea offers a wide variety of shower gels, known for their creamy texture and pleasant fragrances. They are a popular choice for their moisturizing properties and a refreshing bathing experience.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/soaps/nivea_shower_gels.png"
+        "imageUrl": "/images/soaps/nivea_shower_gels.avif"
     },
     {
         "id": "shower_gel_04",
@@ -1981,7 +1973,7 @@
         "category": "soaps",
         "subCategory": "Shower Gels",
         "description": "Mirroring its soap line, Lux offers body washes with rich scents and a luxurious feel. The gels are designed to provide a perfumed, indulgent bathing experience that leaves the skin feeling soft.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/soaps/lux_body_wash.png"
+        "imageUrl": "/images/soaps/lux_body_wash.avif"
     },
     {
         "id": "shower_gel_05",
@@ -1989,7 +1981,7 @@
         "category": "soaps",
         "subCategory": "Shower Gels",
         "description": "Known for its unique gel-based formula, Fiama's shower gels offer a light, bubbly lather. They are popular for their vibrant colors, fresh fragrances, and a refreshing feel on the skin.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/soaps/fiama_shower_gel.png"
+        "imageUrl": "/images/soaps/fiama_shower_gel.avif"
     },
     {
         "id": "handwash_01",
@@ -1997,7 +1989,7 @@
         "category": "handwash",
         "subCategory": "Liquid Handwash",
         "description": "Classic, trusted formula with the signature pine fragrance. 10x better germ protection; protects against 100 illness-causing germs.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/handwash/dettol_handwash.png"
+        "imageUrl": "/images/handwash/dettol_handwash.avif"
     },
     {
         "id": "handwash_02",
@@ -2005,7 +1997,7 @@
         "category": "handwash",
         "subCategory": "Liquid Handwash",
         "description": "Known for its 'Activ Silver Formula,' Lifebuoy is a popular and affordable option for germ protection. It is especially common in households with children due to its strong anti-bacterial properties.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/handwash/lifebouy_handwash.png"
+        "imageUrl": "/images/handwash/lifebouy_handwash.avif"
     },
     {
         "id": "handwash_03",
@@ -2013,7 +2005,7 @@
         "category": "handwash",
         "subCategory": "Liquid Handwash",
         "description": "A well-known antiseptic brand, Savlon's handwash is a strong competitor in the hygiene segment. It's often chosen for its germ-killing efficacy and gentle, moisturizing formula.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/handwash/savlon_handwash.png"
+        "imageUrl": "/images/handwash/savlon_handwash.avif"
     },
     {
         "id": "handwash_04",
@@ -2021,7 +2013,7 @@
         "category": "handwash",
         "subCategory": "Liquid Handwash",
         "description": "This handwash is known for being a natural, eco-friendly option that is free of harmful chemicals. It is a popular choice for families looking for a handwash that is gentle on the skin but tough on germs.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/handwash/godrej_protek_handwash.png"
+        "imageUrl": "/images/handwash/godrej_protek_handwash.avif"
     },
     {
         "id": "handwash_05",
@@ -2029,7 +2021,7 @@
         "category": "handwash",
         "subCategory": "Liquid Handwash",
         "description": "Santoor is a popular brand, particularly known for its sandalwood and turmeric variants. Its handwashes are valued for their pleasant fragrances and moisturizing properties, making handwashing a more pleasant experience.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/handwash/santoor_handwash.png"
+        "imageUrl": "/images/handwash/santoor_handwash.avif"
     },
     {
         "id": "handwash_06",
@@ -2037,7 +2029,7 @@
         "category": "handwash",
         "subCategory": "Herbal Handwash",
         "description": "Patanjali Anti Bacterial Herbal Hand Wash is an Ayurvedic formulation that provides effective anti-bacterial protection using natural extracts like Neem, Tulsi, and Turmeric while keeping hands soft with Aloe Vera.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/handwash/patanjali_handwash.png"
+        "imageUrl": "/images/handwash/patanjali_handwash.avif"
     },
     {
         "id": "handwash_07",
@@ -2045,7 +2037,7 @@
         "category": "handwash",
         "subCategory": "Liquid Handwash",
         "description": "Palmolive offers a range of handwashes with pleasant fragrances and a focus on moisturization. The 'Naturals' line, with ingredients like milk and floral extracts, is popular for its gentle formula.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/handwash/palmolive_handwash.png"
+        "imageUrl": "/images/handwash/palmolive_handwash.avif"
     },
     {
         "id": "handwash_08",
@@ -2053,7 +2045,7 @@
         "category": "handwash",
         "subCategory": "Herbal Handwash",
         "description": "Dabur Fem Handwash is a soft and safe formula enriched with natural skin conditioners like coconut milk and glycerin, designed to remove 99.9% of germs while keeping hands moisturized and pH-balanced.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/handwash/dabur_fem_handwash.png"
+        "imageUrl": "/images/handwash/dabur_fem_handwash.avif"
     },
     {
         "id": "handwash_09",
@@ -2061,7 +2053,7 @@
         "category": "handwash",
         "subCategory": "Liquid Handwash",
         "description": "Known for its unique gel-based formula and attractive packaging, Fiama handwash is a popular choice among the youth. It focuses on providing a refreshing and scented handwashing experience.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/handwash/fiama_handwash.png"
+        "imageUrl": "/images/handwash/fiama_handwash.avif"
     },
     {
         "id": "handwash_10",
@@ -2069,7 +2061,7 @@
         "category": "handwash",
         "subCategory": "Liquid Handwash",
         "description": "Kimirica Bouquet Hand Wash is a luxurious, vegan, and non-drying cleanser infused with the captivating scent of Frangipani and Rose, enriched with Aloe Vera and Olive Oil to leave hands clean, soft, and elegantly fragrant.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/handwash/kimirica_handwash.png"
+        "imageUrl": "/images/handwash/kimirica_handwash.avif"
     },
     {
         "id": "sanitizer_01",
@@ -2077,7 +2069,7 @@
         "category": "handwash",
         "subCategory": "Hand Sanitizer",
         "description": "One of the most trusted and widely available sanitizers in India. It is known for its high alcohol content and fast-acting germ-killing formula, often used for on-the-go protection.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/handwash/dettol_sanitizer.png"
+        "imageUrl": "/images/handwash/dettol_sanitizer.avif"
     },
     {
         "id": "sanitizer_02",
@@ -2085,7 +2077,7 @@
         "category": "handwash",
         "subCategory": "Hand Sanitizer",
         "description": "QUARANT Instant Hand Sanitizer is a high-efficacy, non-sticky, and rinse-free solution featuring the WHO-recommended 80% alcohol formula to kill 99.95% of germs while moisturizing skin with Glycerine.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/handwash/quarant_sanitizer.png"
+        "imageUrl": "/images/handwash/quarant_sanitizer.avif"
     },
     {
         "id": "sanitizer_03",
@@ -2093,7 +2085,7 @@
         "category": "handwash",
         "subCategory": "Hand Sanitizer",
         "description": "Pearldew Spray Hand Sanitizer is a quick-drying, non-sticky, fine-mist solution that instantly kills 99.9% of germs while moisturizing and conditioning hands with Aloe Vera and Vitamin E.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/handwash/pearldrew_sanitizer.png"
+        "imageUrl": "/images/handwash/pearldrew_sanitizer.avif"
     },
     {
         "id": "moisturizer_01",
@@ -2101,7 +2093,7 @@
         "category": "lotions",
         "subCategory": "Moisturizers",
         "description": "A very popular and trusted moisturizer known for its non-greasy formula. It is infused with Vitamin E and Jojoba Oil, making it a go-to choice for all skin types and for daily use, especially during the summer.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/lotions/nivea_body_lotion.png"
+        "imageUrl": "/images/lotions/nivea_body_lotion.png"
     },
     {
         "id": "moisturizer_02",
