@@ -21,7 +21,7 @@
         "category": "fruits",
         "subCategory": "Fresh Fruits",
         "description": "Sweet and tangy oranges, packed with Vitamin C. Great for juicing or eating whole.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/fruits/orange.png"
+        "imageUrl": "/images/fruits/oranges.avif"
     },
     {
         "id": "fruit0004",
@@ -29,7 +29,7 @@
         "category": "fruits",
         "subCategory": "Fresh Fruits",
         "description": "Seedless green grapes that are crisp, sweet, and incredibly refreshing.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/fruits/grape.png"
+        "imageUrl": "/images/fruits/grapes.avif"
     },
     {
         "id": "fruit0005",
@@ -37,7 +37,7 @@
         "category": "fruits",
         "subCategory": "Fresh Fruits",
         "description": "Juicy and sweet strawberries, ideal for snacking and decorating.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/fruits/strawberry.png"
+        "imageUrl": "/images/fruits/strawberries.avif"
     },
     {
         "id": "fruit0006",
@@ -45,7 +45,7 @@
         "category": "fruits",
         "subCategory": "Fresh Fruits",
         "description": "Juicy and tangy pineapple, great for a tropical treat or to add to savory dishes.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/fruits/pineapple.png"
+        "imageUrl": "/images/fruits/pineapples.avif"
     },
     {
         "id": "fruit0008",
@@ -53,7 +53,7 @@
         "category": "fruits",
         "subCategory": "Fresh Fruits",
         "description": "Refreshing and hydrating watermelon, a perfect treat for a hot day.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/fruits/watermelon.png"
+        "imageUrl": "/images/fruits/watermelons.avif"
     },
     {
         "id": "fruit0009",
@@ -61,7 +61,7 @@
         "category": "fruits",
         "subCategory": "Fresh Fruits",
         "description": "Sweet and succulent mangoes, perfect for smoothies and desserts.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/fruits/mango.png"
+        "imageUrl": "/images/fruits/mangoes.png"
     },
     {
         "id": "fruit0010",
@@ -69,7 +69,7 @@
         "category": "fruits",
         "subCategory": "Fresh Fruits",
         "description": "Sweet and juicy red cherries, excellent for snacking or as a garnish.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/fruits/cherry.png"
+        "imageUrl": "/images/fruits/cherries.png"
     },
     {
         "id": "fruit0011",
@@ -77,7 +77,7 @@
         "category": "fruits",
         "subCategory": "Fresh Fruits",
         "description": "A visually stunning fruit with a mildly sweet flavor, often described as a mix between a pear and a kiwi.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/fruits/dragon_fruit.png"
+        "imageUrl": "/images/fruits/dragon_fruit.avif"
     },
     {
         "id": "fruit0012",
@@ -85,7 +85,7 @@
         "category": "fruits",
         "subCategory": "Exotic Fruits",
         "description": "A wrinkly, purple fruit with a tangy and sweet pulp full of edible seeds.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/fruits/persimmon.png"
+        "imageUrl": "/images/fruits/persimmon.avif"
     },
     {
         "id": "fruit0013",
@@ -93,7 +93,7 @@
         "category": "fruits",
         "subCategory": "Exotic Fruits",
         "description": "A small, round fruit with a red, textured rind and a sweet, fragrant, and slightly floral white flesh.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/fruits/blue_berry.png"
+        "imageUrl": "/images/fruits/blueberries.avif"
     },
     {
         "id": "fruit0014",
@@ -101,7 +101,7 @@
         "category": "fruits",
         "subCategory": "Exotic Fruits",
         "description": "A nutrient-dense fruit with a unique sweet and tart flavor and vibrant green flesh with small black seeds.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/fruits/kiwi.png"
+        "imageUrl": "/images/fruits/kiwi.avif"
     },
     {
         "id": "fruit0015",
@@ -109,7 +109,7 @@
         "category": "fruits",
         "subCategory": "Exotic Fruits",
         "description": "A tropical fruit with a sweet taste, a strong scent, and a pink or white pulp with small seeds.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/fruits/guava.png"
+        "imageUrl": "/images/fruits/guava.avif"
     },
     {
         "id": "fruit0016",
@@ -117,7 +117,7 @@
         "category": "fruits",
         "subCategory": "Exotic Fruits",
         "description": "A beautiful fruit with a distinctive five-point shape when sliced. It has a slightly sour flavor.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/fruits/custard_apple.png"
+        "imageUrl": "/images/fruits/custard_apple.avif"
     },
     {
         "id": "fruit0017",
@@ -125,7 +125,7 @@
         "category": "fruits",
         "subCategory": "Exotic Fruits",
         "description": "An ancient fruit with a hard exterior and hundreds of juicy, gem-like arils filled with sweet and tart juice.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/fruits/pomegranate.png"
+        "imageUrl": "/images/fruits/pomegranate.avif"
     },
     {
         "id": "fruit0018",
@@ -133,7 +133,7 @@
         "category": "fruits",
         "subCategory": "Exotic Fruits",
         "description": "A soft, pear-shaped fruit with a sweet, jam-like texture and a unique flavor.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/fruits/fig.png"
+        "imageUrl": "/images/fruits/figs.png"
     },
     {
         "id": "fruit0019",
@@ -141,7 +141,7 @@
         "category": "fruits",
         "subCategory": "Exotic Fruits",
         "description": "A fruit with a hairy, red exterior and a sweet, translucent flesh similar to lychee.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/fruits/rambutan.png"
+        "imageUrl": "/images/fruits/rambutan.png"
     },
     {
         "id": "fruit0020",
@@ -149,7 +149,7 @@
         "category": "fruits",
         "subCategory": "Exotic Fruits",
         "description": "Known as the 'king of fruits,' it has a pungent odor and a creamy, rich texture.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/fruits/lychee.png"
+        "imageUrl": "/images/fruits/lychee.png"
     },
     {
         "id": "fruit0021",
@@ -157,7 +157,7 @@
         "category": "fruits",
         "subCategory": "Dry Fruits",
         "description": "Crunchy and nutrient-rich almonds, perfect for snacking or as a healthy addition to meals.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/fruits/almond.png"
+        "imageUrl": "/images/fruits/almond.png"
     },
     {
         "id": "fruit0022",
@@ -165,7 +165,7 @@
         "category": "fruits",
         "subCategory": "Dry Fruits",
         "description": "Heart-healthy walnuts with a rich, earthy flavor. Great for baking or as a topping for salads.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/fruits/walnut.png"
+        "imageUrl": "/images/fruits/walnuts.png"
     },
     {
         "id": "fruit0023",
@@ -173,7 +173,7 @@
         "category": "fruits",
         "subCategory": "Dry Fruits",
         "description": "Creamy cashews with a delicate flavor, perfect for snacking and adding to curries.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/fruits/cashew.png"
+        "imageUrl": "/images/fruits/cashew.png"
     },
     {
         "id": "fruit0024",
@@ -181,7 +181,7 @@
         "category": "fruits",
         "subCategory": "Dry Fruits",
         "description": "Salty and delicious pistachios, a satisfying snack with a distinct green hue.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/fruits/pistachiow.png"
+        "imageUrl": "/images/fruits/pistachio.png"
     },
     {
         "id": "fruit0025",
@@ -189,7 +189,7 @@
         "category": "fruits",
         "subCategory": "Dry Fruits",
         "description": "Sweet and chewy dried apricots, a great source of fiber and vitamin A.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/fruits/dried_apricot.png"
+        "imageUrl": "/images/fruits/dried_apricots.png"
     },
     {
         "id": "fruit0026",
@@ -197,7 +197,7 @@
         "category": "fruits",
         "subCategory": "Dry Fruits",
         "description": "Naturally sweet dried grapes, perfect for baking or a quick energy boost.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/fruits/raisin.png"
+        "imageUrl": "/images/fruits/raisins.png"
     },
     {
         "id": "fruit0027",
@@ -205,7 +205,7 @@
         "category": "fruits",
         "subCategory": "Dry Fruits",
         "description": "Sweet, chewy dates, a natural sweetener and a great source of iron and potassium.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/fruits/date.png"
+        "imageUrl": "/images/fruits/dates.png"
     },
     {
         "id": "fruit0028",
@@ -213,7 +213,7 @@
         "category": "fruits",
         "subCategory": "Dry Fruits",
         "description": "Soft and sweet dried figs, a classic dry fruit with a jam-like texture.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/fruits/dried_fig.png"
+        "imageUrl": "/images/fruits/dried_fig.png"
     },
     {
         "id": "fruit0029",
@@ -221,7 +221,7 @@
         "category": "fruits",
         "subCategory": "Dry Fruits",
         "description": "Tart and tangy dried cranberries, a perfect addition to trail mix and baked goods.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/fruits/dried_cranberry.png"
+        "imageUrl": "/images/fruits/dried_cranberries.png"
     },
     {
         "id": "fruit0030",
@@ -229,7 +229,7 @@
         "category": "fruits",
         "subCategory": "Dry Fruits",
         "description": "Nutty and aromatic hazelnuts, often used in desserts and confections.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/fruits/hazelnut.png"
+        "imageUrl": "/images/fruits/hazelnuts.png"
     },
     {
         "id": "veges0001",
@@ -237,7 +237,7 @@
         "category": "fruits",
         "subCategory": "Fresh Vegetables",
         "description": "A foundational ingredient in most Indian curries and gravies, providing a pungent and savory base.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/vegetables/onion.png"
+        "imageUrl": "/images/vegetables/onions.avif"
     },
     {
         "id": "veges0002",
@@ -245,7 +245,7 @@
         "category": "fruits",
         "subCategory": "Fresh Vegetables",
         "description": "Adds a tangy and slightly sweet flavor to a variety of dishes, from curries to salads.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/vegetables/tomato.png"
+        "imageUrl": "/images/vegetables/tomatoes.avif"
     },
     {
         "id": "veges0003",
@@ -253,7 +253,7 @@
         "category": "fruits",
         "subCategory": "Fresh Vegetables",
         "description": "A versatile and widely-used vegetable, forming the base of many popular dishes like aloo gobi and aloo mutter.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/vegetables/potato.png"
+        "imageUrl": "/images/vegetables/potatoes.avif"
     },
     {
         "id": "veges0004",
@@ -261,7 +261,7 @@
         "category": "fruits",
         "subCategory": "Fresh Vegetables",
         "description": "Known for its tender florets, it is a key ingredient in 'Gobi Paratha' and the classic 'Aloo Gobi' dish.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/vegetables/cauliflower.png"
+        "imageUrl": "/images/vegetables/cauliflower.avif"
     },
     {
         "id": "veges0005",
@@ -269,7 +269,7 @@
         "category": "fruits",
         "subCategory": "Fresh Vegetables",
         "description": "A crunchy vegetable used in stir-fries, curries, and salads. It is also the main ingredient in 'Patta Gobhi Ki Sabzi'.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/vegetables/cabbage.png"
+        "imageUrl": "/images/vegetables/cabbage.avif"
     },
     {
         "id": "veges0006",
@@ -277,7 +277,7 @@
         "category": "fruits",
         "subCategory": "Fresh Vegetables",
         "description": "A leafy green vegetable, a rich source of iron. It is used to make dishes like 'Palak Paneer' and 'Saag'.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/vegetables/spinach.png"
+        "imageUrl": "/images/vegetables/spinach.avif"
     },
     {
         "id": "veges0007",
@@ -285,7 +285,7 @@
         "category": "fruits",
         "subCategory": "Fresh Vegetables",
         "description": "A beloved vegetable in Indian cuisine, used to prepare 'Bhindi Masala' and other dry curries.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/vegetables/lady_finger.png"
+        "imageUrl": "/images/vegetables/okra.avif"
     },
     {
         "id": "veges0008",
@@ -293,7 +293,7 @@
         "category": "fruits",
         "subCategory": "Fresh Vegetables",
         "description": "Known for its distinct bitter taste, it is a healthy vegetable often used in stir-fries and pickles.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/vegetables/bittergaurd.png"
+        "imageUrl": "/images/vegetables/bitter_gourd.avif"
     },
     {
         "id": "veges0009",
@@ -301,7 +301,7 @@
         "category": "fruits",
         "subCategory": "Fresh Vegetables",
         "description": "A vibrant and sweet vegetable, commonly used in 'Gajar Ka Halwa', curries, and salads.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/vegetables/carrot.png"
+        "imageUrl": "/images/vegetables/carrots.avif"
     },
     {
         "id": "veges0010",
@@ -309,7 +309,7 @@
         "category": "fruits",
         "subCategory": "Fresh Vegetables",
         "description": "A Radish has a crunchy texture and a slightly peppery flavor. Add flavors to you 'Parathas' and salads.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/vegetables/radish.png"
+        "imageUrl": "/images/vegetables/radish.avif"
     },
     {
         "id": "veges0011",
@@ -317,7 +317,7 @@
         "category": "fruits",
         "subCategory": "Fresh Vegetables",
         "description": "Adds a mild, sweet flavor and vibrant color to dishes. It is a key ingredient in 'Capsicum Fry' and 'Paneer Chilli'.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/vegetables/capsicum.png"
+        "imageUrl": "/images/vegetables/capsicum.avif"
     },
     {
         "id": "veges0012",
@@ -325,7 +325,7 @@
         "category": "fruits",
         "subCategory": "Exotic Vegetables",
         "description": "A versatile vegetable, popular for its mild flavor and high water content. It's often used in stir-fries, salads, and as a substitute for noodles.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/vegetables/zucchini.png"
+        "imageUrl": "/images/vegetables/zucchini.avif"
     },
     {
         "id": "veges0013",
@@ -333,7 +333,7 @@
         "category": "fruits",
         "subCategory": "Exotic Vegetables",
         "description": "A nutrient-rich vegetable with dense, green florets. It is often steamed or stir-fried and is a popular addition to many healthy dishes.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/vegetables/broccoli.png"
+        "imageUrl": "/images/vegetables/broccoli.avif"
     },
     {
         "id": "veges0014",
@@ -341,7 +341,7 @@
         "category": "fruits",
         "subCategory": "Exotic Vegetables",
         "description": "Sweet and vibrant, these bell peppers add color and flavor to stir-fries, salads, and roasted vegetable platters.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/vegetables/red_bell_pepper.png"
+        "imageUrl": "/images/vegetables/red_bell_peppers.avif"
     },
     {
         "id": "veges0015",
@@ -349,7 +349,7 @@
         "category": "fruits",
         "subCategory": "Exotic Vegetables",
         "description": "Known for their mild, sweet taste, yellow bell peppers are a popular choice for salads, sandwiches, and for stuffing with a variety of fillings.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/vegetables/yellow_bell_pepper.png"
+        "imageUrl": "/images/vegetables/yellow_bell_peppers.avif"
     },
     {
         "id": "veges0016",
@@ -357,7 +357,7 @@
         "category": "fruits",
         "subCategory": "Exotic Vegetables",
         "description": "Earthy and savory, mushrooms add a unique texture and a rich, umami flavor to a variety of curries, stir-fries, and biryanis.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/vegetables/mushroom.png"
+        "imageUrl": "/images/vegetables/mushrooms.avif"
     },
     {
         "id": "veges0017",
@@ -365,7 +365,7 @@
         "category": "fruits",
         "subCategory": "Exotic Vegetables",
         "description": "A crisp and fresh leafy green, commonly used in salads and sandwiches to add a light, crunchy texture.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/vegetables/lettuce.png"
+        "imageUrl": "/images/vegetables/lettuce.avif"
     },
     {
         "id": "veges0018",
@@ -373,7 +373,7 @@
         "category": "fruits",
         "subCategory": "Exotic Vegetables",
         "description": "Delicate and earthy, asparagus spears are typically blanched or roasted and served as a side dish or in salads.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/vegetables/asparagus.png"
+        "imageUrl": "/images/vegetables/asparagus.avif"
     },
     {
         "id": "veges0019",
@@ -381,7 +381,7 @@
         "category": "fruits",
         "subCategory": "Exotic Vegetables",
         "description": "A crunchy vegetable with a distinct savory flavor, often used in soups, stews, and as a raw snack with dips.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/vegetables/celery.png"
+        "imageUrl": "/images/vegetables/celery.avif"
     },
     {
         "id": "veges0020",
@@ -389,7 +389,7 @@
         "category": "fruits",
         "subCategory": "Exotic Vegetables",
         "description": "Small and sweet, these tomatoes are perfect for adding a burst of flavor to salads, pasta dishes, and skewers.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/vegetables/cherry_tomato.png"
+        "imageUrl": "/images/vegetables/cherry_tomatoes.avif"
     },
     {
         "id": "veges0021",
@@ -397,7 +397,7 @@
         "category": "fruits",
         "subCategory": "Exotic Vegetables",
         "description": "Small, tender, and sweet, baby corn adds a delicate crunch to stir-fries, salads, and soups.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/vegetables/baby_corn.png"
+        "imageUrl": "/images/vegetables/baby_corn.avif"
     },
     {
         "id": "grains0001",
@@ -405,7 +405,7 @@
         "category": "grains",
         "subCategory": "Whole Grains",
         "description": "A staple grain used to make flour for daily rotis, chapatis, and various baked goods.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/grains/wheat.png"
+        "imageUrl": "/images/grains/wheat.avif"
     },
     {
         "id": "grains0002",
@@ -413,7 +413,7 @@
         "category": "grains",
         "subCategory": "Whole Grains",
         "description": "The most widely consumed grain in India, serving as a primary accompaniment to curries, dals, and vegetables.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/grains/rice.png"
+        "imageUrl": "/images/grains/rice.avif"
     },
     {
         "id": "grains0003",
@@ -421,7 +421,7 @@
         "category": "grains",
         "subCategory": "Whole Grains",
         "description": "Also known as pearl millet, it is a highly nutritious grain often used to make rotis, especially in the winter.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/grains/bajra.png"
+        "imageUrl": "/images/grains/bajra.avif"
     },
     {
         "id": "grains0004",
@@ -429,7 +429,7 @@
         "category": "grains",
         "subCategory": "Whole Grains",
         "description": "Sorghum grain is a popular gluten-free alternative used to make flatbreads (rotlas) and is known for its health benefits.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/grains/jowar.png"
+        "imageUrl": "/images/grains/jowar.avif"
     },
     {
         "id": "grains0005",
@@ -437,7 +437,7 @@
         "category": "grains",
         "subCategory": "Whole Grains",
         "description": "Corn is used for various purposes, including making flour for 'Makki ki Roti' and as a sweet vegetable.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/grains/maize.png"
+        "imageUrl": "/images/grains/maize.avif"
     },
     {
         "id": "grains0006",
@@ -445,7 +445,7 @@
         "category": "grains",
         "subCategory": "Whole Grains",
         "description": "Finger millet, a nutrient-dense grain popular in southern India, is used to make porridge, rotis, and dosas.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/grains/ragi.png"
+        "imageUrl": "/images/grains/ragi.avif"
     },
     {
         "id": "grains0007",
@@ -453,7 +453,7 @@
         "category": "grains",
         "subCategory": "Whole Grains",
         "description": "A fiber-rich grain often used in soups, stews, and as a healthy breakfast option.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/grains/barley.png"
+        "imageUrl": "/images/grains/barley.avif"
     },
     {
         "id": "grains0008",
@@ -461,7 +461,7 @@
         "category": "grains",
         "subCategory": "Whole Grains",
         "description": "A versatile grain, commonly used for making healthy breakfast porridge and a popular ingredient in many baked goods.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/grains/oats.png"
+        "imageUrl": "/images/grains/oats.avif"
     },
     {
         "id": "grains0009",
@@ -469,7 +469,7 @@
         "category": "grains",
         "subCategory": "Whole Grains",
         "description": "While not a traditional Indian grain, it has become increasingly popular due to its high protein content and versatility in salads and rice dishes.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/grains/quinoa.png"
+        "imageUrl": "/images/grains/quinoa.avif"
     },
     {
         "id": "grains0010",
@@ -477,7 +477,7 @@
         "category": "grains",
         "subCategory": "Whole Grains",
         "description": "Also known as suji, this coarse flour is used to prepare popular Indian dishes like upma, rava dosa, and halwa.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/grains/semolina_suji.png"
+        "imageUrl": "/images/grains/semolina.avif"
     },
     {
         "id": "lentils0001",
@@ -485,7 +485,7 @@
         "category": "grains",
         "subCategory": "Lentils",
         "description": "Also known as split pigeon peas, Toor Dal is a staple in Indian households, commonly used to prepare sambar and dal fry.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/lentils/toor_dal.png"
+        "imageUrl": "/images/grains/toor_dal.avif"
     },
     {
         "id": "lentils0002",
@@ -493,7 +493,7 @@
         "category": "grains",
         "subCategory": "Lentils",
         "description": "Red lentils that are easy to cook and absorb flavors well. They are often used in simple, comforting dal preparations.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/lentils/masoor_dal.png"
+        "imageUrl": "/images/grains/masoor_dal.avif"
     },
     {
         "id": "lentils0003",
@@ -501,7 +501,7 @@
         "category": "grains",
         "subCategory": "Lentils",
         "description": "Split yellow lentils with a soft, creamy texture. Moong Dal is highly digestible and is used for both savory and sweet dishes like halwa.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/lentils/moong_dal.png"
+        "imageUrl": "/images/grains/moong_dal.avif"
     },
     {
         "id": "lentils0004",
@@ -509,7 +509,7 @@
         "category": "grains",
         "subCategory": "Lentils",
         "description": "Also known as black gram, it is used to make a variety of dishes including dal makhani, dosas, and idlis.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/lentils/urad_dal.png"
+        "imageUrl": "/images/grains/urad_dal.avif"
     },
     {
         "id": "lentils0005",
@@ -517,7 +517,7 @@
         "category": "grains",
         "subCategory": "Lentils",
         "description": "Split chickpeas with a nutty flavor. Chana Dal is a good source of protein and is used in curries, snacks, and sweets.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/lentils/chana_dal.png"
+        "imageUrl": "/images/grains/chana_dal.avif"
     },
     {
         "id": "beans0001",
@@ -525,7 +525,7 @@
         "category": "grains",
         "subCategory": "Beans",
         "description": "Also known as Kabuli Chana, these versatile chickpeas are a key ingredient in popular dishes like Chole Bhature.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/beans/chickpea.png"
+        "imageUrl": "/images/grains/chick_peas.avif"
     },
     {
         "id": "beans0002",
@@ -533,7 +533,7 @@
         "category": "grains",
         "subCategory": "Beans",
         "description": "A staple in North Indian cuisine, Rajma are a hearty bean used to prepare a rich and flavorful curry.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/beans/kidney_bean.png"
+        "imageUrl": "/images/grains/kidney_beans.avif"
     },
     {
         "id": "beans0003",
@@ -541,7 +541,7 @@
         "category": "grains",
         "subCategory": "Beans",
         "description": "Known for their mild flavor and creamy texture, Lobia is used in curries, salads, and lentil fritters.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/beans/black_eyed_pea.png"
+        "imageUrl": "/images/grains/lobia.avif"
     },
     {
         "id": "beans0004",
@@ -549,7 +549,7 @@
         "category": "grains",
         "subCategory": "Beans",
         "description": "Dried peas are commonly used to make delicious street food like 'matar chaat' and hearty curries.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/beans/dried_pea.png"
+        "imageUrl": "/images/grains/dried_peas.avif"
     },
     {
         "id": "beans0005",
@@ -557,7 +557,7 @@
         "category": "grains",
         "subCategory": "Beans",
         "description": "A versatile whole lentil used for sprouting, making 'chilas' (pancakes), and delicious curries.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/beans/green_gram.png"
+        "imageUrl": "/images/grains/green_moong.avif"
     },
     {
         "id": "beans0006",
@@ -565,15 +565,15 @@
         "category": "grains",
         "subCategory": "Beans",
         "description": "Used to make a variety of dishes including dal makhani, dosas, and idlis.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/beans/black_gram.png"
+        "imageUrl": "/images/grains/black_gram.avif"
     },
     {
         "id": "beans0007",
-        "name": "Pigeon Pea (Arhar)",
+        "name": "Green Pea (Frozen)",
         "category": "grains",
         "subCategory": "Beans",
-        "description": "The whole form of pigeon peas, a cornerstone of Indian vegetarian cooking, used in a variety of regional dals.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/beans/pigeon_pea.png"
+        "description": "The whole form of peas, a cornerstone of Indian vegetarian cooking, used in a variety of regional dals.",
+        "imageUrl": "/images/grains/green_peas.avif"
     },
     {
         "id": "beans0008",
@@ -581,7 +581,7 @@
         "category": "grains",
         "subCategory": "Beans",
         "description": "Soybeans are highly nutritious and versatile, used for making tofu, soy milk, and in various vegetarian dishes.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/beans/soybean.png"
+        "imageUrl": "/images/grains/soyabean.avif"
     },
     {
         "id": "beans0009",
@@ -589,7 +589,7 @@
         "category": "grains",
         "subCategory": "Beans",
         "description": "A popular snack and ingredient, peanuts are used in curries, chutneys, and groundnut oil production.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/beans/soybean.png"
+        "imageUrl": "/images/grains/peanuts.avif"
     },
     {
         "id": "flour0001",
@@ -597,7 +597,7 @@
         "category": "grains",
         "subCategory": "Flours",
         "description": "The most common flour in India, used to make soft and fluffy rotis, parathas, and pooris.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/flours/wheat_flour.png"
+        "imageUrl": "/images/flours/wheat_flour.avif"
     },
     {
         "id": "flour0002",
@@ -605,7 +605,7 @@
         "category": "grains",
         "subCategory": "Flours",
         "description": "Used widely for making popular snacks like pakoras, bhajis, and for preparing a variety of curries and sweets.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/flours/chickpea_flour_besan.png"
+        "imageUrl": "/images/flours/chick_pea_flour.avif"
     },
     {
         "id": "flour0003",
@@ -613,7 +613,7 @@
         "category": "grains",
         "subCategory": "Flours",
         "description": "Used to make crisp dosas, idlis, and a variety of snacks. It's also used as a thickening agent.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/flours/rice_flour.png"
+        "imageUrl": "/images/flours/rice_flour.avif"
     },
     {
         "id": "flour0004",
@@ -621,7 +621,7 @@
         "category": "grains",
         "subCategory": "Flours",
         "description": "A staple in North Indian cuisine, used to make Makki ki Roti, a flatbread often paired with Sarson ka Saag.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/flours/corn_flour.png"
+        "imageUrl": "/images/flours/corn_flour.avif"
     },
     {
         "id": "flour0005",
@@ -629,7 +629,7 @@
         "category": "grains",
         "subCategory": "Flours",
         "description": "A gluten-free flour used to make rotis, especially in Maharashtra and Karnataka. It's rich in fiber and protein.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/flours/sorghum_flour.png"
+        "imageUrl": "/images/flours/sorghum_flour.avif"
     },
     {
         "id": "flour0006",
@@ -637,15 +637,15 @@
         "category": "grains",
         "subCategory": "Flours",
         "description": "Known for its high calcium and iron content, Ragi flour is used to make rotis, dosas, and baby food.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/flours/finger_millet_flour_ragi.png"
+        "imageUrl": "/images/flours/finger_millet_flour.avif"
     },
     {
         "id": "flour0007",
-        "name": "Millte Flour (Bajri ka Atta)",
+        "name": "Millet Flour (Bajri ka Atta)",
         "category": "grains",
         "subCategory": "Flours",
         "description": "A nutritious flour used in combination with other flours to make rotis and for porridges.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/flours/millet_flour_bajri.png"
+        "imageUrl": "/images/flours/bajri_flour.avif"
     },
     {
         "id": "flour0008",
@@ -653,7 +653,7 @@
         "category": "grains",
         "subCategory": "Flours",
         "description": "Roasted chickpea flour, a popular high-protein food in Bihar and other parts of India, used for drinks and savory dishes.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/flours/gram_flour_sattu.png"
+        "imageUrl": "/images/flours/sattu_flour.avif"
     },
     {
         "id": "flour0009",
@@ -661,7 +661,7 @@
         "category": "grains",
         "subCategory": "Flours",
         "description": "A nutient rich flour.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/flours/multigrain_flour.png"
+        "imageUrl": "/images/flours/multigrain_flour.avif"
     },
     {
         "id": "flour0010",
@@ -669,7 +669,7 @@
         "category": "grains",
         "subCategory": "Flours",
         "description": "Used during religious fasts in India, this flour is used to make rotis and halwa.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/flours/water_chestnut_flour.png"
+        "imageUrl": "/images/flours/water_chest_nut_flour.avif"
     },
     {
         "id": "tea0001",
