@@ -2093,7 +2093,7 @@
         "category": "lotions",
         "subCategory": "Moisturizers",
         "description": "A very popular and trusted moisturizer known for its non-greasy formula. It is infused with Vitamin E and Jojoba Oil, making it a go-to choice for all skin types and for daily use, especially during the summer.",
-        "imageUrl": "/images/lotions/nivea_body_lotion.png"
+        "imageUrl": "/images/lotions/nivea_body_lotion.avif"
     },
     {
         "id": "moisturizer_02",
@@ -2101,7 +2101,7 @@
         "category": "lotions",
         "subCategory": "Moisturizers",
         "description": "A classic face moisturizer that is a staple in many Indian households. It is known for its blend of peaches and milk, providing a light, smooth texture and a pleasant fragrance, ideal for daily application.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/lotions/lakme_peach_milk_lotion.png"
+        "imageUrl": "/images/lotions/lakme_peach_milk_lotion.avif"
     },
     {
         "id": "moisturizer_03",
@@ -2109,7 +2109,7 @@
         "category": "lotions",
         "subCategory": "Moisturizers",
         "description": "A well-known lightweight, non-oily moisturizer with Vitamin E and Glycerin. It is widely used and provides hydration without a sticky feel, making it suitable for all seasons.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/lotions/ponds_lotion.png"
+        "imageUrl": "/images/lotions/ponds_lotion.avif"
     },
     {
         "id": "moisturizer_04",
@@ -2117,7 +2117,7 @@
         "category": "lotions",
         "subCategory": "Moisturizers",
         "description": "This cream is known for its herbal and natural ingredients like Aloe Vera and Winter Cherry. It's a popular choice for those seeking a product that provides deep hydration and is free from harsh chemicals.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/lotions/himalya_body_lotion.png"
+        "imageUrl": "/images/lotions/himalya_body_lotion.avif"
     },
     {
         "id": "moisturizer_05",
@@ -2125,7 +2125,7 @@
         "category": "lotions",
         "subCategory": "Moisturizers",
         "description": "A go-to body lotion for a very long time. It is a highly trusted brand for its deep moisturizing properties, often used to combat dry skin, especially during the winter months.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/lotions/vaseline_intensive_care_body_lotion.png"
+        "imageUrl": "/images/lotions/vaseline_intensive_care_body_lotion.avif"
     },
     {
         "id": "moisturizer_06",
@@ -2133,7 +2133,7 @@
         "category": "lotions",
         "subCategory": "Moisturizers",
         "description": "Enriched with the goodness of Doodh (Milk) and Kesar (Saffron), this moisturizing lotion provides 24-hour hydration and antiseptic protection for soft, glowing skin.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/lotions/boroplus_dudh_kesar_lotion.png"
+        "imageUrl": "/images/lotions/boroplus_dudh_kesar_lotion.avif"
     },
     {
         "id": "moisturizer_07",
@@ -2141,7 +2141,7 @@
         "category": "lotions",
         "subCategory": "Moisturizers",
         "description": "This rich, non-sticky formula is powered by Cocolipid™ technology to penetrate up to 10 layers deep, offering intense, long-lasting moisturization for extra dry skin.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/lotions/parachute_advansed_body_lotion.png"
+        "imageUrl": "/images/lotions/parachute_advansed_body_lotion.avif"
     },
     {
         "id": "moisturizer_08",
@@ -2149,7 +2149,7 @@
         "category": "lotions",
         "subCategory": "Moisturizers",
         "description": "A lightweight, non-greasy body lotion infused with the heavenly fragrance of an espresso shot and vanilla, delivering 24-hour moisture and a lingering, sweet perfume.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/lotions/mcaffine_body_lotion.png"
+        "imageUrl": "/images/lotions/mcaffine_body_lotion.avif"
     },
     {
         "id": "moisturizer_09",
@@ -2157,7 +2157,7 @@
         "category": "lotions",
         "subCategory": "Moisturizers",
         "description": "This fast-absorbing, triple-action lotion combines the natural nourishment of Honey and Almonds to relieve dry skin, restore moisture, and maintain a soft, healthy glow.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/lotions/joy_body_lotion.png"
+        "imageUrl": "/images/lotions/joy_body_lotion.avif"
     },
     {
         "id": "moisturizer_10",
@@ -2165,7 +2165,7 @@
         "category": "lotions",
         "subCategory": "Moisturizers",
         "description": "Featuring Rice Water and Shea Butter, this deeply hydrating, non-greasy lotion locks in moisture for up to 24 hours while improving skin texture and elasticity.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/lotions/mamaearth_body_lotion.png"
+        "imageUrl": "/images/lotions/mamaearth_body_lotion.avif"
     },
     {
         "id": "sunscreen_01",
@@ -2173,7 +2173,7 @@
         "category": "lotions",
         "subCategory": "Sunscreens",
         "description": "A high-protection, lightweight, and invisible sunscreen formulated with advanced UV filters to offer broad-spectrum protection without a white cast.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/sunscreen/minimalist_sunscreen.png"
+        "imageUrl": "/images/lotions/minimalist_sunscreen.avif"
     },
     {
         "id": "sunscreen_02",
@@ -2181,7 +2181,7 @@
         "category": "lotions",
         "subCategory": "Sunscreens",
         "description": "This hybrid sunscreen not only provides maximum UV defense (SPF 50+ PA++++) but is also enriched with Vitamins C and E to brighten skin and prevent sun damage.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/sunscreen/dot_key_sunscreen.png"
+        "imageUrl": "/images/lotions/dot_key_sunscreen.avif"
     },
     {
         "id": "sunscreen_03",
@@ -2189,15 +2189,15 @@
         "category": "lotions",
         "subCategory": "Sunscreens",
         "description": "A premium sunscreen offering broad-spectrum protection that imparts an instant, dewy golden hour glow without feeling heavy or greasy.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/sunscreen/foxtale_sunscreen.png"
+        "imageUrl": "/images/lotions/foxtale_sunscreen.avif"
     },
     {
         "id": "sunscreen_04",
-        "name": "Lakme Sunscreen Gel (SPF 50 PA++++)",
+        "name": "Lakme 9To5 Tint Hint Expert Sunscreen (SPF 50 PA++++)",
         "category": "lotions",
         "subCategory": "Sunscreens",
         "description": "A refreshing, ultra-light gel-based sunscreen that delivers high SPF 50 and PA++++ protection, ideal for those seeking a non-oily, matte finish.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/sunscreen/lakme_sunscreen.png"
+        "imageUrl": "/images/lotions/lakme_sunscreen.avif"
     },
     {
         "id": "sunscreen_05",
@@ -2205,7 +2205,7 @@
         "category": "lotions",
         "subCategory": "Sunscreens",
         "description": "This everyday sunscreen offers sun protection while boosting the skin's natural radiance with Vitamin C, ensuring a healthy, non-greasy glow.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/sunscreen/mamaearth_sunscreen.png"
+        "imageUrl": "/images/lotions/mamaearth_sunscreen.avif"
     },
     {
         "id": "sunscreen_06",
@@ -2213,7 +2213,7 @@
         "category": "lotions",
         "subCategory": "Sunscreens",
         "description": "A reliable and water-resistant sunscreen that provides effective SPF 50 protection and prevents sun damage, suitable for both face and body use.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/sunscreen/nivea_sunscreen.png"
+        "imageUrl": "/images/lotions/nivea_sunscreen.avif"
     },
     {
         "id": "shampoo_01",
@@ -2221,7 +2221,7 @@
         "category": "haircare",
         "subCategory": "Shampoos",
         "description": "A dual-action formula that effectively fights dandruff and combines a nourishing conditioner to leave hair smooth, silky, and frizz-free.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/shampoo/head_shoulders_shampoo.png"
+        "imageUrl": "/images/haircare/head_shoulders_shampoo.avif"
     },
     {
         "id": "shampoo_02",
@@ -2229,7 +2229,7 @@
         "category": "haircare",
         "subCategory": "Shampoos",
         "description": "Formulated with Nutrilock actives, this shampoo strengthens hair fibers from the roots, significantly reducing hair fall due to breakage.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/shampoo/dove_shampoo.png"
+        "imageUrl": "/images/haircare/dove_shampoo.avif"
     },
     {
         "id": "shampoo_03",
@@ -2237,7 +2237,7 @@
         "category": "haircare",
         "subCategory": "Shampoos",
         "description": "Enriched with Milk Protein, this shampoo helps nourish hair from the roots, promoting strength and making hair visibly longer.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/shampoo/clinic_plus_shampoo.png"
+        "imageUrl": "/images/haircare/clinic_plus_shampoo.avif"
     },
     {
         "id": "shampoo_04",
@@ -2245,7 +2245,7 @@
         "category": "haircare",
         "subCategory": "Shampoos",
         "description": "A mild, daily-use shampoo infused with natural proteins like Chickpea and Amla to gently cleanse and nourish hair, keeping it healthy and soft.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/shampoo/himalaya_shampoo.png"
+        "imageUrl": "/images/haircare/himalaya_shampoo.avif"
     },
     {
         "id": "shampoo_05",
@@ -2253,7 +2253,7 @@
         "category": "haircare",
         "subCategory": "Shampoos",
         "description": "Co-created with a hair expert, this formula is enriched with Amla Pearl Complex to nourish hair and bring out its stunning natural black shine.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/shampoo/sunsilk_shampoo.png"
+        "imageUrl": "/images/haircare/sunsilk_shampoo.avif"
     },
     {
         "id": "shampoo_06",
@@ -2261,7 +2261,7 @@
         "category": "haircare",
         "subCategory": "Shampoos",
         "description": "Infused with Keratin and Argan Oil, this shampoo deeply cleanses while controlling frizz for up to three days, leaving hair smoother and more manageable.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/shampoo/tresemme_keratin_shampoo.png"
+        "imageUrl": "/images/haircare/tresemme_keratin_shampoo.avif"
     },
     {
         "id": "shampoo_07",
@@ -2269,7 +2269,7 @@
         "category": "haircare",
         "subCategory": "Shampoos",
         "description": "An Ayurvedic herbal formulation enriched with natural ingredients like Neem and Aloe Vera that gently cleanses, nourishes hair roots, and helps reduce hair fall.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/shampoo/patanjali_shampoo.png"
+        "imageUrl": "/images/haircare/patanjali_shampoo.avif"
     },
     {
         "id": "shampoo_08",
@@ -2277,7 +2277,7 @@
         "category": "haircare",
         "subCategory": "Shampoos",
         "description": "Enriched with Amla and Black Olive, this shampoo helps nourish hair to make it visibly longer, healthier, and naturally darker.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/shampoo/dabur_vatika_shampoo.png"
+        "imageUrl": "/images/haircare/dabur_vatika_shampoo.avif"
     },
     {
         "id": "shampoo_09",
@@ -2285,7 +2285,7 @@
         "category": "haircare",
         "subCategory": "Shampoos",
         "description": "A powerful Pro-V formula that penetrates deep into the hair core to cleanse gently, strengthen hair against damage, and restore its natural health and shine.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/shampoo/pantene_shampoo.png"
+        "imageUrl": "/images/haircare/pantene_shampoo.avif"
     },
     {
         "id": "shampoo_10",
@@ -2293,7 +2293,7 @@
         "category": "haircare",
         "subCategory": "Shampoos",
         "description": "A protein-rich shampoo infused with Egg White to deeply nourish and strengthen hair, restoring its volume and shine.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/shampoo/chick_egg_white_shampoo.png"
+        "imageUrl": "/images/haircare/chick_egg_white_shampoo.avif"
     },
     {
         "id": "conditioner_01",
@@ -2301,7 +2301,7 @@
         "category": "haircare",
         "subCategory": "Conditioners",
         "description": "This conditioner works by detangling and strengthening hair fibers from the first wash, significantly reducing hair fall due to breakage.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/conditioners/dove_conditioner.png"
+        "imageUrl": "/images/haircare/dove_conditioner.avif"
     },
     {
         "id": "conditioner_02",
@@ -2309,7 +2309,7 @@
         "category": "haircare",
         "subCategory": "Conditioners",
         "description": "Featuring Pantene's advanced Pro-V formula, this conditioner deeply nourishes and seals hair ends to strengthen against damage and prevent hair fall.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/conditioners/pantene_conditioner.png"
+        "imageUrl": "/images/haircare/pantene_conditioner.avif"
     },
     {
         "id": "conditioner_03",
@@ -2317,7 +2317,7 @@
         "category": "haircare",
         "subCategory": "Conditioners",
         "description": "Infused with Keratin and Argan Oil, this conditioner detangles hair and provides professional-grade smoothness, making hair frizz-free and manageable.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/conditioners/tresemme_conditioner.png"
+        "imageUrl": "/images/haircare/tresemme_conditioner.avif"
     },
     {
         "id": "conditioner_04",
@@ -2325,7 +2325,7 @@
         "category": "haircare",
         "subCategory": "Conditioners",
         "description": "This conditioner combats the five visible signs of damaged hair—breakage, dryness, roughness, dullness, and split ends—for restored strength and vitality.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/conditioners/loreal_conditioner.png"
+        "imageUrl": "/images/haircare/loreal_conditioner.avif"
     },
     {
         "id": "conditioner_05",
@@ -2333,7 +2333,7 @@
         "category": "haircare",
         "subCategory": "Conditioners",
         "description": "Containing Onion and Coconut Oil, this gentle conditioner helps to detangle hair, reduce frizz, and make hair soft and smooth, thereby reducing breakage.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/conditioners/mamaearth_conditioner.png"
+        "imageUrl": "/images/haircare/mamaearth_conditioner.avif"
     },
     {
         "id": "hairoil_01",
@@ -2341,15 +2341,15 @@
         "category": "haircare",
         "subCategory": "Hair Oils",
         "description": "Made from the finest coconuts, this oil is 100% pure and unrefined, providing deep nourishment for strong, healthy, and shiny hair.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/hair_oil/parachute_coconut_oil.png"
+        "imageUrl": "/images/haircare/parachute_coconut_oil.avif"
     },
     {
         "id": "hairoil_02",
-        "name": "Dabur Amla Sarso Amla Hair Oil Badam Shakti",
+        "name": "Dabur Amla Hair Oil",
         "category": "haircare",
         "subCategory": "Hair Oils",
         "description": "This blend combines the strength of Amla and Sarso (Mustard) oil with the nourishment of Almond, deeply conditioning hair and providing visible shine.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/hair_oil/dabur_amla_sarso_oil.png"
+        "imageUrl": "/images/haircare/dabur_amla_hairoil.avif"
     },
     {
         "id": "hairoil_03",
@@ -2357,7 +2357,7 @@
         "category": "haircare",
         "subCategory": "Hair Oils",
         "description": "Enriched with Almond Oil and Vitamin E, this non-sticky, lightweight oil nourishes hair, reduces breakage, and keeps hair light and shiny.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/hair_oil/bajaj_almond_drops_oil.png"
+        "imageUrl": "/images/haircare/bajaj_almond_drops_oil.avif"
     },
     {
         "id": "hairoil_04",
@@ -2365,7 +2365,7 @@
         "category": "haircare",
         "subCategory": "Hair Oils",
         "description": "An herbal cooling oil blend that provides a relaxing head massage experience while relieving stress, headache, and fatigue.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/hair_oil/navratna_cool_hair_oil.png"
+        "imageUrl": "/images/haircare/navratna_cool_hair_oil.avif"
     },
     {
         "id": "hairoil_05",
@@ -2373,7 +2373,7 @@
         "category": "haircare",
         "subCategory": "Hair Oils",
         "description": "An Ayurvedic proprietary medicine prepared with Bhringraj, known to reduce hair fall and promote the growth of new, healthy hair.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/hair_oil/indulekha_hair_oil.png"
+        "imageUrl": "/images/haircare/indulekha_hair_oil.avif"
     },
     {
         "id": "hairoil_06",
@@ -2381,7 +2381,7 @@
         "category": "haircare",
         "subCategory": "Hair Oils",
         "description": "An Ayurvedic preparation consisting of 21 rare herbs, traditionally used to control hair fall, prevent premature greying, and promote hair growth.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/hair_oil/keshking_hair_oil.png"
+        "imageUrl": "/images/haircare/keshking_hair_oil.avif"
     },
     {
         "id": "hairoil_07",
@@ -2389,7 +2389,7 @@
         "category": "haircare",
         "subCategory": "Hair Oils",
         "description": "An herbal hair tonic containing ingredients like Bhringraj, Mehandi, and Neem that strengthen hair roots, prevent hair fall, and reduce dandruff.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/hair_oil/patanjali_kesh_kanti_hair_oil.png"
+        "imageUrl": "/images/haircare/patanjali_kesh_kanti_hair_oil.avif"
     },
     {
         "id": "detergent_soap_01",
@@ -2397,7 +2397,7 @@
         "category": "laundry",
         "subCategory": "Detegrent Soaps",
         "description": "Rin is a very popular detergent bar known for its 'Whiteness' claim. It is widely used for pre-treating clothes and for handwashing, offering effective stain removal at an affordable price.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/detergent_soap/rin_detergent_bar.avif"
+        "imageUrl": "/images/laundry_supplies/rin_detergent_bar.avif"
     },
     {
         "id": "detergent_soap_02",
@@ -2405,7 +2405,7 @@
         "category": "laundry",
         "subCategory": "Detegrent Soaps",
         "description": "A well-known brand for its powerful stain removal. The Surf Excel bar is often used for tough stains on collars and cuffs before washing, a staple in many Indian homes.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/detergent_soap/surf_excel_detergent_bar.avif"
+        "imageUrl": "/images/laundry_supplies/surf_excel_detergent_bar.avif"
     },
     {
         "id": "detergent_soap_03",
@@ -2413,7 +2413,7 @@
         "category": "laundry",
         "subCategory": "Detegrent Soaps",
         "description": "A popular homegrown brand, Ghadi is known for its strong cleaning power and value for money. It is widely used, particularly in semi-urban and rural areas.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/detergent_soap/ghadi_detergent_bar.avif"
+        "imageUrl": "/images/laundry_supplies/ghadi_detergent_bar.avif"
     },
     {
         "id": "detergent_soap_04",
@@ -2421,7 +2421,7 @@
         "category": "laundry",
         "subCategory": "Detegrent Soaps",
         "description": "Outstanding cleaning on tough stains, Phosphate-free eco-friendly formula, Fresh lemon and mint fragrance",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/detergent_soap/tide_detergent_bar.avif"
+        "imageUrl": "/images/laundry_supplies/tide_detergent_bar.avif"
     },
     {
         "id": "detergent_soap_05",
@@ -2429,7 +2429,7 @@
         "category": "laundry",
         "subCategory": "Detegrent Soaps",
         "description": "Powerful stain removal technology, gentle on fabrics and clothes, long-lasting formula for tough stains",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/detergent_soap/henko_detergent_bar.png"
+        "imageUrl": "/images/laundry_supplies/henko_detergent_bar.png"
     },
     {
         "id": "detergent_powder_01",
@@ -2437,7 +2437,7 @@
         "category": "laundry",
         "subCategory": "Detergent Powders",
         "description": "Removes tough stains easily, dissolves quickly in water, suitable for all fabrics, long-lasting freshness",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/detergent_powder/surf_excel_detergent_powder.avif"
+        "imageUrl": "/images/laundry_supplies/surf_excel_detergent_powder.avif"
     },
     {
         "id": "detergent_powder_02",
@@ -2445,7 +2445,7 @@
         "category": "laundry",
         "subCategory": "Detergent Powders",
         "description": "Ariel is a major competitor to Surf Excel, known for its excellent cleaning performance and for being tough on stains. It is a go-to for those who want a premium wash for their clothes.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/detergent_powder/ariel_detergent_powder.avif"
+        "imageUrl": "/images/laundry_supplies/ariel_detergent_powder.avif"
     },
     {
         "id": "detergent_powder_03",
@@ -2453,7 +2453,7 @@
         "category": "laundry",
         "subCategory": "Detergent Powders",
         "description": "Tide is a globally recognized detergent brand that has a strong presence in India. It is a popular choice for its good cleaning power and pleasant fragrance.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/detergent_powder/tide_detergent_powder.avif"
+        "imageUrl": "/images/laundry_supplies/tide_detergent_powder.avif"
     },
     {
         "id": "detergent_powder_04",
@@ -2461,7 +2461,7 @@
         "category": "laundry",
         "subCategory": "Detergent Powders",
         "description": "The powder version of the popular Ghadi bar, this detergent is a top-selling brand in India, especially for its affordability and strong cleaning performance.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/detergent_powder/ghadi_detergent_powder.avif"
+        "imageUrl": "/images/laundry_supplies/ghadi_detergent_powder.avif"
     },
     {
         "id": "detergent_powder_05",
@@ -2469,15 +2469,15 @@
         "category": "laundry",
         "subCategory": "Detergent Powders",
         "description": "Rin is a trusted brand for its ability to whiten clothes. This detergent powder is a common choice for washing white garments and for its good lathering ability.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/detergent_powder/rin_detergent_powder.avif"
+        "imageUrl": "/images/laundry_supplies/rin_detergent_powder.avif"
     },
     {
         "id": "detergent_powder_06",
-        "name": "Wheel 2 in 1 Clean & Fresh Detergent Powder",
+        "name": "Wheel 2 in 1 Detergent Powder",
         "category": "laundry",
         "subCategory": "Detergent Powders",
         "description": "2-in-1 cleaning action, effective on dirt stains, suitable for colored clothes, eco-friendly formulation",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/detergent_powder/wheel_detergent_powder.avif"
+        "imageUrl": "/images/laundry_supplies/wheel_detergent_powder.avif"
     },
     {
         "id": "detergent_liquid_01",
@@ -2485,7 +2485,7 @@
         "category": "laundry",
         "subCategory": "Detergent Liquids",
         "description": "The liquid version of the popular powder, this is a go-to for machine washing. It is known for dissolving quickly, leaving no residue, and being gentle on clothes.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/detergent_liquid/surf_excel_detergent_liquid.avif"
+        "imageUrl": "/images/laundry_supplies/surf_excel_detergent_liquid.avif"
     },
     {
         "id": "detergent_liquid_02",
@@ -2493,7 +2493,7 @@
         "category": "laundry",
         "subCategory": "Detergent Liquids",
         "description": "Ariel's liquid detergent is a top choice for its superior cleaning performance and its ability to remove tough stains in a single wash, especially in washing machines.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/detergent_liquid/ariel_detergent_liquid.avif"
+        "imageUrl": "/images/laundry_supplies/ariel_detergent_liquid.avif"
     },
     {
         "id": "detergent_liquid_03",
@@ -2501,7 +2501,7 @@
         "category": "laundry",
         "subCategory": "Detergent Liquids",
         "description": "A well-known brand specifically for washing delicate and woolen clothes. It is a staple in Indian households for its gentle formula that prevents shrinking and fading.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/detergent_liquid/godrej_ezee_detergent_liquid.avif"
+        "imageUrl": "/images/laundry_supplies/godrej_ezee_detergent_liquid.avif"
     },
     {
         "id": "detergent_liquid_04",
@@ -2509,7 +2509,7 @@
         "category": "laundry",
         "subCategory": "Detergent Liquids",
         "description": "A popular liquid detergent known for its soft and gentle formula. It is widely used for washing delicate fabrics like silk and wool, and for its pleasant fragrance.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/detergent_liquid/godrej_genteel_detergent_liquid.avif"
+        "imageUrl": "/images/laundry_supplies/godrej_genteel_detergent_liquid.avif"
     },
     {
         "id": "detergent_liquid_05",
@@ -2517,7 +2517,7 @@
         "category": "laundry",
         "subCategory": "Detergent Liquids",
         "description": "Fast dissolving formula, suitable for machine and hand wash, brightens whites and colours, fresh long-lasting fragrance",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/detergent_liquid/godrej_fab_detergent_liquid.avif"
+        "imageUrl": "/images/laundry_supplies/godrej_fab_detergent_liquid.avif"
     },
     {
         "id": "detergent_liquid_06",
@@ -2525,7 +2525,7 @@
         "category": "laundry",
         "subCategory": "Detergent Liquids",
         "description": "Superior dissolution technology, brightens clothes like new, fresh and fragrant",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/detergent_liquid/rin_detergent_liquid.avif"
+        "imageUrl": "/images/laundry_supplies/rin_detergent_liquid.avif"
     },
     {
         "id": "detergent_liquid_07",
@@ -2533,7 +2533,7 @@
         "category": "laundry",
         "subCategory": "Detergent Liquids",
         "description": "Superior stain removal technology, Protects and maintains color vibrancy, Fresh long-lasting fragrance",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/detergent_liquid/tide_detergent_liquid.avif"
+        "imageUrl": "/images/laundry_supplies/tide_detergent_liquid.avif"
     },
     {
         "id": "fabric_softener_01",
@@ -2541,7 +2541,7 @@
         "category": "laundry",
         "subCategory": "Fabric Softeners",
         "description": "Comfort is the most widely used fabric conditioner in India. It is known for its ability to make clothes soft, fragrant, and easy to iron, and is an essential for machine washing.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/fabric_conditioner/comfort_fabric_conditioner.avif"
+        "imageUrl": "/images/laundry_supplies/comfort_fabric_conditioner.avif"
     },
     {
         "id": "fabric_softener_02",
@@ -2549,7 +2549,7 @@
         "category": "laundry",
         "subCategory": "Fabric Softeners",
         "description": "2X French perfume fragrance, long-lasting scent, eliminates bad odour, works in hard water",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/fabric_conditioner/soft_touch_fabric_conditioner.avif"
+        "imageUrl": "/images/laundry_supplies/soft_touch_fabric_conditioner.avif"
     },
     {
         "id": "fabric_softener_03",
@@ -2557,7 +2557,7 @@
         "category": "laundry",
         "subCategory": "Fabric Softeners",
         "description": "This powerful formula is designed to eliminate 99.9% of germs, ensuring your clothes are clean and hygienic. Infused with a refreshing Fresh Blossom fragrance, it leaves your clothes smelling delightful. Keep your family safe and your clothes fresh with Savlon Laundry Disinfectant & Refreshing Liquid.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/fabric_conditioner/savlon_fabric_conditioner.avif"
+        "imageUrl": "/images/laundry_supplies/savlon_fabric_conditioner.avif"
     },
     {
         "id": "fabric_softener_04",
@@ -2565,7 +2565,7 @@
         "category": "laundry",
         "subCategory": "Fabric Softeners",
         "description": "Long-lasting french perfume fragrance, superior malodour control, ultra softening formula, maintains fabric colour vibrancy",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/fabric_conditioner/ujala_fabric_conditioner.avif"
+        "imageUrl": "/images/laundry_supplies/ujala_fabric_conditioner.avif"
     },
     {
         "id": "fabric_softener_05",
@@ -2573,7 +2573,7 @@
         "category": "laundry",
         "subCategory": "Fabric Softeners",
         "description": "Zimmer Aufraumen Laundry Fragrance Booster can be added along with your liquid or powder detergent to give clothes a long-lasting refreshing fragrance. Control the amount of fragrance by increasing or decreasing the dosage of the fragrance booster, It keeps the clothes fragrant and fresh for days after washing and ironing",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/fabric_conditioner/zimmer_fabric_conditioner.avif"
+        "imageUrl": "/images/laundry_supplies/zimmer_fabric_conditioner.avif"
     },
     {
         "id": "dishwash_bar_01",
@@ -2581,7 +2581,7 @@
         "category": "dishwash",
         "subCategory": "Dishwash Bars",
         "description": "An iconic and a very popular dishwashing bar, Vim is a market leader in India. It is known for its quick and effective grease-cutting power, with a long-lasting formula that's a staple in most homes.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/dishwash_bar/vim_dishwash_bar.avif"
+        "imageUrl": "/images/dishwash_supplies/vim_dishwash_bar.avif"
     },
     {
         "id": "dishwash_bar_02",
@@ -2589,7 +2589,7 @@
         "category": "dishwash",
         "subCategory": "Dishwash Bars",
         "description": "Powerful lemon fragrance, prevents sogging with plastic coating, effective on burnt food stains, suitable for all utensils",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/dishwash_bar/vim_dishwash_tub.avif"
+        "imageUrl": "/images/dishwash_supplies/vim_dishwash_tub.avif"
     },
     {
         "id": "dishwash_bar_03",
@@ -2597,7 +2597,7 @@
         "category": "dishwash",
         "subCategory": "Dishwash Bars",
         "description": "Exo is a strong competitor to Vim, known for its pleasant lemon fragrance and tough stain-removing properties. It is a well-established brand and a common sight in Indian kitchens.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/dishwash_bar/exo_dishwash_bar.avif"
+        "imageUrl": "/images/dishwash_supplies/exo_dishwash_bar.avif"
     },
     {
         "id": "dishwash_bar_04",
@@ -2605,7 +2605,7 @@
         "category": "dishwash",
         "subCategory": "Dishwash Bars",
         "description": "Anti-bacterial formula for deep cleaning, Zero wastage tamper-proof packaging, Leaves utensils sparkling clean",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/dishwash_bar/exo_dishwash_tub.avif"
+        "imageUrl": "/images/dishwash_supplies/exo_dishwash_tub.avif"
     },
     {
         "id": "dishwash_bar_05",
@@ -2613,7 +2613,7 @@
         "category": "dishwash",
         "subCategory": "Dishwash Bars",
         "description": "Gentle on hands, tough on grime, natural ingredients, refreshing fragrance",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/dishwash_bar/patanjali_dishwash_bar.avif"
+        "imageUrl": "/images/dishwash_supplies/patanjali_dishwash_bar.avif"
     },
     {
         "id": "dishwash_powder_01",
@@ -2621,7 +2621,7 @@
         "category": "dishwash",
         "subCategory": "Dishwash Powders",
         "description": "Deep cleaning power, removes tough stains, contains active softeners, recommended by dishwasher brands",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/dishwash_powder/finish_dishwash_powder.avif"
+        "imageUrl": "/images/dishwash_supplies/finish_dishwash_powder.avif"
     },
     {
         "id": "dishwash_powder_02",
@@ -2629,7 +2629,7 @@
         "category": "dishwash",
         "subCategory": "Dishwash Powders",
         "description": "Cleans copper, brass, and more, gentle on hands, requires less water, pleasant kewra and sandal fragrance",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/dishwash_powder/pitambari_dishwash_powder.avif"
+        "imageUrl": "/images/dishwash_supplies/pitambari_dishwash_powder.avif"
     },
     {
         "id": "dishwash_powder_03",
@@ -2637,7 +2637,7 @@
         "category": "dishwash",
         "subCategory": "Dishwash Powders",
         "description": "Formulated with a blend of premium polishing agents, our Metal Shining Powder provides a deep, long-lasting shine that resists tarnishing and protects against future corrosion.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/dishwash_powder/wonder_fresh_dishwash_powder.avif"
+        "imageUrl": "/images/dishwash_supplies/wonder_fresh_dishwash_powder.avif"
     },
     {
         "id": "dishwash_powder_04",
@@ -2645,7 +2645,7 @@
         "category": "dishwash",
         "subCategory": "Dishwash Powders",
         "description": "Odopic is a dishwashing detergent that fulfils your need for highly effective cleaning action and value for money. Besides having an in-built ingredient for superior cleaning of grease and stains, this powder is mild and gentle on the hands. It also leaves a lovely lime fragrance in your kitchen.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/dishwash_powder/odopic_dishwash_powder.avif"
+        "imageUrl": "/images/dishwash_supplies/odopic_dishwash_powder.avif"
     },
     {
         "id": "dishwash_gel_01",
@@ -2653,7 +2653,7 @@
         "category": "dishwash",
         "subCategory": "Dishwash Gels",
         "description": "Removes 100+ odours and grease, infused with lemon power, pH neutral and gentle on hands, residue-free sparkling clean",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/dishwash_liquid/vim_dishwash_gel.avif"
+        "imageUrl": "/images/dishwash_supplies/vim_dishwash_gel.avif"
     },
     {
         "id": "dishwash_gel_02",
@@ -2661,7 +2661,7 @@
         "category": "dishwash",
         "subCategory": "Dishwash Gels",
         "description": "Superior degreasing liquid, active power molecules, lime freshness, residue-free cleaning",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/dishwash_liquid/pril_dishwash_gel.avif"
+        "imageUrl": "/images/dishwash_supplies/pril_dishwash_gel.avif"
     },
     {
         "id": "dishwash_gel_03",
@@ -2669,7 +2669,7 @@
         "category": "dishwash",
         "subCategory": "Dishwash Gels",
         "description": "Kills 99.9% of harmful germs, dermatologically tested safe on hands, cuts through tough grease effectively, recommended by indian medical association",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/dishwash_liquid/detol_dishwash_gel.avif"
+        "imageUrl": "/images/dishwash_supplies/detol_dishwash_gel.avif"
     },
     {
         "id": "dishwash_gel_04",
@@ -2677,7 +2677,7 @@
         "category": "dishwash",
         "subCategory": "Dishwash Gels",
         "description": "2X faster grease removal, enriched with active salt, lemon fragrance for freshness, concentrated formula for efficiency",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/dishwash_liquid/giffy_dishwash_gel.avif"
+        "imageUrl": "/images/dishwash_supplies/giffy_dishwash_gel.avif"
     },
     {
         "id": "dishwash_gel_05",
@@ -2685,7 +2685,7 @@
         "category": "dishwash",
         "subCategory": "Dishwash Gels",
         "description": "Effectively removes tough grease and stubborn food residues from dishes, pots, pans, and kitchen utensils",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/dishwash_liquid/savemore_dishwash_gel.avif"
+        "imageUrl": "/images/dishwash_supplies/savemore_dishwash_gel.avif"
     },
     {
         "id": "toilet_cleaner_01",
@@ -2693,7 +2693,7 @@
         "category": "bathroom",
         "subCategory": "Toilet Cleaners",
         "description": "An iconic brand and the undisputed market leader in toilet cleaners. Harpic is a staple in most Indian households and is known for its powerful germ-killing formula and effective stain removal.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/toilet_cleaners/harpic_toilet_cleaner.avif"
+        "imageUrl": "/images/dishwash_supplies/harpic_toilet_cleaner.avif"
     },
     {
         "id": "toilet_cleaner_02",
