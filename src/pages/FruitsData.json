@@ -1249,43 +1249,107 @@
     },
     {
         "id": "chocolate_01",
-        "name": "Cadbury Dairy Milk",
+        "name": "Amul Chocominis Chocolate Gift Pack",
         "category": "beverages",
         "subCategory": "Chocolates & Cookies",
-        "description": "An iconic and widely popular milk chocolate bar that is a household name in India. Its sweet, creamy taste makes it a go-to for daily indulgence and gifting.",
-        "imageUrl": "https://placehold.co/400x300/6f3b5e/ffffff?text=Cadbury+Dairy+Milk"
+        "description": "An assortment of bite-sized, premium dark and milk chocolates crafted with the rich, creamy goodness of Amul.",
+        "imageUrl": "/images/chocolate_cookies/amul_chocominis_chocolate.avif"
     },
     {
         "id": "chocolate_02",
-        "name": "Nestlé KitKat",
+        "name": "Cadbury Nutties Chocolate Pack",
         "category": "beverages",
         "subCategory": "Chocolates & Cookies",
-        "description": "Known for its unique combination of crispy wafer fingers covered in chocolate. The 'Have a break, have a KitKat' tagline is well-recognized in the country.",
-        "imageUrl": "https://placehold.co/400x300/a7211e/ffffff?text=Nestle+KitKat"
+        "description": "Iconic crunchy almonds coated in smooth Cadbury milk chocolate for a classic, nutty indulgence.",
+        "imageUrl": "/images/chocolate_cookies/cadbury_nutties_chocolate.avif"
     },
     {
         "id": "chocolate_03",
-        "name": "Cadbury 5 Star",
+        "name": "Cadbury Dairy Milk Mini Treats Chocolate Pack",
         "category": "beverages",
         "subCategory": "Chocolates & Cookies",
-        "description": "A popular chocolate bar with a chewy nougat and caramel center. It is known for its sticky, chewy texture and rich taste, making it a classic treat.",
-        "imageUrl": "https://placehold.co/400x300/8c4e1f/ffffff?text=Cadbury+5+Star"
+        "description": "The classic, beloved taste of Dairy Milk reimagined into small, shareable bites of pure chocolate joy.",
+        "imageUrl": "/images/chocolate_cookies/dairy_milk_mini_chocolate.avif"
     },
     {
         "id": "chocolate_04",
-        "name": "Nestlé Munch",
+        "name": "Cadbury Dairy Milk Silk Mini Treats Chocolate Pack",
         "category": "beverages",
         "subCategory": "Chocolates & Cookies",
-        "description": "A crunchy, wafer-based chocolate bar that is a favorite among children and adults alike. It is known for its 'Munch, 'Munch' sound and is a popular budget-friendly option.",
-        "imageUrl": "https://placehold.co/400x300/5b4737/ffffff?text=Nestle+Munch"
+        "description": "An ultra-smooth and velvet-textured miniature version of the premium Silk range for a more luxurious snack.",
+        "imageUrl": "/images/chocolate_cookies/dairy_milk_silk_mini_chocolate.avif"
     },
     {
         "id": "chocolate_05",
-        "name": "Ferrero Rocher",
+        "name": "Ferrero Rocher Moments Chocolate Gift Pack",
         "category": "beverages",
         "subCategory": "Chocolates & Cookies",
-        "description": "A premium chocolate known for its golden packaging and unique layered texture with a whole hazelnut, a creamy filling, and a crispy wafer shell, perfect for gifting.",
-        "imageUrl": "https://placehold.co/400x300/f5c35b/ffffff?text=Ferrero+Rocher"
+        "description": "Elegant, crispy spheres with a creamy hazelnut filling, designed to make every everyday moment feel special.",
+        "imageUrl": "/images/chocolate_cookies/ferrero_rocher_chocolate.avif"
+    },
+    {
+        "id": "chocolate_06",
+        "name": "Nestle KitKat Minis Choco Coated Wafer Bar",
+        "category": "beverages",
+        "subCategory": "Chocolates & Cookies",
+        "description": "The classic 'snap' of crispy wafer layers enrobed in smooth milk chocolate, now in a convenient mini size.",
+        "imageUrl": "/images/chocolate_cookies/kitkat_minis_chocolate.avif"
+    },
+    {
+        "id": "chocolate_07",
+        "name": "Nestle Munch Bites Coated Crunchy Wafer Bars",
+        "category": "beverages",
+        "subCategory": "Chocolates & Cookies",
+        "description": "Fun, bite-sized portions of the extra-crunchy Munch wafer, perfect for light snacking on the go.",
+        "imageUrl": "/images/chocolate_cookies/munch_bites_chocolate.avif"
+    },
+    {
+        "id": "chocolate_08",
+        "name": "Nestle Milkybar Choo Strawberry Flavoured ShareBag",
+        "category": "beverages",
+        "subCategory": "Chocolates & Cookies",
+        "description": "A chewy, creamy white chocolate treat infused with a sweet strawberry twist for a fruity delight.",
+        "imageUrl": "/images/chocolate_cookies/nestle_milkbar_chocolate.avif"
+    },
+    {
+        "id": "chocolate_09",
+        "name": "Hershey's Kisses Milk Chocolate Pack",
+        "category": "beverages",
+        "subCategory": "Chocolates & Cookies",
+        "description": "Iconic, teardrop-shaped milk chocolates that deliver a smooth, signature American chocolate flavor.",
+        "imageUrl": "/images/chocolate_cookies/hersheys_chocolate.avif"
+    },
+    {
+        "id": "chocolate_10",
+        "name": "Cadbury 5 Star Filled Bar Chocolate Pack",
+        "category": "beverages",
+        "subCategory": "Chocolates & Cookies",
+        "description": "A chewy, caramel-filled chocolate bar that provides a long-lasting, 'lost in taste' experience.",
+        "imageUrl": "/images/chocolate_cookies/five_star_chocolate.avif"
+    },
+    {
+        "id": "chocolate_11",
+        "name": "Galaxy Smooth Mini Chocolate Pack",
+        "category": "beverages",
+        "subCategory": "Chocolates & Cookies",
+        "description": "Silky-smooth milk chocolate that melts effortlessly on the tongue for a truly sophisticated cocoa experience.",
+        "imageUrl": "/images/chocolate_cookies/galaxy_smooth_chocolate.avif"
+    },
+    {
+        "id": "chocolate_12",
+        "name": "Kinder Schoko Bons Crispy",
+        "category": "beverages",
+        "subCategory": "Chocolates & Cookies",
+        "description": "A crunchy wafer shell filled with a milky cocoa cream heart, offering a delightful texture play for kids and adults alike.",
+        "imageUrl": "/images/chocolate_cookies/kinderjoy_schoko_bons_chocolate.avif"
+    },
+    {
+        "id": "chocolate_13",
+        "name": "Snickers Best of Minis Assorted Chocolate Pack",
+        "category": "beverages",
+        "subCategory": "Chocolates & Cookies",
+        "description": "A versatile variety pack featuring miniature versions of Snickers' best-selling peanut, nougat, and caramel bars.",
+        "imageUrl": "/images/chocolate_cookies/snickers_chocolates.avif"
     },
     {
         "id": "cookies_01",
@@ -1369,83 +1433,155 @@
     },
     {
         "id": "papad_01",
-        "name": "Lijjat Urad Papad",
+        "name": "Bikaji Baat Cheet Moong and Urad Dal Papad",
         "category": "beverages",
         "subCategory": "Papad & Fryums",
-        "description": "An iconic and widely consumed papad made from urad dal flour. It is known for its light, crispy texture and can be roasted or fried, making it a perfect accompaniment to a meal.",
-        "imageUrl": "https://placehold.co/400x300/f0e6d6/000000?text=Lijjat+Urad+Papad"
+        "description": "A crispy, light-textured papad with a balanced blend of lentils, perfect for sparking conversation over tea.",
+        "imageUrl": "/images/snacks/bikaji_baat_cheet_papad.avif"
     },
     {
         "id": "papad_02",
-        "name": "Moong Papad",
+        "name": "Bikaji Dil Khush Moong and Urad Dal Papad",
         "category": "beverages",
         "subCategory": "Papad & Fryums",
-        "description": "A light and crispy papad made from moong dal flour. It is often milder in flavor than urad papad and is a popular choice for a side dish with rice and dal.",
-        "imageUrl": "https://placehold.co/400x300/e6c76e/000000?text=Moong+Papad"
+        "description": "A premium, flavorful papad crafted with high-quality pulses to provide a truly 'heart-pleasing' crunch.",
+        "imageUrl": "/images/snacks/bikaji_dilkhush_papad.avif"
     },
     {
         "id": "papad_03",
-        "name": "Aloo Papad",
+        "name": "DNV Appalam Papad",
         "category": "beverages",
         "subCategory": "Papad & Fryums",
-        "description": "A classic homemade-style papad made from mashed potatoes and spices. It puffs up beautifully when fried, offering a light and flavorful crispy snack, especially popular during festive seasons.",
-        "imageUrl": "https://placehold.co/400x300/a3927d/000000?text=Aloo+Papad"
+        "description": "An authentic, South Indian-style fried delight that is exceptionally thin, crisp, and mildly salted.",
+        "imageUrl": "/images/snacks/dnv_appalam_papad.avif"
     },
     {
         "id": "papad_04",
-        "name": "Sabudana Papad",
+        "name": "DNV Sabudana Papad",
         "category": "beverages",
         "subCategory": "Papad & Fryums",
-        "description": "Made from sabudana (tapioca pearls), this papad is a staple during fasting periods like Navaratri. It has a unique, bubbly texture and a simple, subtle taste.",
-        "imageUrl": "https://placehold.co/400x300/ffffff/000000?text=Sabudana+Papad"
+        "description": "A crunchy, pearly-white fasting snack made from sago that puffs up beautifully when fried.",
+        "imageUrl": "/images/snacks/dnv_sabudana_papad.avif"
     },
     {
-        "id": "fryums_05",
-        "name": "Wheel Fryums",
+        "id": "papad_05",
+        "name": "Lijjat Plain Urad Dal Papad",
         "category": "beverages",
         "subCategory": "Papad & Fryums",
-        "description": "A popular fryum with a distinct wheel-like shape. These are made from a mix of wheat, corn, and other flours, and puff up into a crunchy, light snack when fried.",
-        "imageUrl": "https://placehold.co/400x300/e8784e/ffffff?text=Wheel+Fryums"
+        "description": "The iconic, classic papad known for its simple, traditional taste and high-protein urad dal base.",
+        "imageUrl": "/images/snacks/lijjat_urad_papad.avif"
     },
     {
-        "id": "fryums_06",
-        "name": "Finger Fryums",
+        "id": "papad_06",
+        "name": "Lijjat Punjabi Masala Papad",
         "category": "beverages",
         "subCategory": "Papad & Fryums",
-        "description": "Long, tubular-shaped fryums that are a childhood favorite. They have a satisfying crunch and are often found in assorted colorful packs, flavored with masala.",
-        "imageUrl": "https://placehold.co/400x300/ffbb00/ffffff?text=Finger+Fryums"
+        "description": "A bold and fiery snack loaded with a heavy dose of black pepper and aromatic spices for an extra kick.",
+        "imageUrl": "/images/snacks/lijjat_masala_papad.avif"
     },
     {
-        "id": "fryums_07",
-        "name": "Ring Fryums",
+        "id": "papad_07",
+        "name": "Mother's Recipe Potato Papad",
         "category": "beverages",
         "subCategory": "Papad & Fryums",
-        "description": "Simple ring-shaped fryums that are easy to eat and fun for kids. They are a classic snack, often seasoned with salt and chili powder after frying.",
-        "imageUrl": "https://placehold.co/400x300/d44f38/ffffff?text=Ring+Fryums"
+        "description": "A sun-dried, traditional potato crisp that offers a melt-in-the-mouth texture and a subtle, salty flavor.",
+        "imageUrl": "/images/snacks/mother_recipe_potato_papad.avif"
     },
     {
-        "id": "fryums_08",
-        "name": "Alphabet Fryums",
+        "id": "papad_08",
+        "name": "Mother's Recipe Punjabi Masala Papad",
         "category": "beverages",
         "subCategory": "Papad & Fryums",
-        "description": "A playful and colorful fryum shaped like alphabets, often a popular snack for children. They are typically made from a wheat-based dough and are light and crispy when fried.",
-        "imageUrl": "https://placehold.co/400x300/a7211e/ffffff?text=Alphabet+Fryums"
+        "description": "A thick, crunchy papad bursting with authentic North Indian spices and a prominent peppery finish.",
+        "imageUrl": "/images/snacks/mother_recipe_punjabi_papad.avif"
     },
     {
         "id": "papad_09",
-        "name": "Rice Papad (Khichiya)",
+        "name": "Mother's Recipe Rice Papad",
         "category": "beverages",
         "subCategory": "Papad & Fryums",
-        "description": "A specialty from North and Western India, this papad is made from rice flour. It is thin, light, and becomes extremely crispy upon frying or roasting, often used for 'masala papad'.",
-        "imageUrl": "https://placehold.co/400x300/c74e2d/ffffff?text=Rice+Papad"
+        "description": "A delicate and crunchy steamed rice wafer that provides a light, clean taste and a satisfying snap.",
+        "imageUrl": "/images/snacks/mother_recipe_rice_papad.avif"
     },
     {
         "id": "papad_10",
-        "name": "Masala Papad",
+        "name": "Mother's Recipe Sabudana Papad",
         "category": "beverages",
         "subCategory": "Papad & Fryums",
-        "description": "This is a variant of the traditional papad, typically Urad or Moong, which is topped with chopped onions, tomatoes, coriander, and spices. It is a popular appetizer in restaurants and homes.",
-        "imageUrl": "https://placehold.co/400x300/a26c48/ffffff?text=Masala+Papad"
+        "description": "Light and airy sago discs that expand into crunchy, cloud-like treats, ideal for both snacks and festive meals.",
+        "imageUrl": "/images/snacks/mother_recipe_sabudana_papad.avif"
+    },
+    {
+        "id": "fryums_01",
+        "name": "Mother's Recipe Garlic Red Chilli Fryums",
+        "category": "beverages",
+        "subCategory": "Papad & Fryums",
+        "description": "A crunchy, sun-dried snack that delivers a bold kick of spicy red chili and savory garlic in every bite.",
+        "imageUrl": "/images/snacks/mother_recipe_garlic_fryums.avif"
+    },
+    {
+        "id": "fryums_02",
+        "name": "Mother's Recipe Onion Fryums",
+        "category": "beverages",
+        "subCategory": "Papad & Fryums",
+        "description": "A light and crispy traditional snack infused with the sweet and savory aroma of toasted onions.",
+        "imageUrl": "/images/snacks/mother_recipe_onion_fryums.avif"
+    },
+    {
+        "id": "fryums_03",
+        "name": "Mother's Recipe Garlic Green Chilli Fryums",
+        "category": "beverages",
+        "subCategory": "Papad & Fryums",
+        "description": "A zesty, crunchy treat featuring a vibrant blend of spicy green chillies and aromatic garlic for a refreshing heat.",
+        "imageUrl": "/images/snacks/mother_recipe_chilli_fryums.avif"
+    },
+    {
+        "id": "fryums_04",
+        "name": "Ramji Tingo Fryums",
+        "category": "beverages",
+        "subCategory": "Papad & Fryums",
+        "description": "A fun, crunchy snack with a unique shape and a tangy, savory seasoning that keeps you coming back for more.",
+        "imageUrl": "/images/snacks/ramji_tingo_fryums.avif"
+    },
+    {
+        "id": "fryums_05",
+        "name": "Ramji Net Fryums",
+        "category": "beverages",
+        "subCategory": "Papad & Fryums",
+        "description": "Light and airy lattice-textured crisps designed to deliver a satisfying crunch in every delicate bite.",
+        "imageUrl": "/images/snacks/ramji_net_fryums.avif"
+    },
+    {
+        "id": "fryums_06",
+        "name": "Ramji Mix Fryums",
+        "category": "beverages",
+        "subCategory": "Papad & Fryums",
+        "description": "An exciting assortment of various shapes and textures, offering a diverse snacking experience in one pack.",
+        "imageUrl": "/images/snacks/ramji_mix_fryums.avif"
+    },
+    {
+        "id": "fryums_07",
+        "name": "Ramji Wheel Fryums",
+        "category": "beverages",
+        "subCategory": "Papad & Fryums",
+        "description": "Classic wheel-shaped treats that are perfectly puffed and lightly seasoned for a nostalgic tea-time crunch.",
+        "imageUrl": "/images/snacks/ramji_wheel_fryums.avif"
+    },
+    {
+        "id": "fryums_08",
+        "name": "Ramji Garlic Fryums",
+        "category": "beverages",
+        "subCategory": "Papad & Fryums",
+        "description": "A bold and aromatic snack infused with the pungent, savory goodness of roasted garlic.",
+        "imageUrl": "/images/snacks/ramji_garlic_fryums.avif"
+    },
+    {
+        "id": "fryums_09",
+        "name": "Ramji Onion Fryums",
+        "category": "beverages",
+        "subCategory": "Papad & Fryums",
+        "description": "Crispy, golden bites featuring the sweet and mellow flavor of caramelized onions.",
+        "imageUrl": "/images/snacks/ramji_onion_fryums.avif"
     },
     {
         "id": "jam_01",
