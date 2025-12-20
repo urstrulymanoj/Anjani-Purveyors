@@ -1029,7 +1029,7 @@
         "category": "oils",
         "subCategory": "Everyday Oils",
         "description": "Ankur Refined Cottonseed Oil is a light, neutral-flavored cooking oil with a high smoke point, making it excellent for deep frying and high-temperature cooking while providing the goodness of Vitamin E.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/oils/ankur_cotton_seed_oil.avif"
+        "imageUrl": "/images/oils/ankur_cottonseed_oil.avif"
     },
     {
         "id": "common_oil_02",
@@ -1037,7 +1037,7 @@
         "category": "oils",
         "subCategory": "Everyday Oils",
         "description": "Fortune Filtered Groundnut Oil is a high-smoke-point cooking oil that retains the traditional, mild nutty flavor of peanuts and is rich in heart-healthy Monounsaturated Fatty Acids (MUFA).",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/oils/fortune_groundnut_oil.avif"
+        "imageUrl": "/images/oils/fortune_groundnut_oil.avif"
     },
     {
         "id": "common_oil_03",
@@ -1045,7 +1045,7 @@
         "category": "oils",
         "subCategory": "Everyday Oils",
         "description": "Fortune Premium Kachi Ghani Pure Mustard Oil is a heart-healthy, cold-pressed oil renowned for its traditional strong pungency and sharp flavor, making it essential for authentic Indian cooking and pickling.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/oils/fortune_mustard_oil.avif"
+        "imageUrl": "/images/oils/fortune_mustard_oil.avif"
     },
     {
         "id": "common_oil_04",
@@ -1053,7 +1053,7 @@
         "category": "oils",
         "subCategory": "Everyday Oils",
         "description": "Fortune Sunlite Refined Sunflower Oil is a light and odorless oil with a high smoke point, ideal for all types of high-heat cooking and frying while being naturally rich in Vitamin E.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/oils/fortune_sunflower_oil.avif"
+        "imageUrl": "/images/oils/fortune_sunflower_oil.avif"
     },
     {
         "id": "common_oil_05",
@@ -1061,7 +1061,7 @@
         "category": "oils",
         "subCategory": "Everyday Oils",
         "description": "Gulab Cold Pressed Virgin Coconut Oil is a pure, unrefined oil rich in beneficial MCTs and Lauric Acid, retaining the natural aroma and sweet taste of fresh coconuts, perfect for cooking, skin, and hair care.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/oils/gulab_coconut_oil.avif"
+        "imageUrl": "/images/oils/gulab_coconut_oil.avif"
     },
     {
         "id": "common_oil_06",
@@ -1069,7 +1069,7 @@
         "category": "oils",
         "subCategory": "Everyday Oils",
         "description": "Saffola Cold Pressed Sesame Oil is a pure, aromatic oil with a distinct nutty flavor, extracted without heat to retain natural nutrients and Omega-6, helping to lower cholesterol and suited for high-heat cooking.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/oils/saffola_sesame_oil.avif"
+        "imageUrl": "/images/oils/saffola_sesame_oil.avif"
     },
     {
         "id": "common_oil_07",
@@ -1077,7 +1077,7 @@
         "category": "oils",
         "subCategory": "Everyday Oils",
         "description": "Saffola Active is a healthy blended cooking oil of Rice Bran and Soyabean that uses L.O.R.A. technology to ensure up to 20% less oil absorption in food while providing the goodness of Oryzanol and Vitamin E.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/oils/saffola_soyabean_oil.avif"
+        "imageUrl": "/images/oils/saffola_rice_bran_soyabean_oil.avif"
     },
     {
         "id": "common_oil_08",
@@ -1085,7 +1085,7 @@
         "category": "oils",
         "subCategory": "Everyday Oils",
         "description": "Saffola Total Heart Pro is a heart-conscious blend of Rice Bran and Sunflower oils, scientifically proven to help manage cholesterol with the Power of 6 and featuring LOSORB™ Technology for reduced oil absorption in food.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/oils/safola_ricebran_oil.avif"
+        "imageUrl": "/images/oils/saffola_rice_bran_sunflower_oil.avif"
     },
     {
         "id": "exotic_oil_01",
@@ -1093,7 +1093,7 @@
         "category": "oils",
         "subCategory": "Premium Oils",
         "description": "Tata Simply Better Extra Virgin Olive Oil is a premium, first cold-pressed oil with a distinct fruity and peppery flavor, ideal for dressings, sautéing, and cold applications due to its high concentration of heart-healthy MUFA and natural antioxidants.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/oils/tata_olive_oil.avif"
+        "imageUrl": "/images/oils/tata_olive_oil.avif"
     },
     {
         "id": "exotic_oil_02",
@@ -1101,7 +1101,7 @@
         "category": "oils",
         "subCategory": "Premium Oils",
         "description": "True Story Extra Virgin Cold Pressed Avocado Oil is a 100% pure, high-smoke-point oil extracted from Hass avocados, rich in heart-healthy MUFA, Omega fatty acids, and Lutein, making it ideal for both high-heat cooking and wellness applications.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/oils/true_story_avocado_oil.avif"
+        "imageUrl": "/images/oils/true_story_avocado_oil.avif"
     },
     {
         "id": "ghee_01",
@@ -1109,15 +1109,15 @@
         "category": "oils",
         "subCategory": "Ghee",
         "description": "Amul Pure Ghee is 100% pure cow milk fat known for its distinct granular texture and rich, aromatic flavor, providing a high-smoke-point cooking medium and essential fat-soluble vitamins.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/ghee/amul_pure_ghee.avif"
+        "imageUrl": "/images/oils/amul_pure_ghee.avif"
     },
     {
         "id": "ghee_02",
-        "name": "Amul Cow Ghee ",
+        "name": "Amul Cow Ghee",
         "category": "oils",
         "subCategory": "Ghee",
         "description": "Amul Cow Ghee is 100% pure cow milk fat, characterized by its golden yellow color, rich granular texture, and mild buttery flavor, making it a high-smoke-point cooking medium essential for traditional recipes.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/ghee/amul_cow_ghee.avif"
+        "imageUrl": "/images/oils/amul_cow_ghee.avif"
     },
     {
         "id": "ghee_03",
@@ -1125,7 +1125,7 @@
         "category": "oils",
         "subCategory": "Ghee",
         "description": "Amul Buffalo Ghee is 100% pure buffalo milk fat known for its whiter color, robust flavor, and rich granular texture, serving as a high-smoke-point cooking medium for traditional Indian cuisine.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/ghee/amul_buffalo_ghee.avif"
+        "imageUrl": "/images/oils/amul_buffalow_ghee.png"
     },
     {
         "id": "ghee_04",
@@ -1133,7 +1133,7 @@
         "category": "oils",
         "subCategory": "Ghee",
         "description": "Gowardhan Premium Cow Ghee is a 100% pure, golden yellow ghee with a traditional granular texture and rich, authentic aroma, made from cow's milk for all high-heat cooking and dietary needs.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/ghee/gowardhan_ghee.avif"
+        "imageUrl": "/images/oils/gowardhan_cow_ghee.avif"
     },
     {
         "id": "ghee_05",
@@ -1141,7 +1141,7 @@
         "category": "oils",
         "subCategory": "Ghee",
         "description": "Paras Desi Ghee is a 100% pure, rich, and aromatic clarified butter known for its traditional granular texture and high smoke point, making it an essential and nutritious ingredient for authentic Indian cooking.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/ghee/paras_desi_ghee.avif"
+        "imageUrl": "/images/oils/paras_desi_ghee.avif"
     },
     {
         "id": "ghee_06",
@@ -1149,7 +1149,7 @@
         "category": "oils",
         "subCategory": "Ghee",
         "description": "Patanjali Cow Ghee is a 100% pure, Ayurvedic-focused cow milk fat known for its granular texture, high smoke point, and rich aroma, making it a nutritious and traditional cooking medium.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/ghee/patanjali_cow_ghee.avif"
+        "imageUrl": "/images/oils/patanjali_cow_ghee.avif"
     },
     {
         "id": "ghee_07",
@@ -1157,7 +1157,7 @@
         "category": "oils",
         "subCategory": "Ghee",
         "description": "Sagar Pure Ghee is a 100% pure milk fat product known for its traditional granular texture, rich, authentic aroma, and high smoke point, making it an ideal and nutritious medium for all types of Indian cooking.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/ghee/sagar_pure_ghee.avif"
+        "imageUrl": "/images/oils/sagar_pure_ghee.avif"
     },
     {
         "id": "ghee_08",
@@ -1165,7 +1165,7 @@
         "category": "oils",
         "subCategory": "Ghee",
         "description": "Dalda Vanaspati is a cost-effective, semi-solid, hydrogenated vegetable fat known for its granular texture, high smoke point, and widespread use in deep frying, commercial baking, and traditional Indian sweets.",
-        "imageUrl": "https://0z36nqxz07ld5sso.public.blob.vercel-storage.com/images/ghee/dalda_vanaspati.avif"
+        "imageUrl": "/images/oils/dalda_vanaspati.avif"
     },
     {
         "id": "chips_01",
