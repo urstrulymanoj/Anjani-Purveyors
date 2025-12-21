@@ -1169,83 +1169,163 @@
     },
     {
         "id": "chips_01",
-        "name": "Lay's India's Magic Masala",
+        "name": "Balaji Crunchem Cream & Onion Wafers",
         "category": "beverages",
         "subCategory": "Chips & Crsips",
-        "description": "A very popular potato chip flavor in India, offering a zesty and spicy mix of local spices and herbs that appeals to the Indian palate. It's a signature product from the Lay's brand.",
-        "imageUrl": "https://placehold.co/400x300/a26c48/ffffff?text=Lay%27s+Magic+Masala"
+        "description": "Crispy potato wafers seasoned with a classic blend of zesty spring onions and cool, velvety cream for the ultimate savory snack.",
+        "imageUrl": "/images/chips_crisps/balaji_crunchem_cream_onion_wafers.avif"
     },
     {
         "id": "chips_02",
-        "name": "Uncle Chipps Plain Salted",
+        "name": "Balaji Crunchem Masala Masti Wafers",
         "category": "beverages",
         "subCategory": "Chips & Crsips",
-        "description": "A classic and nostalgic brand of potato chips in India, known for its simple, no-fuss salted flavor. It is a legacy brand often associated with a reliable and homely taste.",
-        "imageUrl": "https://placehold.co/400x300/a3927d/ffffff?text=Uncle+Chipps+Plain+Salted"
+        "description": "A bold and crunchy snack bursting with a vibrant medley of traditional Indian spices for a truly 'masti' filled flavor experience.",
+        "imageUrl": "/images/chips_crisps/balaji_crunchem_masala_masti_wafers.avif"
     },
     {
         "id": "chips_03",
-        "name": "Bingo! Mad Angles",
+        "name": "Balaji Crunchem Chaat Chaska Wafers",
         "category": "beverages",
         "subCategory": "Chips & Crsips",
-        "description": "Known for their unique triangular shape, these crisps offer a satisfying crunch and a variety of bold, spicy flavors like 'Achaari Masti,' catering to a younger audience.",
-        "imageUrl": "https://placehold.co/400x300/d44f38/ffffff?text=Bingo!+Mad+Angles"
+        "description": "Perfectly crisp wafers infused with the tangy, spicy, and mouth-watering flavors of authentic street-style chaat.",
+        "imageUrl": "/images/chips_crisps/balaji_crunchm_chat_wafers.avif"
     },
     {
-        "id": "wafers_04",
-        "name": "Balaji Wafers Masala",
+        "id": "chips_04",
+        "name": "Balaji Crunchex Chilli Tadka Potato Wafers",
         "category": "beverages",
         "subCategory": "Chips & Crsips",
-        "description": "A very popular homegrown brand, these thin, crispy potato wafers are known for their distinct and intense masala seasoning. They are a staple in many Indian households.",
-        "imageUrl": "https://placehold.co/400x300/ffbb00/ffffff?text=Balaji+Wafers+Masala"
+        "description": "Thinly sliced, extra-crunchy potatoes tempered with a fiery 'tadka' of red chillies and aromatic spices for an intense kick.",
+        "imageUrl": "/images/chips_crisps/balaji_crunchex_chilli_potato_wafers.avif"
     },
     {
-        "id": "wafers_05",
-        "name": "Parle's Wafers",
+        "id": "chips_05",
+        "name": "Balaji Crunchex Simply Salted Potato Wafers",
         "category": "beverages",
         "subCategory": "Chips & Crsips",
-        "description": "From the makers of the iconic Parle-G biscuit, Parle's Wafers are a well-known and widely available brand of potato chips, often favored for their affordability and classic flavors.",
-        "imageUrl": "https://placehold.co/400x300/7d5648/ffffff?text=Parle%27s+Wafers"
+        "description": "Classic, golden-fried potato slices lightly seasoned with sea salt to highlight the pure, natural taste of the potato.",
+        "imageUrl": "/images/chips_crisps/balaji_crunchex_simply_salted_wafers.avif"
     },
     {
         "id": "chips_06",
-        "name": "Pringles Desi Masala Tadka",
+        "name": "Bingo Cream and Onion Potato Chips",
         "category": "beverages",
         "subCategory": "Chips & Crsips",
-        "description": "Pringles' Indian-inspired flavor, offering a unique 'desi' twist to their classic stackable crisps. It combines the familiar Pringles shape with the spicy and tangy flavors of Indian cuisine.",
-        "imageUrl": "https://placehold.co/400x300/c74e2d/ffffff?text=Pringles+Desi+Masala"
+        "description": "Light and crunchy golden chips coated in a smooth, creamy seasoning with a refreshing hit of spring onions.",
+        "imageUrl": "/images/chips_crisps/bingo_cream_onion.avif"
     },
     {
         "id": "chips_07",
-        "name": "Kurkure Masala Munch",
+        "name": "Bingo Baked No Rulz Masala Curlz Puffs",
         "category": "beverages",
         "subCategory": "Chips & Crsips",
-        "description": "A staple in Indian households, these crunchy and tangy corn puffs are known for their unique 'Tedha Hai Par Mera Hai' tagline and a spicy, 'chatpata' flavor.",
-        "imageUrl": "https://placehold.co/400x300/e8784e/ffffff?text=Kurkure+Masala+Munch"
+        "description": "Airy, melt-in-your-mouth baked puffs tossed in a rebellious blend of spicy masala for a guilt-free crunch.",
+        "imageUrl": "/images/chips_crisps/bingo_curlz.avif"
     },
     {
         "id": "chips_08",
-        "name": "Banana Chips",
+        "name": "Bingo Mad Angles Achaari Masti Crisps",
         "category": "beverages",
         "subCategory": "Chips & Crsips",
-        "description": "A popular South Indian snack, these thin and crispy slices of raw banana are deep-fried, often in coconut oil. They are a common homemade and packaged snack with a distinct texture.",
-        "imageUrl": "https://placehold.co/400x300/e6c76e/ffffff?text=Banana+Chips"
+        "description": "Uniquely triangular, grain-based crisps infused with the tangy, nostalgic punch of authentic Indian mango pickle.",
+        "imageUrl": "/images/chips_crisps/bingo_mad_angles.avif"
     },
     {
         "id": "chips_09",
-        "name": "Too Yumm! Bhuja",
+        "name": "Bingo Tedhe Medhe Xtraa Teekha Crisps",
         "category": "beverages",
         "subCategory": "Chips & Crsips",
-        "description": "Marketed as a healthier alternative, these baked chips from the Too Yumm! brand offer a savory 'bhuja' or masala flavor without being fried.",
-        "imageUrl": "https://placehold.co/400x300/8d8c91/ffffff?text=Too+Yumm!+Bhuja"
+        "description": "Irregularly shaped, crunchy sticks packed with an explosive hit of extra chili for those who crave intense heat.",
+        "imageUrl": "/images/chips_crisps/bingo_tedhe_medhe.avif"
     },
     {
-        "id": "wafers_10",
-        "name": "Bingo! Original Style Salted",
+        "id": "chips_10",
+        "name": "Kurkure Chilli Chatka Crisps",
         "category": "beverages",
         "subCategory": "Chips & Crsips",
-        "description": "A simple and classic offering from Bingo!, these potato wafers are a straightforward salted option, providing a satisfying crunch and a light, savory taste.",
-        "imageUrl": "https://placehold.co/400x300/3a3a3a/ffffff?text=Bingo!+Original+Salted"
+        "description": "Crunchy, irregular corn sticks packed with a fiery punch of green chili and tangy spices for a bold, tongue-tingling spark.",
+        "imageUrl": "/images/chips_crisps/kurkure_chili_chataka.avif"
+    },
+    {
+        "id": "chips_11",
+        "name": "Kurkure Masala Munch Crisps",
+        "category": "beverages",
+        "subCategory": "Chips & Crsips",
+        "description": "The ultimate classic snack featuring a perfect balance of iconic Indian kitchen spices and a satisfyingly loud crunch.",
+        "imageUrl": "/images/chips_crisps/kurkure_masala_munch.avif"
+    },
+    {
+        "id": "chips_12",
+        "name": "Kurkure Puffcorn Yummy Cheese Puffs",
+        "category": "beverages",
+        "subCategory": "Chips & Crsips",
+        "description": "Light, airy corn puffs that melt in your mouth with a rich, savory coating of smooth and creamy cheese.",
+        "imageUrl": "/images/chips_crisps/kurkure_puffcorn.avif"
+    },
+    {
+        "id": "chips_13",
+        "name": "Kurkure Solid Masti Masala Twisteez Crisps",
+        "category": "beverages",
+        "subCategory": "Chips & Crsips",
+        "description": "Thick, spiral-shaped crunchy bites loaded with a robust masala flavor designed for a more intense snacking experience.",
+        "imageUrl": "/images/chips_crisps/kurkure_solid_masti.avif"
+    },
+    {
+        "id": "chips_14",
+        "name": "Lay's Chile Limon Flavour Potato Chips",
+        "category": "beverages",
+        "subCategory": "Chips & Crsips",
+        "description": "A zesty and refreshing combination of spicy chili heat balanced by a bright, citrusy burst of lime.",
+        "imageUrl": "/images/chips_crisps/lays_chile_limon.avif"
+    },
+    {
+        "id": "chips_15",
+        "name": "Lay's Classic Salted Potato Chips",
+        "category": "beverages",
+        "subCategory": "Chips & Crsips",
+        "description": "Perfectly thin, golden-crisp potato slices seasoned with just the right amount of salt for a timeless snacking experience.",
+        "imageUrl": "/images/chips_crisps/lays_classic_salted.avif"
+    },
+    {
+        "id": "chips_16",
+        "name": "Lay's American Style Cream & Onion Potato Chips",
+        "category": "beverages",
+        "subCategory": "Chips & Crsips",
+        "description": "Delicate potato chips infused with a smooth, velvety cream flavor and the subtle, savory aroma of garden-fresh onions.",
+        "imageUrl": "/images/chips_crisps/lays_cream_onion.avif"
+    },
+    {
+        "id": "chips_17",
+        "name": "Lay's India's Magic Masala Potato Chips",
+        "category": "beverages",
+        "subCategory": "Chips & Crsips",
+        "description": "Crunchy ridges packed with a powerful, aromatic blend of signature Indian spices that deliver a truly magical taste.",
+        "imageUrl": "/images/chips_crisps/lays_magic_masala.avif"
+    },
+    {
+        "id": "chips_18",
+        "name": "Pringles Cheddar Cheese Potato Chips",
+        "category": "beverages",
+        "subCategory": "Chips & Crsips",
+        "description": "Perfectly uniform, stackable crisps layered with a bold and savory cheddar cheese seasoning for a rich, cheesy bite.",
+        "imageUrl": "/images/chips_crisps/pringles_cheddar_cheese.avif"
+    },
+    {
+        "id": "chips_19",
+        "name": "Pringles Cheddar & Sour Cream Potato Crisps",
+        "category": "beverages",
+        "subCategory": "Chips & Crsips",
+        "description": "A harmonious blend of sharp cheddar and cool, tangy sour cream atop a signature crunch that’s satisfyngly smooth.",
+        "imageUrl": "/images/chips_crisps/pringles_cheddar_sour.avif"
+    },
+    {
+        "id": "chips_20",
+        "name": "Pringles Original Potato Chips",
+        "category": "beverages",
+        "subCategory": "Chips & Crsips",
+        "description": "The iconic, light, and crisp potato snack seasoned with a touch of salt to deliver the pure, classic flavor that started it all.",
+        "imageUrl": "/images/chips_crisps/pringles_original.avif"
     },
     {
         "id": "chocolate_01",
@@ -1350,86 +1430,6 @@
         "subCategory": "Chocolates & Cookies",
         "description": "A versatile variety pack featuring miniature versions of Snickers' best-selling peanut, nougat, and caramel bars.",
         "imageUrl": "/images/chocolate_cookies/snickers_chocolates.avif"
-    },
-    {
-        "id": "cookies_01",
-        "name": "Sunfeast Dark Fantasy Choco Fills",
-        "category": "beverages",
-        "subCategory": "Chocolates & Cookies",
-        "description": "A popular cookie that offers a 'dessert-like' experience with its crunchy shell and a soft, molten chocolate center. It is a go-to choice for a quick indulgence.",
-        "imageUrl": "https://placehold.co/400x300/4a2924/ffffff?text=Dark+Fantasy+Choco+Fills"
-    },
-    {
-        "id": "cookies_02",
-        "name": "Britannia Good Day",
-        "category": "beverages",
-        "subCategory": "Chocolates & Cookies",
-        "description": "One of India's most loved cookie brands, known for its buttery taste and a variety of inclusions like chocolate chips and nuts. It's a classic tea-time snack.",
-        "imageUrl": "https://placehold.co/400x300/ffbb00/ffffff?text=Britannia+Good+Day"
-    },
-    {
-        "id": "cookies_03",
-        "name": "Cadbury Chocobakes Choco Chip Cookies",
-        "category": "beverages",
-        "subCategory": "Chocolates & Cookies",
-        "description": "A cookie brand from Cadbury that appeals to chocolate lovers. It combines the classic choco-chip cookie with the rich flavor of Cadbury chocolate.",
-        "imageUrl": "https://placehold.co/400x300/6f3b5e/ffffff?text=Cadbury+Chocobakes"
-    },
-    {
-        "id": "cookies_04",
-        "name": "Parle Hide & Seek",
-        "category": "beverages",
-        "subCategory": "Chocolates & Cookies",
-        "description": "A premium chocolate chip cookie from Parle, known for its rich cocoa flavor and visible choco-chips. It's a widely available and popular choice for a sweet treat.",
-        "imageUrl": "https://placehold.co/400x300/3e2723/ffffff?text=Parle+Hide+%26+Seek"
-    },
-    {
-        "id": "cookies_05",
-        "name": "Britannia NutriChoice Digestive",
-        "category": "beverages",
-        "subCategory": "Chocolates & Cookies",
-        "description": "A brand focused on healthier snacking, these biscuits are rich in fiber and made with whole wheat, making them a popular choice for health-conscious consumers.",
-        "imageUrl": "https://placehold.co/400x300/8d8c91/ffffff?text=Britannia+NutriChoice"
-    },
-    {
-        "id": "biscuit_01",
-        "name": "Parle-G",
-        "category": "beverages",
-        "subCategory": "Chocolates & Cookies",
-        "description": "An undisputed leader and an iconic biscuit brand in India. Known for its affordability and glucose content, it is a staple in every Indian household and a common pairing with tea.",
-        "imageUrl": "https://placehold.co/400x300/ffbb00/ffffff?text=Parle-G"
-    },
-    {
-        "id": "biscuit_02",
-        "name": "Britannia Marie Gold",
-        "category": "beverages",
-        "subCategory": "Chocolates & Cookies",
-        "description": "A light and crispy biscuit that is a quintessential tea-time companion. Its simple, slightly sweet flavor makes it perfect for dipping in hot beverages.",
-        "imageUrl": "https://placehold.co/400x300/a3927d/ffffff?text=Britannia+Marie+Gold"
-    },
-    {
-        "id": "biscuit_03",
-        "name": "Monaco",
-        "category": "beverages",
-        "subCategory": "Chocolates & Cookies",
-        "description": "A popular salty biscuit from Parle. Its light, crispy, and savory taste is a refreshing change from sweet biscuits, making it a favorite for snacking.",
-        "imageUrl": "https://placehold.co/400x300/d44f38/ffffff?text=Monaco"
-    },
-    {
-        "id": "biscuit_04",
-        "name": "Oreo",
-        "category": "beverages",
-        "subCategory": "Chocolates & Cookies",
-        "description": "A globally famous chocolate sandwich cookie with a creamy filling. The 'Twist, Lick, Dunk' ritual has made it a favorite among kids and adults in India.",
-        "imageUrl": "https://placehold.co/400x300/4a2924/ffffff?text=Oreo"
-    },
-    {
-        "id": "biscuit_05",
-        "name": "Britannia Bourbon",
-        "category": "beverages",
-        "subCategory": "Chocolates & Cookies",
-        "description": "A classic chocolate-flavored cream biscuit with a rich chocolate filling. Its distinct rectangular shape and unique taste have made it a favorite for generations.",
-        "imageUrl": "https://placehold.co/400x300/8c4e1f/ffffff?text=Britannia+Bourbon"
     },
     {
         "id": "papad_01",
